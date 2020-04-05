@@ -4,9 +4,15 @@ I used machine learning to develop a model that attempts to project COVID-19 dea
 
 Feel free to reach out to me on Twitter via @youyanggu with any questions/insights/feedback.
 
-_Note_: We attempt to predict the _official_ death total, not the actual death total. The actual death total may be higher due underreporting. To compute the total number of people infected (including those not reported), we can simply divide the death total by the approximate mortality rate (1%). Due to testing limitations that prevent us from accurately utilize the reported cases data, I believe this is the best way to estimate the impact of COVID-19.
+_Note_: We attempt to predict the _official_ death total. The true death total may be higher due underreporting on various levels. To compute the total number of people infected (including those not reported), we can simply divide the death total by the approximate mortality rate (1%). Due to testing limitations that prevent us from accurately utilize the reported cases data, I believe this is the best way to estimate the impact of COVID-19.
 
 ## Updates
+
+2020-04-04
+* Separate global data from US data
+
+2020-04-03
+* Add 10 international countries for projections
 
 2020-04-02
 * Add lower and upper bounds to projections; also project date of peak deaths
