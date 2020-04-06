@@ -1,10 +1,10 @@
-# COVID-19 Projections
+# COVID-19 Projections Using Machine Learning
 
-I used machine learning to develop a model that attempts to project COVID-19 deaths in the US. There are a lot of existing models out there already, but I believe that there are flaws in those models that could be improved upon. I want to utilize a data-heavy approach to this problem, rather than an epidemiologic approach. I will upload my daily projections for all US 50 states. The projections will be updated daily based on new data.
+I used machine learning to develop a model that attempts to project COVID-19 deaths in the US. There are a lot of existing models out there already, but I believe that there are flaws in those models that could be improved upon. I want to utilize a data-centric approach to this problem, rather than an epidemiologic approach. I will upload my daily projections for all US 50 states [here](https://github.com/youyanggu/covid19_projections). The projections will be updated daily based on new data.
 
-Feel free to reach out to me on Twitter via @youyanggu with any questions/insights/feedback.
+Feel free to reach out to me on Twitter via [@youyanggu](https://twitter.com/youyanggu) with any questions/insights/feedback.
 
-_Note_: We attempt to predict the _official_ death total. The true death total may be higher due underreporting on various levels. To compute the total number of people infected (including those not reported), we can simply divide the death total by the approximate mortality rate (1%). Due to testing limitations that prevent us from accurately utilize the reported cases data, I believe this is the best way to estimate the impact of COVID-19.
+_Note_: While we attempt to predict the _official_ death total, the true death total may be higher due underreporting at various levels.
 
 {% include iframe.html %}
 
