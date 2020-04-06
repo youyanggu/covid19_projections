@@ -6,7 +6,12 @@ Feel free to reach out to me on Twitter via @youyanggu with any questions/insigh
 
 _Note_: We attempt to predict the _official_ death total. The true death total may be higher due underreporting on various levels. To compute the total number of people infected (including those not reported), we can simply divide the death total by the approximate mortality rate (1%). Due to testing limitations that prevent us from accurately utilize the reported cases data, I believe this is the best way to estimate the impact of COVID-19.
 
+{% include iframe.html %}
+
 ## Updates
+
+2020-04-05
+* Add graphs
 
 2020-04-04
 * Separate global data from US data
