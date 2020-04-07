@@ -43,11 +43,22 @@ The data we use is the daily death total provided by [The Covid Tracking Project
 
 We believe overfitting is a major issue when making these projections, which is why other models consistently over-project the severity during the initial phases of the virus spread. While we attempt our best to minimize overfitting, no model is perfect, so we urge everyone to use caution when interpreting these projections.
 
+## Model Comparison
+Below we compare our model with a popular model developed by the [Institute for Health Metrics and Evaluation (IHME)](https://covid19.healthdata.org/):
+| Date | Our prediction | IHME prediction | Current US deaths
+| --- | --- | --- | --- |
+| 2020-04-01 | 34,270 | 93,400 | 4,700
+| 2020-04-02 | 38,030 | 93,400 | 5,784
+| 2020-04-03 | 44,566 | 93,400 | 6,962
+| 2020-04-04 | 40,632 | 93,400 | 8,314
+| 2020-04-05 | 41,387 | 81,766 | 9,498
+| 2020-04-06 | 29,070 | 81,766 | 10,680
+
 ## Updates
 
 2020-04-05
 * Launch [covid19-projections.com](https://covid19-projections.com/)
-* Add graphs
+* Add graphs for each state
 
 2020-04-04
 * Separate global data from US data
