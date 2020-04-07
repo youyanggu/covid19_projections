@@ -2,7 +2,22 @@ There are a lot of existing models out there already that attempts to make proje
 
 {% include iframe.html %}
 
-[US](us.html)
+#### Select a state below to see the projections
+
+| [United States](US.html) |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| [Alabama](AL.html) | [Guam](GU.html) | [Massachusetts](MA.html) | [New York](NY.html) | [Tennessee](TN.html) |
+| [Alaska](AK.html) | [Hawaii](HI.html) | [Michigan](MI.html) | [North Carolina](NC.html) | [Texas](TX.html) |
+| [Arizona](AZ.html) | [Idaho](ID.html) | [Minnesota](MN.html) | [North Dakota](ND.html) | [Utah](UT.html) |
+| [Arkansas](AR.html) | [Illinois](IL.html) | [Mississippi](MS.html) | [Ohio](OH.html) | [Vermont](VT.html) |
+| [California](CA.html) | [Indiana](IN.html) | [Missouri](MO.html) | [Oklahoma](OK.html) | [Virgin Islands](VI.html) |
+| [Colorado](CO.html) | [Iowa](IA.html) | [Montana](MT.html) | [Oregon](OR.html) | [Virginia](VA.html) |
+| [Connecticut](CT.html) | [Kansas](KS.html) | [Nebraska](NE.html) | [Pennsylvania](PA.html) | [Washington](WA.html) |
+| [Delaware](DE.html) | [Kentucky](KY.html) | [Nevada](NV.html) | [Puerto Rico](PR.html) | [West Virginia](WV.html) |
+| [District Of Columbia](DC.html) | [Louisiana](LA.html) | [New Hampshire](NH.html) | [Rhode Island](RI.html) | [Wisconsin](WI.html) |
+| [Florida](FL.html) | [Maine](ME.html) | [New Jersey](NJ.html) | [South Carolina](SC.html) | [Wyoming](WY.html) |
+| [Georgia](GA.html) | [Maryland](MD.html) | [New Mexico](NM.html) | [South Dakota](SD.html) |
+
 
 # COVID-19 Projections Using Machine Learning
 
