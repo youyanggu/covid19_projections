@@ -1,7 +1,7 @@
-There are a lot of existing models out there already that attempts to make projections, but there are serious shortcomings in those models that could be improved upon. Here we present a model that uses machine learning to project COVID-19 deaths in the US. 
+There are many existing models out there that attempt to make COVID-19 projections, but there are shortcomings in those models that could be improved upon. Here we present a model that uses machine learning to project COVID-19 peak and total deaths in the US. 
 
 #### Projection for US
-Peak: **1,351** deaths on **Apr 4** | Total: **29,070** deaths (by Jun 30)
+Peak: **1,351** deaths on **April 4, 2020** | Total: **29,070** deaths (by June 30, 2020)
 
 {% include iframe.html %}
 
