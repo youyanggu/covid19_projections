@@ -1,8 +1,13 @@
-There are a lot of existing models out there already that attempts to make projections, but there are serious shortcomings in those models that could be improved upon. Here we present a model that uses machine learning to project COVID-19 deaths in the US and around the world. 
+There are a lot of existing models out there already that attempts to make projections, but there are serious shortcomings in those models that could be improved upon. Here we present a model that uses machine learning to project COVID-19 deaths in the US. 
+
+#### Projected peak for US:
+**1,351** deaths on **Apr 4**
+#### Projected total deaths:
+**29,070** deaths (by Jun 30)
 
 {% include iframe.html %}
 
-#### Select a state below to see the projections
+### Select a state or country below to see the projections
 
 | [United States](US.html) |  |  |  |  |
 | --- | --- | --- | --- | --- |
