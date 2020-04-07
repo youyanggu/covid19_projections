@@ -1,26 +1,30 @@
 There are many existing models out there that attempt to make COVID-19 projections, but there are shortcomings in those models that could be improved upon. Here we present a model that uses machine learning to project COVID-19 peak and total deaths in the US. 
 
-#### Projection for US
+### Projection for US:
 Peak: **1,351** deaths on **April 4, 2020** | Total: **29,070** deaths (by June 30, 2020)
-
 {% include iframe.html %}
-
 ### Select a state or country below to see the projections
 
 | [United States](US.html) |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| [Alabama](AL.html) | [Guam](GU.html) | [Massachusetts](MA.html) | [New York](NY.html) | [Tennessee](TN.html) |
-| [Alaska](AK.html) | [Hawaii](HI.html) | [Michigan](MI.html) | [North Carolina](NC.html) | [Texas](TX.html) |
-| [Arizona](AZ.html) | [Idaho](ID.html) | [Minnesota](MN.html) | [North Dakota](ND.html) | [Utah](UT.html) |
-| [Arkansas](AR.html) | [Illinois](IL.html) | [Mississippi](MS.html) | [Ohio](OH.html) | [Vermont](VT.html) |
-| [California](CA.html) | [Indiana](IN.html) | [Missouri](MO.html) | [Oklahoma](OK.html) | [Virgin Islands](VI.html) |
-| [Colorado](CO.html) | [Iowa](IA.html) | [Montana](MT.html) | [Oregon](OR.html) | [Virginia](VA.html) |
-| [Connecticut](CT.html) | [Kansas](KS.html) | [Nebraska](NE.html) | [Pennsylvania](PA.html) | [Washington](WA.html) |
-| [Delaware](DE.html) | [Kentucky](KY.html) | [Nevada](NV.html) | [Puerto Rico](PR.html) | [West Virginia](WV.html) |
-| [District Of Columbia](DC.html) | [Louisiana](LA.html) | [New Hampshire](NH.html) | [Rhode Island](RI.html) | [Wisconsin](WI.html) |
-| [Florida](FL.html) | [Maine](ME.html) | [New Jersey](NJ.html) | [South Carolina](SC.html) | [Wyoming](WY.html) |
-| [Georgia](GA.html) | [Maryland](MD.html) | [New Mexico](NM.html) | [South Dakota](SD.html) |
-
+| [Alabama](AL.html) | [Kentucky](KY.html) | [Ohio](OH.html) |
+| [Alaska](AK.html) | [Louisiana](LA.html) | [Oklahoma](OK.html) |
+| [Arizona](AZ.html) | [Maine](ME.html) | [Oregon](OR.html) |
+| [Arkansas](AR.html) | [Maryland](MD.html) | [Pennsylvania](PA.html) |
+| [California](CA.html) | [Massachusetts](MA.html) | [Puerto Rico](PR.html) |
+| [Colorado](CO.html) | [Michigan](MI.html) | [Rhode Island](RI.html) |
+| [Connecticut](CT.html) | [Minnesota](MN.html) | [South Carolina](SC.html) |
+| [Delaware](DE.html) | [Mississippi](MS.html) | [South Dakota](SD.html) |
+| [District Of Columbia](DC.html) | [Missouri](MO.html) | [Tennessee](TN.html) |
+| [Florida](FL.html) | [Montana](MT.html) | [Texas](TX.html) |
+| [Georgia](GA.html) | [Nebraska](NE.html) | [Utah](UT.html) |
+| [Guam](GU.html) | [Nevada](NV.html) | [Vermont](VT.html) |
+| [Hawaii](HI.html) | [New Hampshire](NH.html) | [Virgin Islands](VI.html) |
+| [Idaho](ID.html) | [New Jersey](NJ.html) | [Virginia](VA.html) |
+| [Illinois](IL.html) | [New Mexico](NM.html) | [Washington](WA.html) |
+| [Indiana](IN.html) | [New York](NY.html) | [West Virginia](WV.html) |
+| [Iowa](IA.html) | [North Carolina](NC.html) | [Wisconsin](WI.html) |
+| [Kansas](KS.html) | [North Dakota](ND.html) | [Wyoming](WY.html) |
 
 # COVID-19 Projections Using Machine Learning
 
