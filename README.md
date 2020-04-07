@@ -2,6 +2,8 @@ There are a lot of existing models out there already that attempts to make proje
 
 {% include iframe.html %}
 
+[US](us.html)
+
 # COVID-19 Projections Using Machine Learning
 
 As the graph above shows, while other models project 80-250k+ deaths in the US, our model is projecting a much lower estimate of 30-40k deaths. We expect that the other models will lower their estimates in the upcoming days/weeks.
