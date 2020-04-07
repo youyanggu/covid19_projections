@@ -1,5 +1,4 @@
 There are a lot of existing models out there already that attempts to make projections, but there are serious shortcomings in those models that could be improved upon. Here we present a model that uses machine learning to project COVID-19 deaths in the US and around the world. 
-
 {% include iframe.html %}
 
 # COVID-19 Projections Using Machine Learning
@@ -15,6 +14,8 @@ _Note_: While we attempt to predict the _official_ death total, the true death t
 ## About the model
 
 Our COVID-19 prediction model has an underlying simulator that simulates the COVID-19 epidemic in a given region. The parameters of the simulator are then learned using machine learning techniques that attempts to minimize the error between the projected outputs and the actual results. After some additional cross-validation techniques to minimize overfitting, we use the learned parameters to simulate the future and make projections.
+
+The data we use is the daily death total provided by [The Covid Tracking Project](https://covidtracking.com/) (for US projections) and [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19) (for global projections). The only other region-specific data used is the population and hospital beds per 1000. 
 
 We believe overfitting is a major issue when making these projections, which is why other models consistently over-project the severity during the initial phases of the virus spread. While we attempt our best to minimize overfitting, no model is perfect, so we urge everyone to use caution when interpreting these projections.
 
