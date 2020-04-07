@@ -45,6 +45,7 @@ We believe overfitting is a major issue when making these projections, which is 
 
 ## Model Comparison
 Below we compare our model with a popular model developed by the [Institute for Health Metrics and Evaluation (IHME)](https://covid19.healthdata.org/):
+
 | Date | Our prediction | IHME prediction | Current US deaths
 | --- | --- | --- | --- |
 | 2020-04-01 | 34,270 | 93,400 | 4,700
@@ -75,3 +76,6 @@ Below we compare our model with a popular model developed by the [Institute for 
 
 2020-03-31
 * Add first projections for NY and CA
+
+2020-03-30
+* Begin project
