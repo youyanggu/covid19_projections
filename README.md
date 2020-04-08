@@ -63,18 +63,18 @@ _Note_: While we attempt to predict the _official_ death total, the true death t
 
 ## Why other models have much higher projections
 
-We believe that the existing models out there have shortcomings that lead to an over-projection in the number of deaths. These shortcomings can be boiled down to 2 main areas described below. When those two shortcomings are combined, they can result in a positive feedback loop that lead to a massive exponential growth in the projections.
+We believe that the existing models out there have two main shortcomings that when combined, can lead to an over-projection in the number of deaths:
 
-##### Overfitting
+#### Overfitting
 For most epidemics, the initial growth states are always exponential. When one tries to "fit a curve" during the initial stages, it is easy to find an exponential function that produces a good fit. While this can accurately model the growth stages of the coronavirus epidemic, it can sometimes fail to recognize when growth has slowed, especially when initial assumptions are also inaccurate. In machine learning, this is known as overfitting.
 
 Our model uses various techniques to reduce overfitting, such as cross-validation, exponential smoothing, and recursive feature elimination. In addition, given the high noisiness of the dataset, we made a conscious decision to avoid using complex equations and advanced models to further reduce overfitting.
 
-##### Incorrect social distancing assumptions
+#### Incorrect social distancing assumptions
 
-Most models hav some kind of social distancing assumptions baked in. Social distancing is the #1 factor that determines when and how much COVID-19 spread will slow. However, many models make an incorrect assumption that social distancing only started when each state/region's respective governments announced shelter-at-home orders. In reality, people started practicing social distancing days or weeks earlier, causing the "peak" to hit earlier than what those models projected. A shift of the peak even by a few days can cause a difference of tens of thousands of deaths.
+Most models have some kind of social distancing assumptions factored in. Social distancing is the #1 factor that determines when and how much COVID-19 spread will slow. However, many models make an inaccurate assumption that social distancing starts when each state/region's respective governments announced shelter-at-home orders. In reality, people started practicing social distancing days or weeks earlier, causing the "peak" to hit earlier than what those models projected. A shift of the peak even by a few days can cause a difference of tens of thousands of deaths.
 
-In contrast, our model automatically learns the rate at which people started practicing social distancing based on the data, so these incorrect assumptions can be mitigated.
+In contrast, our model automatically learns the rate at which people started practicing social distancing based on the data, so these inaccurate assumptions can be mitigated.
 
 ## Model Comparison
 Below we compare our model with a popular model developed by the [Institute for Health Metrics and Evaluation (IHME)](https://covid19.healthdata.org/):
