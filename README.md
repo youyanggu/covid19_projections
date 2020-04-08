@@ -31,21 +31,26 @@ As the graph above shows, while other models project 80-250k+ deaths in the Unit
 
 <br />
 
-| Countries |  |  |
+| EU Countries |  |  |
 | --- | --- | --- |
-| [Austria](austria) | [Greece](greece) | [Philippines](philippines) |
-| [Belgium](belgium) | [Hungary](hungary) | [Poland](poland) |
-| [Brazil](brazil) | [India](india) | [Portugal](portugal) |
-| [Bulgaria](bulgaria) | [Indonesia](indonesia) | [Romania](romania) |
-| [Canada](canada) | [Iran](iran) | [Slovakia](slovakia) |
-| [Croatia](croatia) | [Ireland](ireland) | [Slovenia](slovenia) |
-| [Cyprus](cyprus) | [Italy](italy) | [Spain](spain) |
-| [Czechia](czechia) | [Latvia](latvia) | [Sweden](sweden) |
-| [Denmark](denmark) | [Lithuania](lithuania) | [Switzerland](switzerland) |
-| [Estonia](estonia) | [Luxembourg](luxembourg) | [Turkey](turkey) |
-| [Finland](finland) | [Malta](malta) | [United States](us) |
-| [France](france) | [Mexico](mexico) | [United Kingdom](united-kingdom) |
-| [Germany](germany) | [Netherlands](netherlands) |
+| [Austria](austria) | [France](france) | [Malta](malta) |
+| [Belgium](belgium) | [Germany](germany) | [Netherlands](netherlands) |
+| [Bulgaria](bulgaria) | [Greece](greece) | [Poland](poland) |
+| [Croatia](croatia) | [Hungary](hungary) | [Portugal](portugal) |
+| [Cyprus](cyprus) | [Ireland](ireland) | [Romania](romania) |
+| [Czechia](czechia) | [Italy](italy) | [Slovakia](slovakia) |
+| [Denmark](denmark) | [Latvia](latvia) | [Slovenia](slovenia) |
+| [Estonia](estonia) | [Lithuania](lithuania) | [Spain](spain) |
+| [Finland](finland) | [Luxembourg](luxembourg) | [Sweden](sweden) |
+
+<br />
+
+| Other Countries |  |  |
+| --- | --- | --- |
+| [Brazil](brazil) | [Iran](iran) | [Turkey](turkey) |
+| [Canada](canada) | [Mexico](mexico) | [United States](us) |
+| [India](india) | [Philippines](philippines) | [United Kingdom](united-kingdom) |
+| [Indonesia](indonesia) | [Switzerland](switzerland) |
 
 ## About the model
 
