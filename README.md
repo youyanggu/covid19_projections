@@ -49,7 +49,7 @@ As the graph above shows, while other models project 80-250k+ deaths in the Unit
 
 ## About the model
 
-Our COVID-19 prediction model has an underlying simulator that simulates the COVID-19 epidemic in a given region. The parameters of the simulator are then learned using machine learning techniques that attempts to minimize the error between the projected outputs and the actual results. After some additional cross-validation techniques to minimize overfitting, we use the learned parameters to simulate the future and make projections.
+Our COVID-19 prediction model has an underlying simulator that simulates the COVID-19 epidemic in a given region. The parameters of the simulator are then learned using machine learning techniques that attempts to minimize the error between the projected outputs and the actual results. After some additional validation techniques (to minimize a phenomenon called overfitting), we use the learned parameters to simulate the future and make projections.
 
 The **only** COVID-19 data we use to make these projections is the daily death total provided by [The Covid Tracking Project](https://covidtracking.com/) (for US projections) and [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19) (for international projections). The raw files can be found [on GitHub](https://github.com/youyanggu/covid19_projections/tree/master/data).
 
@@ -60,6 +60,21 @@ We believe overfitting is a major issue when making these projections, which is 
 Feel free to reach out to me on Twitter via **[@youyanggu](https://twitter.com/youyanggu)** with any questions/insights/feedback. You can also find me [on LinkedIn](https://www.linkedin.com/in/youyanggu/).
 
 _Note_: While we attempt to predict the _official_ death total, the true death total may be higher due underreporting at various levels.
+
+## Why other models have much higher projections
+
+We believe that the existing models out there have shortcomings that lead to an over-projection in the number of deaths. These shortcomings can be boiled down to 2 main areas described below. When those two shortcomings are combined, they can result in a positive feedback loop that lead to a massive exponential growth in the projections.
+
+##### Overfitting
+For most epidemics, the initial growth states are always exponential. When one tries to "fit a curve" during the initial stages, it is easy to find an exponential function that produces a good fit. While this can accurately model the growth stages of the coronavirus epidemic, it can sometimes fail to recognize when growth has slowed, especially when initial assumptions are also inaccurate. In machine learning, this is known as overfitting.
+
+Our model uses various techniques to reduce overfitting, such as cross-validation, exponential smoothing, and recursive feature elimination. In addition, given the high noisiness of the dataset, we made a conscious decision to avoid using complex equations and advanced models to further reduce overfitting.
+
+##### Incorrect social distancing assumptions
+
+Most models hav some kind of social distancing assumptions baked in. Social distancing is the #1 factor that determines when and how much COVID-19 spread will slow. However, many models make an incorrect assumption that social distancing only started when each state/region's respective governments announced shelter-at-home orders. In reality, people started practicing social distancing days or weeks earlier, causing the "peak" to hit earlier than what those models projected. A shift of the peak even by a few days can cause a difference of tens of thousands of deaths.
+
+In contrast, our model automatically learns the rate at which people started practicing social distancing based on the data, so these incorrect assumptions can be mitigated.
 
 ## Model Comparison
 Below we compare our model with a popular model developed by the [Institute for Health Metrics and Evaluation (IHME)](https://covid19.healthdata.org/):
