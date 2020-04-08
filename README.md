@@ -30,7 +30,6 @@ As the graph above shows, while other models project 80-250k+ deaths in the Unit
 | [Kansas](us-ks) | [North Dakota](us-nd) | [Wyoming](us-wy) |
 
 <br />
-
 | Countries |  |  |
 | --- | --- | --- |
 | [Austria](austria) | [Greece](greece) | [Philippines](philippines) |
@@ -47,20 +46,19 @@ As the graph above shows, while other models project 80-250k+ deaths in the Unit
 | [France](france) | [Mexico](mexico) | [United Kingdom](united-kingdom) |
 | [Germany](germany) | [Netherlands](netherlands) |
 
-
-Every day, raw daily projections for all 50 US states and select international countries will be uploaded [here](https://github.com/youyanggu/covid19_projections/projections). Because the model factors in new data data, it will be more accurate over time. You can also view the projections in a chart format below (currently US states only).
-
-Feel free to reach out to me on Twitter via [@youyanggu](https://twitter.com/youyanggu) with any questions/insights/feedback. You can also find me [on LinkedIn](https://www.linkedin.com/in/youyanggu/).
-
-_Note_: While we attempt to predict the _official_ death total, the true death total may be higher due underreporting at various levels.
-
 ## About the model
 
 Our COVID-19 prediction model has an underlying simulator that simulates the COVID-19 epidemic in a given region. The parameters of the simulator are then learned using machine learning techniques that attempts to minimize the error between the projected outputs and the actual results. After some additional cross-validation techniques to minimize overfitting, we use the learned parameters to simulate the future and make projections.
 
 **The only COVID-19 data we use to make these projections is the daily death total provided by [The Covid Tracking Project](https://covidtracking.com/) (for US projections) and [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19) (for international projections).**
 
+Every day, raw daily projections for all 50 US states and select international countries will be uploaded [here](https://github.com/youyanggu/covid19_projections/projections). Because the model factors in new data data, it will be more accurate over time. You can also view the projections in a chart format below (currently US states only).
+
 We believe overfitting is a major issue when making these projections, which is why other models consistently over-project the severity during the initial phases of the virus spread. While we attempt our best to minimize overfitting, no model is perfect, so we urge everyone to use caution when interpreting these projections.
+
+Feel free to reach out to me on Twitter via [@youyanggu](https://twitter.com/youyanggu) with any questions/insights/feedback. You can also find me [on LinkedIn](https://www.linkedin.com/in/youyanggu/).
+
+_Note_: While we attempt to predict the _official_ death total, the true death total may be higher due underreporting at various levels.
 
 ## Model Comparison
 Below we compare our model with a popular model developed by the [Institute for Health Metrics and Evaluation (IHME)](https://covid19.healthdata.org/):
