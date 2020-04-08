@@ -28,6 +28,7 @@ As the graph above shows, while other models project 80-250k+ deaths in the Unit
 | [Indiana](us-in) | [New York](us-ny) | [West Virginia](us-wv) |
 | [Iowa](us-ia) | [North Carolina](us-nc) | [Wisconsin](us-wi) |
 | [Kansas](us-ks) | [North Dakota](us-nd) | [Wyoming](us-wy) |
+
 <br />
 
 | Countries |  |  |
