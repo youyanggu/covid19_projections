@@ -56,30 +56,15 @@ As the graph above shows, while other models project 80-250k+ deaths in the Unit
 
 Our COVID-19 prediction model has an underlying simulator that simulates the COVID-19 epidemic in a given region. The parameters of the simulator are then learned using machine learning techniques that attempts to minimize the error between the projected outputs and the actual results. After some additional validation techniques (to minimize a phenomenon called overfitting), we use the learned parameters to simulate the future and make projections.
 
-The **only** COVID-19 data we use to make these projections is the daily death total provided by [The Covid Tracking Project](https://covidtracking.com/) (for US projections) and [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19) (for international projections). The raw files can be found [on GitHub](https://github.com/youyanggu/covid19_projections/tree/master/data).
+The only COVID-19 data we use to make these projections is the daily death total provided by [The Covid Tracking Project](https://covidtracking.com/) (for US projections) and [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19) (for international projections). The raw files can be found [on GitHub](https://github.com/youyanggu/covid19_projections/tree/master/data).
 
 Every day, raw daily projections for all 50 US states and select international countries will be uploaded [here](https://github.com/youyanggu/covid19_projections/tree/master/projections). Because the model factors in new data data, it will be more accurate over time. You can also view the projections in a chart format below (currently US states only).
 
-We believe overfitting is a major issue when making these projections, which is why other models consistently over-project the severity during the initial phases of the virus spread. While we attempt our best to minimize overfitting, no model is perfect, so we urge everyone to use caution when interpreting these projections.
+While we attempt our best to ensure accuracy and precision, no model is perfect, so we urge everyone to use caution when interpreting these projections.
 
 Feel free to reach out to me on Twitter via **[@youyanggu](https://twitter.com/youyanggu)** with any questions/insights/feedback. You can also find me [on LinkedIn](https://www.linkedin.com/in/youyanggu/).
 
 _Note_: While we attempt to predict the _official_ death total, the true death total may be higher due underreporting at various levels.
-
-## Why other models have much higher projections
-
-We believe that the existing models out there have two main shortcomings that when combined, can lead to an over-projection in the number of deaths:
-
-#### Overfitting
-For most epidemics, the initial growth states are always exponential. When one tries to "fit a curve" during the initial stages, it is easy to find an exponential function that produces a good fit. While this can accurately model the growth stages of the coronavirus epidemic, it can sometimes fail to recognize when growth has slowed, especially when initial assumptions are also inaccurate. In machine learning, this is known as overfitting.
-
-Our model uses various techniques to reduce overfitting, such as cross-validation, exponential smoothing, and recursive feature elimination. In addition, given the high noisiness of the dataset, we made a conscious decision to avoid using complex equations and advanced models to further reduce overfitting.
-
-#### Incorrect social distancing assumptions
-
-Most models have some kind of social distancing assumptions factored in. Social distancing is the #1 factor that determines when and how much COVID-19 spread will slow. However, many models make an inaccurate assumption that social distancing starts when each state/region's respective governments announced shelter-at-home orders. In reality, people started practicing social distancing days or weeks earlier, causing the "peak" to hit earlier than what those models projected. A shift of the peak even by a few days can cause a difference of tens of thousands of deaths.
-
-In contrast, our model automatically learns the rate at which people started practicing social distancing based on the data, so these inaccurate assumptions can be mitigated.
 
 ## Model Comparison
 Below we compare our model with a popular model developed by the [Institute for Health Metrics and Evaluation (IHME)](https://covid19.healthdata.org/):
@@ -93,6 +78,7 @@ Below we compare our model with a popular model developed by the [Institute for 
 | 2020-04-05 | 41,387 | 81,766 | 9,498
 | 2020-04-06 | 29,316 | 81,766 | 10,680
 | 2020-04-07 | 41,689 | 81,766 | 12,621
+| 2020-04-08 | 54,280 | 60,415 | 14,495
 
 ## Updates
 
