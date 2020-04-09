@@ -7,23 +7,23 @@ permalink: /infections/
 
 ## Click on below states to view number of infections
 
-| [United States](US.html) |  |  |
+| [United States](/us) |  |  |
 | --- | --- | --- |
-| [Alabama](AL.html) | [Kentucky](KY.html) | [Ohio](OH.html) |
-| [Alaska](AK.html) | [Louisiana](LA.html) | [Oklahoma](OK.html) |
-| [Arizona](AZ.html) | [Maine](ME.html) | [Oregon](OR.html) |
-| [Arkansas](AR.html) | [Maryland](MD.html) | [Pennsylvania](PA.html) |
-| [California](CA.html) | [Massachusetts](MA.html) | [Puerto Rico](PR.html) |
-| [Colorado](CO.html) | [Michigan](MI.html) | [Rhode Island](RI.html) |
-| [Connecticut](CT.html) | [Minnesota](MN.html) | [South Carolina](SC.html) |
-| [Delaware](DE.html) | [Mississippi](MS.html) | [South Dakota](SD.html) |
-| [District Of Columbia](DC.html) | [Missouri](MO.html) | [Tennessee](TN.html) |
-| [Florida](FL.html) | [Montana](MT.html) | [Texas](TX.html) |
-| [Georgia](GA.html) | [Nebraska](NE.html) | [Utah](UT.html) |
-| [Guam](GU.html) | [Nevada](NV.html) | [Vermont](VT.html) |
-| [Hawaii](HI.html) | [New Hampshire](NH.html) | [Virgin Islands](VI.html) |
-| [Idaho](ID.html) | [New Jersey](NJ.html) | [Virginia](VA.html) |
-| [Illinois](IL.html) | [New Mexico](NM.html) | [Washington](WA.html) |
-| [Indiana](IN.html) | [New York](NY.html) | [West Virginia](WV.html) |
-| [Iowa](IA.html) | [North Carolina](NC.html) | [Wisconsin](WI.html) |
-| [Kansas](KS.html) | [North Dakota](ND.html) | [Wyoming](WY.html) |
+| [Alabama](/us-al) | [Kentucky](/us-ky) | [Ohio](/us-oh) |
+| [Alaska](/us-ak) | [Louisiana](/us-la) | [Oklahoma](/us-ok) |
+| [Arizona](/us-az) | [Maine](/us-me) | [Oregon](/us-or) |
+| [Arkansas](/us-ar) | [Maryland](/us-md) | [Pennsylvania](/us-pa) |
+| [California](/us-ca) | [Massachusetts](/us-ma) | [Puerto Rico](/us-pr) |
+| [Colorado](/us-co) | [Michigan](/us-mi) | [Rhode Island](/us-ri) |
+| [Connecticut](/us-ct) | [Minnesota](/us-mn) | [South Carolina](/us-sc) |
+| [Delaware](/us-de) | [Mississippi](/us-ms) | [South Dakota](/us-sd) |
+| [District Of Columbia](/us-dc) | [Missouri](/us-mo) | [Tennessee](/us-tn) |
+| [Florida](/us-fl) | [Montana](/us-mt) | [Texas](/us-tx) |
+| [Georgia](/us-ga) | [Nebraska](/us-ne) | [Utah](/us-ut) |
+| [Guam](/us-gu) | [Nevada](/us-nv) | [Vermont](/us-vt) |
+| [Hawaii](/us-hi) | [New Hampshire](/us-nh) | [Virgin Islands](/us-vi) |
+| [Idaho](/us-id) | [New Jersey](/us-nj) | [Virginia](/us-va) |
+| [Illinois](/us-il) | [New Mexico](/us-nm) | [Washington](/us-wa) |
+| [Indiana](/us-in) | [New York](/us-ny) | [West Virginia](/us-wv) |
+| [Iowa](/us-ia) | [North Carolina](/us-nc) | [Wisconsin](/us-wi) |
+| [Kansas](/us-ks) | [North Dakota](/us-nd) | [Wyoming](/us-wy) |
