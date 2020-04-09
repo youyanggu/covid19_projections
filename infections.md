@@ -1,11 +1,13 @@
 ---
 layout: default
 title: Infections Tracker
-description: When will each state reach below XXX infections?
+description: When will each state reach below X infections?
 permalink: /infections/
 ---
 
-## How many people are infected on each date
+Click on each state to see a detailed graph of the number of infected individuals over time for that state.
+
+## How many infected individuals are present on each date
 
 |                                |   Apr 9 (today) |   Apr 15 |   Apr 30 |   May 15 |   May 30 |   Jun 15 |   Jun 30 |   Jul 15 |   Jul 30 |
 |--------------------------------|----------------:|---------:|---------:|---------:|---------:|---------:|---------:|---------:|---------:|
