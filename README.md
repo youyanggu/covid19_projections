@@ -1,4 +1,4 @@
-There are many existing models out there that attempt to make COVID-19 projections, but there are shortcomings in those models that could be improved upon. Here we present a model that uses machine learning to project COVID-19 peak and total deaths in the US and around the world. 
+There are many existing models out there that attempt to make COVID-19 projections, but there are shortcomings in those models that could be improved upon. Here we present a model that uses machine learning to project COVID-19 peak and total deaths in the US and around the world. We also present an estimate of the number of infected individuals (including asymptomic and untested cases). We believe these estimates will be helpful in determining how to best allocate medical resources and when to lift shelter-at-home orders.
 
 ### Projection for US:
 Peak: **1,943** deaths on **April 7, 2020** | Total: **54,280** deaths (by June 30, 2020) {% include iframe.html %}
