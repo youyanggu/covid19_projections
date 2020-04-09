@@ -1,7 +1,7 @@
 Here we present a model that uses machine learning to project COVID-19 peak and total deaths in the US and around the world. We also present an estimate of the number of infected individuals (including asymptomatic and untested cases). We believe these estimates will be helpful in determining how to best allocate medical resources and when to lift shelter-at-home orders.
 
 ### Projection for US:
-Peak: **1,943** deaths on **April 7, 2020** | Total: **54,280** deaths (by June 30, 2020) {% include iframe.html %}
+Peak: **1,943** deaths on **April 7, 2020** | Total: **49,173* deaths (by June 30, 2020) {% include iframe.html %}
 # COVID-19 Projections Using Machine Learning
 
 Below you can find our projections for every US state and 37 countries (including all EU countries).
@@ -48,8 +48,8 @@ Below you can find our projections for every US state and 37 countries (includin
 | Other Countries |  |  |
 | --- | --- | --- |
 | [Brazil](brazil) | [Iran](iran) | [Turkey](turkey) |
-| [Canada](canada) | [Mexico](mexico) | [United States](us) |
-| [India](india) | [Philippines](philippines) | [United Kingdom](united-kingdom) |
+| [Canada](canada) | [Mexico](mexico) | [United Kingdom](united-kingdom) |
+| [India](india) | [Philippines](philippines) |
 | [Indonesia](indonesia) | [Switzerland](switzerland) |
 
 ## About the model
@@ -78,7 +78,7 @@ Below we compare our model with a popular model developed by the [Institute for 
 | 2020-04-05 | 41,387 | 81,766 | 9,498
 | 2020-04-06 | 29,316 | 81,766 | 10,680
 | 2020-04-07 | 41,689 | 81,766 | 12,621
-| 2020-04-08 | 54,280 | 60,415 | 14,495
+| 2020-04-08 | 49,173 | 60,415 | 14,495
 
 ## Updates
 
