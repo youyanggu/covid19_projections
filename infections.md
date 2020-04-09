@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Infections Tracker
-description: When will each state reach below X infections?
+description: When will each state reach below X COVID-19 infections?
 permalink: /infections/
 ---
 
-Click on each state to see a detailed graph of the number of infected individuals over time for that state.
+Click on each state to see a detailed graph of the number of COVID-19 infected individuals over time for that state. Note that this estimate includes all infected people, not just those that tested positive. So this includes asymptomatic and mildly symptomatic individuals as well.
 
 ## How many infected individuals are present on each date
 
@@ -67,7 +67,7 @@ Click on each state to see a detailed graph of the number of infected individual
 | [Wisconsin](/us-wi)            |           9,574 |    6,790 |    3,512 |    2,262 |    1,531 |      907 |      381 |       96 |       21 |
 | [Wyoming](/us-wy)              |             N/A |      N/A |      N/A |      N/A |      N/A |      N/A |      N/A |      N/A |      N/A |
 
-## When will each state be under X infections?
+## When will each state have fewer than X infected indidviduals?
 
 |                                |   10,000 infections |   5,000 infections |   2,500 infections |   1,000 infections |
 |--------------------------------|---------------------|--------------------|--------------------|--------------------|
