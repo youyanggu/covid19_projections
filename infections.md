@@ -1,6 +1,8 @@
+---
 layout: page
-title: "COVID-19 Projections | Infections Tracker"
+title: Infections Tracker
 permalink: /infections/
+---
 
 ## When will each state reach below XXX infections?
 
