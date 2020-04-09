@@ -1,12 +1,11 @@
 ---
 layout: default
 title: Infections Tracker
+description: When will each state reach below XXX infections?
 permalink: /infections/
 ---
 
-## When will each state reach below XXX infections?
-
-See below table
+## Click on below states to view number of infections
 
 | [United States](US.html) |  |  |
 | --- | --- | --- |
