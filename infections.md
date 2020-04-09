@@ -67,60 +67,60 @@ permalink: /infections/
 
 ## When will each state be under X infections?
 
-|                                | 10,000 infections   | 5,000 infections   | 2,500 infections   | 1,000 infections   |
-|--------------------------------|---------------------|--------------------|--------------------|--------------------|
-| [Alabama](/us-al)              | Apr 15              | May 20             | Jun 15             | Jul 2              |
-| [Alaska](/us-ak)               | Never surpassed     | Never surpassed    | Apr 2              | Apr 29             |
-| [Arizona](/us-az)              | Apr 5               | Apr 19             | May 10             | Jun 13             |
-| [Arkansas](/us-ar)             | Never surpassed     | Never surpassed    | Apr 9              | May 16             |
-| [California](/us-ca)           | Apr 27              | May 10             | May 28             | Jun 20             |
-| [Colorado](/us-co)             | Apr 14              | Apr 26             | May 14             | Jun 12             |
-| [Connecticut](/us-ct)          | May 2               | May 27             | Jun 18             | Jul 3              |
-| [Delaware](/us-de)             | Never surpassed     | Never surpassed    | Apr 8              | May 19             |
-| [District Of Columbia](/us-dc) | Never surpassed     | Never surpassed    | Apr 15             | May 17             |
-| [Florida](/us-fl)              | Apr 25              | May 7              | May 24             | Jun 17             |
-| [Georgia](/us-ga)              | May 5               | May 18             | Jun 3              | Jun 23             |
-| [Guam](/us-gu)                 | Never surpassed     | Never surpassed    | Never surpassed    | Apr 19             |
-| [Hawaii](/us-hi)               | Never surpassed     | Never surpassed    | Apr 30             | Jun 14             |
-| [Idaho](/us-id)                | Never surpassed     | Never surpassed    | Apr 11             | May 20             |
-| [Illinois](/us-il)             | May 12              | Jun 2              | Jun 21             | Jul 4              |
-| [Indiana](/us-in)              | Apr 21              | May 3              | May 20             | Jun 16             |
-| [Iowa](/us-ia)                 | Never surpassed     | Never surpassed    | Apr 15             | May 21             |
-| [Kansas](/us-ks)               | Never surpassed     | Apr 9              | Apr 21             | May 17             |
-| [Kentucky](/us-ky)             | Apr 2               | Apr 13             | Apr 26             | May 21             |
-| [Louisiana](/us-la)            | May 12              | Jun 5              | Jun 22             | Jul 5              |
-| [Maine](/us-me)                | Never surpassed     | Never surpassed    | Apr 27             | Jun 10             |
-| [Maryland](/us-md)             | Apr 16              | Apr 30             | May 19             | Jun 17             |
-| [Massachusetts](/us-ma)        | May 19              | Jun 10             | Jun 26             | Jul 8              |
-| [Michigan](/us-mi)             | May 24              | Jun 13             | Jun 27             | Jul 8              |
-| [Minnesota](/us-mn)            | Never surpassed     | Apr 13             | May 7              | Jun 13             |
-| [Mississippi](/us-ms)          | Apr 4               | Apr 16             | Apr 28             | May 24             |
-| [Missouri](/us-mo)             | Apr 3               | Apr 17             | May 10             | Jun 14             |
-| [Montana](/us-mt)              | Never surpassed     | Never surpassed    | Never surpassed    | May 12             |
-| [Nebraska](/us-ne)             | Never surpassed     | Never surpassed    | Apr 13             | May 22             |
-| [Nevada](/us-nv)               | Apr 2               | Apr 14             | Apr 26             | May 21             |
-| [New Hampshire](/us-nh)        | Never surpassed     | Apr 7              | Apr 26             | Jun 5              |
-| [New Jersey](/us-nj)           | May 13              | May 24             | Jun 5              | Jun 21             |
-| [New Mexico](/us-nm)           | Never surpassed     | Never surpassed    | Apr 8              | May 16             |
-| [New York](/us-ny)             | Jun 6               | Jun 20             | Jul 1              | Jul 13             |
-| [North Carolina](/us-nc)       | Apr 10              | May 1              | Jun 2              | Jun 26             |
-| [North Dakota](/us-nd)         | Never surpassed     | Never surpassed    | Never surpassed    | May 11             |
-| [Ohio](/us-oh)                 | Apr 28              | May 25             | Jun 17             | Jul 3              |
-| [Oklahoma](/us-ok)             | Apr 9               | Apr 20             | May 4              | May 31             |
-| [Oregon](/us-or)               | Never surpassed     | Apr 6              | Apr 19             | May 17             |
-| [Pennsylvania](/us-pa)         | May 12              | Jun 2              | Jun 21             | Jul 5              |
-| [Puerto Rico](/us-pr)          | Never surpassed     | Never surpassed    | Apr 13             | May 17             |
-| [Rhode Island](/us-ri)         | Never surpassed     | Apr 24             | May 31             | Jun 26             |
-| [South Carolina](/us-sc)       | Mar 29              | Apr 12             | Apr 24             | May 20             |
-| [South Dakota](/us-sd)         | Never surpassed     | Never surpassed    | Apr 2              | Apr 21             |
-| [Tennessee](/us-tn)            | Apr 7               | Apr 22             | May 15             | Jun 17             |
-| [Texas](/us-tx)                | Apr 17              | Apr 30             | May 19             | Jun 16             |
-| [United States](/us)           | Jul 12              | Jul 20             | Jul 27             | After Aug 4        |
-| [Utah](/us-ut)                 | Never surpassed     | Never surpassed    | Apr 11             | May 16             |
-| [Vermont](/us-vt)              | Never surpassed     | Mar 31             | Apr 15             | May 16             |
-| [Virgin Islands](/us-vi)       | Never surpassed     | Never surpassed    | Never surpassed    | May 31             |
-| [Virginia](/us-va)             | Apr 8               | Apr 20             | May 10             | Jun 11             |
-| [Washington](/us-wa)           | Apr 9               | Apr 20             | May 6              | Jun 4              |
-| [West Virginia](/us-wv)        | Never surpassed     | Never surpassed    | Never surpassed    | May 20             |
-| [Wisconsin](/us-wi)            | Apr 9               | Apr 22             | May 12             | Jun 13             |
-| [Wyoming](/us-wy)              | N/A                 | N/A                | N/A                | N/A                |
+|                             |   10,000 infections |   5,000 infections |   2,500 infections |   1,000 infections |
+|-----------------------------|---------------------|--------------------|--------------------|--------------------|
+|              [Alabama](/al) |        Apr 15, 2020 |       May 20, 2020 |       Jun 15, 2020 |       Jul 02, 2020 |
+|               [Alaska](/ak) |     Never surpassed |    Never surpassed |       Apr 02, 2020 |       Apr 29, 2020 |
+|              [Arizona](/az) |        Apr 05, 2020 |       Apr 19, 2020 |       May 10, 2020 |       Jun 13, 2020 |
+|             [Arkansas](/ar) |     Never surpassed |    Never surpassed |       Apr 09, 2020 |       May 16, 2020 |
+|           [California](/ca) |        Apr 27, 2020 |       May 10, 2020 |       May 28, 2020 |       Jun 20, 2020 |
+|             [Colorado](/co) |        Apr 14, 2020 |       Apr 26, 2020 |       May 14, 2020 |       Jun 12, 2020 |
+|          [Connecticut](/ct) |        May 02, 2020 |       May 27, 2020 |       Jun 18, 2020 |       Jul 03, 2020 |
+|             [Delaware](/de) |     Never surpassed |    Never surpassed |       Apr 08, 2020 |       May 19, 2020 |
+| [District Of Columbia](/dc) |     Never surpassed |    Never surpassed |       Apr 15, 2020 |       May 17, 2020 |
+|              [Florida](/fl) |        Apr 25, 2020 |       May 07, 2020 |       May 24, 2020 |       Jun 17, 2020 |
+|              [Georgia](/ga) |        May 05, 2020 |       May 18, 2020 |       Jun 03, 2020 |       Jun 23, 2020 |
+|                 [Guam](/gu) |     Never surpassed |    Never surpassed |    Never surpassed |       Apr 19, 2020 |
+|               [Hawaii](/hi) |     Never surpassed |    Never surpassed |       Apr 30, 2020 |       Jun 14, 2020 |
+|                [Idaho](/id) |     Never surpassed |    Never surpassed |       Apr 11, 2020 |       May 20, 2020 |
+|             [Illinois](/il) |        May 12, 2020 |       Jun 02, 2020 |       Jun 21, 2020 |       Jul 04, 2020 |
+|              [Indiana](/in) |        Apr 21, 2020 |       May 03, 2020 |       May 20, 2020 |       Jun 16, 2020 |
+|                 [Iowa](/ia) |     Never surpassed |    Never surpassed |       Apr 15, 2020 |       May 21, 2020 |
+|               [Kansas](/ks) |     Never surpassed |       Apr 09, 2020 |       Apr 21, 2020 |       May 17, 2020 |
+|             [Kentucky](/ky) |        Apr 02, 2020 |       Apr 13, 2020 |       Apr 26, 2020 |       May 21, 2020 |
+|            [Louisiana](/la) |        May 12, 2020 |       Jun 05, 2020 |       Jun 22, 2020 |       Jul 05, 2020 |
+|                [Maine](/me) |     Never surpassed |    Never surpassed |       Apr 27, 2020 |       Jun 10, 2020 |
+|             [Maryland](/md) |        Apr 16, 2020 |       Apr 30, 2020 |       May 19, 2020 |       Jun 17, 2020 |
+|        [Massachusetts](/ma) |        May 19, 2020 |       Jun 10, 2020 |       Jun 26, 2020 |       Jul 08, 2020 |
+|             [Michigan](/mi) |        May 24, 2020 |       Jun 13, 2020 |       Jun 27, 2020 |       Jul 08, 2020 |
+|            [Minnesota](/mn) |     Never surpassed |       Apr 13, 2020 |       May 07, 2020 |       Jun 13, 2020 |
+|          [Mississippi](/ms) |        Apr 04, 2020 |       Apr 16, 2020 |       Apr 28, 2020 |       May 24, 2020 |
+|             [Missouri](/mo) |        Apr 03, 2020 |       Apr 17, 2020 |       May 10, 2020 |       Jun 14, 2020 |
+|              [Montana](/mt) |     Never surpassed |    Never surpassed |    Never surpassed |       May 12, 2020 |
+|             [Nebraska](/ne) |     Never surpassed |    Never surpassed |       Apr 13, 2020 |       May 22, 2020 |
+|               [Nevada](/nv) |        Apr 02, 2020 |       Apr 14, 2020 |       Apr 26, 2020 |       May 21, 2020 |
+|        [New Hampshire](/nh) |     Never surpassed |       Apr 07, 2020 |       Apr 26, 2020 |       Jun 05, 2020 |
+|           [New Jersey](/nj) |        May 13, 2020 |       May 24, 2020 |       Jun 05, 2020 |       Jun 21, 2020 |
+|           [New Mexico](/nm) |     Never surpassed |    Never surpassed |       Apr 08, 2020 |       May 16, 2020 |
+|             [New York](/ny) |        Jun 06, 2020 |       Jun 20, 2020 |       Jul 01, 2020 |       Jul 13, 2020 |
+|       [North Carolina](/nc) |        Apr 10, 2020 |       May 01, 2020 |       Jun 02, 2020 |       Jun 26, 2020 |
+|         [North Dakota](/nd) |     Never surpassed |    Never surpassed |    Never surpassed |       May 11, 2020 |
+|                 [Ohio](/oh) |        Apr 28, 2020 |       May 25, 2020 |       Jun 17, 2020 |       Jul 03, 2020 |
+|             [Oklahoma](/ok) |        Apr 09, 2020 |       Apr 20, 2020 |       May 04, 2020 |       May 31, 2020 |
+|               [Oregon](/or) |     Never surpassed |       Apr 06, 2020 |       Apr 19, 2020 |       May 17, 2020 |
+|         [Pennsylvania](/pa) |        May 12, 2020 |       Jun 02, 2020 |       Jun 21, 2020 |       Jul 05, 2020 |
+|          [Puerto Rico](/pr) |     Never surpassed |    Never surpassed |       Apr 13, 2020 |       May 17, 2020 |
+|         [Rhode Island](/ri) |     Never surpassed |       Apr 24, 2020 |       May 31, 2020 |       Jun 26, 2020 |
+|       [South Carolina](/sc) |        Mar 29, 2020 |       Apr 12, 2020 |       Apr 24, 2020 |       May 20, 2020 |
+|         [South Dakota](/sd) |     Never surpassed |    Never surpassed |       Apr 02, 2020 |       Apr 21, 2020 |
+|            [Tennessee](/tn) |        Apr 07, 2020 |       Apr 22, 2020 |       May 15, 2020 |       Jun 17, 2020 |
+|                [Texas](/tx) |        Apr 17, 2020 |       Apr 30, 2020 |       May 19, 2020 |       Jun 16, 2020 |
+|        [United States](/us) |        Jul 12, 2020 |       Jul 20, 2020 |       Jul 27, 2020 | After Aug 04, 2020 |
+|                 [Utah](/ut) |     Never surpassed |    Never surpassed |       Apr 11, 2020 |       May 16, 2020 |
+|              [Vermont](/vt) |     Never surpassed |       Mar 31, 2020 |       Apr 15, 2020 |       May 16, 2020 |
+|       [Virgin Islands](/vi) |     Never surpassed |    Never surpassed |    Never surpassed |       May 31, 2020 |
+|             [Virginia](/va) |        Apr 08, 2020 |       Apr 20, 2020 |       May 10, 2020 |       Jun 11, 2020 |
+|           [Washington](/wa) |        Apr 09, 2020 |       Apr 20, 2020 |       May 06, 2020 |       Jun 04, 2020 |
+|        [West Virginia](/wv) |     Never surpassed |    Never surpassed |    Never surpassed |       May 20, 2020 |
+|            [Wisconsin](/wi) |        Apr 09, 2020 |       Apr 22, 2020 |       May 12, 2020 |       Jun 13, 2020 |
+|              [Wyoming](/wy) |                 N/A |                N/A |                N/A |                N/A |
