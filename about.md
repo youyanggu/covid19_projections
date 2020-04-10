@@ -20,6 +20,10 @@ Feel free to reach out to me on Twitter via **[@youyanggu](https://twitter.com/y
 
 _Note_: While we attempt to predict the _official_ death total, the true death total may be higher due underreporting at various levels.
 
+## Assumptions
+
+Similar to other models, our model assumes full social distancing through June 2020. If social distancing is relaxed prior to June, the true number of infections and deaths may increase.
+
 ## Model evaluation
 
 While other models have predicted 100-250k+ deaths as late as early April, we have consistently projected under 60k deaths in the US since we launched our first projections on Apr 1.
@@ -37,6 +41,7 @@ In this section we will compare our projections of when the US will hit the foll
 | 40,000 | April 27 | April 21 | -
 | 45,000 | May 6 | April 24 | -
 | 50,000 | May 22 | April 28 | -
+| *Total* | *55,001* | *60,415* | -
 
 Below are the same projections for New York state, Michigan, and Connecticut, some of the worst-hit states in the US:
 
@@ -47,6 +52,7 @@ Below are the same projections for New York state, Michigan, and Connecticut, so
 | 12,000 | April 18 | April 18 | -
 | 14,000 | April 26 | (will not reach) | -
 | 16,000 | May 16 | (will not reach) | -
+| *Total* | *16,713* | *13,307* | -
 
 | MI deaths | Our 4/9 projection | IHME 4/9 projection | Actual
 | --- | --- | --- | --- |
@@ -55,6 +61,7 @@ Below are the same projections for New York state, Michigan, and Connecticut, so
 | 2,500 | April 23 | (will not reach) | -
 | 3,000 | May 1 | (will not reach) | -
 | 3,500 | May 16 | (will not reach) | -
+| *Total* | *4,112* | *2,103* | -
 
 | CT deaths | Our 4/9 projection | IHME 4/9 projection | Actual
 | --- | --- | --- | --- |
@@ -63,6 +70,7 @@ Below are the same projections for New York state, Michigan, and Connecticut, so
 | 2,000 | (will not reach) | April 24 | -
 | 3,000 | (will not reach) | May 2 | -
 | 4,000 | (will not reach) | June 2 | -
+| *Total* | *1,906* | *4,003* | -
 
 ## Updates
 
