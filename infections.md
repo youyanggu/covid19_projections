@@ -1,16 +1,19 @@
 ---
 layout: default
-title: Infections Tracker
-description: When will each state reach below X COVID-19 infections?
+title: COVID-19 Infections Tracker
+description: When will each US state reach below X COVID-19 infections?
 permalink: /infections/
 ---
 
 Click on each state to see a detailed graph of the number of COVID-19 infected individuals over time for that state. Note that this estimate includes all infected people, not just those that tested positive. So this includes asymptomatic and mildly symptomatic individuals as well.
 
+Scroll down to see when each state will have fewer than 1000, 2500, 5000, and 10000 individuals.
+
 ## How many infected individuals are present on each date
 
 |                                |   Apr 9 (today) |   Apr 15 |   Apr 30 |   May 15 |   May 30 |   Jun 15 |   Jun 30 |   Jul 15 |   Jul 30 |
 |--------------------------------|----------------:|---------:|---------:|---------:|---------:|---------:|---------:|---------:|---------:|
+| [United States](/us)           |       1,296,127 |  846,815 |  344,443 |  184,418 |  113,310 |   64,727 |   27,654 |    7,403 |    1,834 |
 | [Alabama](/us-al)              |          11,789 |    9,944 |    7,146 |    5,427 |    3,970 |    2,490 |    1,135 |      309 |       80 |
 | [Alaska](/us-ak)               |           1,960 |    1,534 |      954 |      677 |      479 |      291 |      123 |       23 |        2 |
 | [Arizona](/us-az)              |           8,013 |    5,883 |    3,273 |    2,206 |    1,531 |      926 |      399 |       99 |       21 |
@@ -57,7 +60,6 @@ Click on each state to see a detailed graph of the number of COVID-19 infected i
 | [South Dakota](/us-sd)         |           1,734 |    1,280 |      731 |      498 |      342 |      198 |       73 |       11 |        0 |
 | [Tennessee](/us-tn)            |           8,851 |    6,526 |    3,672 |    2,493 |    1,734 |    1,048 |      450 |      110 |       24 |
 | [Texas](/us-tx)                |          16,821 |   11,272 |    4,883 |    2,774 |    1,766 |    1,021 |      428 |      111 |       26 |
-| [United States](/us)           |       1,296,127 |  846,815 |  344,443 |  184,418 |  113,310 |   64,727 |   27,654 |    7,403 |    1,834 |
 | [Utah](/us-ut)                 |           2,695 |    2,132 |    1,386 |    1,005 |      716 |      432 |      178 |       36 |        5 |
 | [Vermont](/us-vt)              |           3,280 |    2,459 |    1,451 |    1,010 |      708 |      425 |      175 |       36 |        5 |
 | [Virgin Islands](/us-vi)       |           1,893 |    1,876 |    1,640 |    1,332 |    1,006 |      648 |      312 |       75 |       13 |
@@ -71,6 +73,7 @@ Click on each state to see a detailed graph of the number of COVID-19 infected i
 
 |                                |   10,000 infections |   5,000 infections |   2,500 infections |   1,000 infections |
 |--------------------------------|---------------------|--------------------|--------------------|--------------------|
+|           [United States](/us) |              Jul 12 |             Jul 20 |             Jul 27 |        After Aug 4 |
 |              [Alabama](/us-al) |              Apr 15 |             May 20 |             Jun 15 |              Jul 2 |
 |               [Alaska](/us-ak) |     Never surpassed |    Never surpassed |              Apr 2 |             Apr 29 |
 |              [Arizona](/us-az) |               Apr 5 |             Apr 19 |             May 10 |             Jun 13 |
@@ -117,7 +120,6 @@ Click on each state to see a detailed graph of the number of COVID-19 infected i
 |         [South Dakota](/us-sd) |     Never surpassed |    Never surpassed |              Apr 2 |             Apr 21 |
 |            [Tennessee](/us-tn) |               Apr 7 |             Apr 22 |             May 15 |             Jun 17 |
 |                [Texas](/us-tx) |              Apr 17 |             Apr 30 |             May 19 |             Jun 16 |
-|           [United States](/us) |              Jul 12 |             Jul 20 |             Jul 27 |        After Aug 4 |
 |                 [Utah](/us-ut) |     Never surpassed |    Never surpassed |             Apr 11 |             May 16 |
 |              [Vermont](/us-vt) |     Never surpassed |             Mar 31 |             Apr 15 |             May 16 |
 |       [Virgin Islands](/us-vi) |     Never surpassed |    Never surpassed |    Never surpassed |             May 31 |
