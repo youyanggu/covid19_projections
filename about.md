@@ -34,9 +34,11 @@ Feel free to reach out to me on Twitter via **[@youyanggu](https://twitter.com/y
 
 Similar to other models, our model assumes moderate social distancing through June 2020. If social distancing is relaxed prior to June, the number of infections and deaths may become higher than projected. If social distancing is tightened (e.g. to the level of the Wuhan / Hubei lockdowns in China), the number of infections and deaths may become lower.
 
-In additional to our most likely estimate, we also provide a 95% confidence interval. So for example, if we predict 62k deaths with a range of 38-105k, it means that there is roughly a 95% chance that the true deaths will be between 38-105k. There are too many real-world variables that can affect the outcome, so it will be un-scientific to provide a tighter range.
+In additional to our most likely estimate, we also provide a 95% confidence interval. So for example, if we predict 62k deaths with a range of 38-105k, it means that there is roughly a 95% chance that the true deaths will be between 38-105k. There are too many real-world variables that can affect the outcome, which results in this large range.
 
-While we attempt to predict the _official_ death total, the true death total may be higher due underreporting at various levels.
+*We want to caution against focusing on one particular number as the outcome of this model. We are in fact projecting a range that includes a most likely outcome. If the true results fall within the range, that is within the expected outcome of this model.*
+
+Also note that while we attempt to predict the *official* death total, the true death total may be higher due underreporting at various levels.
 
 ## Model evaluation
 
