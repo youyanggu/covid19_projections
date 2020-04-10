@@ -4,9 +4,11 @@ title: COVID-19 Infections Tracker
 permalink: /infections-tracker/
 ---
 
-Click on each state below to see a detailed graph of the number of COVID-19 infected individuals over time for that state. Note that this estimate is for *all* infected people, including asymptomatic and mildly symptomatic individuals, and not just those that have tested positive. Click the About tab above to learn more about how we arrived at these estimates.
+Our model provides an estimate for the number of infected individuals in every region. Note that this estimate is for *all* infected people, including asymptomatic and mildly symptomatic individuals, and not just those that have tested positive. Click the About tab above to learn more about how we arrived at these estimates.
 
-[Click here](#number-of-infected-individuals-by-date) or scroll down to see estimates of the number of infected individuals by date.
+### Contents
+- [When will each state have fewer than X,000 infections](#projected-state-recoveries)
+- [Number of infected individuals by date](#number-of-infected-individuals-by-date)
 
 ## Projected State Recoveries
 #### When will each state have fewer than X,000 total infected individuals at a given time?
@@ -14,6 +16,8 @@ Click on each state below to see a detailed graph of the number of COVID-19 infe
 We hope the below chart will provide a useful reference in estimating when a state will have recovered sufficiently for restrictions to be eased. As a comparison, at the time when China lifted the lockdown in Wuhan on Apr 8, there were an estimated 3000 infected individuals.
 
 Lifting stay-at-home orders while there are still a high number of infected individuals present may cause a resurgence in cases, as we are currently witnessing in several Asian countries.
+
+Click on each state below to see a detailed graph of the number of COVID-19 infected individuals over time for that state. 
 
 |                                |   10,000 infected |   5,000 infected |   2,500 infected |   1,000 infected |
 |--------------------------------|:-----------------:|:----------------:|:----------------:|:----------------:|
