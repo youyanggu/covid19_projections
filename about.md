@@ -48,10 +48,10 @@ As of April 9, most models (including our own) predict somewhere in the range of
 
 Below is a comparison of our models in predicting daily US deaths. To make a fair comparison, we start on April 9, the day when both our model and the IHME model projected ~60k deaths.
 
-| Date | Our projection | IHME projection | Actual
+| Date | Actual US deaths | Our projection | IHME projection | 
 | --- | --- | --- | --- |
-| Apr 9, 2020 | 1,878 | 2,037 | 1,904
-| Apr 10, 2020 | 1,855 | 2,104 | TBA
+| Apr 9, 2020 | 1,904 | 1,878 | 2,037
+| Apr 10, 2020 | TBA | 1,855 | 2,104
 
 Below we compare when the US will surpass the following COVID-19 death milestones compared with the IHME model. This is based on the projections from April 9.
 
