@@ -10,7 +10,7 @@ Our COVID-19 prediction model has an underlying simulator that simulates the COV
 
 The only COVID-19 data we use to make these projections is the daily death total provided by [The Covid Tracking Project](https://covidtracking.com/) (for US projections) and [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19) (for international projections). The raw files can be found [on GitHub](https://github.com/youyanggu/covid19_projections/tree/master/data).
 
-Every day, raw daily projections for all 50 US states and select international countries will be uploaded [here](https://github.com/youyanggu/covid19_projections/tree/master/projections). Because the model factors in new data data, it will be more accurate over time. You can also view the projections in a chart format below (currently US states only).
+Every day, raw daily projections for all 50 US states and select international countries will be uploaded [here](https://github.com/youyanggu/covid19_projections/tree/master/projections). Because the model factors in new data on a daily basis, it will be more accurate over time.
 
 While we attempt our best to ensure accuracy and precision, no model is perfect, so we urge everyone to use caution when interpreting these projections.
 
@@ -33,6 +33,9 @@ Below we compare our model with a popular model developed by the [Institute for 
 | 2020-04-08 | 49,173 | 60,415 | 14,495
 
 ## Updates
+
+2020-04-09
+* Add Infections Tracker page that estimates the number of infections in each US state
 
 2020-04-08
 * Add estimate for the number of infected individuals
