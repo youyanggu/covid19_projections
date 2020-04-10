@@ -10,13 +10,13 @@ Our COVID-19 prediction model has an underlying simulator that simulates the COV
 
 ## How our model is different
 
-While most models had been predicting [80-250k+ deaths](https://www.washingtonpost.com/politics/2020/04/02/grim-death-toll-projections-white-house-offered-monday-have-already-been-revised-upward/) in the US, we have consistently projected under 65k deaths since we first started this project on April 1.
-
-Unlike other models that try to create complex mathematical equations to "fit a curve", we try to simulate what is actually happening in the real world. This makes our model easy to interpret and understand.
+While most models had been predicting [80-250k+ deaths](https://www.washingtonpost.com/politics/2020/04/02/grim-death-toll-projections-white-house-offered-monday-have-already-been-revised-upward/) in the US, we have consistently projected under 65k deaths since we first started this project on March 30.
 
 The goal of this project is to showcase the strengths of artificial intelligence to tackle one of the world's most difficult problems: predict the track of a pandemic. We want to show that you do not have to be an expert in epidemiology to be able to make accurate projections. In some cases, starting with a blank state may actually be beneficial by eliminating certain ill-conceived preconceptions. Here, we use a pure data-driven approach by letting the machine do the learning.
 
-As an example, one of the most important properties for any infectious disease is the [basic reproduction number](https://en.wikipedia.org/wiki/Basic_reproduction_number), known as R<sub>0</sub>. Rather than pre-setting this value based on assumptions, our model is able to learn the value that most closely matches the data. For Italy, the R<sub>0</sub> is found to be around 2-2.2, while for New York, the R<sub>0</sub> is 3.6-3.8. For most regions, the value is found to be around 2, which matches [the WHO findings](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf) from China.
+Unlike other models that try to create complex mathematical equations to "fit a curve", we try to simulate what is actually happening in the real world. This makes our model easy to interpret and understand.
+
+As an example, one of the most important properties for any infectious disease is the [basic reproduction number](https://en.wikipedia.org/wiki/Basic_reproduction_number), known as R<sub>0</sub>. Rather than pre-setting this value based on assumptions, our model is able to learn the value that most closely matches the data. For Italy, the R<sub>0</sub> is found to be around 2-2.2, while for New York state, the R<sub>0</sub> is 3.6-3.8. This means that on average, an infected person in New York will infect 3.6 to 3.8 additional people. For most regions, the R<sub>0</sub> is found to be around 2, which matches [the WHO findings](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf) from China.
 
 Another strength of our model is that because it is data-driven, it is quick to run and easy to regenerate. No daily tuning needs to be done - it just needs the raw data. Unlike other models, we can update our model on a daily basis, leading to more accurate projections.
 
