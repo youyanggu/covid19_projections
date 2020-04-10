@@ -1,6 +1,6 @@
-There are many existing COVID-19 / coronavirus models out there. We believe each of them has shortcomings that can be improved upon. Here we present a model that uses machine learning to make COVID-19 projections for infections (including asymptomatic and untested cases), peak deaths and total deaths in the US and around the world. We hope these estimates will act as an alternative resource in determining how to best allocate medical resources and estimating when shelter-at-home orders will be relaxed.
+There are many existing COVID-19 / coronavirus models out there. We believe each of them has shortcomings that can be improved upon. Here we present a model that uses machine learning to make COVID-19 projections for infections, peak deaths, and total deaths in the US and around the world. We hope these estimates will act as an alternative resource in determining how to best allocate medical resources and estimating when shelter-at-home orders will be relaxed.
 
-See our [Infections Tracker](/infections-tracker) to see our estimate of how many people are infected in each US state at any given time. Click the About tab above to learn more about our model.
+See our [Infections Tracker](/infections-tracker) to see our estimate of how many people are infected in each US state at any given time (including asymptomatic and untested cases). Click the About tab above to learn more about our model.
 
 ## Current Projection for US (as of Apr 10, 2020):
 <p align="center">
