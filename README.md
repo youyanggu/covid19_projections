@@ -4,8 +4,8 @@ New! See our **[Infections Tracker](/infections)** to see how many people are in
 
 ### Projection for US:
 <p align="center">
-**72,168** new infections on **April 9, 2020** | Currently infected: **1.6 million**<br>
-Peak: **1,943** deaths on **April 7, 2020** | Total: **62,225** deaths (by August 4, 2020) {% include iframe.html %}
+  <b>72,168</b> new infections on <b>April 9, 2020</b> | Currently infected: <b>1.6 million</b><br>
+  Peak: <b>1,943</b> deaths on <b>April 7, 2020</b> | Total: <b>62,225</b> deaths (by August 4, 2020) {% include iframe.html %}
 </p>
 
 # COVID-19 Projections Using Machine Learning
