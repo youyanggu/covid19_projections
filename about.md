@@ -38,7 +38,7 @@ In additional to our most likely estimate, we also provide a 95% confidence inte
 
 While we attempt our best to ensure accuracy and precision, no model is perfect, so we urge everyone to use caution when interpreting these projections. This is just one particular model, so we encourage everyone to evaluate and be open to multiple sources. At the end of the day, the decision-making rests in the hands of people, not machines.
 
-Also note that while we attempt to predict the *official* death total, the true death total may be higher due underreporting at various levels.
+Also note that while we attempt to predict the *official* death total, the true death total may be higher due to [underreporting at various levels](https://www.nytimes.com/2020/04/05/us/coronavirus-deaths-undercount.html).
 
 ## Model evaluation
 
