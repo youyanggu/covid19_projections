@@ -5,12 +5,14 @@ description: When will each US state reach below X COVID-19 infections?
 permalink: /infections/
 ---
 
-Click on each state to see a detailed graph of the number of COVID-19 infected individuals over time for that state. Note that this estimate includes all infected people, not just those that tested positive. So this includes asymptomatic and mildly symptomatic individuals as well. [Click here](/about) to learn more about how we arrived at these estimates.
+Click on each state to see a detailed graph of the number of COVID-19 infected individuals over time for that state. Note that this estimate includes all infected people, not just those that tested positive. So this includes asymptomatic and mildly symptomatic individuals as well. CLick [here](/about) to learn more about how we arrived at these estimates.
 
 [Click here](#number-of-infected-individuals-by-date) to see estimates of the number of infected individuals by date.
 
 ## State Recoveries
 #### When will each state have fewer than X total infected individuals at a given time?
+
+Lifting stay-at-home orders when there are still a high number of infected individuals present may cause a resurgence in cases, as we are currently witnessing in several Asian countries.
 
 |                                |    10,000 infected  |    5,000 infected  |    2,500 infected  |    1,000 infected  |
 |--------------------------------|---------------------|--------------------|--------------------|--------------------|
@@ -71,7 +73,7 @@ Click on each state to see a detailed graph of the number of COVID-19 infected i
 |              [Wyoming](/us-wy) |                 N/A |                N/A |                N/A |                N/A |
 
 ## Number of infected individuals by date
-This is an estimate of the number of infected individuals present on each date.
+This is an estimate of the number of infected individuals present on each date. This includes all individuals who are currently infected on that date.
 
 |                                |   Apr 9 (today) |   Apr 15 |   Apr 30 |   May 15 |   May 30 |   Jun 15 |   Jun 30 |   Jul 15 |   Jul 30 |
 |--------------------------------|----------------:|---------:|---------:|---------:|---------:|---------:|---------:|---------:|---------:|
