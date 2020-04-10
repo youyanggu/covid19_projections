@@ -30,7 +30,7 @@ In this section we will compare our projections with a popular model developed b
 
 As of April 9, most models (including our own) now predict somewhere in the range of 50-70k deaths in the US. Nevertheless, the exact trajectory and state-specific projections still differ widely. For example, while the IHME projects 7,781 US deaths from May 1 through August 4, we project 17,449 deaths during that same time period.
 
-Below we compare when the US will hit the following COVID-19 death milestones compared with the IHME model. This is based on the projections taken from *April 9, 2020*.
+Below we compare when the US will reach the following COVID-19 death milestones compared with the IHME model. This is based on the projections taken from *April 9, 2020*.
 
 | US deaths | Our 4/9 projection | IHME 4/9 projection | Actual
 | --- | --- | --- | --- |
@@ -47,7 +47,7 @@ Below we compare when the US will hit the following COVID-19 death milestones co
 
 Below are the same projections for New York state, Michigan, and Connecticut, some of the worst-hit states in the US:
 
-| NY deaths | Our 4/9 projection | 4/9 IHME projection | Actual
+| NY deaths | Our 4/9 projection | IHME 4/9 projection | Actual
 | --- | --- | --- | --- |
 | 8,000 | April 11 | April 11 | -
 | 10,000 | April 14 | April 14 | -
