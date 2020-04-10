@@ -1,21 +1,21 @@
 ---
 layout: default
 title: COVID-19 Infections Tracker
-description: When will each US state reach below X COVID-19 infections?
+description: When will each US state reach below X,000 COVID-19 infections?
 permalink: /infections/
 ---
 
-Click on each state to see a detailed graph of the number of COVID-19 infected individuals over time for that state. Note that this estimate includes all infected people, such as asymptomatic and mildly symptomatic individuals, and not just those that tested positive. Click [here](/about) to learn more about how we arrived at these estimates.
+Click on each state below to see a detailed graph of the number of COVID-19 infected individuals over time for that state. Note that this estimate is for *all* infected people, including asymptomatic and mildly symptomatic individuals, and not just those that have tested positive. Click the About tab above to learn more about how we arrived at these estimates.
 
 [Click here](#number-of-infected-individuals-by-date) or scroll down to see estimates of the number of infected individuals by date.
 
-## State Recoveries
-#### When will each state have fewer than X total infected individuals at a given time?
+## Projected State Recoveries
+#### When will each state have fewer than X,000 total infected individuals at a given time?
 
-Lifting stay-at-home orders when there are still a high number of infected individuals present may cause a resurgence in cases, as we are currently witnessing in several Asian countries.
+We hope the below chart will provide a useful reference in estimating when a state will have recovered sufficiently for restrictions to be eased. Lifting stay-at-home orders while there are still a high number of infected individuals present may cause a resurgence in cases, as we are currently witnessing in several Asian countries. For comparison, when China lifted the lockdown in Wuhan on Apr 8, there were an estimated 3000 infected individuals.
 
 |                                |    10,000 infected  |    5,000 infected  |    2,500 infected  |    1,000 infected  |
-|--------------------------------|---------------------|--------------------|--------------------|--------------------|
+|--------------------------------|:-------------------:|:------------------:|:------------------:|:------------------:|
 |           [United States](/us) |              Jul 12 |             Jul 20 |             Jul 27 |        After Aug 4 |
 |              [Alabama](/us-al) |              Apr 15 |             May 20 |             Jun 15 |              Jul 2 |
 |               [Alaska](/us-ak) |     Never surpassed |    Never surpassed |              Apr 2 |             Apr 29 |
@@ -72,8 +72,8 @@ Lifting stay-at-home orders when there are still a high number of infected indiv
 |            [Wisconsin](/us-wi) |               Apr 9 |             Apr 22 |             May 12 |             Jun 13 |
 |              [Wyoming](/us-wy) |                 N/A |                N/A |                N/A |                N/A |
 
-## Number of infected individuals by date
-This is an estimate of the number of infected individuals present on each date. This includes all individuals who are currently infected on that date.
+## Number of Infected Individuals by Date
+This is an estimate of the number of infected individuals present on each date. This includes all individuals who are currently infected on that date, and encompasses asymtomatic + untested individuals.
 
 |                                |   Apr 9 (today) |   Apr 15 |   Apr 30 |   May 15 |   May 30 |   Jun 15 |   Jun 30 |   Jul 15 |   Jul 30 |
 |--------------------------------|----------------:|---------:|---------:|---------:|---------:|---------:|---------:|---------:|---------:|
