@@ -6,11 +6,19 @@ permalink: /about/
 
 ## About the model
 
-Our COVID-19 prediction model has an underlying simulator that simulates the COVID-19 epidemic in a given region. The parameters/inputs of the simulator are then learned using machine learning techniques that attempts to minimize the error between the projected outputs and the actual results. After some additional validation techniques (to minimize a phenomenon called overfitting), we use the learned parameters to simulate the future and make projections.
+Our COVID-19 prediction model has an underlying simulator that simulates the COVID-19 epidemic in each given country/state/region. The parameters/inputs of this simulator are then learned using machine learning techniques that attempts to minimize the error between the projected outputs and the actual results. After some additional validation techniques (to minimize a phenomenon called overfitting), we use the learned parameters to simulate the future and make projections.
 
-The goal of this project is to showcase the strengths of artificial intelligence to tackle some of the world's most difficult problems. We want to show that you do not have to be an expert in epidemiology to be able to make accurate projections. In some cases, starting with a blank state may actually be beneficial by eliminating certain ill-conceived preconceptions. Here, we use a pure data-driven approach by letting the machine do the learning.
+## How our model is different
 
-As an example, one of the most important properties for any infectious disease is the [basic reproduction number](https://en.wikipedia.org/wiki/Basic_reproduction_number), known as R<sub>0</sub>. Rather than pre-setting this value based on assumptions, our model is able to learn the value that most closely matches the data. For Italy, the R<sub>0</sub> is found to be around 2-2.2, while for New York, the R<sub>0</sub> is 3.6-3.8. For most regions, the value is found to be around 2, which matches [the findings from China](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf).
+Unlike other models that try to create complex mathematical models to fit a curve, we try to simulate what is actually happening in the real world. This makes our model easy to interpret and understand.
+
+The goal of this project is to showcase the strengths of artificial intelligence to tackle one of the world's most difficult problems: predict the track of a pandemic. We want to show that you do not have to be an expert in epidemiology to be able to make accurate projections. In some cases, starting with a blank state may actually be beneficial by eliminating certain ill-conceived preconceptions. Here, we use a pure data-driven approach by letting the machine do the learning.
+
+As an example, one of the most important properties for any infectious disease is the [basic reproduction number](https://en.wikipedia.org/wiki/Basic_reproduction_number), known as R<sub>0</sub>. Rather than pre-setting this value based on assumptions, our model is able to learn the value that most closely matches the data. For Italy, the R<sub>0</sub> is found to be around 2-2.2, while for New York, the R<sub>0</sub> is 3.6-3.8. For most regions, the value is found to be around 2, which matches [the WHO findings](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf) from China.
+
+Another strength of our model is that because it is data-driven, it is quick to run and easy to regenerate. No daily tuning needs to be done - it just needs the raw data. Unlike other models, we can update our model on a daily basis, leading to more accurate projections.
+
+## Data
 
 The only COVID-19 data we use to make these projections is the daily death total provided by [The Covid Tracking Project](https://covidtracking.com/) (for US projections) and [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19) (for international projections). The raw files can be found [on GitHub](https://github.com/youyanggu/covid19_projections/tree/master/data). Due to the reasonings explained [by Nate Silver](https://fivethirtyeight.com/features/coronavirus-case-counts-are-meaningless/), we do not use case-related data in our modeling.
 
