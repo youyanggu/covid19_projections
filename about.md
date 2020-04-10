@@ -20,7 +20,7 @@ Feel free to reach out to me on Twitter via **[@youyanggu](https://twitter.com/y
 
 ## Assumptions
 
-Similar to other models, our model assumes full social distancing through June 2020. If social distancing is relaxed prior to June, the number of infections and deaths may become higher than projected.
+Similar to other models, our model assumes moderate social distancing through June 2020. If social distancing is relaxed prior to June, the number of infections and deaths may become higher than projected. If social distancing is tightened (e.g. to the level of the Wuhan / Hubei lockdowns in China), the number of infections and deaths may become lower.
 
 While we attempt to predict the _official_ death total, the true death total may be higher due underreporting at various levels.
 
