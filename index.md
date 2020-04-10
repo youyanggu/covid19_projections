@@ -10,7 +10,7 @@ See our **[Infections Tracker](/infections-tracker)** to see how many people are
 
 ## View Projections
 
-Below you can find our projections for every US state and 37 countries (including all EU countries).
+Below you can find our projections for every US state and 38 countries (including all 27 EU countries).
 
 | [United States](us) |  |  |
 | --- | --- | --- |
