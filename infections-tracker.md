@@ -140,4 +140,3 @@ This is an estimate of the number of infected individuals present on each date. 
 | [Wisconsin](/us-wi)            |           13,379 |    11,257 |    7,147 |    4,934 |    3,477 |    2,273 |    1,307 |      665 |      348 |
 | [Wyoming](/us-wy)              |              N/A |       N/A |      N/A |      N/A |      N/A |      N/A |      N/A |      N/A |      N/A |
 
-[Back to top](#top)
