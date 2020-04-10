@@ -1,7 +1,7 @@
 ---
 layout: default
 title: COVID-19 Infections Tracker
-permalink: /infections/
+permalink: /infections-tracker/
 ---
 
 Click on each state below to see a detailed graph of the number of COVID-19 infected individuals over time for that state. Note that this estimate is for *all* infected people, including asymptomatic and mildly symptomatic individuals, and not just those that have tested positive. Click the About tab above to learn more about how we arrived at these estimates.
