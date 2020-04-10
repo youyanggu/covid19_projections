@@ -12,7 +12,7 @@ Our COVID-19 prediction model has an underlying simulator that simulates the COV
 
 While most models had been predicting [80-250k+ deaths](https://www.washingtonpost.com/politics/2020/04/02/grim-death-toll-projections-white-house-offered-monday-have-already-been-revised-upward/) in the US, we have consistently projected under 65k deaths since we first started this project on April 1.
 
-Unlike other models that try to create complex mathematical models to fit a curve, we try to simulate what is actually happening in the real world. This makes our model easy to interpret and understand.
+Unlike other models that try to create complex mathematical equations to "fit a curve", we try to simulate what is actually happening in the real world. This makes our model easy to interpret and understand.
 
 The goal of this project is to showcase the strengths of artificial intelligence to tackle one of the world's most difficult problems: predict the track of a pandemic. We want to show that you do not have to be an expert in epidemiology to be able to make accurate projections. In some cases, starting with a blank state may actually be beneficial by eliminating certain ill-conceived preconceptions. Here, we use a pure data-driven approach by letting the machine do the learning.
 
@@ -26,8 +26,6 @@ The only COVID-19 data we use to make these projections is the daily death total
 
 Every day, raw daily projections for all 50 US states and select international countries will be uploaded [here](https://github.com/youyanggu/covid19_projections/tree/master/projections). Because the model factors in new data on a daily basis, it will be more accurate over time as more data becomes available. We are currently in the process of submitting our findings for peer review, but due to the current circumstances we are prioritizing the public release of our research.
 
-While we attempt our best to ensure accuracy and precision, no model is perfect, so we urge everyone to use caution when interpreting these projections.
-
 Feel free to reach out to me on Twitter via [@youyanggu](https://twitter.com/youyanggu) with any questions/insights/feedback. You can also find me [on LinkedIn](https://www.linkedin.com/in/youyanggu/).
 
 ## Assumptions
@@ -37,6 +35,8 @@ Similar to other models, our model assumes moderate social distancing through Ju
 In additional to our most likely estimate, we also provide a 95% confidence interval. So for example, if we predict 62k deaths with a range of 38-105k, it means that there is roughly a 95% chance that the true deaths will be between 38-105k. There are too many real-world variables that can affect the outcome, which results in this large range.
 
 *We want to caution against focusing on one particular number as the outcome of this model. We are in fact projecting a range which includes a most likely outcome. If the true results fall within the range, that is within the expected outcome of this model.*
+
+While we attempt our best to ensure accuracy and precision, no model is perfect, so we urge everyone to use caution when interpreting these projections. This is just one particular model, so we encourage everyone to evaluate and be open to multiple sources. At the end of the day, the decision-making rests in the hands of people, not machines.
 
 Also note that while we attempt to predict the *official* death total, the true death total may be higher due underreporting at various levels.
 
