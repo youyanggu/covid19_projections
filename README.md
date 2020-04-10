@@ -51,8 +51,8 @@ Below you can find our projections for every US state and 37 countries (includin
 
 | Other Countries |  |  |
 | --- | --- | --- |
-| [Brazil](brazil) | [Iran](iran) | [Turkey](turkey) |
-| [Canada](canada) | [Mexico](mexico) | [United Kingdom](united-kingdom) |
-| [India](india) | [Philippines](philippines) |
-| [Indonesia](indonesia) | [Switzerland](switzerland) |
+| [Brazil](/brazil) | [Indonesia](/indonesia) | [Switzerland](/switzerland) |
+| [Canada](/canada) | [Iran](/iran) | [Turkey](/turkey) |
+| [China](/china) | [Mexico](/mexico) | [United Kingdom](/united-kingdom) |
+| [India](/india) | [Philippines](/philippines) |
 
