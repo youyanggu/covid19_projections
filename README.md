@@ -1,5 +1,7 @@
 Here we present a model that uses machine learning to make COVID-19 / coronavirus projections for peak and total deaths in the US and around the world. We also present an estimate for the true number of infected individuals (including asymptomatic and untested cases). We believe these estimates will be helpful in determining how to best allocate medical resources and when to lift shelter-at-home orders.
 
+New! See our **[Infections Tracker](/infections)** to see how many people are infected in each state.
+
 ### Projection for US:
 **51,271** new infections on **April 9, 2020** | Currently infected: **1.3 million**<br>
 Peak: **1,943** deaths on **April 7, 2020** | Total: **49,173** deaths (by June 30, 2020) {% include iframe.html %}
