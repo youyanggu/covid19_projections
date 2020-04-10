@@ -5,9 +5,9 @@ description: When will each US state reach below X COVID-19 infections?
 permalink: /infections/
 ---
 
-Click on each state to see a detailed graph of the number of COVID-19 infected individuals over time for that state. Note that this estimate includes all infected people, not just those that tested positive. So this includes asymptomatic and mildly symptomatic individuals as well.
+Click on each state to see a detailed graph of the number of COVID-19 infected individuals over time for that state. Note that this estimate includes all infected people, not just those that tested positive. So this includes asymptomatic and mildly symptomatic individuals as well. [Click here](/about) to learn more about how we arrived at these estimates.
 
-Scroll down to see when each state will have fewer than 1000, 2500, 5000, and 10000 individuals.
+Scroll down to see when each state will have fewer than 1000, 2500, 5000, and 10000 infected individuals.
 
 ## How many infected individuals are present on each date
 
