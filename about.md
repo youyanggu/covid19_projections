@@ -26,11 +26,11 @@ Similar to other models, our model assumes full social distancing through June 2
 
 ## Model evaluation
 
-While other models have predicted 100-250k+ deaths as late as early April, we have consistently projected under 60k deaths in the US since we launched our first projections on Apr 1.
+In this section we will compare our projections with a popular model developed by the [Institute for Health Metrics and Evaluation (IHME)](https://covid19.healthdata.org/).
 
-As of April 9, most models (including our own) now predict somewhere in the range of 50-70k deaths in the US. Nevertheless, the exact trajectory and state-specific projections still differ widely.
+As of April 9, most models (including our own) now predict somewhere in the range of 50-70k deaths in the US. Nevertheless, the exact trajectory and state-specific projections still differ widely. For example, while the IHME projects 7,781 US deaths from May 1 through August 4, we project 17,449 deaths during that same time period.
 
-In this section we will compare our projections of when the US will hit the following COVID-19 death milestones with a popular model developed by the [Institute for Health Metrics and Evaluation (IHME)](https://covid19.healthdata.org/). This is based on the projections taken from *April 9, 2020*.
+Below we compare when the US will hit the following COVID-19 death milestones compared with the IHME model. This is based on the projections taken from *April 9, 2020*.
 
 | US deaths | Our 4/9 projection | IHME 4/9 projection | Actual
 | --- | --- | --- | --- |
@@ -79,7 +79,7 @@ Below are the same projections for New York state, Michigan, and Connecticut, so
 | 4,000 | (will not reach) | June 2 | -
 | *Total* | *2,252* | *4,003* | -
 
-We also present an international projection below, for United Kingdom.
+We also present an international projection below, for the United Kingdom.
 
 | UK deaths | Our 4/9 projection | IHME 4/9 projection | Actual
 | --- | --- | --- | --- |
