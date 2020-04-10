@@ -12,7 +12,7 @@ The goal of this project is to showcase the strengths of artificial intelligence
 
 ## How our model is different
 
-While most models had been predicting [80-250k+ deaths](https://www.washingtonpost.com/politics/2020/04/02/grim-death-toll-projections-white-house-offered-monday-have-already-been-revised-upward/) in the US, we have consistently projected under 65k deaths since we first started this project on March 30.
+While most models had been predicting [80-250k+ deaths](https://www.washingtonpost.com/politics/2020/04/02/grim-death-toll-projections-white-house-offered-monday-have-already-been-revised-upward/) in the US, we have consistently projected under 65k deaths since we launched our [first projection](https://github.com/youyanggu/covid19_projections/blob/master/projections/2020-04-01/US.csv) on April 1, with a peak of under 2,000 deaths. 
 
 Unlike other models that try to create complex mathematical equations to "fit a curve", we try to simulate what is actually happening in the real world. This makes our model easy to interpret and understand.
 
