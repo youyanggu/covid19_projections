@@ -10,6 +10,8 @@ Our COVID-19 prediction model has an underlying simulator that simulates the COV
 
 ## How our model is different
 
+While most models had been predicting [80-250k+ deaths](https://www.washingtonpost.com/politics/2020/04/02/grim-death-toll-projections-white-house-offered-monday-have-already-been-revised-upward/) in the US, we have consistently projected under 65k deaths since we first started this project on April 1.
+
 Unlike other models that try to create complex mathematical models to fit a curve, we try to simulate what is actually happening in the real world. This makes our model easy to interpret and understand.
 
 The goal of this project is to showcase the strengths of artificial intelligence to tackle one of the world's most difficult problems: predict the track of a pandemic. We want to show that you do not have to be an expert in epidemiology to be able to make accurate projections. In some cases, starting with a blank state may actually be beneficial by eliminating certain ill-conceived preconceptions. Here, we use a pure data-driven approach by letting the machine do the learning.
@@ -31,6 +33,8 @@ Feel free to reach out to me on Twitter via **[@youyanggu](https://twitter.com/y
 ## Assumptions
 
 Similar to other models, our model assumes moderate social distancing through June 2020. If social distancing is relaxed prior to June, the number of infections and deaths may become higher than projected. If social distancing is tightened (e.g. to the level of the Wuhan / Hubei lockdowns in China), the number of infections and deaths may become lower.
+
+In additional to our most likely estimate, we also provide a 95% confidence interval. So for example, if we predict 62k deaths with a range of 38-105k, it means that there is roughly a 95% chance that the true deaths will be between 38-105k. There are too many real-world variables that can affect the outcome, so it will be un-scientific to provide a tighter range.
 
 While we attempt to predict the _official_ death total, the true death total may be higher due underreporting at various levels.
 
