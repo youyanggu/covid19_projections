@@ -4,8 +4,8 @@ See our **[Infections Tracker](/infections-tracker)** to see how many people are
 
 ## Current Projection for US (as of Apr 9, 2020):
 <p align="center">
-  <b>72,168</b> new infections on <b>April 10, 2020</b> | Currently infected: <b>1.6 million</b><br>
-  Peak: <b>1,943</b> deaths on <b>April 7, 2020</b> | Total: <b>62,225</b> deaths (Range: 38-105k) (by Aug 4, 2020) {% include iframe.html %}
+  <b>72,168</b> new infections on <b>Apr 10, 2020</b> | Currently infected: <b>1.6 million</b><br>
+  Peak: <b>1,943</b> deaths on <b>Apr 7, 2020</b> | Total: <b>62,225</b> deaths by Aug 4, 2020 (Range: 38-105k) {% include iframe.html %}
 </p>
 
 ## View Projections
