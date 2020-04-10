@@ -69,9 +69,9 @@ Scroll down to see when each state will have fewer than 1000, 2500, 5000, and 10
 | [Wisconsin](/us-wi)            |           9,574 |    6,790 |    3,512 |    2,262 |    1,531 |      907 |      381 |       96 |       21 |
 | [Wyoming](/us-wy)              |             N/A |      N/A |      N/A |      N/A |      N/A |      N/A |      N/A |      N/A |      N/A |
 
-## When will each state have fewer than X infected indidviduals?
+## When will each state have fewer than X total infected indidviduals at a given time?
 
-|                                |   10,000 infections |   5,000 infections |   2,500 infections |   1,000 infections |
+|                                |    10,000 infected  |    5,000 infected  |    2,500 infected  |    1,000 infected  |
 |--------------------------------|---------------------|--------------------|--------------------|--------------------|
 |           [United States](/us) |              Jul 12 |             Jul 20 |             Jul 27 |        After Aug 4 |
 |              [Alabama](/us-al) |              Apr 15 |             May 20 |             Jun 15 |              Jul 2 |
