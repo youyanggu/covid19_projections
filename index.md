@@ -2,10 +2,10 @@ Here we present a model that uses machine learning to make COVID-19 / coronaviru
 
 See our [Infections Tracker](/infections-tracker) to see our estimate of how many people are infected in each US state at any given time.
 
-## Current Projection for US (as of Apr 9, 2020):
+## Current Projection for US (as of Apr 10, 2020):
 <p align="center">
-  <b>72,168</b> new infections on <b>Apr 10, 2020</b> | Currently infected: <b>1.6 million</b><br>
-  Peak: <b>1,943</b> deaths on <b>Apr 7, 2020</b> | Total: <b>62,225</b> deaths by Aug 4, 2020 (Range: 38-105k) {% include iframe.html %}
+  <b>85,312</b> new infections on <b>Apr 11, 2020</b> | Currently infected: <b>1.8 million</b><br>
+  Peak: <b>2,001</b> deaths on <b>Apr 12, 2020</b> | Total: <b>70,699</b> deaths by Aug 4, 2020 (Range: 41-125k) {% include iframe.html %}
 </p>
 
 ## View Projections
