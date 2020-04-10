@@ -54,14 +54,18 @@ Below are the same projections for New York state, Michigan, and Connecticut, so
 | 16,000 | May 16 | (will not reach) | -
 | *Total* | *16,713* | *13,307* | -
 
+<br />
+
 | MI deaths | Our 4/9 projection | IHME 4/9 projection | Actual
 | --- | --- | --- | --- |
 | 1,500 | April 13 | April 13 | -
 | 2,000 | April 17 | April 20 | -
 | 2,500 | April 23 | (will not reach) | -
-| 3,000 | May 1 | (will not reach) | -
-| 3,500 | May 16 | (will not reach) | -
-| *Total* | *4,112* | *2,103* | -
+| 3,000 | May 2 | (will not reach) | -
+| 3,500 | May 19 | (will not reach) | -
+| *Total* | *3,994* | *2,103* | -
+
+<br />
 
 | CT deaths | Our 4/9 projection | IHME 4/9 projection | Actual
 | --- | --- | --- | --- |
@@ -71,6 +75,20 @@ Below are the same projections for New York state, Michigan, and Connecticut, so
 | 3,000 | (will not reach) | May 2 | -
 | 4,000 | (will not reach) | June 2 | -
 | *Total* | *1,906* | *4,003* | -
+
+We also present an international projection below, for United Kingdom.
+
+| UK deaths | Our 4/9 projection | IHME 4/9 projection | Actual
+| --- | --- | --- | --- |
+| 10,000 | April 12 | April 9 | -
+| 15,000 | April 18 | April 12 | -
+| 20,000 | April 25 | April 14 | -
+| 25,000 | May 10 | April 16 | -
+| 30,000 | (will not reach) | April 18 | -
+| 40,000 | (will not reach) | April 21 | -
+| 50,000 | (will not reach) | April 25 | -
+| 60,000 | (will not reach) | May 1 | -
+| *Total* | *29,456* | *66,314* | -
 
 ## Updates
 
