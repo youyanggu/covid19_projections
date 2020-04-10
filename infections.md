@@ -1,7 +1,6 @@
 ---
 layout: default
 title: COVID-19 Infections Tracker
-description: When will each US state reach below X,000 COVID-19 infections?
 permalink: /infections/
 ---
 
