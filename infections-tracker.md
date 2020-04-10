@@ -77,7 +77,7 @@ Click on each state below to see a detailed graph of the number of COVID-19 infe
 |            [Wisconsin](/us-wi) |            Apr 19 |           May 15 |           Jun 12 |            Jul 6 |
 |              [Wyoming](/us-wy) |   Never surpassed |  Never surpassed |  Never surpassed |  Never surpassed |
 
-[Back to top](#content)
+[Back to top](#top)
 
 ## Number of Infected Individuals by Date
 This is an estimate of the number of infected individuals present on each date. This includes all individuals who are currently infected on that date, and encompasses asymtomatic + untested individuals.
@@ -140,4 +140,4 @@ This is an estimate of the number of infected individuals present on each date. 
 | [Wisconsin](/us-wi)            |           13,379 |    11,257 |    7,147 |    4,934 |    3,477 |    2,273 |    1,307 |      665 |      348 |
 | [Wyoming](/us-wy)              |              N/A |       N/A |      N/A |      N/A |      N/A |      N/A |      N/A |      N/A |      N/A |
 
-[Back to top](#content)
+[Back to top](#top)
