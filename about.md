@@ -54,6 +54,8 @@ Below is a comparison of our models in predicting daily US deaths. To make a fai
 | --- | --- | --- | --- |
 | Apr 9, 2020 | 1,904 | 1,878 | 2,037
 | Apr 10, 2020 | 1,932 | 1,855 | 2,104
+| Apr 11, 2020 | TBA | 	1,996 | 1,907
+
 
 Below we compare when the US will surpass the following COVID-19 death milestones compared with the IHME model. This is based on the projections from April 9.
 
