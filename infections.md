@@ -7,9 +7,9 @@ permalink: /infections/
 
 Click on each state to see a detailed graph of the number of COVID-19 infected individuals over time for that state. Note that this estimate includes all infected people, not just those that tested positive. So this includes asymptomatic and mildly symptomatic individuals as well. [Click here](/about) to learn more about how we arrived at these estimates.
 
-Scroll down to see when each state will have fewer than 1000, 2500, 5000, and 10000 infected individuals.
+[Click here](#state-recoveries) to see when each state will have fewer than 10000, 5000, 2500, and 1000 infected individuals.
 
-## How many infected individuals are present on each date
+#### How many infected individuals are present on each date
 
 |                                |   Apr 9 (today) |   Apr 15 |   Apr 30 |   May 15 |   May 30 |   Jun 15 |   Jun 30 |   Jul 15 |   Jul 30 |
 |--------------------------------|----------------:|---------:|---------:|---------:|---------:|---------:|---------:|---------:|---------:|
@@ -69,7 +69,8 @@ Scroll down to see when each state will have fewer than 1000, 2500, 5000, and 10
 | [Wisconsin](/us-wi)            |           9,574 |    6,790 |    3,512 |    2,262 |    1,531 |      907 |      381 |       96 |       21 |
 | [Wyoming](/us-wy)              |             N/A |      N/A |      N/A |      N/A |      N/A |      N/A |      N/A |      N/A |      N/A |
 
-## When will each state have fewer than X total infected indidviduals at a given time?
+## State Recoveries
+#### When will each state have fewer than X total infected individuals at a given time?
 
 |                                |    10,000 infected  |    5,000 infected  |    2,500 infected  |    1,000 infected  |
 |--------------------------------|---------------------|--------------------|--------------------|--------------------|
