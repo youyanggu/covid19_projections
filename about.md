@@ -12,7 +12,7 @@ The goal of this project is to showcase the strengths of artificial intelligence
 
 ## How our model is different
 
-While most models had been predicting [80-250k+ deaths](https://www.washingtonpost.com/politics/2020/04/02/grim-death-toll-projections-white-house-offered-monday-have-already-been-revised-upward/) in the US, we have consistently projected under 65k deaths since we launched our [first projection](https://github.com/youyanggu/covid19_projections/blob/master/projections/2020-04-01/US.csv) on April 1, with a peak of under 2,000 deaths. 
+While most models had been predicting [80-250k+ deaths](https://www.washingtonpost.com/politics/2020/04/02/grim-death-toll-projections-white-house-offered-monday-have-already-been-revised-upward/) in the US, we have consistently projected under 65k deaths since we launched our first projection on April 1, with a peak of under 2,000 deaths. 
 
 Unlike other models that try to create complex mathematical equations to "fit a curve", we try to simulate what is actually happening in the real world. This makes our model easy to interpret and understand.
 
@@ -26,7 +26,9 @@ The only COVID-19 data we use to make these projections is the daily death total
 
 Every day, raw daily projections for all 50 US states and select international countries will be uploaded [here](https://github.com/youyanggu/covid19_projections/tree/master/projections). Because the model factors in new data on a daily basis, it will be more accurate over time as more data becomes available. We are currently in the process of submitting our findings for peer review, but due to the current circumstances we are prioritizing the public release of our research.
 
-Feel free to reach out to me on Twitter via [@youyanggu](https://twitter.com/youyanggu) with any questions/insights/feedback. You can also find me [on LinkedIn](https://www.linkedin.com/in/youyanggu/).
+## Contact
+
+We enourage questions/insights/feedback! Feel free to reach out to Youyang Gu on Twitter via [@youyanggu](https://twitter.com/youyanggu) or [on LinkedIn](https://www.linkedin.com/in/youyanggu/).
 
 ## Assumptions
 
