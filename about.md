@@ -28,7 +28,7 @@ Every day, raw daily projections for all 50 US states and select international c
 
 While we attempt our best to ensure accuracy and precision, no model is perfect, so we urge everyone to use caution when interpreting these projections.
 
-Feel free to reach out to me on Twitter via **[@youyanggu](https://twitter.com/youyanggu)** with any questions/insights/feedback. You can also find me [on LinkedIn](https://www.linkedin.com/in/youyanggu/).
+Feel free to reach out to me on Twitter via [@youyanggu](https://twitter.com/youyanggu) with any questions/insights/feedback. You can also find me [on LinkedIn](https://www.linkedin.com/in/youyanggu/).
 
 ## Assumptions
 
@@ -36,7 +36,7 @@ Similar to other models, our model assumes moderate social distancing through Ju
 
 In additional to our most likely estimate, we also provide a 95% confidence interval. So for example, if we predict 62k deaths with a range of 38-105k, it means that there is roughly a 95% chance that the true deaths will be between 38-105k. There are too many real-world variables that can affect the outcome, which results in this large range.
 
-*We want to caution against focusing on one particular number as the outcome of this model. We are in fact projecting a range that includes a most likely outcome. If the true results fall within the range, that is within the expected outcome of this model.*
+*We want to caution against focusing on one particular number as the outcome of this model. We are in fact projecting a range which includes a most likely outcome. If the true results fall within the range, that is within the expected outcome of this model.*
 
 Also note that while we attempt to predict the *official* death total, the true death total may be higher due underreporting at various levels.
 
