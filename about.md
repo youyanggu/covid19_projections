@@ -36,12 +36,14 @@ In this section we will compare our projections of when the US will hit the foll
 | --- | --- | --- | --- |
 | 20,000 | April 11 | April 11 | -
 | 25,000 | April 14 | April 13 | -
-| 30,000 | April 18 | April 16 | -
-| 35,000 | April 22 | April 18 | -
-| 40,000 | April 27 | April 21 | -
-| 45,000 | May 6 | April 24 | -
-| 50,000 | May 22 | April 28 | -
-| *Total* | *55,001* | *60,415* | -
+| 30,000 | April 17 | April 16 | -
+| 35,000 | April 21 | April 18 | -
+| 40,000 | April 26 | April 21 | -
+| 45,000 | May 2 | April 24 | -
+| 50,000 | May 10 | April 28 | -
+| 55,000 | May 24 | April 28 | -
+| 60,000 | June 20 | April 28 | -
+| *Total* | *62,225* | *60,415* | -
 
 Below are the same projections for New York state, Michigan, and Connecticut, some of the worst-hit states in the US:
 
@@ -50,9 +52,9 @@ Below are the same projections for New York state, Michigan, and Connecticut, so
 | 8,000 | April 11 | April 11 | -
 | 10,000 | April 14 | April 14 | -
 | 12,000 | April 18 | April 18 | -
-| 14,000 | April 26 | (will not reach) | -
-| 16,000 | May 16 | (will not reach) | -
-| *Total* | *16,713* | *13,307* | -
+| 14,000 | April 25 | (will not reach) | -
+| 16,000 | May 9 | (will not reach) | -
+| *Total* | *17,371* | *13,307* | -
 
 <br />
 
@@ -60,35 +62,36 @@ Below are the same projections for New York state, Michigan, and Connecticut, so
 | --- | --- | --- | --- |
 | 1,500 | April 13 | April 13 | -
 | 2,000 | April 17 | April 20 | -
-| 2,500 | April 23 | (will not reach) | -
-| 3,000 | May 2 | (will not reach) | -
-| 3,500 | May 19 | (will not reach) | -
-| *Total* | *3,994* | *2,103* | -
+| 2,500 | April 22 | (will not reach) | -
+| 3,000 | April 28 | (will not reach) | -
+| 3,500 | May 7 | (will not reach) | -
+| *Total* | *4,733* | *2,103* | -
 
 <br />
 
 | CT deaths | Our 4/9 projection | IHME 4/9 projection | Actual
 | --- | --- | --- | --- |
 | 500 | April 12 | April 11 | -
-| 1,000 | April 22 | April 16 | -
-| 2,000 | (will not reach) | April 24 | -
+| 1,000 | April 21 | April 16 | -
+| 1,500 | May 5 | April 20 | -
+| 2,000 | June 6 | April 24 | -
 | 3,000 | (will not reach) | May 2 | -
 | 4,000 | (will not reach) | June 2 | -
-| *Total* | *1,906* | *4,003* | -
+| *Total* | *2,252* | *4,003* | -
 
 We also present an international projection below, for United Kingdom.
 
 | UK deaths | Our 4/9 projection | IHME 4/9 projection | Actual
 | --- | --- | --- | --- |
 | 10,000 | April 12 | April 9 | -
-| 15,000 | April 18 | April 12 | -
+| 15,000 | April 17 | April 12 | -
 | 20,000 | April 25 | April 14 | -
-| 25,000 | May 10 | April 16 | -
-| 30,000 | (will not reach) | April 18 | -
+| 25,000 | May 6 | April 16 | -
+| 30,000 | June 2 | April 18 | -
 | 40,000 | (will not reach) | April 21 | -
 | 50,000 | (will not reach) | April 25 | -
 | 60,000 | (will not reach) | May 1 | -
-| *Total* | *29,456* | *66,314* | -
+| *Total* | *32,173* | *66,314* | -
 
 ## Updates
 
