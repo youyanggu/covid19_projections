@@ -46,7 +46,7 @@ In this section we will compare our projections with a popular model developed b
 
 As of April 9, most models (including our own) predict somewhere in the range of 50-70k deaths in the US. Nevertheless, the exact trajectory and state-specific projections still differ widely. For example, while both the IHME model and our model predicts a total of roughly 60,000 deaths in the US by August, the timelines differ greatly. The IHME model projects 52,864 deaths through May 1 and 7,781 deaths from May 1 through August 4, while we project 44,776 deaths through May 1 and 17,449 deaths from May 1 through August 4.
 
-Below is a comparison of our models in predicting daily US deaths. To make a fair comparison, we start on April 9, the day when both our model and the IHME model projected ~60k deaths.
+Below is a comparison of our models in predicting daily US deaths. To make a fair comparison, we start on April 9, the day when both our model and the IHME model projected ~60k deaths. Note that because deaths are [not evenly reported by day](https://twitter.com/NateSilver538/status/1245105892028223490), the projections may be significantly higher than reported on weekends and lower than reported on the weekdays.
 
 | Date | Actual US deaths | Our projection | IHME projection | 
 | --- | --- | --- | --- |
