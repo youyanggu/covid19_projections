@@ -18,20 +18,6 @@ Feel free to reach out to me on Twitter via **[@youyanggu](https://twitter.com/y
 
 _Note_: While we attempt to predict the _official_ death total, the true death total may be higher due underreporting at various levels.
 
-## Model Comparison
-Below we compare our model with a popular model developed by the [Institute for Health Metrics and Evaluation (IHME)](https://covid19.healthdata.org/):
-
-| Date | Our prediction | IHME prediction | Current US deaths
-| --- | --- | --- | --- |
-| 2020-04-01 | 34,270 | 93,400 | 4,700
-| 2020-04-02 | 38,030 | 93,400 | 5,784
-| 2020-04-03 | 44,566 | 93,400 | 6,962
-| 2020-04-04 | 40,632 | 93,400 | 8,314
-| 2020-04-05 | 41,387 | 81,766 | 9,498
-| 2020-04-06 | 29,316 | 81,766 | 10,680
-| 2020-04-07 | 41,689 | 81,766 | 12,621
-| 2020-04-08 | 49,173 | 60,415 | 14,495
-
 ## Updates
 
 2020-04-09
