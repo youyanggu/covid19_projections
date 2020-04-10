@@ -6,7 +6,7 @@ permalink: /infections-tracker/
 
 Our model provides an estimate for the number of infected individuals in every region. Note that this estimate is for *all* infected people, including asymptomatic and mildly symptomatic individuals, and not just those that have tested positive. Click the About tab above to learn more about how we arrived at these estimates.
 
-### Contents
+## Contents
 - [When will each state have fewer than X,000 infections](#projected-state-recoveries)
 - [Number of infected individuals by date](#number-of-infected-individuals-by-date)
 
