@@ -56,32 +56,32 @@ Below is a comparison of our models in predicting daily US deaths. To make a fai
 
 Below we compare our daily projections with the IHME projections for several selected regions: US, New York, Michigan, Connecticut, the UK, and Italy. Due to *"the effort required to fully process, review, and vet large amounts of data alongside implementing model updates"*, IHME only updates their projections three times a week.
 
-| Date | Our US death total projection | IHME US death total projection
+| Date | Our US proj. death total | IHME US proj. death total
 | --- | --- | --- |
 | April 9, 2020 | 62,225 | 60,415
 | April 10, 2020 | 70,699 | 61,545
 
-| Date | Our NY death total projection | IHME NY death total projection
+| Date | Our NY proj. death total | IHME NY proj. death total
 | --- | --- | --- |
 | April 9, 2020 | 17,371 | 13,306
 | April 10, 2020 | 21,342 | 13,463
 
-| Date | Our MI death total projection | IHME MI death total projection
+| Date | Our MI proj. death total | IHME MI proj. death total
 | --- | --- | --- |
 | April 9, 2020 | 4,733 | 2,103
 | April 10, 2020 | 6,747 | 1,977
 
-| Date | Our CT death total projection | IHME CT death total projection
+| Date | Our CT proj. death total | IHME CT proj. death total
 | --- | --- | --- |
 | April 9, 2020 | 2,252 | 4,003
 | April 10, 2020 | 2,002 | 4,614
 
-| Date | Our Italy death total projection | IHME Italy death total projection
+| Date | Our Italy proj. death total | IHME Italy proj. death total
 | --- | --- | --- |
 | April 9, 2020 | 29,402 | 20,300
 | April 10, 2020 | TBD | 20,333
 
-| Date | Our UK death total projection | IHME UK death total projection
+| Date | Our UK proj. death total | IHME UK proj. death total
 | --- | --- | --- |
 | April 9, 2020 | 32,173 | 66,314
 | April 10, 2020 | TBD | 37,494
