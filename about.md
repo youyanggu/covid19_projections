@@ -80,38 +80,38 @@ We will compare our daily projections with the IHME projections for several heav
 
 | Date | Our US proj. death total | IHME US proj. death total
 | --- | --- | --- |
-| April 9, 2020 | 62,225 | 60,415
-| April 10, 2020 | 70,699 | 61,545
+| April 9, 2020 | 62,225 (37-106k) | 60,415
+| April 10, 2020 | 70,699 (41-125k) | 61,545 (26-156k)
 
 | Date | Our US Jun-Aug proj. death total | IHME US Jun-Aug proj. death total
 | --- | --- | --- |
-| April 9, 2020 | 5,125 | 51
-| April 10, 2020 | 5,782 | 225 
+| April 9, 2020 | 5,125 (0.8-17k) | 51
+| April 10, 2020 | 5,782 (0.8-20k) | 225 (0-2k)
 
 | Date | Our NY proj. death total | IHME NY proj. death total
 | --- | --- | --- |
-| April 9, 2020 | 17,371 | 13,306
-| April 10, 2020 | 21,342 | 13,463
+| April 9, 2020 | 17,371 (13-24k) | 13,306
+| April 10, 2020 | 21,342 (14-35k) | 13,463 (9-25k)
 
 | Date | Our MI proj. death total | IHME MI proj. death total
 | --- | --- | --- |
-| April 9, 2020 | 4,733 | 2,103
-| April 10, 2020 | 6,747 | 1,977
+| April 9, 2020 | 4,733 (2-9k) | 2,103
+| April 10, 2020 | 6,747 (3-12k) | 1,977 (1-4k)
 
 | Date | Our CT proj. death total | IHME CT proj. death total
 | --- | --- | --- |
-| April 9, 2020 | 2,252 | 4,003
-| April 10, 2020 | 2,002 | 4,614
+| April 9, 2020 | 2,252 (1-4k) | 4,003
+| April 10, 2020 | 2,002 (1-4k) | 4,614 (1-14k)
 
 | Date | Our Italy proj. death total | IHME Italy proj. death total
 | --- | --- | --- |
-| April 9, 2020 | 29,402 | 20,300
-| April 10, 2020 | 29,908 | 20,333
+| April 9, 2020 | 29,402 (22-40k) | 20,300
+| April 10, 2020 | 29,908 (23-39k) | 20,333 (19-22k)
 
 | Date | Our France proj. death total | IHME France proj. death total
 | --- | --- | --- |
-| April 9, 2020 | 36,881 | 15,058
-| April 10, 2020 | 36,621 | 15,741
+| April 9, 2020 | 36,881 (21-58k) | 15,058
+| April 10, 2020 | 36,621 (21-58k) | 15,741 (13-21k)
 
 ## Updates
 
