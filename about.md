@@ -68,15 +68,7 @@ Also note that while we attempt to predict the *official* death total, the true 
 
 ## Model comparison
 
-Below is a comparison of our model with the IHME model in predicting daily US deaths. To make a fair comparison, we start on April 9, the day when both our model and the IHME model projected ~60k deaths. Note that because deaths are [not evenly reported by day](https://twitter.com/NateSilver538/status/1245105892028223490), the projections may be significantly higher than reported on weekends and lower than reported on the weekdays.
-
-| Date | Actual US deaths | Our projection | IHME projection | 
-| --- | --- | --- | --- |
-| Apr 9, 2020 | 1,904 | 1,878 | 2,037
-| Apr 10, 2020 | 1,932 | 1,855 | 2,104
-| Apr 11, 2020 | TBA | 	1,996 | 1,907
-
-Below we compare our daily projections with the IHME projections for several heavily-impacted regions where our estimates widely differ: US, New York, Michigan, Connecticut, Italy, and France. Note that while we update our projections daily, IHME only updates their projections three times a week: *"Our ambition to produce daily updates has proven to be unrealistic given the relative size of our team and the effort required to fully process, review, and vet large amounts of data alongside implementing model updates."*
+We will compare our daily projections with the IHME projections for several heavily-impacted regions where our estimates widely differ: US, New York, Michigan, Connecticut, Italy, and France. Note that while we update our projections daily, IHME only updates their projections three times a week: *"Our ambition to produce daily updates has proven to be unrealistic given the relative size of our team and the effort required to fully process, review, and vet large amounts of data alongside implementing model updates."*
 
 | Date | Our US proj. death total | IHME US proj. death total
 | --- | --- | --- |
