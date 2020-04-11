@@ -26,7 +26,7 @@ In this section we will compare our projections with a popular model developed b
 
 The IHME model is a good model and provides a good starting point for making projections. We greatly applaud their efforts, especially for making a fairly accurate projection in March (80-100k US deaths) when many other models were projecting 100-250k+.
 
-With that said, because their model is based on fitting a mathethetical curve rather than a real world simulation, some of their region-specific projections do not pass what we call the "common sense test". Here are 3 examples:
+With that said, because their model is based on fitting a mathethetical curve rather than a real world simulation, some of their region-specific projections do not pass what we call the "common sense test". Here are a few examples:
 
 ### Italy: under-projection
 
@@ -42,9 +42,9 @@ As of April 11, IHME is projecting 13,463 (9,382 - 24,236) total deaths for New 
 
 As of April 11, Connecticut currently has 448 deaths, and yet the IHME is projecting 4,614 deaths, a 10x increase. Their range is also 1,143-13,559, an extremely large range. Our projection shows a range of 1,370 - 3,933.
 
-### US Jun-Aug: under-projection
+### US June-August: under-projection
 
-As of April 11, IHME projects 225 (0 - 1,180) deaths in the US from June 1 to August 4. While we hope the US only has 225 total deaths from June to August (an average of 3 deaths per day), we believe this is an underestimate. The upper range of 1,180 is also an under-projection - they are essentially projecting under 20 deaths/day *as an upper range*. Our model is projecting 5,782 (803 - 19,403) deaths in US from June 1 to August 4.
+As of April 11, IHME projects 225 (0 - 1,180) deaths in the US from June 1 to August 4. While we hope the US only has 225 total deaths from June to August (an average of 3 deaths per day), we believe this is an underestimate. The upper range of 1,180 (18 deaths per day) also appears to be an under-projection *for an upper range*. Meanwhile, our model is projecting 5,782 (803 - 19,403) deaths in US from June 1 to August 4.
 
 ### Update time
 
