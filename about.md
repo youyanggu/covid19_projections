@@ -18,7 +18,7 @@ As an example, one of the most important properties for any infectious disease i
 
 We can learn more from the model than just the R<sub>0</sub>. For example, our model determined that the true mortality rate for COVID-19 in Italy is around 2%, while the true mortality rate in New York (and most other regions) is roughly 1%. This is again consistent with the widely published reports. The model can also determine when people in a region started social-distancing. For New York, this inflection point is determined to be on March 13-14, which closely matches the [NYC subway ridership data](https://twitter.com/youyanggu/status/1248844841733128192).
 
-Another strength of our model is that because it is purely data-driven, it is quick to run and easy to regenerate. No daily tuning needs to be done - it just needs the raw data. Unlike other models that are only be updated once every few days, our entire model takes 10 minutes to generate and is updated on a daily basis, leading to more accurate projections.
+Another strength of our model is that because it is purely data-driven, it is quick to run and easy to regenerate. No daily tuning needs to be done - it just needs the raw data. Unlike other models that can only be updated once every few days, our entire model takes 10 minutes to generate and is updated on a daily basis, leading to more accurate projections.
 
 ## Data
 
