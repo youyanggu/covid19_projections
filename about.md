@@ -40,9 +40,9 @@ While we attempt our best to ensure accuracy and precision, no model is perfect,
 
 Also note that while we attempt to predict the *official* death total, the true death total may be higher due to [underreporting at various levels](https://www.nytimes.com/2020/04/05/us/coronavirus-deaths-undercount.html).
 
-## Model evaluation
+## Model comparison
 
-In this section we will compare our projections with a popular model developed by the [Institute for Health Metrics and Evaluation (IHME)](https://covid19.healthdata.org/) and commonly referred to by the White House.
+In this section we will compare our projections with a popular model developed by the [Institute for Health Metrics and Evaluation (IHME)](https://covid19.healthdata.org/) and commonly referred to by the White House and the media.
 
 As of April 9, most models (including our own) predict somewhere in the range of 50-70k deaths in the US. Nevertheless, the exact trajectory and state-specific projections still differ widely. For example, while both the IHME model and our model predicts a total of roughly 60,000 deaths in the US by August, the timelines differ greatly. The IHME model projects 52,864 deaths through May 1 and 7,781 deaths from May 1 through August 4, while we project 44,776 deaths through May 1 and 17,449 deaths from May 1 through August 4.
 
