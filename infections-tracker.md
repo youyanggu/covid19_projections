@@ -4,7 +4,7 @@ title: COVID-19 Infections Tracker
 permalink: /infections-tracker/
 ---
 
-Our model provides an estimate for the number of infected individuals in every region. Note that this estimate is for *all* infected people, including asymptomatic and mildly symptomatic individuals, and not just those that have tested positive. Click the About tab above to learn more about how we arrived at these estimates.
+Our model provides an estimate for the number of infected individuals in every region. **Please Note: The infections estimate includes ALL infected people, not just those that took a coronavirus test kit and tested positive. The vast majority of infested individuals did NOT get tested due to 1) lack of available testing, 2) they are only mildly symptomatic or 3) they do not know they are carrying the virus.** For example, if the US reported 36k new cases, we estimate the true number of infected people to be likely 2x or 3x higher.
 
 ## Contents
 - [When will each state have fewer than X,000 infections](#projected-state-recoveries)
