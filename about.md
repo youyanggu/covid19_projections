@@ -22,7 +22,7 @@ Another strength of our model is that because it is purely data-driven, it is qu
 
 ## Data
 
-The only COVID-19 data we use to make these projections is the daily death total provided by [The Covid Tracking Project](https://covidtracking.com/) (for US projections) and [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19) (for international projections). The raw files can be found [on GitHub](https://github.com/youyanggu/covid19_projections/tree/master/data). Due to the reasonings explained [by Nate Silver](https://fivethirtyeight.com/features/coronavirus-case-counts-are-meaningless/), we do not use case-related data in our modeling.
+The only COVID-19 data our model uses to make projections is the daily death total provided by [The Covid Tracking Project](https://covidtracking.com/) (for US projections) and [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19) (for international projections). The raw data files we use can be found [on our GitHub page](https://github.com/youyanggu/covid19_projections/tree/master/data). Due to the reasonings explained [by Nate Silver](https://fivethirtyeight.com/features/coronavirus-case-counts-are-meaningless/), we do not use case-related data in our modeling.
 
 Every day, raw daily projections for all 50 US states and select international countries will be uploaded [here](https://github.com/youyanggu/covid19_projections/tree/master/projections). Because the model factors in new data on a daily basis, it will be more accurate over time as more data becomes available. We are currently in the process of submitting our findings for peer review, but due to the current circumstances we are prioritizing the public release of our research.
 
@@ -44,7 +44,7 @@ Also note that while we attempt to predict the *official* death total, the true 
 
 ## Model comparison
 
-In this section we will compare our projections with a popular model developed by the [Institute for Health Metrics and Evaluation (IHME)](https://covid19.healthdata.org/) and commonly referred to by the White House and the media.
+In this section we will compare our projections with a popular model developed by the [Institute for Health Metrics and Evaluation (IHME)](https://covid19.healthdata.org/) and commonly referred to by the White House and media.
 
 As of April 9, most models (including our own) predict somewhere in the range of 50-70k deaths in the US. Nevertheless, the exact trajectory and state-specific projections still differ widely. For example, while both the IHME model and our model predicts a total of roughly 60,000 deaths in the US by August, the timelines differ greatly. The IHME model projects 52,864 deaths through May 1 and 7,781 deaths from May 1 through August 4, while we project 44,776 deaths through May 1 and 17,449 deaths from May 1 through August 4.
 
