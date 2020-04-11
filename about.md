@@ -24,27 +24,27 @@ Another strength of our model is that because it is purely data-driven, it is qu
 
 In this section we will compare our projections with a popular model developed by the [Institute for Health Metrics and Evaluation (IHME)](https://covid19.healthdata.org/) and commonly referred to by the White House and media.
 
-The IHME model is a good model and provides a good starting point for making projections. We greatly applaud their efforts, especially for making a fairly accurate projection in March (~80k US deaths) when many other models were projecting 100-250k+.
+The IHME model is a good model and provides a good starting point for making projections. We greatly applaud their efforts, especially for making a fairly accurate projection in March (80-100k US deaths) when many other models were projecting 100-250k+.
 
 With that said, because their model is based on fitting a mathethetical curve rather than a real world simulation, some of their region-specific projections do not pass what we call the "common sense test". Here are 3 examples:
 
-### Italy - under-projection
+### Italy: under-projection
 
 As of April 11, 2020, IHME is projecting 19,691 - 21,377 deaths for Italy. However, Italy is already at over 19,000 deaths and they have been reporting 500+ deaths for the past 3 weeks. Their confidence interval is unrealistic. Our projections are much higher: 23,210 - 38,965.
 
-### New York - under-projection
+### New York: under-projection
 
 New York reached 799 deaths on Thursday April 9, which we hope is the peak. As of April 11, the IHME model is projecting 42-196 deaths for NY on April 24, 15 days later. However, 15 days after Italy reached its peak deaths at 917, they still reported 619 deaths. So assuming that New York deaths will drop 90% in 15 days when Italy dropped only 30% would be an optimistic viewpoint. We think NY will report 185 - 558 deaths on April 24.
 
 As of April 11, IHME is projecting 13,463 (9,382 - 24,236) total deaths for New York. Due to the reason above, we believe this is an underestimate. Our model projects 21,342 (14,684 - 34,370) deaths.
 
-### Connecticut - over-projection
+### Connecticut: over-projection
 
 As of April 11, Connecticut currently has 448 deaths, and yet the IHME is projecting 4,614 deaths, a 10x increase. Their range is also 1,143-13,559, an extremely large range. Our projection shows a range of 1,370 - 3,933.
 
 ### Update time
 
-New data is extremely important when making projections such as these. That's why we update our model daily based on the new data we receive. However, due to certain constraints, IHME is only able to update their model [3 times a week](http://www.healthdata.org/covid/updates): *"Our ambition to produce daily updates has proven to be unrealistic given the relative size of our team and the effort required to fully process, review, and vet large amounts of data alongside implementing model updates."* Projections using today's data is much more valuable than projections from 2-3 days ago.
+New data is extremely important when making projections such as these. That's why we update our model daily based on the new data we receive. Projections using today's data is much more valuable than projections from 2-3 days ago. However, due to certain constraints, IHME is only able to update their model [3 times a week](http://www.healthdata.org/covid/updates): *"Our ambition to produce daily updates has proven to be unrealistic given the relative size of our team and the effort required to fully process, review, and vet large amounts of data alongside implementing model updates."* 
 
 We believe that a successful model must be able to quickly determine what is realistic and what is not, and the above examples highlights our main concerns with the IHME model.
 
