@@ -42,7 +42,11 @@ As of April 11, IHME is projecting 13,463 (9,382 - 24,236) total deaths for New 
 
 As of April 11, Connecticut currently has 448 deaths, and yet the IHME is projecting 4,614 deaths, a 10x increase. Their range is also 1,143-13,559, an extremely large range. Our projection shows a range of 1,370 - 3,933.
 
-We believe that a successful model must be able to determine what is realistic and what is not, and the above 3 examples highlights our main concern with the IHME model.
+### Update time
+
+New data is extremely important when making projections such as these. That's why we update our model daily based on the new data we receive. However, due to certain constraints, IHME is only able to update their model [3 times a week](http://www.healthdata.org/covid/updates): *"Our ambition to produce daily updates has proven to be unrealistic given the relative size of our team and the effort required to fully process, review, and vet large amounts of data alongside implementing model updates."* Projections using today's data is much more valuable than projections from 2-3 days ago.
+
+We believe that a successful model must be able to quickly determine what is realistic and what is not, and the above examples highlights our main concerns with the IHME model.
 
 ## Data
 
@@ -68,7 +72,7 @@ Also note that while we attempt to predict the *official* death total, the true 
 
 ## Model comparison
 
-We will compare our daily projections with the IHME projections for several heavily-impacted regions where our estimates widely differ: US, New York, Michigan, Connecticut, Italy, and France. Note that while we update our projections daily, IHME only updates their projections three times a week: *"Our ambition to produce daily updates has proven to be unrealistic given the relative size of our team and the effort required to fully process, review, and vet large amounts of data alongside implementing model updates."*
+We will compare our daily projections with the IHME projections for several heavily-impacted regions where our estimates widely differ: US, New York, Michigan, Connecticut, Italy, and France. Note that while we update our projections daily, IHME only updates their projections three times a week.
 
 | Date | Our US proj. death total | IHME US proj. death total
 | --- | --- | --- |
