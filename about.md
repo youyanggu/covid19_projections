@@ -12,13 +12,13 @@ The goal of this project is to showcase the strengths of artificial intelligence
 
 ## How our model is different
 
-Unlike other models that try to create complex mathematical equations to "fit a curve", we try to simulate what is actually happening in the real world. This makes our model easy to interpret and understand.
+Unlike other models that try to create complex mathematical equations to "fit a curve" without a good explanation as to why it works, we try to simulate what is actually happening in the real world. This makes our model easy to interpret and understand.
 
 As an example, one of the most important properties for any infectious disease is the [basic reproduction number](https://en.wikipedia.org/wiki/Basic_reproduction_number), known as R<sub>0</sub>. Rather than pre-setting this value based on assumptions, our model is able to learn the value that most closely matches the data. For Italy, the R<sub>0</sub> is found to be around 2-2.2, while for New York state, the R<sub>0</sub> is 3.6-3.8. This means that on average, an infected person in New York will infect 3.6 to 3.8 additional people. For most regions, the R<sub>0</sub> is found to be around 2, which matches [the WHO findings](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf) from China.
 
 We can learn more from the model than just the R<sub>0</sub>. For example, our model determined that the true mortality rate for COVID-19 in Italy is around 2%, while the true mortality rate in New York (and most other regions) is roughly 1%. This is again consistent with the widely published reports. The model can also determine when people in a region started social-distancing. For New York, this inflection point is determined to be on March 13-14, which closely matches the [NYC subway ridership data](https://twitter.com/youyanggu/status/1248838172986896384).
 
-Another strength of our model is that because it is data-driven, it is quick to run and easy to regenerate. No daily tuning needs to be done - it just needs the raw data. Unlike other models that can only be updated once every few days, our model takes under 10 minutes to generate and is updated on a daily basis, leading to more accurate projections.
+Another strength of our model is that because it is purely data-driven, it is quick to run and easy to regenerate. No daily tuning needs to be done - it just needs the raw data. Unlike other models that are only be updated once every few days, our entire model takes 10 minutes to generate and is updated on a daily basis, leading to more accurate projections.
 
 ## Data
 
