@@ -20,6 +20,24 @@ We can learn more from the model than just the R<sub>0</sub>. For example, our m
 
 Another strength of our model is that because it is purely data-driven, it is quick to run and easy to regenerate. No daily tuning needs to be done - it just needs the raw data. Unlike other models that can only be updated once every few days, our entire model takes 10 minutes to generate and is updated on a daily basis, leading to more accurate projections.
 
+### Issues with the IHME model
+
+In this section we will compare our projections with a popular model developed by the [Institute for Health Metrics and Evaluation (IHME)](https://covid19.healthdata.org/) and commonly referred to by the White House and media.
+
+The IHME model is a good model and provides a good starting point for making projections. We greatly applaud their efforts, especially for making a fairly accurate projection (~80k US deaths) when many other models were projecting 100-250k+ in March. WIth that said, because their model is based on fitting a mathethetical curve rather than a real world simulation, some of their region-specific projections do not pass what we call the "common sense test". Here are 3 examples:
+
+#### Italy - under-projection
+
+As of April 11, 2020, IHME is projecting 19,691 - 21,377 deaths for Italy. However, Italy is already at over 19,000 deaths and they have been reporting 500+ deaths for the past 3 weeks. Their confidence interval is unrealistic. Our projections are much higher: 23,210 - 38,965.
+
+#### New York - under-projection
+
+New York reached 799 deaths on Thursday April 9, which we hope is the peak. As of April 11, the IHME model is projecting only 42-196 deaths for NY 2 weeks from April 9. However, two weeks after Italy reached its peak deaths at 917, they are still reporting ~600 deaths per day. So assuming that New York deaths will drop 90% in two weeks is extremely optimistic. We think it will be in the 185 - 558 range.
+
+#### Connecticut - over-projection
+
+As of April 11, Connecticut currently has 448 deaths, and yet the IHME is projecting 4,614 deaths, a 10x increase. Their range is also 1,143-13,559, an extremely large range. Our projection shows a range of 1,370 - 3,933.
+
 ## Data
 
 The only COVID-19 data our model uses to make projections is the daily death total provided by [The Covid Tracking Project](https://covidtracking.com/) (for US projections) and [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19) (for international projections). The raw data files we use can be found [on our GitHub page](https://github.com/youyanggu/covid19_projections/tree/master/data). Due to the reasonings explained [by Nate Silver](https://fivethirtyeight.com/features/coronavirus-case-counts-are-meaningless/), we do not use case-related data in our modeling.
@@ -44,11 +62,7 @@ Also note that while we attempt to predict the *official* death total, the true 
 
 ## Model comparison
 
-In this section we will compare our projections with a popular model developed by the [Institute for Health Metrics and Evaluation (IHME)](https://covid19.healthdata.org/) and commonly referred to by the White House and media.
-
-As of April 9, most models (including our own) predict somewhere in the range of 50-70k deaths in the US. Nevertheless, the exact trajectory and state-specific projections still differ widely. For example, while both the IHME model and our model predicts a total of roughly 60,000 deaths in the US by August, the timelines differ greatly. The IHME model projects 52,864 deaths through May 1 and 7,781 deaths from May 1 through August 4, while we project 44,776 deaths through May 1 and 17,449 deaths from May 1 through August 4.
-
-Below is a comparison of our models in predicting daily US deaths. To make a fair comparison, we start on April 9, the day when both our model and the IHME model projected ~60k deaths. Note that because deaths are [not evenly reported by day](https://twitter.com/NateSilver538/status/1245105892028223490), the projections may be significantly higher than reported on weekends and lower than reported on the weekdays.
+Below is a comparison of our model with the IHME model in predicting daily US deaths. To make a fair comparison, we start on April 9, the day when both our model and the IHME model projected ~60k deaths. Note that because deaths are [not evenly reported by day](https://twitter.com/NateSilver538/status/1245105892028223490), the projections may be significantly higher than reported on weekends and lower than reported on the weekdays.
 
 | Date | Actual US deaths | Our projection | IHME projection | 
 | --- | --- | --- | --- |
