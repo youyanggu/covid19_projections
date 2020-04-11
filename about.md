@@ -54,7 +54,7 @@ Below is a comparison of our models in predicting daily US deaths. To make a fai
 | Apr 10, 2020 | 1,932 | 1,855 | 2,104
 | Apr 11, 2020 | TBA | 	1,996 | 1,907
 
-Below we compare our daily projections with the IHME projections for several selected regions: US, New York, Michigan, Connecticut, the UK, and Italy. While we update on projections daily, IHME only updates their projections three time a week: *"Our ambition to produce daily updates has proven to be unrealistic given the relative size of our team and the effort required to fully process, review, and vet large amounts of data alongside implementing model updates."*
+Below we compare our daily projections with the IHME projections for several selected regions: US, New York, Michigan, Connecticut, Italy, and the UK. While we update our projections daily, IHME only updates their projections three time a week: *"Our ambition to produce daily updates has proven to be unrealistic given the relative size of our team and the effort required to fully process, review, and vet large amounts of data alongside implementing model updates."*
 
 | Date | Our US proj. death total | IHME US proj. death total
 | --- | --- | --- |
