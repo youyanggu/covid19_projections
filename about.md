@@ -95,13 +95,13 @@ We will compare our daily projections with the IHME projections for several heav
 
 | Date | Our MI proj. death total | IHME MI proj. death total
 | --- | --- | --- |
-| April 9, 2020 | 4,733 (2-9k) | 2,103 (1-4k)
-| April 10, 2020 | 6,747 (3-12k) | 1,977 (1-4k)
+| April 9, 2020 | 4,733 (2.7-8.8k) | 2,103 (1.3-3.7k)
+| April 10, 2020 | 6,747 (3.9-11.3k) | 1,977 (1.3-3.6k)
 
 | Date | Our CT proj. death total | IHME CT proj. death total
 | --- | --- | --- |
-| April 9, 2020 | 2,252 (1-4k) | 4,003 (1-11k)
-| April 10, 2020 | 2,002 (1-4k) | 4,614 (1-14k)
+| April 9, 2020 | 2,252 (1.2-3.9k) | 4,003 (1.3-10.1k)
+| April 10, 2020 | 2,002 (1.0-3.4k) | 4,614 (1.1-13.6k)
 
 | Date | Our Italy proj. death total | IHME Italy proj. death total
 | --- | --- | --- |
