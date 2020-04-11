@@ -56,7 +56,7 @@ Below is a comparison of our models in predicting daily US deaths. To make a fai
 | Apr 10, 2020 | 1,932 | 1,855 | 2,104
 | Apr 11, 2020 | TBA | 	1,996 | 1,907
 
-Below we compare our daily projections with the IHME projections for several selected regions: US, New York, Michigan, Connecticut, Italy, and the UK. While we update our projections daily, IHME only updates their projections three time a week: *"Our ambition to produce daily updates has proven to be unrealistic given the relative size of our team and the effort required to fully process, review, and vet large amounts of data alongside implementing model updates."*
+Below we compare our daily projections with the IHME projections for several heavily-impacted regions where our estimates widely differ: US, New York, Michigan, Connecticut, Italy, and France. Note that while we update our projections daily, IHME only updates their projections three times a week: *"Our ambition to produce daily updates has proven to be unrealistic given the relative size of our team and the effort required to fully process, review, and vet large amounts of data alongside implementing model updates."*
 
 | Date | Our US proj. death total | IHME US proj. death total
 | --- | --- | --- |
@@ -83,10 +83,10 @@ Below we compare our daily projections with the IHME projections for several sel
 | April 9, 2020 | 29,402 | 20,300
 | April 10, 2020 | 29,908 | 20,333
 
-| Date | Our UK proj. death total | IHME UK proj. death total
+| Date | Our France proj. death total | IHME France proj. death total
 | --- | --- | --- |
-| April 9, 2020 | 32,173 | 66,314
-| April 10, 2020 | 33,106 | 37,494
+| April 9, 2020 | 36,881 | 15,058
+| April 10, 2020 | 36,621 | 15,741
 
 ## Updates
 
