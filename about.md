@@ -79,12 +79,12 @@ Below we compare our daily projections with the IHME projections for several sel
 | Date | Our Italy proj. death total | IHME Italy proj. death total
 | --- | --- | --- |
 | April 9, 2020 | 29,402 | 20,300
-| April 10, 2020 | TBD | 20,333
+| April 10, 2020 | 29,908 | 20,333
 
 | Date | Our UK proj. death total | IHME UK proj. death total
 | --- | --- | --- |
 | April 9, 2020 | 32,173 | 66,314
-| April 10, 2020 | TBD | 37,494
+| April 10, 2020 | 33,106 | 37,494
 
 ## Updates
 
