@@ -2,6 +2,8 @@ There are many existing COVID-19 / coronavirus models out there. We believe each
 
 See our [Infections Tracker](/infections-tracker) to see our estimate of how many people are infected in each US state at any given time (including asymptomatic and untested cases). Click the About tab above to learn more about our model.
 
+**Please Note: The infections estimate includes ALL infected people, not just those that took a coronavirus test kit and tested positive. The vast majority of infested individuals did NOT get tested due to 1) lack of available testing, 2) they are only mildly symptomatic or 3) they do not know they are carrying the virus.**
+
 ## Current Projection for US (as of Apr 10, 2020):
 <p align="center">
   <b>85,312</b> new infections on <b>Apr 11, 2020</b> | Currently infected: <b>1.8 million</b><br>
