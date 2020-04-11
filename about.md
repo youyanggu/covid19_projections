@@ -79,6 +79,11 @@ We will compare our daily projections with the IHME projections for several heav
 | April 9, 2020 | 62,225 | 60,415
 | April 10, 2020 | 70,699 | 61,545
 
+| Date | Our US Jun-Aug proj. death total | IHME US Jun-Aug proj. death total
+| --- | --- | --- |
+| April 9, 2020 | 5,125 | 51
+| April 10, 2020 | 5,782 | 225 
+
 | Date | Our NY proj. death total | IHME NY proj. death total
 | --- | --- | --- |
 | April 9, 2020 | 17,371 | 13,306
