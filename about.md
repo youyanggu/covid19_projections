@@ -30,7 +30,7 @@ With that said, because their model is based on fitting a mathethetical curve ra
 
 ### Italy: under-projection
 
-As of April 11, 2020, IHME is projecting 19,691 - 21,377 deaths for Italy. However, Italy is already at over 19,000 deaths and they have been reporting 500+ deaths for the past 3 weeks. The IHME confidence interval is unrealistic. Our projections from April 11 are much higher: 24,646 - 48,764.
+As of April 11, 2020, IHME is projecting 19,691 - 21,377 deaths for Italy. However, Italy is already at over 19,000 deaths and they have been reporting 500+ deaths for the past 3 weeks. The IHME confidence interval is unrealistic. Our projections from April 11 are much higher: 24,646 - 48,764. See our Tweet [here](https://twitter.com/youyanggu/status/1249243436881829888) for a graphical explanation.
 
 ### New York: under-projection
 
