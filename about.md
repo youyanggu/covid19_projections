@@ -30,21 +30,21 @@ With that said, because their model is based on fitting a mathethetical curve ra
 
 ### Italy: under-projection
 
-As of April 11, 2020, IHME is projecting 19,691 - 21,377 deaths for Italy. However, Italy is already at over 19,000 deaths and they have been reporting 500+ deaths for the past 3 weeks. Their confidence interval is unrealistic. Our projections are much higher: 23,210 - 38,965.
+As of April 11, 2020, IHME is projecting 19,691 - 21,377 deaths for Italy. However, Italy is already at over 19,000 deaths and they have been reporting 500+ deaths for the past 3 weeks. The IHME confidence interval is unrealistic. Our projections from April 11 are much higher: 24,646 - 48,764.
 
 ### New York: under-projection
 
-New York reached 799 deaths on Thursday April 9, which we hope is the peak. As of April 11, the IHME model is projecting 42-196 deaths for NY on April 24, 15 days later. However, 15 days after Italy reached its peak deaths at 917, they still reported 619 deaths. So assuming that New York deaths will drop 90% in 15 days when Italy dropped only 30% would be an optimistic viewpoint. We think NY will report 185 - 558 deaths on April 24.
+New York reached 799 deaths on Thursday April 9, which we hope is the peak. As of April 11, the IHME model is projecting 42-196 deaths for NY on April 24, 15 days later. However, 15 days after Italy reached its peak deaths at 917, they still reported 619 deaths. So assuming that New York deaths will drop 90% in 15 days when Italy dropped only 30% would be an optimistic viewpoint. We think NY will report 206 - 514 deaths on April 24.
 
-As of April 11, IHME is projecting 13,463 (9,382 - 24,236) total deaths for New York. Due to the reason above, we believe this is an underestimate. Our model projects 21,342 (14,684 - 34,370) deaths.
+As of April 11, IHME is projecting 13,463 (9,382 - 24,236) total deaths for New York. Due to the reason above, we believe this is an underestimate. Our model projects 21,703 (15,848 - 30,280) deaths.
 
 ### Connecticut: over-projection
 
-As of April 11, Connecticut currently has 448 deaths, and yet the IHME is projecting 4,614 deaths, a 10x increase. Their range is also 1,143-13,559, an extremely large range. Our projection shows a range of 1,370 - 3,933.
+As of April 11, Connecticut currently has 448 deaths, and yet the IHME is projecting 4,614 deaths, a 10x increase. Their range is also 1,143-13,559, an extremely large range. Our projections from April 11 show a range of 1,337 - 3,850.
 
 ### US June-August: under-projection
 
-As of April 11, IHME projects 225 (0 - 1,180) deaths in the US from June 1 to August 4. While we hope the US only has 225 total deaths from June to August (an average of 3 deaths per day), we believe this is an underestimate. The upper range of 1,180 (18 deaths per day) also appears to be an under-projection *for an upper range*. Meanwhile, our model is projecting 5,782 (803 - 19,403) deaths in US from June 1 to August 4.
+As of April 11, IHME projects 225 (0 - 1,180) deaths in the US from June 1 to August 4. While we hope the US only has 225 total deaths from June to August (an average of 3 deaths per day), we believe this is an underestimate. The upper range of 1,180 (18 deaths per day) also appears to be an under-projection *for an upper range*. Meanwhile, our model is projecting 8,373 (944 - 29,315) deaths in US from June 1 to August 4.
 
 ### Update time
 
