@@ -83,42 +83,49 @@ We will compare our daily projections with the IHME projections for several heav
 | April 9, 2020 | 62,225 (37-106k) | 60,415 (31-127k)
 | April 10, 2020 | 70,699 (41-125k) | 61,545 (26-156k)
 | April 11, 2020 | 75,870 (43-137k) | 61,545 (26-156k)
+| April 12, 2020 | 71,959 (43-125k) | 61,545 (26-156k)
 
 | Date | Our US Jun-Aug proj. death total | IHME US Jun-Aug proj. death total
 | --- | --- | --- |
 | April 9, 2020 | 5,125 (0.8-17k) | 51 (0-0.2k)
 | April 10, 2020 | 5,782 (0.8-20k) | 225 (0-1.2k)
 | April 11, 2020 | 8,373 (0.9-30k) | 225 (0-1.2k)
+| April 12, 2020 | 7,637 (0.7-27k) | 225 (0-1.2k)
 
 | Date | Our NY proj. death total | IHME NY proj. death total
 | --- | --- | --- |
 | April 9, 2020 | 17,371 (13-24k) | 13,306 (9-22k)
 | April 10, 2020 | 21,342 (14-35k) | 13,463 (9-25k)
 | April 11, 2020 | 21,703 (15-31k) | 13,463 (9-25k)
+| April 12, 2020 | 21,479 (15-29k) | 13,463 (9-25k)
 
 | Date | Our MI proj. death total | IHME MI proj. death total
 | --- | --- | --- |
 | April 9, 2020 | 4,733 (2.7-8.8k) | 2,103 (1.3-3.7k)
-| April 10, 2020 | 6,747 (3.9-11.3k) | 1,977 (1.3-3.6k)
-| April 11, 2020 | 6,421 (3.7-10.2k) | 1,977 (1.3-3.6k)
+| April 10, 2020 | 6,747 (3.9-12k) | 1,977 (1.3-3.6k)
+| April 11, 2020 | 6,421 (3.7-11k) | 1,977 (1.3-3.6k)
+| April 12, 2020 | 6,138 (3.6-10k) | 1,977 (1.3-3.6k)
 
 | Date | Our CT proj. death total | IHME CT proj. death total
 | --- | --- | --- |
 | April 9, 2020 | 2,252 (1.2-3.9k) | 4,003 (1.3-10.1k)
 | April 10, 2020 | 2,002 (1.0-3.4k) | 4,614 (1.1-13.6k)
 | April 11, 2020 | 2,326 (1.3-3.9k) | 4,614 (1.1-13.6k)
+| April 12, 2020 | 2,241 (1.2-3.8k) | 4,614 (1.1-13.6k)
 
 | Date | Our Italy proj. death total | IHME Italy proj. death total
 | --- | --- | --- |
 | April 9, 2020 | 29,402 (22-40k) | 20,300 (19-22k)
 | April 10, 2020 | 29,908 (23-39k) | 20,333 (19-22k)
 | April 11, 2020 | 33,829 (24-49k) | 20,333 (19-22k)
+| April 12, 2020 | 32,909 (24-47k) | 20,333 (19-22k)
 
 | Date | Our France proj. death total | IHME France proj. death total
 | --- | --- | --- |
 | April 9, 2020 | 36,881 (21-58k) | 15,058 (12-18k)
 | April 10, 2020 | 36,621 (21-58k) | 15,741 (13-21k)
 | April 11, 2020 | 37,234 (21-63k) | 15,741 (13-21k)
+| April 12, 2020 | 36,201 (20-63k) | 15,741 (13-21k)
 
 ## Updates
 
