@@ -12,7 +12,7 @@ The goal of this project is to showcase the strengths of artificial intelligence
 
 ## How our model is different
 
-Unlike other models that try to create complex mathematical equations to "fit a curve" without a good explanation as to why it works, we try to simulate what is actually happening in the real world. This makes our model easy to interpret and understand.
+Unlike many models that try to create complex mathematical equations to "fit a curve" without an intuitive explanation as to why it works, we try to simulate what is happening in the real world. This makes our model easy to interpret and understand.
 
 As an example, one of the most important properties for any infectious disease is the [basic reproduction number](https://en.wikipedia.org/wiki/Basic_reproduction_number), known as R<sub>0</sub>. Rather than pre-setting this value based on assumptions, our model is able to learn the value that most closely matches the data. For Italy, the R<sub>0</sub> is found to be around 2-2.2, while for New York state, the R<sub>0</sub> is 3.6-3.8. This means that on average, an infected person in New York will infect 3.6 to 3.8 additional people. For most regions, the R<sub>0</sub> is found to be around 2, which matches [the WHO findings](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf) from China.
 
