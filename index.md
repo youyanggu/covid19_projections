@@ -12,7 +12,7 @@ Please note: **Our infections estimate includes ALL infected people**, not just 
 
 ## View Projections
 
-Below you can find our projections for every US state and 38 countries (including all 27 EU countries).
+Below you can find our projections for every US state and 40 countries (including all 27 EU countries).
 
 | [United States](us) |  |  |
 | --- | --- | --- |
@@ -53,8 +53,9 @@ Below you can find our projections for every US state and 38 countries (includin
 
 | Other Countries |  |  |
 | --- | --- | --- |
-| [Brazil](/brazil) | [Indonesia](/indonesia) | [Switzerland](/switzerland) |
-| [Canada](/canada) | [Iran](/iran) | [Turkey](/turkey) |
-| [China](/china) | [Mexico](/mexico) | [United Kingdom](/united-kingdom) |
+| [Brazil](/brazil) | [Iran](/iran) | [Switzerland](/switzerland) |
+| [Canada](/canada) | [Mexico](/mexico) | [Turkey](/turkey) |
+| [China](/china) | [Norway](/norway) | [United Kingdom](/united-kingdom) |
 | [India](/india) | [Philippines](/philippines) |
+| [Indonesia](/indonesia) | [Russia](/russia) |
 
