@@ -129,6 +129,12 @@ We will compare our daily projections with the IHME projections for several heav
 
 ## Updates
 
+2020-04-13
+* Switch data source to [JHU CSSE Daily Reports](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports)
+
+2020-04-12
+* Add Norway and Russia to projections
+
 2020-04-09
 * Add Infections Tracker page that estimates the number of infections in each US state
 
