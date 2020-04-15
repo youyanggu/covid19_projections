@@ -50,7 +50,9 @@ As described in the previous section, determining the best values for variable p
 
 We found that a brute-force search method that iterates through the entire parameter space is the most effective in finding an optimal set of parameters. However, some pruning of unrealistic parameters (e.g. R<sub>0</sub> = 20) may be necessary.
 
-To measure the error of a parameter set, we use a loss function that minimizes the error between our projected daily deaths and the actual daily deaths. We find that an ensemble loss function that minimizes both absolute daily deaths and total daily deaths works well in out-of-sample data.
+To measure the error of a parameter set, we use a loss function that minimizes the error between our projected daily deaths and the actual daily deaths. We find that an ensemble loss function that minimizes both absolute daily deaths and total daily deaths works well.
+
+While we do not have much out-of-sample data to work with, we try our best to take advantage of the data from countries such as China, Italy, and Iran, whose progression is much further along than regions such as the US.
 
 ## Putting it All Together
 
