@@ -4,10 +4,10 @@ Please note: **Our infections estimate includes ALL infected people**, not just 
 
 [Click here](/about/#how-our-model-is-different) to see our explanation on why our model is different from other existing models.
 
-## Current Projection for US (as of Apr 13, 2020):
+## Current Projection for US (as of Apr 14, 2020):
 <p align="center">
-  <b>76,010</b> new infections on <b>Apr 13, 2020</b> | Currently infected: <b>1.5 million</b><br>
-  Peak: <b>2,064</b> deaths on <b>Apr 10, 2020</b> | Total: <b>71,731</b> deaths by Aug 4, 2020 (Range: 45-121k) {% include iframe.html %}
+  <b>82,254</b> new infections on <b>Apr 15, 2020</b> | Currently infected: <b>1.6 million</b><br>
+  Peak: <b>2,321</b> deaths on <b>Apr 14, 2020</b> | Total: <b>83,744</b> deaths by Aug 4, 2020 (Range: 48-157k) {% include iframe.html %}
 </p>
 
 ## View Projections
