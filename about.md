@@ -10,6 +10,8 @@ Our COVID-19 prediction model has an underlying simulator based on [an SEIS mode
 
 The goal of this project is to showcase the strengths of artificial intelligence to tackle one of the world's most difficult problems: predict the track of a pandemic. Here, we use a pure data-driven approach by letting the machine do the learning.
 
+We are working on a more detailed write-up about our model, which you can find [here](/model-details).
+
 ## How our model is different
 
 Unlike many models that try to create complex mathematical equations to "fit a curve" without an intuitive explanation as to why it works, we try to simulate what is happening in the real world. This makes our model easy to interpret and understand.
@@ -64,7 +66,7 @@ We enourage questions/insights/feedback! Please reach out to Youyang Gu on Twitt
 
 ## Assumptions
 
-Similar to other models, our model assumes moderate social distancing through June 2020. If social distancing is relaxed prior to June, the number of infections and deaths may become higher than projected. If social distancing is tightened (e.g. to the level of the Wuhan / Hubei lockdowns in China), the number of infections and deaths may become lower.
+Our model assumes continued moderate social distancing until August 2020. If social distancing is relaxed prior to August, the number of infections and deaths may become higher than projected. If social distancing is tightened (e.g. to the level of the Wuhan / Hubei lockdowns in China), the number of infections and deaths may become lower. We want to point out that because this assumption may be unrealistic, the true deaths may be higher than we are forecasting. We are currently working on a feature to account for the lifting of social distancing prior to August.
 
 In additional to our most likely estimate, we also provide a 95% confidence interval. So for example, if we predict 62k deaths with a range of 38-105k, it means that there is roughly a 95% chance that the true deaths will be between 38-105k. There are too many real-world variables that can affect the outcome, which results in this large range.
 
