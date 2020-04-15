@@ -24,121 +24,121 @@ Click on each state below to see a detailed graph of the number of COVID-19 infe
 |                                |   10,000 infected |   5,000 infected |   2,500 infected |   1,000 infected |
 |--------------------------------|:-----------------:|:----------------:|:----------------:|:----------------:|
 |           [United States](/us) |       After Aug 4 |      After Aug 4 |      After Aug 4 |      After Aug 4 |
-|              [Alabama](/us-al) |            Apr 18 |           May 27 |           Jun 25 |           Jul 18 |
-|               [Alaska](/us-ak) |   Never surpassed |  Never surpassed |  Never surpassed |           May 27 |
-|              [Arizona](/us-az) |            Apr 19 |           May 29 |           Jun 26 |           Jul 21 |
-|             [Arkansas](/us-ar) |   Never surpassed |  Never surpassed |            May 8 |           Jun 22 |
-|           [California](/us-ca) |            Jun 10 |            Jul 7 |            Aug 2 |      After Aug 4 |
-|             [Colorado](/us-co) |             Jun 4 |            Jul 2 |           Jul 28 |      After Aug 4 |
-|          [Connecticut](/us-ct) |             Jun 1 |           Jun 23 |           Jul 11 |            Aug 4 |
-|             [Delaware](/us-de) |   Never surpassed |           Apr 23 |            Jun 9 |           Jul 11 |
-| [District Of Columbia](/us-dc) |   Never surpassed |           Apr 23 |            Jun 2 |            Jul 8 |
-|              [Florida](/us-fl) |            May 26 |           Jun 21 |           Jul 14 |      After Aug 4 |
-|              [Georgia](/us-ga) |            Jun 23 |           Jul 19 |      After Aug 4 |      After Aug 4 |
-|                 [Guam](/us-gu) |   Never surpassed |  Never surpassed |            Apr 7 |           May 16 |
-|               [Hawaii](/us-hi) |   Never surpassed |  Never surpassed |            May 3 |           Jun 20 |
-|                [Idaho](/us-id) |   Never surpassed |           Apr 12 |           May 18 |           Jun 28 |
-|             [Illinois](/us-il) |            Jun 17 |            Jul 9 |           Jul 31 |      After Aug 4 |
-|              [Indiana](/us-in) |             Jun 1 |           Jun 28 |           Jul 22 |      After Aug 4 |
-|                 [Iowa](/us-ia) |   Never surpassed |           Apr 16 |           May 25 |           Jun 30 |
-|               [Kansas](/us-ks) |             Apr 6 |           Apr 27 |           May 24 |           Jun 27 |
-|             [Kentucky](/us-ky) |            Apr 14 |            May 4 |           May 31 |            Jul 3 |
-|            [Louisiana](/us-la) |            May 29 |           Jun 20 |            Jul 5 |           Jul 25 |
-|                [Maine](/us-me) |   Never surpassed |  Never surpassed |           May 24 |            Jul 3 |
-|             [Maryland](/us-md) |            May 29 |           Jun 26 |           Jul 21 |      After Aug 4 |
-|        [Massachusetts](/us-ma) |            Jun 25 |           Jul 15 |      After Aug 4 |      After Aug 4 |
-|             [Michigan](/us-mi) |            Jun 29 |           Jul 16 |            Aug 2 |      After Aug 4 |
-|            [Minnesota](/us-mn) |            Apr 13 |            May 7 |            Jun 9 |           Jul 11 |
-|          [Mississippi](/us-ms) |            Apr 15 |           May 13 |           Jun 15 |           Jul 12 |
-|             [Missouri](/us-mo) |            Apr 26 |           May 20 |           Jun 18 |           Jul 19 |
-|              [Montana](/us-mt) |   Never surpassed |  Never surpassed |  Never surpassed |            Jun 2 |
-|             [Nebraska](/us-ne) |   Never surpassed |  Never surpassed |            May 8 |           Jun 23 |
-|               [Nevada](/us-nv) |            Apr 18 |           May 20 |           Jun 22 |           Jul 25 |
-|        [New Hampshire](/us-nh) |   Never surpassed |            Apr 6 |            May 6 |           Jun 21 |
-|           [New Jersey](/us-nj) |            May 31 |           Jun 15 |           Jun 30 |           Jul 18 |
-|           [New Mexico](/us-nm) |   Never surpassed |  Never surpassed |           Apr 28 |           Jun 20 |
-|             [New York](/us-ny) |             Jul 3 |           Jul 17 |           Jul 30 |      After Aug 4 |
-|       [North Carolina](/us-nc) |            Apr 17 |           May 20 |           Jun 19 |           Jul 11 |
-|         [North Dakota](/us-nd) |   Never surpassed |  Never surpassed |  Never surpassed |            Jun 2 |
-|                 [Ohio](/us-oh) |             May 8 |            Jun 6 |           Jun 27 |           Jul 15 |
-|             [Oklahoma](/us-ok) |            Apr 12 |            May 5 |            Jun 4 |            Jul 3 |
-|               [Oregon](/us-or) |   Never surpassed |            Apr 6 |           Apr 28 |            Jun 8 |
-|         [Pennsylvania](/us-pa) |            Jun 14 |            Jul 7 |            Aug 1 |      After Aug 4 |
-|          [Puerto Rico](/us-pr) |   Never surpassed |           Apr 24 |            Jun 5 |           Jul 10 |
-|         [Rhode Island](/us-ri) |            Apr 21 |           Jun 13 |            Jul 9 |      After Aug 4 |
-|       [South Carolina](/us-sc) |             Apr 3 |           Apr 24 |           May 20 |           Jun 25 |
-|         [South Dakota](/us-sd) |   Never surpassed |           Apr 13 |            May 2 |            Jun 5 |
-|            [Tennessee](/us-tn) |             Apr 7 |            May 3 |            Jun 5 |           Jun 29 |
-|                [Texas](/us-tx) |            May 20 |           Jun 21 |           Jul 14 |      After Aug 4 |
-|                 [Utah](/us-ut) |   Never surpassed |  Never surpassed |           Apr 12 |           May 23 |
-|              [Vermont](/us-vt) |   Never surpassed |  Never surpassed |            Apr 9 |           May 26 |
-|       [Virgin Islands](/us-vi) |   Never surpassed |  Never surpassed |  Never surpassed |           Jun 13 |
-|             [Virginia](/us-va) |             May 1 |           May 28 |           Jun 25 |           Jul 27 |
-|           [Washington](/us-wa) |            Apr 22 |           May 13 |            Jun 7 |            Jul 6 |
-|        [West Virginia](/us-wv) |   Never surpassed |  Never surpassed |           May 30 |            Jul 9 |
-|            [Wisconsin](/us-wi) |            Apr 21 |           May 16 |           Jun 15 |           Jul 13 |
-|              [Wyoming](/us-wy) |   Never surpassed |  Never surpassed |  Never surpassed |  Never surpassed |
+|              [Alabama](/us-al) |            May 28 |           Jul 12 |      After Aug 4 |      After Aug 4 |
+|               [Alaska](/us-ak) |   Never surpassed |  Never surpassed |  Never surpassed |  Never surpassed |
+|              [Arizona](/us-az) |            Apr 13 |           May 30 |           Jun 27 |           Jul 23 |
+|             [Arkansas](/us-ar) |   Never surpassed |  Never surpassed |           May 20 |            Jul 7 |
+|           [California](/us-ca) |            Jul 18 |      After Aug 4 |      After Aug 4 |      After Aug 4 |
+|             [Colorado](/us-co) |            Jun 13 |           Jul 27 |      After Aug 4 |      After Aug 4 |
+|          [Connecticut](/us-ct) |             Jun 1 |           Jun 23 |           Jul 10 |            Aug 4 |
+|             [Delaware](/us-de) |   Never surpassed |           Apr 14 |           Jun 10 |           Jul 18 |
+| [District of Columbia](/us-dc) |   Never surpassed |            May 3 |           Jun 14 |           Jul 23 |
+|              [Florida](/us-fl) |             Jun 8 |            Jul 5 |           Jul 31 |      After Aug 4 |
+|              [Georgia](/us-ga) |            Jun 16 |           Jul 11 |      After Aug 4 |      After Aug 4 |
+|                 [Guam](/us-gu) |   Never surpassed |  Never surpassed |  Never surpassed |           Apr 11 |
+|               [Hawaii](/us-hi) |   Never surpassed |  Never surpassed |  Never surpassed |  Never surpassed |
+|                [Idaho](/us-id) |   Never surpassed |           Apr 20 |           Jun 23 |      After Aug 4 |
+|             [Illinois](/us-il) |             Jul 8 |      After Aug 4 |      After Aug 4 |      After Aug 4 |
+|              [Indiana](/us-in) |            Jun 27 |      After Aug 4 |      After Aug 4 |      After Aug 4 |
+|                 [Iowa](/us-ia) |   Never surpassed |           May 19 |           Jun 28 |           Jul 31 |
+|               [Kansas](/us-ks) |   Never surpassed |           Apr 12 |            May 7 |           Jun 15 |
+|             [Kentucky](/us-ky) |            Apr 10 |            May 1 |           May 31 |            Jul 4 |
+|            [Louisiana](/us-la) |            Jun 11 |           Jun 30 |           Jul 16 |      After Aug 4 |
+|                [Maine](/us-me) |   Never surpassed |  Never surpassed |  Never surpassed |           May 26 |
+|             [Maryland](/us-md) |            Jun 30 |      After Aug 4 |      After Aug 4 |      After Aug 4 |
+|        [Massachusetts](/us-ma) |            Jun 13 |            Jul 4 |           Jul 22 |      After Aug 4 |
+|             [Michigan](/us-mi) |       After Aug 4 |      After Aug 4 |      After Aug 4 |      After Aug 4 |
+|            [Minnesota](/us-mn) |             Apr 8 |           May 10 |           Jun 23 |      After Aug 4 |
+|          [Mississippi](/us-ms) |            Apr 10 |            May 5 |           Jun 12 |           Jul 24 |
+|             [Missouri](/us-mo) |             May 7 |           Jun 20 |            Aug 1 |      After Aug 4 |
+|              [Montana](/us-mt) |   Never surpassed |  Never surpassed |  Never surpassed |  Never surpassed |
+|             [Nebraska](/us-ne) |   Never surpassed |  Never surpassed |  Never surpassed |           May 17 |
+|               [Nevada](/us-nv) |            Apr 10 |           May 18 |           Jun 23 |           Jul 27 |
+|        [New Hampshire](/us-nh) |   Never surpassed |  Never surpassed |           Apr 11 |           May 16 |
+|           [New Jersey](/us-nj) |             Jul 7 |            Aug 1 |      After Aug 4 |      After Aug 4 |
+|           [New Mexico](/us-nm) |   Never surpassed |  Never surpassed |           May 18 |           Jun 30 |
+|             [New York](/us-ny) |            Jul 22 |      After Aug 4 |      After Aug 4 |      After Aug 4 |
+|       [North Carolina](/us-nc) |            Apr 29 |           Jun 17 |           Jul 17 |      After Aug 4 |
+|         [North Dakota](/us-nd) |   Never surpassed |  Never surpassed |  Never surpassed |  Never surpassed |
+|                 [Ohio](/us-oh) |             Jul 9 |      After Aug 4 |      After Aug 4 |      After Aug 4 |
+|             [Oklahoma](/us-ok) |             Apr 6 |            May 5 |           Jun 11 |           Jul 11 |
+|               [Oregon](/us-or) |   Never surpassed |  Never surpassed |           Apr 27 |           Jun 21 |
+|         [Pennsylvania](/us-pa) |       After Aug 4 |      After Aug 4 |      After Aug 4 |      After Aug 4 |
+|          [Puerto Rico](/us-pr) |   Never surpassed |  Never surpassed |           Apr 15 |           May 20 |
+|         [Rhode Island](/us-ri) |            Apr 29 |           Jun 19 |           Jul 14 |      After Aug 4 |
+|       [South Carolina](/us-sc) |   Never surpassed |            May 4 |           Jun 17 |      After Aug 4 |
+|         [South Dakota](/us-sd) |   Never surpassed |  Never surpassed |  Never surpassed |            Apr 9 |
+|            [Tennessee](/us-tn) |             Apr 6 |            May 4 |            Jun 8 |            Jul 4 |
+|                [Texas](/us-tx) |             Jul 5 |      After Aug 4 |      After Aug 4 |      After Aug 4 |
+|                 [Utah](/us-ut) |   Never surpassed |  Never surpassed |           Apr 14 |           Jun 16 |
+|              [Vermont](/us-vt) |   Never surpassed |  Never surpassed |            Apr 4 |           May 17 |
+|       [Virgin Islands](/us-vi) |   Never surpassed |  Never surpassed |  Never surpassed |  Never surpassed |
+|             [Virginia](/us-va) |            Apr 14 |            May 3 |           May 31 |            Jul 4 |
+|           [Washington](/us-wa) |            May 15 |           Jun 26 |      After Aug 4 |      After Aug 4 |
+|        [West Virginia](/us-wv) |   Never surpassed |  Never surpassed |  Never surpassed |           May 30 |
+|            [Wisconsin](/us-wi) |             May 1 |           Jun 13 |           Jul 19 |      After Aug 4 |
+|              [Wyoming](/us-wy) |   Never surpassed |  Never surpassed |  Never surpassed |           May 29 |
 
 [Back to top](#top)
 
 ## Number of Infected Individuals by Date
 This is an estimate of the number of infected individuals present on each date. This includes all individuals who are currently infected on that date, and encompasses asymtomatic + untested individuals.
 
-|                                |   Apr 13 (today) |    Apr 15 |   Apr 30 |   May 15 |   May 30 |   Jun 15 |   Jun 30 |   Jul 15 |   Jul 30 |
-|--------------------------------|-----------------:|----------:|---------:|---------:|---------:|---------:|---------:|---------:|---------:|
-| [United States](/us)           |        1,624,860 | 1,488,580 |  816,071 |  502,241 |  331,131 |  213,526 |  131,217 |   76,723 |   47,174 |
-| [Alabama](/us-al)              |           11,009 |    10,519 |    7,842 |    6,131 |    4,726 |    3,327 |    2,049 |    1,110 |      644 |
-| [Alaska](/us-ak)               |            1,766 |     1,713 |    1,407 |    1,171 |      945 |      695 |      453 |      264 |      159 |
-| [Arizona](/us-az)              |           11,369 |    10,866 |    8,093 |    6,313 |    4,865 |    3,434 |    2,139 |    1,201 |      714 |
-| [Arkansas](/us-ar)             |            3,905 |     3,744 |    2,826 |    2,217 |    1,713 |    1,214 |      759 |      419 |      244 |
-| [California](/us-ca)           |           48,513 |    45,276 |   28,111 |   18,757 |   13,009 |    8,827 |    5,917 |    3,930 |    2,666 |
-| [Colorado](/us-co)             |           35,433 |    33,338 |   21,790 |   15,198 |   10,929 |    7,622 |    5,169 |    3,428 |    2,323 |
-| [Connecticut](/us-ct)          |           55,435 |    50,586 |   26,935 |   16,156 |   10,396 |    6,512 |    3,829 |    2,074 |    1,171 |
-| [Delaware](/us-de)             |            5,679 |     5,530 |    4,520 |    3,712 |    2,969 |    2,186 |    1,451 |      874 |      545 |
-| [District Of Columbia](/us-dc) |            6,052 |     5,798 |    4,322 |    3,353 |    2,596 |    1,890 |    1,275 |      805 |      522 |
-| [Florida](/us-fl)              |           41,268 |    38,063 |   21,560 |   13,448 |    8,903 |    5,811 |    3,751 |    2,408 |    1,593 |
-| [Georgia](/us-ga)              |           76,697 |    71,947 |   43,352 |   27,476 |   18,242 |   12,045 |    8,102 |    5,449 |    3,727 |
-| [Guam](/us-gu)                 |            2,098 |     1,982 |    1,360 |    1,001 |      737 |      493 |      281 |      135 |       70 |
-| [Hawaii](/us-hi)               |            2,892 |     2,873 |    2,577 |    2,159 |    1,691 |    1,165 |      659 |      276 |      119 |
-| [Idaho](/us-id)                |            4,832 |     4,611 |    3,361 |    2,589 |    1,992 |    1,424 |      917 |      535 |      328 |
-| [Illinois](/us-il)             |           74,361 |    68,371 |   38,153 |   23,945 |   16,068 |   10,532 |    6,614 |    4,017 |    2,565 |
-| [Indiana](/us-in)              |           42,864 |    39,748 |   23,494 |   15,238 |   10,420 |    6,999 |    4,618 |    2,979 |    1,976 |
-| [Iowa](/us-ia)                 |            5,295 |     5,070 |    3,776 |    2,933 |    2,253 |    1,591 |      995 |      553 |      327 |
-| [Kansas](/us-ks)               |            7,859 |     7,308 |    4,484 |    3,045 |    2,149 |    1,440 |      890 |      526 |      328 |
-| [Kentucky](/us-ky)             |           10,144 |     9,395 |    5,571 |    3,673 |    2,547 |    1,703 |    1,073 |      646 |      408 |
-| [Louisiana](/us-la)            |           43,039 |    39,302 |   21,921 |   14,056 |    9,489 |    5,952 |    3,202 |    1,544 |      805 |
-| [Maine](/us-me)                |            3,869 |     3,797 |    3,293 |    2,802 |    2,278 |    1,680 |    1,091 |      622 |      371 |
-| [Maryland](/us-md)             |           36,035 |    33,722 |   20,725 |   13,762 |    9,589 |    6,565 |    4,421 |    2,896 |    1,943 |
-| [Massachusetts](/us-ma)        |          100,013 |    91,819 |   50,112 |   30,824 |   20,417 |   13,270 |    8,254 |    4,870 |    3,008 |
-| [Michigan](/us-mi)             |          153,957 |   140,398 |   73,239 |   43,126 |   27,359 |   16,818 |    9,565 |    5,016 |    2,761 |
-| [Minnesota](/us-mn)            |            9,699 |     9,100 |    5,876 |    4,161 |    3,052 |    2,138 |    1,402 |      866 |      556 |
-| [Mississippi](/us-ms)          |           10,369 |     9,763 |    6,530 |    4,748 |    3,520 |    2,446 |    1,542 |      897 |      553 |
-| [Missouri](/us-mo)             |           15,377 |    14,281 |    8,568 |    5,661 |    3,936 |    2,674 |    1,760 |    1,116 |      730 |
-| [Montana](/us-mt)              |            1,736 |     1,705 |    1,475 |    1,258 |    1,032 |      773 |      517 |      306 |      184 |
-| [Nebraska](/us-ne)             |            3,642 |     3,516 |    2,783 |    2,248 |    1,764 |    1,254 |      773 |      405 |      225 |
-| [Nevada](/us-nv)               |           11,189 |    10,612 |    7,381 |    5,429 |    4,058 |    2,902 |    1,975 |    1,290 |      861 |
-| [New Hampshire](/us-nh)        |            4,163 |     3,947 |    2,785 |    2,114 |    1,617 |    1,151 |      738 |      427 |      261 |
-| [New Jersey](/us-nj)           |          146,482 |   128,578 |   49,915 |   21,532 |   10,283 |    4,981 |    2,434 |    1,145 |      560 |
-| [New Mexico](/us-nm)           |            3,100 |     3,002 |    2,420 |    1,978 |    1,566 |    1,126 |      708 |      391 |      228 |
-| [New York](/us-ny)             |          402,895 |   361,548 |  166,773 |   82,573 |   43,457 |   22,476 |   11,289 |    5,271 |    2,499 |
-| [North Carolina](/us-nc)       |           10,912 |    10,332 |    7,259 |    5,470 |    4,108 |    2,807 |    1,642 |      817 |      438 |
-| [North Dakota](/us-nd)         |            1,980 |     1,924 |    1,564 |    1,287 |    1,035 |      767 |      510 |      302 |      185 |
-| [Ohio](/us-oh)                 |           21,178 |    19,638 |   12,062 |    8,325 |    5,906 |    3,835 |    2,098 |      967 |      488 |
-| [Oklahoma](/us-ok)             |            9,575 |     8,919 |    5,565 |    3,864 |    2,769 |    1,852 |    1,097 |      584 |      335 |
-| [Oregon](/us-or)               |            3,927 |     3,673 |    2,368 |    1,665 |    1,203 |      824 |      524 |      315 |      196 |
-| [Pennsylvania](/us-pa)         |           66,486 |    61,233 |   34,559 |   21,637 |   14,420 |    9,497 |    6,182 |    3,955 |    2,613 |
-| [Puerto Rico](/us-pr)          |            6,060 |     5,827 |    4,470 |    3,547 |    2,786 |    2,036 |    1,358 |      841 |      540 |
-| [Rhode Island](/us-ri)         |           10,904 |    10,667 |    9,073 |    7,694 |    6,318 |    4,786 |    3,290 |    2,050 |    1,316 |
-| [South Carolina](/us-sc)       |            7,125 |     6,625 |    4,087 |    2,792 |    1,978 |    1,323 |      806 |      459 |      276 |
-| [South Dakota](/us-sd)         |            4,949 |     4,602 |    2,646 |    1,685 |    1,140 |      742 |      448 |      254 |      154 |
-| [Tennessee](/us-tn)            |            8,057 |     7,596 |    5,265 |    3,909 |    2,856 |    1,840 |      934 |      355 |      139 |
-| [Texas](/us-tx)                |           24,065 |    22,644 |   15,155 |   10,942 |    8,087 |    5,705 |    3,794 |    2,416 |    1,590 |
-| [Utah](/us-ut)                 |            2,376 |     2,247 |    1,559 |    1,157 |      862 |      592 |      358 |      193 |      111 |
-| [Vermont](/us-vt)              |            2,242 |     2,140 |    1,577 |    1,214 |      927 |      651 |      405 |      226 |      130 |
-| [Virgin Islands](/us-vi)       |            1,945 |     1,969 |    1,919 |    1,671 |    1,340 |      945 |      554 |      239 |       98 |
-| [Virginia](/us-va)             |           18,031 |    16,792 |   10,178 |    6,723 |    4,662 |    3,168 |    2,113 |    1,375 |      918 |
-| [Washington](/us-wa)           |           13,928 |    12,792 |    7,299 |    4,617 |    3,064 |    1,955 |    1,194 |      736 |      474 |
-| [West Virginia](/us-wv)        |            3,544 |     3,532 |    3,298 |    2,934 |    2,473 |    1,902 |    1,316 |      819 |      522 |
-| [Wisconsin](/us-wi)            |           12,932 |    11,998 |    7,381 |    5,076 |    3,630 |    2,466 |    1,543 |      914 |      573 |
-| [Wyoming](/us-wy)              |              N/A |       N/A |      N/A |      N/A |      N/A |      N/A |      N/A |      N/A |      N/A |
+|                                |   Apr 15 (today) |   Apr 30 |   May 15 |   May 30 |   Jun 15 |   Jun 30 |   Jul 15 |   Jul 30 |
+|--------------------------------|-----------------:|---------:|---------:|---------:|---------:|---------:|---------:|---------:|
+| [United States](/us)           |        1,606,061 |  972,533 |  653,175 |  466,194 |  330,400 |  231,955 |  162,376 |  119,249 |
+| [Alabama](/us-al)              |           14,918 |   12,883 |   11,285 |    9,742 |    7,993 |    6,231 |    4,701 |    3,658 |
+| [Alaska](/us-ak)               |              772 |      657 |      531 |      398 |      255 |      121 |       37 |       13 |
+| [Arizona](/us-az)              |            9,648 |    7,670 |    6,232 |    4,921 |    3,537 |    2,239 |    1,291 |      794 |
+| [Arkansas](/us-ar)             |            3,209 |    2,964 |    2,628 |    2,215 |    1,710 |    1,195 |      767 |      505 |
+| [California](/us-ca)           |           45,779 |   33,640 |   26,098 |   20,777 |   16,369 |   12,943 |   10,298 |    8,325 |
+| [Colorado](/us-co)             |           23,981 |   18,212 |   14,674 |   12,052 |    9,663 |    7,605 |    5,965 |    4,786 |
+| [Connecticut](/us-ct)          |           51,013 |   27,326 |   16,300 |   10,380 |    6,426 |    3,749 |    2,046 |    1,164 |
+| [Delaware](/us-de)             |            4,875 |    4,111 |    3,508 |    2,914 |    2,249 |    1,592 |    1,065 |      757 |
+| [District of Columbia](/us-dc) |            6,961 |    5,232 |    4,096 |    3,228 |    2,430 |    1,738 |    1,195 |      847 |
+| [Florida](/us-fl)              |           46,005 |   27,454 |   18,003 |   12,391 |    8,372 |    5,601 |    3,728 |    2,543 |
+| [Georgia](/us-ga)              |           65,573 |   37,399 |   23,164 |   15,242 |   10,017 |    6,710 |    4,507 |    3,091 |
+| [Guam](/us-gu)                 |              922 |      732 |      578 |      432 |      278 |      135 |       48 |       19 |
+| [Hawaii](/us-hi)               |              695 |      568 |      451 |      334 |      210 |       94 |       20 |        4 |
+| [Idaho](/us-id)                |            5,275 |    4,529 |    3,949 |    3,401 |    2,792 |    2,185 |    1,659 |    1,297 |
+| [Illinois](/us-il)             |           68,788 |   42,199 |   29,380 |   21,810 |   16,071 |   11,713 |    8,572 |    6,575 |
+| [Indiana](/us-in)              |           40,067 |   27,425 |   20,454 |   15,914 |   12,268 |    9,417 |    7,234 |    5,715 |
+| [Iowa](/us-ia)                 |            6,908 |    6,047 |    5,201 |    4,321 |    3,323 |    2,343 |    1,526 |    1,014 |
+| [Kansas](/us-ks)               |            4,393 |    2,882 |    2,063 |    1,490 |      985 |      563 |      292 |      159 |
+| [Kentucky](/us-ky)             |            8,285 |    5,115 |    3,522 |    2,525 |    1,734 |    1,119 |      695 |      453 |
+| [Louisiana](/us-la)            |           64,656 |   35,765 |   21,712 |   13,903 |    8,543 |    4,859 |    2,571 |    1,407 |
+| [Maine](/us-me)                |            1,872 |    1,537 |    1,216 |      896 |      555 |      238 |       48 |        9 |
+| [Maryland](/us-md)             |           39,014 |   27,418 |   20,659 |   16,222 |   12,689 |    9,965 |    7,819 |    6,264 |
+| [Massachusetts](/us-ma)        |           57,890 |   32,230 |   20,727 |   14,219 |    9,362 |    5,661 |    3,170 |    1,906 |
+| [Michigan](/us-mi)             |          157,031 |   97,028 |   66,121 |   47,556 |   33,693 |   23,466 |   16,209 |   11,682 |
+| [Minnesota](/us-mn)            |            8,315 |    5,948 |    4,603 |    3,666 |    2,843 |    2,145 |    1,598 |    1,237 |
+| [Mississippi](/us-ms)          |            8,423 |    5,568 |    4,084 |    3,125 |    2,327 |    1,672 |    1,186 |      890 |
+| [Missouri](/us-mo)             |           16,300 |   11,444 |    8,682 |    6,843 |    5,340 |    4,149 |    3,208 |    2,542 |
+| [Montana](/us-mt)              |              868 |      718 |      577 |      437 |      285 |      143 |       49 |       18 |
+| [Nebraska](/us-ne)             |            1,644 |    1,305 |    1,032 |      770 |      491 |      231 |       65 |       20 |
+| [Nevada](/us-nv)               |            8,894 |    6,635 |    5,192 |    4,063 |    2,998 |    2,065 |    1,356 |      916 |
+| [New Hampshire](/us-nh)        |            2,136 |    1,399 |    1,013 |      746 |      506 |      300 |      153 |       85 |
+| [New Jersey](/us-nj)           |          173,133 |   91,442 |   52,061 |   31,531 |   19,219 |   12,164 |    7,804 |    5,144 |
+| [New Mexico](/us-nm)           |            3,864 |    3,182 |    2,605 |    2,067 |    1,502 |      974 |      558 |      323 |
+| [New York](/us-ny)             |          394,698 |  197,873 |  107,563 |   62,499 |   36,328 |   21,378 |   12,508 |    7,648 |
+| [North Carolina](/us-nc)       |           12,499 |    9,823 |    8,071 |    6,611 |    5,113 |    3,697 |    2,561 |    1,876 |
+| [North Dakota](/us-nd)         |              755 |      601 |      474 |      351 |      221 |      100 |       25 |        7 |
+| [Ohio](/us-oh)                 |           35,376 |   27,385 |   22,201 |   18,289 |   14,708 |   11,602 |    9,043 |    7,210 |
+| [Oklahoma](/us-ok)             |            7,697 |    5,419 |    4,109 |    3,136 |    2,227 |    1,426 |      855 |      559 |
+| [Oregon](/us-or)               |            3,220 |    2,337 |    1,823 |    1,448 |    1,107 |      811 |      588 |      446 |
+| [Pennsylvania](/us-pa)         |           87,817 |   56,953 |   40,625 |   30,752 |   23,457 |   18,185 |   14,181 |   11,311 |
+| [Puerto Rico](/us-pr)          |            2,446 |    1,545 |    1,097 |      785 |      496 |      243 |       87 |       33 |
+| [Rhode Island](/us-ri)         |           11,491 |    9,863 |    8,407 |    6,951 |    5,331 |    3,747 |    2,413 |    1,592 |
+| [South Carolina](/us-sc)       |            7,222 |    5,287 |    4,148 |    3,321 |    2,573 |    1,928 |    1,431 |    1,105 |
+| [South Dakota](/us-sd)         |              883 |      691 |      542 |      402 |      253 |      118 |       43 |       17 |
+| [Tennessee](/us-tn)            |            7,504 |    5,319 |    4,017 |    3,004 |    2,031 |    1,164 |      579 |      319 |
+| [Texas](/us-tx)                |           31,969 |   24,869 |   20,237 |   16,724 |   13,520 |   10,767 |    8,508 |    6,848 |
+| [Utah](/us-ut)                 |            2,415 |    1,915 |    1,582 |    1,302 |    1,017 |      750 |      539 |      407 |
+| [Vermont](/us-vt)              |            1,863 |    1,353 |    1,036 |      789 |      555 |      348 |      203 |      131 |
+| [Virgin Islands](/us-vi)       |              808 |      745 |      618 |      473 |      314 |      162 |       50 |       15 |
+| [Virginia](/us-va)             |            9,292 |    5,402 |    3,604 |    2,555 |    1,749 |    1,129 |      726 |      510 |
+| [Washington](/us-wa)           |           18,052 |   12,909 |    9,890 |    7,778 |    5,991 |    4,573 |    3,536 |    2,806 |
+| [West Virginia](/us-wv)        |            1,472 |    1,372 |    1,202 |      991 |      737 |      484 |      275 |      157 |
+| [Wisconsin](/us-wi)            |           14,368 |   10,182 |    7,826 |    6,191 |    4,765 |    3,565 |    2,650 |    2,050 |
+| [Wyoming](/us-wy)              |            1,430 |    1,457 |    1,247 |      972 |      658 |      357 |      114 |       35 |
 
