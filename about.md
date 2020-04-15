@@ -10,7 +10,7 @@ Our COVID-19 prediction model has an underlying simulator based on [an SEIS mode
 
 The goal of this project is to showcase the strengths of artificial intelligence to tackle one of the world's most difficult problems: predict the track of a pandemic. Here, we use a pure data-driven approach by letting the machine do the learning.
 
-We are working on a more detailed write-up about our model, which you can find [here](/model-details).
+We are working on a more detailed write-up about our model, which you can find [here](/model-details/).
 
 ## How our model is different
 
@@ -56,9 +56,9 @@ We believe that a successful model must be able to quickly determine what is rea
 
 ## Data
 
-The only COVID-19 data our model uses to make projections is the daily death total provided by [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports), what is considered by experts to be the "gold standard" reference data. We do not use case-related data in our modeling due to reasonings described [here](https://fivethirtyeight.com/features/coronavirus-case-counts-are-meaningless/).
+To make our projections, we use the daily death total provided by [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports), what is considered by experts to be the "gold standard" reference data. We do not use case-related data in our modeling due to reasonings alluded to [here](https://fivethirtyeight.com/features/coronavirus-case-counts-are-meaningless/).
 
-Every day, raw daily projections for all 50 US states and select international countries will be uploaded [here](https://github.com/youyanggu/covid19_projections/tree/master/projections). Because the model factors in new data on a daily basis, it will be more accurate over time as more data becomes available. We are currently in the process of submitting our findings for peer review, but due to the current circumstances we are prioritizing the public release of our research.
+Every day, raw daily projections for all 50 US states and select international countries will be uploaded [here](https://github.com/youyanggu/covid19_projections/tree/master/projections). Because the model factors in new data on a daily basis, it will be more accurate over time as more data becomes available. We are currently in the process of submitting our findings for publication, but due to the current circumstances we are prioritizing the public release of our research.
 
 ## Contact
 
@@ -66,7 +66,7 @@ We enourage questions/insights/feedback! Please reach out to Youyang Gu on Twitt
 
 ## Assumptions
 
-Our model assumes continued moderate social distancing until August 2020. If social distancing is relaxed prior to August, the number of infections and deaths may become higher than projected. If social distancing is tightened (e.g. to the level of the Wuhan / Hubei lockdowns in China), the number of infections and deaths may become lower. We want to point out that because this assumption may be unrealistic, the true deaths may be higher than we are forecasting. We are currently working on a feature to account for the lifting of social distancing prior to August.
+Our model assumes continued moderate social distancing until August 2020. If social distancing is relaxed prior to August, the number of infections and deaths may become higher than projected. If social distancing is tightened (e.g. to the level of the Wuhan / Hubei lockdowns in China), the number of infections and deaths may become lower. Since this assumption may be unrealistic, the true deaths may be higher than we are forecasting. We are currently working on a feature to account for the lifting of social distancing prior to August.
 
 In additional to our most likely estimate, we also provide a 95% confidence interval. So for example, if we predict 62k deaths with a range of 38-105k, it means that there is roughly a 95% chance that the true deaths will be between 38-105k. There are too many real-world variables that can affect the outcome, which results in this large range.
 
