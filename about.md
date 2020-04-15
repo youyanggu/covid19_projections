@@ -66,7 +66,7 @@ We enourage questions/insights/feedback! Please reach out to Youyang Gu on Twitt
 
 ## Assumptions
 
-Our model assumes continued moderate social distancing until August 2020. If social distancing is relaxed prior to August, the number of infections and deaths may become higher than projected. If social distancing is tightened (e.g. to the level of the Wuhan / Hubei lockdowns in China), the number of infections and deaths may become lower. Since this assumption may be unrealistic, the true deaths may be higher than we are forecasting. We are currently working on a feature to account for the lifting of social distancing prior to August.
+Our model assumes continued social distancing until August 2020. The exact extent of social distancing is region-specific and will be learned by the model. If social distancing is relaxed prior to August, the number of infections and deaths may become higher than projected. If social distancing is tightened (e.g. to the level of the Wuhan / Hubei lockdowns in China), the number of infections and deaths may become lower. Since this assumption may be unrealistic, the true deaths may be higher than we are forecasting. We are currently working on a feature to account for the lifting of social distancing prior to August.
 
 In additional to our most likely estimate, we also provide a 95% confidence interval. So for example, if we predict 62k deaths with a range of 38-105k, it means that there is roughly a 95% chance that the true deaths will be between 38-105k. There are too many real-world variables that can affect the outcome, which results in this large range.
 
