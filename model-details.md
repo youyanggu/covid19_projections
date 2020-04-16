@@ -49,13 +49,13 @@ To model the effects of shelter-at-home/lockdown orders, we assign an R value fo
 
 ## Parameter Search using Machine Learning
 
-As described in the previous section, determining the best values for variable parameters such as R<sub>0</sub>, the mortality rate, and the post-mitigation R will help us determine how COVID-19 will progress in a region. If we know what the "true" values of those parameters are, we can accurately simulate what is happening in the real world using our SEIS model. To determine these values, we use hyperparameter optimization.
+As described in the previous section, determining the best values for variable parameters such as R<sub>0</sub>, the mortality rate, post-mitigation R, and post-reopening R will help us determine how COVID-19 will progress in a region. If we know what the "true" values of those parameters are, we can accurately simulate what is happening in the real world using our SEIS model. To determine these values, we use hyperparameter optimization.
 
 ### Hyperparameter Optimization
 
-We found that a brute-force search method that iterates through the entire parameter space is the most effective in finding an optimal set of parameters. However, some pruning of unrealistic parameters (e.g. R<sub>0</sub> = 20) may be necessary.
+We found that a brute-force search method that iterates through the entire parameter space is the most effective in finding an optimal set of parameters. We use grid search to iterate through the parameter space. So if we have 10 values for R<sub>0</sub> and 10 values for the mortality rate, then there are 100 different parameter combinations for those two parameters. To optimize computation time, we prune unrealistic parameters (e.g. R<sub>0</sub> > 20).
 
-To measure the error of a parameter set, we use a loss function that minimizes the error between our projected daily deaths and the actual daily deaths. We find that an ensemble loss function that minimizes both absolute daily deaths and total daily deaths works well.
+To measure the error of a parameter set, we use a loss function that minimizes the error between our projected daily deaths and the actual daily deaths. We find that an ensemble loss function that minimizes both absolute daily deaths and total daily deaths works well. For parameters where we do not have the data to estimate (e.g. we do not know the post-reopening R for regions that have not reopened), we consider all values equally, resulting in a wider confidence interval.
 
 While we do not have much out-of-sample data to work with, we try our best to take advantage of the data from countries such as China, Italy, and Iran, whose progression is much further along than regions such as the US.
 
