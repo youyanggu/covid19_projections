@@ -12,6 +12,7 @@ permalink: /about/
 * [Contact](#contact)
 * [Assumptions](#assumptions)
 * [Model Comparison with IHME](#model-comparison-with-ihme)
+* [Updates](#updates)
 
 ## About the model
 
