@@ -70,6 +70,8 @@ We enourage questions/insights/feedback! Please reach out to Youyang Gu on Twitt
 
 For US and European countries, we assume moderate social distancing until June 1, 2020 and light social distancing from June 1 onwards. This more accurately reflects the current sentiment expressed by US and European government officials that it is imperative to re-open the economy, even before the virus is fully contained. This will cause a second wave of infections and is reflected by the higher death tolls in our projections from April 15 onwards.
 
+Starting on April 15, we also take into account that a certain percentage of recovered individuals will be immune, and thus the susceptible population will decrease over time.
+
 If states and countries relax social distancing measures prior to June 1, then the death toll may be higher than projected, while the reverse holds true as well. In addition, if states and countries fully lift social distancing measures prior to August, we may also see a higher death toll than projected.
 
 For all other countries, we assume continued social distancing until August 2020 (same as prior to Apr 15).
@@ -80,11 +82,11 @@ Our model assumes continued social distancing until August 2020. The exact exten
 
 ### Additional Assumptions
 
-Because we use a SEIS model where recovered individuals may become infected again, we assume no immunity is present. This is realistic for short-term forecasts such as this one, but projections further into the future may need to take into account herd immunity.
-
 In additional to our most likely estimate, we also provide a 95% confidence interval. So for example, if we predict 62k deaths with a range of 38-105k, it means that there is roughly a 95% chance that the true deaths will be between 38-105k. There are too many real-world variables that can affect the outcome, which results in this large range.
 
-Because our model uses only the daily death totals from each region to make projections, it will be more effective for regions where there is a lot of available data.
+Because our model uses only the daily death totals from each region to make projections, it will be more effective for regions where there more available data.
+
+We currently do not factor in seasonality changes, as there has not been sufficient data/research into this area.
 
 *We want to caution against focusing on one particular number as the outcome of this model. We are in fact projecting a range which includes a most likely outcome. If the true results fall within the range, that is within the expected outcome of this model. We highly recommend that you include our range when using our projections (i.e. 21,342 (15-34k) deaths).*
 
