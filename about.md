@@ -98,6 +98,8 @@ Also note that while we attempt to predict the *official* death total, the true 
 
 We will compare our daily projections with the IHME projections for several heavily-impacted regions where our estimates widely differ: US, New York, Michigan, Connecticut, Italy, and France. Note that while we update our projections daily, IHME only updates their projections three times a week.
 
+\* Starting on April 15, we assume a relaxing of social distancing in US and Europe starting on June 1, leading to higher projections.
+
 | Date | Our US proj. death total | IHME US proj. death total
 | --- | --- | --- |
 | April 9, 2020 | 62,225 (37-106k) | 60,415 (31-127k)
@@ -106,6 +108,7 @@ We will compare our daily projections with the IHME projections for several heav
 | April 12, 2020 | 71,959 (43-125k) | 61,545 (26-156k)
 | April 13, 2020 | 71,731 (45-121k) | 68,841 (30-176k)
 | April 14, 2020 | 85,431 (50-157k) | 68,841 (30-176k)
+| April 15, 2020\* | 114,416 (55-231k) | 68,841 (30-176k)
 
 | Date | Our US Jun-Aug proj. death total | IHME US Jun-Aug proj. death total
 | --- | --- | --- |
@@ -115,6 +118,7 @@ We will compare our daily projections with the IHME projections for several heav
 | April 12, 2020 | 7,637 (0.7-27k) | 225 (0-1.2k)
 | April 13, 2020 | 8,081 (1.0-28k) | 620 (3-2.9k)
 | April 14, 2020 | 14,368 (1.9-51k) | 620 (3-2.9k)
+| April 15, 2020\* | 28,354 (2.4-102k) | 620 (3-2.9k)
 
 | Date | Our NY proj. death total | IHME NY proj. death total
 | --- | --- | --- |
@@ -124,6 +128,7 @@ We will compare our daily projections with the IHME projections for several heav
 | April 12, 2020 | 21,479 (15-29k) | 13,463 (9-25k)
 | April 13, 2020 | 20,738 (16-27k) | 14,542 (11-23k)
 | April 14, 2020 | 25,019 (18-40k) | 14,542 (11-23k)
+| April 15, 2020\* | 33,384 (20-51k) | 14,542 (11-23k)
 
 | Date | Our MI proj. death total | IHME MI proj. death total
 | --- | --- | --- |
@@ -131,8 +136,9 @@ We will compare our daily projections with the IHME projections for several heav
 | April 10, 2020 | 6,747 (3.9-12k) | 1,977 (1.3-3.6k)
 | April 11, 2020 | 6,421 (3.7-11k) | 1,977 (1.3-3.6k)
 | April 12, 2020 | 6,138 (3.6-10k) | 1,977 (1.3-3.6k)
-| April 13, 2020 | 6,268 (3.9-9.9k) | 2,373 (1.7-4.1k)
-| April 14, 2020 | 7,402 (3.9-15.1k) | 2,373 (1.7-4.1k)
+| April 13, 2020 | 6,268 (3.9-10k) | 2,373 (1.7-4.1k)
+| April 14, 2020 | 7,402 (3.9-15k) | 2,373 (1.7-4.1k)
+| April 15, 2020\* | 8,196 (3.7-19k) | 2,373 (1.7-4.1k)
 
 | Date | Our CT proj. death total | IHME CT proj. death total
 | --- | --- | --- |
@@ -142,6 +148,7 @@ We will compare our daily projections with the IHME projections for several heav
 | April 12, 2020 | 2,241 (1.2-3.8k) | 4,614 (1.1-13.6k)
 | April 13, 2020 | 2,276 (1.3-3.9k) | 5,426 (1.3-15.4k)
 | April 14, 2020 | 2,293 (1.4-3.6k) | 5,426 (1.3-15.4k)
+| April 15, 2020\* | 5,681 (2.6-9.8k) | 5,426 (1.3-15.4k)
 
 | Date | Our Italy proj. death total | IHME Italy proj. death total
 | --- | --- | --- |
@@ -150,7 +157,8 @@ We will compare our daily projections with the IHME projections for several heav
 | April 11, 2020 | 33,829 (24-49k) | 20,333 (19-22k)
 | April 12, 2020 | 32,909 (24-47k) | 20,333 (19-22k)
 | April 13, 2020 | 33,596 (25-47k) | 21,130 (20-23k)
-| April 13, 2020 | 35,239 (26-49k) | 21,130 (20-23k)
+| April 14, 2020 | 35,239 (26-49k) | 21,130 (20-23k)
+| April 15, 2020\* | 40,216 (27-79k) | 21,130 (20-23k)
 
 | Date | Our France proj. death total | IHME France proj. death total
 | --- | --- | --- |
@@ -159,9 +167,13 @@ We will compare our daily projections with the IHME projections for several heav
 | April 11, 2020 | 37,234 (21-63k) | 15,741 (13-21k)
 | April 12, 2020 | 36,201 (20-63k) | 15,741 (13-21k)
 | April 13, 2020 | 35,063 (21-62k) | 17,448 (15-23k)
-| April 13, 2020 | 35,458 (22-62k) | 17,448 (15-23k)
+| April 14, 2020 | 35,458 (22-62k) | 17,448 (15-23k)
+| April 15, 2020\* | 42,777 (23-92k) | 17,448 (15-23k)
 
 ## Updates
+
+2020-04-15
+* Incorporate the relaxing of social distancing in June (see our [Assumptions](/about#assumptions) page)
 
 2020-04-13
 * Switch data source to [JHU CSSE Daily Reports](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports)
