@@ -68,7 +68,7 @@ We enourage questions/insights/feedback! Please reach out to Youyang Gu on Twitt
 
 ## Assumptions
 
-### Since April 15, 2020
+### Projections since April 15, 2020
 
 For US and European countries, we assume moderate social distancing until June 1, 2020 and light social distancing from June 1 onwards. This more accurately reflects the current sentiment expressed by US and European government officials that it is imperative to re-open the economy, even before the virus is fully contained. This will cause a second wave of infections and is reflected by the higher death tolls in our projections from April 15 onwards.
 
@@ -78,7 +78,7 @@ If states and countries relax social distancing measures prior to June 1, then t
 
 For all other countries, we assume continued social distancing until August 2020 (same as prior to Apr 15).
 
-### Prior to April 15, 2020
+### Projections prior to April 15, 2020
 
 Our model assumes continued social distancing until August 2020. The exact extent of social distancing is region-specific and will be learned by the model. If social distancing is relaxed prior to August, the number of infections and deaths may become higher than projected. If social distancing is tightened (e.g. to the level of the Wuhan / Hubei lockdowns in China), the number of infections and deaths may become lower. Since this assumption may be unrealistic, the true deaths may be higher than we are forecasting.
 
