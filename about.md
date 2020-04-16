@@ -44,6 +44,8 @@ As of April 11, IHME is projecting 13,463 (9,382 - 24,236) total deaths for New 
 
 As of April 11, Connecticut currently has 448 deaths, and yet the IHME is projecting 4,614 deaths, a 10x increase. Their range is also 1,143-13,559, an extremely large range. Our projections from April 11 show a range of 1,337 - 3,850.
 
+*April 15 note: We have since incorporated the relaxing of social distancing in our model, leading to higher projections for CT. Because IHME assumes full social distancing through June, their projeciton of 4,614 deaths on April 11 is still an over-projection given those assumptions.*
+
 ### US June-August: under-projection
 
 As of April 11, IHME projects 225 (0 - 1,180) deaths in the US from June 1 to August 4. While we hope the US only has 225 total deaths from June to August (an average of 3 deaths per day), we believe this is an underestimate. The upper range of 1,180 (18 deaths per day) also appears to be an under-projection *for an upper range*. Meanwhile, our model is projecting 8,373 (944 - 29,315) deaths in US from June 1 to August 4.
