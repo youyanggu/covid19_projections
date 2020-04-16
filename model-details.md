@@ -39,13 +39,13 @@ Variable parameters are those that may change depending on the country/state/reg
 - Mortality rate
 - Imports of positive cases per day
 - Mitigation effects (i.e. post-mitigation R)
+- Lifting of shelter-at-home orders (i.e. post-reopening R)
 - Population
 - Hospital beds per 1000
-- Lifting of shelter-at-home orders (i.e. post-lockdown R)
 
 Note that variable parameters such as population and hospital beds per 1000 are easily computable from a simple lookup. However, the other parameters are not easily retrievable. We will allocate the majority of our resources towards estimating the most sensible values for these parameters for each region.
 
-To model the effects of shelter-at-home/lockdown orders, we assign an R value for post-lockdown and a separate R value for post-reopening. These R values are unknown ahead of time, and will be learned by the model.
+To model the effects of shelter-at-home/lockdown orders, we assign an R value for post-lockdown and a separate R value for post-reopening. These R values are unknown ahead of time, and will be learned by the model. We assume that post-mitigation R is less than 1 to account for the decrease in cases, and that the post-reopening R is on average less than the initial R<sub>0</sub>.
 
 ## Parameter Search using Machine Learning
 
