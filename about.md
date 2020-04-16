@@ -4,6 +4,15 @@ title: About
 permalink: /about/
 ---
 
+## Table of contents
+* [About the model](#about-the-model)
+* [How our model is different](#how-our-model-is-different)
+* [Concerns with the IHME model](#concerns-with-the-ihme-model)
+* [Data](#data)
+* [Contact](#contact)
+* [Assumptions](#assumptions)
+* [Model Comparison with IHME](#model-comparison-with-ihme)
+
 ## About the model
 
 Our COVID-19 prediction model has an underlying simulator based on [an SEIS model](http://leonidzhukov.net/hse/2014/socialnetworks/papers/2000SiamRev.pdf) to simulate the COVID-19 epidemic in each given country/state/region. The parameters/inputs of this simulator are then learned using machine learning techniques that attempts to minimize the error between the projected outputs and the actual results. After some additional validation techniques (to minimize a phenomenon called overfitting), we use the learned parameters to simulate the future and make projections.
@@ -96,7 +105,7 @@ While we attempt our best to ensure accuracy and precision, no model is perfect,
 
 Also note that while we attempt to predict the *official* death total, the true death total may be higher due to [underreporting at various levels](https://www.nytimes.com/2020/04/05/us/coronavirus-deaths-undercount.html).
 
-## Model comparison
+## Model Comparison with IHME
 
 We will compare our daily projections with the IHME projections for several heavily-impacted regions where our estimates widely differ: US, New York, Michigan, Connecticut, Italy, and France. Note that while we update our projections daily, IHME only updates their projections three times a week.
 
