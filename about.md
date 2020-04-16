@@ -80,6 +80,8 @@ Our model assumes continued social distancing until August 2020. The exact exten
 
 ### Additional Assumptions
 
+Because we use a SEIS model where recovered individuals may become infected again, we assume no immunity is present. This is realistic for short-term forecasts such as this one, but projections further into the future may need to take into account herd immunity.
+
 In additional to our most likely estimate, we also provide a 95% confidence interval. So for example, if we predict 62k deaths with a range of 38-105k, it means that there is roughly a 95% chance that the true deaths will be between 38-105k. There are too many real-world variables that can affect the outcome, which results in this large range.
 
 Because our model uses only the daily death totals from each region to make projections, it will be more effective for regions where there is a lot of available data.
