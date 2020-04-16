@@ -66,7 +66,19 @@ We enourage questions/insights/feedback! Please reach out to Youyang Gu on Twitt
 
 ## Assumptions
 
-Our model assumes continued social distancing until August 2020. The exact extent of social distancing is region-specific and will be learned by the model. If social distancing is relaxed prior to August, the number of infections and deaths may become higher than projected. If social distancing is tightened (e.g. to the level of the Wuhan / Hubei lockdowns in China), the number of infections and deaths may become lower. Since this assumption may be unrealistic, the true deaths may be higher than we are forecasting. We are currently working on a feature to account for the lifting of social distancing prior to August.
+### Since April 15, 2020
+
+For US and European countries, we assume moderate social distancing until June 1, 2020 and light social distancing afterwards. This more accurately reflects the current sentiment expressed by US and European government officials that it is imperative to re-open the economy, even before the virus is fully contained. This will cause a second wave of infections and is reflected by the higher death tolls in our projections from April 15 onwards.
+
+If states and countries relax social distancing measures prior to June 1, then the death toll may be higher than projected, while the reverse holds true as well. In addition, if states and countries fully lift social distancing measures prior to August, we may also see a higher death toll than projected.
+
+For all other countries, we assume continued social distancing until August 2020 (same as prior to Apr 15).
+
+### Prior to April 15, 2020
+
+Our model assumes continued social distancing until August 2020. The exact extent of social distancing is region-specific and will be learned by the model. If social distancing is relaxed prior to August, the number of infections and deaths may become higher than projected. If social distancing is tightened (e.g. to the level of the Wuhan / Hubei lockdowns in China), the number of infections and deaths may become lower. Since this assumption may be unrealistic, the true deaths may be higher than we are forecasting.
+
+### Additional Assumptions
 
 In additional to our most likely estimate, we also provide a 95% confidence interval. So for example, if we predict 62k deaths with a range of 38-105k, it means that there is roughly a 95% chance that the true deaths will be between 38-105k. There are too many real-world variables that can affect the outcome, which results in this large range.
 
