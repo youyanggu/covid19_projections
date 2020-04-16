@@ -1,16 +1,16 @@
 country,region,daily_deaths,daily_deaths_lower,daily_deaths_upper
-France,,811,522,1164
-United Kingdom,,767,540,1043
-Spain,,491,358,723
-Italy,,491,332,695
-Belgium,,408,295,565
-Germany,,257,189,344
+France,,802,524,1128
+United Kingdom,,764,535,1030
+Italy,,486,332,695
+Spain,,481,349,689
+Belgium,,410,323,557
+Germany,,256,188,344
 Brazil,,214,171,259
-Netherlands,,128,93,175
-Sweden,,117,86,160
-Iran,,102,66,133
+Netherlands,,127,93,174
+Sweden,,118,88,160
+Iran,,101,65,132
 Turkey,,99,77,123
-Canada,,95,73,125
+Canada,,95,72,125
 Mexico,,58,45,74
 India,,50,37,86
 Switzerland,,47,30,65
