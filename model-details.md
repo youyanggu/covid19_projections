@@ -4,8 +4,6 @@ title: Model Details
 permalink: /model-details/
 ---
 
-We are currently working on this page. Please check back soon.
-
 # Model details
 
 ## SEIS Model
@@ -13,6 +11,10 @@ We are currently working on this page. Please check back soon.
 Our COVID-19 prediction model has an underlying simulator based on an elaboration of the classic SIR model used in epidemiology: the SEIS (susceptible-exposed-infected-susceptible) model. We added an exposed (E) period due to the reported incubation period of COVID-19 during which individuals are not yet infectious. We also changed the last step from recovered (R) to susceptible (S) to account for the possibility of re-infection, a phenomnenon that has already been reported in several countries.
 
 To quickly summarize how an SEIS model works, at each time period, an individual in a population is in one of three states: susceptible (S), exposed (E), and infectious (I). If an individual is in the susceptible state, we can assume they are healthy. If they are in the exposed state, they have been infected with the virus but are not infectious. If they are infectious, they can actively transmit the disease. An individual who is infected ultimately either recovers or dies. We can model the movement of individuals through these various states at each time period. The model's exact specifications depend on its parameters, which we describe in the next section.
+
+## Assumptions
+
+Please see the [About](/about#assumptions) page to read about the assumptions in our model.
 
 ## Parameters
 
@@ -39,8 +41,11 @@ Variable parameters are those that may change depending on the country/state/reg
 - Mitigation effects (i.e. post-mitigation R)
 - Population
 - Hospital beds per 1000
+- Lifting of shelter-at-home orders (i.e. post-lockdown R)
 
 Note that variable parameters such as population and hospital beds per 1000 are easily computable from a simple lookup. However, the other parameters are not easily retrievable. We will allocate the majority of our resources towards estimating the most sensible values for these parameters for each region.
+
+To model the effects of shelter-at-home/lockdown orders, we assign an R value for post-lockdown and a separate R value for post-reopening. These R values are unknown ahead of time, and will be learned by the model.
 
 ## Parameter Search using Machine Learning
 
