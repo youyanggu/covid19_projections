@@ -68,7 +68,7 @@ We enourage questions/insights/feedback! Please reach out to Youyang Gu on Twitt
 
 ### Since April 15, 2020
 
-For US and European countries, we assume moderate social distancing until June 1, 2020 and light social distancing afterwards. This more accurately reflects the current sentiment expressed by US and European government officials that it is imperative to re-open the economy, even before the virus is fully contained. This will cause a second wave of infections and is reflected by the higher death tolls in our projections from April 15 onwards.
+For US and European countries, we assume moderate social distancing until June 1, 2020 and light social distancing from June 1 onwards. This more accurately reflects the current sentiment expressed by US and European government officials that it is imperative to re-open the economy, even before the virus is fully contained. This will cause a second wave of infections and is reflected by the higher death tolls in our projections from April 15 onwards.
 
 If states and countries relax social distancing measures prior to June 1, then the death toll may be higher than projected, while the reverse holds true as well. In addition, if states and countries fully lift social distancing measures prior to August, we may also see a higher death toll than projected.
 
