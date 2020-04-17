@@ -127,6 +127,7 @@ We will compare our daily projections with the IHME projections for several heav
 | April 13, 2020 | 71,731 (45-121k) | 68,841 (30-176k)
 | April 14, 2020 | 85,431 (50-157k) | 68,841 (30-176k)
 | April 15, 2020\* | 114,416 (55-231k) | 68,841 (30-176k)
+| April 16, 2020 | 111,673 (55-232k) | 68,841 (30-176k)
 
 | Date | Our US Jun-Aug proj. death total | IHME US Jun-Aug proj. death total
 | --- | --- | --- |
@@ -137,6 +138,7 @@ We will compare our daily projections with the IHME projections for several heav
 | April 13, 2020 | 8,081 (1.0-28k) | 620 (3-2.9k)
 | April 14, 2020 | 14,368 (1.9-51k) | 620 (3-2.9k)
 | April 15, 2020\* | 28,354 (2.4-102k) | 620 (3-2.9k)
+| April 16, 2020 | 26,828 (2.1-105k) | 620 (3-2.9k)
 
 | Date | Our NY proj. death total | IHME NY proj. death total
 | --- | --- | --- |
@@ -147,6 +149,7 @@ We will compare our daily projections with the IHME projections for several heav
 | April 13, 2020 | 20,738 (16-27k) | 14,542 (11-23k)
 | April 14, 2020 | 25,019 (18-40k) | 14,542 (11-23k)
 | April 15, 2020\* | 33,384 (20-51k) | 14,542 (11-23k)
+| April 16, 2020 | 31,418 (20-56k) | 14,542 (11-23k)
 
 | Date | Our MI proj. death total | IHME MI proj. death total
 | --- | --- | --- |
@@ -157,6 +160,7 @@ We will compare our daily projections with the IHME projections for several heav
 | April 13, 2020 | 6,268 (3.9-10k) | 2,373 (1.7-4.1k)
 | April 14, 2020 | 7,402 (3.9-15k) | 2,373 (1.7-4.1k)
 | April 15, 2020\* | 8,196 (3.7-19k) | 2,373 (1.7-4.1k)
+| April 16, 2020 | 7,631 (3.5-18k) | 2,373 (1.7-4.1k)
 
 | Date | Our CT proj. death total | IHME CT proj. death total
 | --- | --- | --- |
@@ -167,6 +171,7 @@ We will compare our daily projections with the IHME projections for several heav
 | April 13, 2020 | 2,276 (1.3-3.9k) | 5,426 (1.3-15.4k)
 | April 14, 2020 | 2,293 (1.4-3.6k) | 5,426 (1.3-15.4k)
 | April 15, 2020\* | 5,681 (2.6-9.8k) | 5,426 (1.3-15.4k)
+| April 16, 2020 | 5,608 (2.5-9.6k) | 5,426 (1.3-15.4k)
 
 | Date | Our Italy proj. death total | IHME Italy proj. death total
 | --- | --- | --- |
@@ -177,6 +182,7 @@ We will compare our daily projections with the IHME projections for several heav
 | April 13, 2020 | 33,596 (25-47k) | 21,130 (20-23k)
 | April 14, 2020 | 35,239 (26-49k) | 21,130 (20-23k)
 | April 15, 2020\* | 40,216 (27-79k) | 21,130 (20-23k)
+| April 16, 2020 | 40,444 (27-71k) | 21,130 (20-23k)
 
 | Date | Our France proj. death total | IHME France proj. death total
 | --- | --- | --- |
@@ -187,6 +193,7 @@ We will compare our daily projections with the IHME projections for several heav
 | April 13, 2020 | 35,063 (21-62k) | 17,448 (15-23k)
 | April 14, 2020 | 35,458 (22-62k) | 17,448 (15-23k)
 | April 15, 2020\* | 42,777 (23-92k) | 17,448 (15-23k)
+| April 16, 2020 | 41,280 (23-90k) | 17,448 (15-23k)
 
 [Back to Top](#top)
 
