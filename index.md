@@ -6,10 +6,10 @@ Please note: **Our infections estimate includes ALL infected people**, not just 
 
 **NEW as of April 15**: We now assume social distancing will be relaxed starting on June 1, leading to higher projections than prior iterations. Learn more about our assumptions [here](/about/#assumptions).
 
-## Current Projection for US (Updated Daily - Last Updated: Apr 15):
+## Current Projection for US (Updated Daily - Last Updated: Apr 16):
 <p align="center">
-  <b>114,482</b> new infections on <b>Apr 16, 2020</b> | Currently infected: <b>2.17 million</b><br>
-  Peak: <b>2,485</b> deaths on <b>Apr 15, 2020</b> | Total: <b>114,416</b> deaths by Aug 4, 2020 (Range: 55-231k) {% include iframe.html %}
+  <b>101,660</b> new infections on <b>Apr 16, 2020</b> | Currently infected: <b>1.96 million</b><br>
+  Peak: <b>2,485</b> deaths on <b>Apr 15, 2020</b> | Total: <b>111,673</b> deaths by Aug 4, 2020 (Range: 55-232k) {% include iframe.html %}
 </p>
 
 ## View Projections
