@@ -64,7 +64,9 @@ As of April 11, IHME projects 225 (0 - 1,180) deaths in the US from June 1 to Au
 
 New data is extremely important when making projections such as these. That's why we update our model daily based on the new data we receive. Projections using today's data is much more valuable than projections from 2-3 days ago. However, due to certain constraints, IHME is only able to update their model [3 times a week](http://www.healthdata.org/covid/updates): *"Our ambition to produce daily updates has proven to be unrealistic given the relative size of our team and the effort required to fully process, review, and vet large amounts of data alongside implementing model updates."* 
 
-We believe that a successful model must be able to quickly determine what is realistic and what is not, and the above examples highlights our main concerns with the IHME model.
+We believe that a successful model must be able to quickly determine what is realistic and what is not, and the above examples highlights our main concerns with the IHME model. We believe [our projections](/) address many of those concerns.
+
+[Back to Top](#top)
 
 ## Data
 
@@ -75,8 +77,6 @@ Every day, raw daily projections for all 50 US states and select international c
 ## Contact
 
 We enourage questions/insights/feedback! Please reach out to Youyang Gu on Twitter via [@youyanggu](https://twitter.com/youyanggu) or [on LinkedIn](https://www.linkedin.com/in/youyanggu/).
-
-[Back to Top](#top)
 
 ## Assumptions
 
