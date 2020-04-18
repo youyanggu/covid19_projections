@@ -157,14 +157,14 @@ Below you can find our projections for every US state and 40 countries (includin
 | [Norway](/norway)                 |              161 |                       639 |                                  319 |                                 1,504 |
 | [Finland](/finland)               |               82 |                       465 |                                  202 |                                 1,107 |
 | [Greece](/greece)                 |              108 |                       340 |                                  198 |                                   781 |
-| [Slovenia](/slovenia)             |               66 |                       273 |                                  120 |                                   705 |
 | [Luxembourg](/luxembourg)         |               72 |                       265 |                                  128 |                                   580 |
-| [Bulgaria](/bulgaria)             |               41 |                       251 |                                  109 |                                   730 |
-| [Estonia](/estonia)               |               38 |                       247 |                                  129 |                                   552 |
-| [Croatia](/croatia)               |               36 |                       246 |                                  107 |                                   715 |
-| [Lithuania](/lithuania)           |               33 |                       234 |                                  105 |                                   688 |
-| [Slovakia](/slovakia)             |                9 |                       163 |                                   59 |                                   414 |
-| [Latvia](/latvia)                 |                5 |                       143 |                                   82 |                                   295 |
-| [Cyprus](/cyprus)                 |               12 |                       104 |                                   48 |                                   270 |
-| [Malta](/malta)                   |                3 |                        66 |                                   43 |                                   111 |
+| [Slovenia](/slovenia)             |               66 |                       225 |                                  111 |                                   509 |
+| [Croatia](/croatia)               |               36 |                       204 |                                   98 |                                   506 |
+| [Bulgaria](/bulgaria)             |               41 |                       200 |                                   99 |                                   507 |
+| [Estonia](/estonia)               |               38 |                       197 |                                  107 |                                   410 |
+| [Lithuania](/lithuania)           |               33 |                       193 |                                   96 |                                   488 |
+| [Slovakia](/slovakia)             |                9 |                        74 |                                   27 |                                   189 |
+| [Cyprus](/cyprus)                 |               12 |                        63 |                                   37 |                                   135 |
+| [Malta](/malta)                   |                3 |                        48 |                                   33 |                                    75 |
+| [Latvia](/latvia)                 |                5 |                        47 |                                   17 |                                    77 |
 
