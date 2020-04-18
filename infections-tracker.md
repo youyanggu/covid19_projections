@@ -8,81 +8,10 @@ Our model tries to do what no other model currently does (to the best of our kno
 
 **Please Note: The infections estimate includes ALL infected people, not just those that took a coronavirus test kit and tested positive.** The vast majority of infested individuals did NOT get tested due to 1) lack of available testing, 2) they are only mildly symptomatic or 3) they do not know they are carrying the virus. For example, if the US reported 30,000 new cases, we estimate the true number of infected people to be likely 4-8x higher.
 
-## Contents
-- [When will each state have fewer than X,000 infections](#projected-state-recoveries)
-- [Number of infected individuals by date](#number-of-infected-individuals-by-date)
-
-## Projected State Recoveries
-#### When will each state have fewer than X,000 total infected individuals at a given time?
-
-We hope the below chart will provide a useful reference in estimating when a state will have recovered sufficiently for restrictions to be eased. As a comparison, at the time when China lifted the lockdown in Wuhan on Apr 8, there were an estimated 3000 infected individuals.
-
-Lifting stay-at-home orders while there are still a high number of infected individuals present may cause a resurgence in cases, as we are currently witnessing in several Asian countries.
-
-Click on each state below to see a detailed graph of the number of COVID-19 infected individuals over time for that state. 
-
-|                                |   10,000 infected |   5,000 infected |   2,500 infected |   1,000 infected |
-|--------------------------------|:-----------------:|:----------------:|:----------------:|:----------------:|
-|           [United States](/us) |       After Aug 4 |      After Aug 4 |      After Aug 4 |      After Aug 4 |
-|              [Alabama](/us-al) |       After Aug 4 |      After Aug 4 |      After Aug 4 |      After Aug 4 |
-|               [Alaska](/us-ak) |   Never surpassed |  Never surpassed |  Never surpassed |  Never surpassed |
-|              [Arizona](/us-az) |            Apr 24 |      After Aug 4 |      After Aug 4 |      After Aug 4 |
-|             [Arkansas](/us-ar) |   Never surpassed |  Never surpassed |           Apr 30 |      After Aug 4 |
-|           [California](/us-ca) |       After Aug 4 |      After Aug 4 |      After Aug 4 |      After Aug 4 |
-|             [Colorado](/us-co) |       After Aug 4 |      After Aug 4 |      After Aug 4 |      After Aug 4 |
-|          [Connecticut](/us-ct) |       After Aug 4 |      After Aug 4 |      After Aug 4 |      After Aug 4 |
-|             [Delaware](/us-de) |       After Aug 4 |      After Aug 4 |      After Aug 4 |      After Aug 4 |
-| [District of Columbia](/us-dc) |   Never surpassed |      After Aug 4 |      After Aug 4 |      After Aug 4 |
-|              [Florida](/us-fl) |       After Aug 4 |      After Aug 4 |      After Aug 4 |      After Aug 4 |
-|              [Georgia](/us-ga) |       After Aug 4 |      After Aug 4 |      After Aug 4 |      After Aug 4 |
-|                 [Guam](/us-gu) |   Never surpassed |  Never surpassed |  Never surpassed |           Apr 14 |
-|               [Hawaii](/us-hi) |   Never surpassed |  Never surpassed |  Never surpassed |  Never surpassed |
-|                [Idaho](/us-id) |   Never surpassed |            Apr 6 |            May 5 |      After Aug 4 |
-|             [Illinois](/us-il) |       After Aug 4 |      After Aug 4 |      After Aug 4 |      After Aug 4 |
-|              [Indiana](/us-in) |       After Aug 4 |      After Aug 4 |      After Aug 4 |      After Aug 4 |
-|                 [Iowa](/us-ia) |   Never surpassed |            May 1 |      After Aug 4 |      After Aug 4 |
-|               [Kansas](/us-ks) |   Never surpassed |           Apr 13 |            May 7 |      After Aug 4 |
-|             [Kentucky](/us-ky) |             Apr 7 |           Apr 30 |      After Aug 4 |      After Aug 4 |
-|            [Louisiana](/us-la) |       After Aug 4 |      After Aug 4 |      After Aug 4 |      After Aug 4 |
-|                [Maine](/us-me) |   Never surpassed |  Never surpassed |            May 9 |      After Aug 4 |
-|             [Maryland](/us-md) |       After Aug 4 |      After Aug 4 |      After Aug 4 |      After Aug 4 |
-|        [Massachusetts](/us-ma) |       After Aug 4 |      After Aug 4 |      After Aug 4 |      After Aug 4 |
-|             [Michigan](/us-mi) |       After Aug 4 |      After Aug 4 |      After Aug 4 |      After Aug 4 |
-|            [Minnesota](/us-mn) |   Never surpassed |      After Aug 4 |      After Aug 4 |      After Aug 4 |
-|          [Mississippi](/us-ms) |       After Aug 4 |      After Aug 4 |      After Aug 4 |      After Aug 4 |
-|             [Missouri](/us-mo) |       After Aug 4 |      After Aug 4 |      After Aug 4 |      After Aug 4 |
-|              [Montana](/us-mt) |   Never surpassed |  Never surpassed |  Never surpassed |           Apr 14 |
-|             [Nebraska](/us-ne) |   Never surpassed |  Never surpassed |  Never surpassed |            May 9 |
-|               [Nevada](/us-nv) |             Apr 4 |            May 6 |      After Aug 4 |      After Aug 4 |
-|        [New Hampshire](/us-nh) |   Never surpassed |  Never surpassed |      After Aug 4 |      After Aug 4 |
-|           [New Jersey](/us-nj) |       After Aug 4 |      After Aug 4 |      After Aug 4 |      After Aug 4 |
-|           [New Mexico](/us-nm) |   Never surpassed |  Never surpassed |            May 5 |      After Aug 4 |
-|             [New York](/us-ny) |       After Aug 4 |      After Aug 4 |      After Aug 4 |      After Aug 4 |
-|       [North Carolina](/us-nc) |       After Aug 4 |      After Aug 4 |      After Aug 4 |      After Aug 4 |
-|         [North Dakota](/us-nd) |   Never surpassed |  Never surpassed |  Never surpassed |            Apr 6 |
-|                 [Ohio](/us-oh) |       After Aug 4 |      After Aug 4 |      After Aug 4 |      After Aug 4 |
-|             [Oklahoma](/us-ok) |       After Aug 4 |      After Aug 4 |      After Aug 4 |      After Aug 4 |
-|               [Oregon](/us-or) |   Never surpassed |      After Aug 4 |      After Aug 4 |      After Aug 4 |
-|         [Pennsylvania](/us-pa) |       After Aug 4 |      After Aug 4 |      After Aug 4 |      After Aug 4 |
-|          [Puerto Rico](/us-pr) |   Never surpassed |      After Aug 4 |      After Aug 4 |      After Aug 4 |
-|         [Rhode Island](/us-ri) |       After Aug 4 |      After Aug 4 |      After Aug 4 |      After Aug 4 |
-|       [South Carolina](/us-sc) |   Never surpassed |      After Aug 4 |      After Aug 4 |      After Aug 4 |
-|         [South Dakota](/us-sd) |   Never surpassed |  Never surpassed |  Never surpassed |           Apr 23 |
-|            [Tennessee](/us-tn) |       After Aug 4 |      After Aug 4 |      After Aug 4 |      After Aug 4 |
-|                [Texas](/us-tx) |       After Aug 4 |      After Aug 4 |      After Aug 4 |      After Aug 4 |
-|                 [Utah](/us-ut) |   Never surpassed |  Never surpassed |  Never surpassed |            May 4 |
-|              [Vermont](/us-vt) |   Never surpassed |  Never surpassed |  Never surpassed |           May 18 |
-|       [Virgin Islands](/us-vi) |   Never surpassed |  Never surpassed |  Never surpassed |      After Aug 4 |
-|             [Virginia](/us-va) |       After Aug 4 |      After Aug 4 |      After Aug 4 |      After Aug 4 |
-|           [Washington](/us-wa) |       After Aug 4 |      After Aug 4 |      After Aug 4 |      After Aug 4 |
-|        [West Virginia](/us-wv) |   Never surpassed |  Never surpassed |  Never surpassed |      After Aug 4 |
-|            [Wisconsin](/us-wi) |       After Aug 4 |      After Aug 4 |      After Aug 4 |      After Aug 4 |
-|              [Wyoming](/us-wy) |   Never surpassed |  Never surpassed |  Never surpassed |            Jul 5 |
-
-[Back to top](#top)
-
 ## Number of Infected Individuals by Date
 This is an estimate of the number of infected individuals present on each date. This includes all individuals who are currently infected on that date, and encompasses asymtomatic + untested individuals. Please check our [Assumptions](/about#assumptions) page to learn about the assumptions used to generate this table.
+
+As a comparison, at the time when China lifted the lockdown in Wuhan on April 8, there were an estimated 3000 infected individuals.
 
 |                                |   Apr 17 (today) |    Apr 30 |   May 15 |   May 30 |   Jun 15 |   Jun 30 |   Jul 15 |    Jul 30 |
 |--------------------------------|-----------------:|----------:|---------:|---------:|---------:|---------:|---------:|---------:|
