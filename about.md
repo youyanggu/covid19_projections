@@ -44,15 +44,27 @@ In the words of Ruth Etzioni, an epidemiologist at Seattle’s Fred Hutchinson C
 
 In essence, their model is based on fitting a mathethetical curve rather than a real world simulation, so some of their projections do not pass what we call the "common sense test". Here are a few examples:
 
+### April 17 Update
+
+On April 17, IHME states that they have [new data](http://www.healthdata.org/covid/updates) that shows that people are properly social distancing, and hence have lowered their projections. But their severe flaw is that they assume a linear relationship between lower mobility & lower infection - this is NOT the case.
+
+Most transmissions do not happen with strangers, but rather close contacts. Even if you reduce your mobility by 90%, you do not reduce your transmission by 90%. The data from Italy shows that it only reduces by around 60%. That's the difference between 20k and 40k+ deaths.
+
+We posted [a Tweet](https://twitter.com/youyanggu/status/1248844841733128192) on April 11 about MTA (NYC) and BART (Bay Area) subway ridership being down 90% in March. However, the deaths have only dropped around 25% in NY, while CA have not seen any decrease in deaths, more than a month after the drop in ridership.
+
 ### Italy: under-projection
 
 As of April 11, 2020, IHME is projecting 19,691 - 21,377 deaths for Italy. However, Italy is already at over 19,000 deaths and they have been reporting 500+ deaths for the past 3 weeks. The IHME confidence interval is unrealistic. See our Tweet [here](https://twitter.com/youyanggu/status/1249243436881829888) for a graphical explanation. [Click here](#model-comparison-with-ihme) for our most recent estimates for Italy.
+
+*April 18 Update:* Italy has reported 23,227 deaths, already 2,000 more deaths than IHME's upper range for August.
 
 ### New York: under-projection
 
 New York reached 799 deaths on Thursday April 9, which we hope is the peak. As of April 11, the IHME model is projecting 42-196 deaths for NY on April 24, 15 days later. However, 15 days after Italy reached its peak deaths at 917, they still reported 619 deaths. So assuming that New York deaths will drop 90% in 15 days when Italy dropped only 30% would be an optimistic viewpoint. We think NY will report 206 - 514 deaths on April 24.
 
 As of April 11, IHME is projecting 13,463 (9,382 - 24,236) total deaths for New York. Due to the reason above, we believe this is an underestimate. [Click here](#model-comparison-with-ihme) for our most recent estimates for New York.
+
+*April 18 Update:* New York has reported 17,671 deaths, already 4,000 more deaths than IHME's projection for August.
 
 ### Connecticut: over-projection
 
@@ -67,14 +79,6 @@ As of April 11, IHME projects 225 (0 - 1,180) deaths in the US from June 1 to Au
 ### Update time
 
 New data is extremely important when making projections such as these. That's why we update our model daily based on the new data we receive. Projections using today's data is much more valuable than projections from 2-3 days ago. However, due to certain constraints, IHME is only able to update their model [3 times a week](http://www.healthdata.org/covid/updates): *"Our ambition to produce daily updates has proven to be unrealistic given the relative size of our team and the effort required to fully process, review, and vet large amounts of data alongside implementing model updates."* 
-
-### April 17 Update
-
-On April 17, IHME states that they have [new data](http://www.healthdata.org/covid/updates) that shows that people are properly social distancing, and hence have lowered their projections. But their severe flaw is that they assume a linear relationship between lower mobility & lower infection - this is NOT the case.
-
-Most transmissions do not happen with strangers, but rather close contacts. Even if you reduce your mobility by 90%, you do not reduce your transmission by 90%. The data from Italy shows that it only reduces by around 60%. That's the difference between 20k and 40k+ deaths.
-
-We posted [a Tweet](https://twitter.com/youyanggu/status/1248844841733128192) on April 11 about MTA (NYC) and BART (Bay Area) subway ridership being down 90% in March. However, the deaths have only dropped around 25% in NY, while CA have not seen any decrease in deaths, more than a month after the drop in ridership.
 
 We believe that a successful model must be able to quickly determine what is realistic and what is not, and the above examples highlights our main concerns with the IHME model. IHME is making grossly unfounded assumptions that is going to cost lives if their advice is heeded by policy-makers.
 
