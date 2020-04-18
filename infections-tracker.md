@@ -9,7 +9,9 @@ Our model tries to do what no other model currently does (to the best of our kno
 **Please Note: The infections estimate includes ALL infected people, not just those that took a coronavirus test kit and tested positive.** The vast majority of infested individuals did NOT get tested due to 1) lack of available testing, 2) they are only mildly symptomatic or 3) they do not know they are carrying the virus. For example, if the US reported 30,000 new cases, we estimate the true number of infected people to be likely 4-8x higher.
 
 ## Number of Infected Individuals by Date
-This is an estimate of the number of infected individuals present on each date. This includes all individuals who are currently infected on that date, and encompasses asymtomatic + untested individuals. Please check our [Assumptions](/about#assumptions) page to learn about the assumptions used to generate this table.
+This is an estimate of the number of infected individuals present on each date. This includes all individuals who are currently infected on that date, and encompasses asymtomatic + untested individuals.
+
+We assume that states will reopen around June, causing a second wave of infections. Please check our [Assumptions](/about#assumptions) page to learn about the assumptions used to generate this table.
 
 As a comparison, at the time when China lifted the lockdown in Wuhan on April 8, there were an estimated 3000 infected individuals.
 
