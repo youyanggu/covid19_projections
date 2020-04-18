@@ -68,7 +68,15 @@ As of April 11, IHME projects 225 (0 - 1,180) deaths in the US from June 1 to Au
 
 New data is extremely important when making projections such as these. That's why we update our model daily based on the new data we receive. Projections using today's data is much more valuable than projections from 2-3 days ago. However, due to certain constraints, IHME is only able to update their model [3 times a week](http://www.healthdata.org/covid/updates): *"Our ambition to produce daily updates has proven to be unrealistic given the relative size of our team and the effort required to fully process, review, and vet large amounts of data alongside implementing model updates."* 
 
-We believe that a successful model must be able to quickly determine what is realistic and what is not, and the above examples highlights our main concerns with the IHME model. We believe [our projections](/) address many of those concerns.
+### April 17 Update
+
+On April 17, IHME states that they have [new data](http://www.healthdata.org/covid/updates) that shows that people are properly social distancing, and hence have lowered their projections. But their severe flaw is that they assume a linear relationship between lower mobility & lower infection - this is NOT the case.
+
+Most transmissions do not happen with strangers, but rather close contacts. Even if you reduce your mobility by 90%, you do not reduce your transmission by 90%. The data from Italy shows that it only reduces by around 60%. That's the difference between 20k and 40k+ deaths.
+
+We posted [a Tweet](https://twitter.com/youyanggu/status/1248844841733128192) on April 11 about MTA (NYC) and BART (Bay Area) subway ridership being down 90% in March. However, the deaths have only dropped around 25% in NY, while CA have not seen any decrease in deaths, more than a month after the drop in ridership.
+
+We believe that a successful model must be able to quickly determine what is realistic and what is not, and the above examples highlights our main concerns with the IHME model. IHME is making grossly unfounded assumptions that is going to cost lives if their advice is heeded by policy-makers.
 
 [Back to Top](#top)
 
