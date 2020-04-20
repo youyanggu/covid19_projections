@@ -44,13 +44,13 @@ In the words of Ruth Etzioni, an epidemiologist at Seattle’s Fred Hutchinson C
 
 In essence, their model is based on fitting a mathethetical curve rather than a real world simulation, so some of their projections do not pass what we call the "common sense test". Here are a few examples:
 
-### Italy: under-projection
+### Italy
 
 On April 11, 2020, IHME was projecting 19,691 - 21,377 deaths for Italy. However, Italy was already at over 19,000 deaths at the time and they have been reporting 500+ deaths for the past 3 weeks. The IHME confidence interval is unrealistic. See our Tweet [here](https://twitter.com/youyanggu/status/1249243436881829888) for a graphical explanation. [Click here](#model-comparison-with-ihme) for our most recent estimates for Italy.
 
 *April 18 Update:* Italy has reported 23,227 deaths, already 2,000 more deaths than IHME's upper range for August.
 
-### New York: under-projection
+### New York
 
 New York reached its peak of 800 deaths on April 9-10. As of April 11, the IHME model was projecting 42-196 deaths for NY on April 24, 14 days after the peak. That is a decrease of 90% from the peak. However, 15 days after Italy reached its peak deaths at 917, they still reported 619 deaths. So assuming that New York deaths will drop 90% in 15 days when Italy dropped only 30% was an extremely optimistic viewpoint. As of April 11, we forecasted that NY will report 206 - 514 deaths on April 24.
 
@@ -58,13 +58,7 @@ On April 11, IHME also was projecting 13,463 (9,382 - 24,236) total deaths for N
 
 *April 18 Update:* New York has reported 17,671 deaths, already 4,000 more deaths than IHME's projection for August.
 
-### Connecticut: over-projection
-
-As of April 11, Connecticut currently has 448 deaths, and yet the IHME is projecting 4,614 deaths, a 10x increase. Their range is also 1,143-13,559, an extremely large range. [Click here](#model-comparison-with-ihme) for our most recent estimates for Connecticut.
-
-*April 15 note: We have since incorporated the relaxing of social distancing in our model, leading to higher projections for CT. Because IHME assumes full social distancing through June, their projeciton of 4,614 deaths on April 11 is still an over-projection given those assumptions.*
-
-### US June-August: under-projection
+### US June-August
 
 As of April 11, IHME projects 225 (0 - 1,180) deaths in the US from June 1 to August 4. While we hope the US only has 225 total deaths from June to August (an average of 3 deaths per day), we believe this is an underestimate. The upper range of 1,180 (18 deaths per day) also appears to be an under-projection *for an upper range*. [Click here](#model-comparison-with-ihme) for our most recent estimates for June - August.
 
@@ -144,6 +138,7 @@ We will compare our daily projections with the IHME projections for several heav
 | April 16, 2020 | 111,673 (55-232k) | 68,841 (30-176k)
 | April 17, 2020 | 120,541 (69-229k) | 60,308 (34-141k)
 | April 18, 2020 | 121,830 (70-227k) | 60,308 (34-141k)
+| April 19, 2020 | 120,633 (70-227k) | 60,308 (34-141k)
 
 | Date | Our US Jun-Aug proj. death total | IHME US Jun-Aug proj. death total
 | --- | --- | --- |
@@ -157,6 +152,7 @@ We will compare our daily projections with the IHME projections for several heav
 | April 16, 2020 | 26,828 (2.1-105k) | 620 (3-2900)
 | April 17, 2020 | 29,829 (4.2-104k) | 36 (0-300)
 | April 18, 2020 | 31,386 (4.3-104k) | 36 (0-300)
+| April 19, 2020 | 29,993 (4.8-104k) | 36 (0-300)
 
 | Date | Our NY proj. death total | IHME NY proj. death total
 | --- | --- | --- |
@@ -170,6 +166,7 @@ We will compare our daily projections with the IHME projections for several heav
 | April 16, 2020 | 31,418 (20-56k) | 14,542 (11-23k)
 | April 17, 2020 | 39,193 (29-57k) | 21,812 (13-43k)
 | April 18, 2020 | 37,996 (28-56k) | 21,812 (13-43k)
+| April 19, 2020 | 38,193 (28-56k) | 21,812 (13-43k)
 
 | Date | Our MI proj. death total | IHME MI proj. death total
 | --- | --- | --- |
@@ -183,19 +180,7 @@ We will compare our daily projections with the IHME projections for several heav
 | April 16, 2020 | 7,631 (3.5-18k) | 2,373 (1.7-4.1k)
 | April 17, 2020 | 9,029 (4.2-18k) | 3,304 (2.1-6.8k)
 | April 18, 2020 | 7,619 (4.1-16k) | 3,304 (2.1-6.8k)
-
-| Date | Our CT proj. death total | IHME CT proj. death total
-| --- | --- | --- |
-| April 9, 2020 | 2,252 (1.2-3.9k) | 4,003 (1.3-10.1k)
-| April 10, 2020 | 2,002 (1.0-3.4k) | 4,614 (1.1-13.6k)
-| April 11, 2020 | 2,326 (1.3-3.9k) | 4,614 (1.1-13.6k)
-| April 12, 2020 | 2,241 (1.2-3.8k) | 4,614 (1.1-13.6k)
-| April 13, 2020 | 2,276 (1.3-3.9k) | 5,426 (1.3-15.4k)
-| April 14, 2020 | 2,293 (1.4-3.6k) | 5,426 (1.3-15.4k)
-| April 15, 2020\* | 5,681 (2.6-9.8k) | 5,426 (1.3-15.4k)
-| April 16, 2020 | 5,608 (2.5-9.6k) | 5,426 (1.3-15.4k)
-| April 17, 2020 | 4,565 (2.2-9.1k) | 2,732 (1.1-8.7k)
-| April 18, 2020 | 4,278 (2.1-8.4k) | 2,732 (1.1-8.7k)
+| April 19, 2020 | 7,588 (4.2-16k) | 3,304 (2.1-6.8k)
 
 | Date | Our Italy proj. death total | IHME Italy proj. death total
 | --- | --- | --- |
@@ -209,6 +194,7 @@ We will compare our daily projections with the IHME projections for several heav
 | April 16, 2020 | 40,444 (27-71k) | 21,130 (20-23k)
 | April 17, 2020 | 43,086 (31-73k) | 26,007 (23-32k)
 | April 18, 2020 | 44,609 (31-73k) | 26,007 (23-32k)
+| April 19, 2020 | 44,283 (31-72k) | 26,007 (23-32k)
 
 | Date | Our France proj. death total | IHME France proj. death total
 | --- | --- | --- |
@@ -222,6 +208,7 @@ We will compare our daily projections with the IHME projections for several heav
 | April 16, 2020 | 41,280 (23-90k) | 17,448 (15-23k)
 | April 17, 2020 | 54,095 (31-104k) | 22,555 (19-30k)
 | April 18, 2020 | 51,633 (31-99k) | 22,555 (19-30k)
+| April 19, 2020 | 44,196 (27-84k) | 22,555 (19-30k)
 
 [Back to Top](#top)
 
