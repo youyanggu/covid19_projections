@@ -6,10 +6,10 @@ Please note: **Our infections estimate includes ALL infected people**, not just 
 
 **NEW as of April 15**: We now assume social distancing will be relaxed starting on June 1, leading to higher projections than prior iterations. Learn more about our assumptions [here](/about/#assumptions).
 
-## Current Projection for US (Updated Daily - Last Updated: Apr 18):
+## Current Projection for US (Updated Daily - Last Updated: Apr 19):
 <p align="center">
-  <b>108,077</b> new infections on <b>Apr 18, 2020</b> | Currently infected: <b>2.00 million</b><br>
-  Peak: <b>2,485</b> deaths on <b>Apr 15, 2020</b> | Total: <b>121,830</b> deaths by Aug 4, 2020 (Range: 70-227k) {% include iframe.html %}
+  <b>105,744</b> new infections on <b>Apr 20, 2020</b> | Currently infected: <b>1.96 million</b><br>
+  Peak: <b>2,485</b> deaths on <b>Apr 15, 2020</b> | Total: <b>120,633</b> deaths by Aug 4, 2020 (Range: 73-226k) {% include iframe.html %}
 </p>
 
 ## View Projections
@@ -67,104 +67,104 @@ Below you can find our projections for every US state and 40 countries (includin
 
 |                                |   Current Deaths |   Projected Deaths - Mean |   Projected Deaths - 2.5% Percentile |   Projected Deaths - 97.5% Percentile |
 |--------------------------------|-----------------:|--------------------------:|-------------------------------------:|--------------------------------------:|
-| [United States](/us)           |           38,664 |                   121,830 |                               70,241 |                               226,514 |
-| [New York](/us-ny)             |           17,671 |                    37,996 |                               28,703 |                                55,480 |
-| [New Jersey](/us-nj)           |            4,070 |                    13,779 |                                8,902 |                                21,420 |
-| [Michigan](/us-mi)             |            2,308 |                     7,619 |                                4,125 |                                15,921 |
-| [Massachusetts](/us-ma)        |            1,404 |                     6,645 |                                3,033 |                                13,252 |
-| [Illinois](/us-il)             |            1,259 |                     5,889 |                                2,533 |                                12,784 |
-| [California](/us-ca)           |            1,140 |                     5,686 |                                2,045 |                                11,026 |
-| [Pennsylvania](/us-pa)         |            1,042 |                     5,472 |                                2,215 |                                12,425 |
-| [Connecticut](/us-ct)          |            1,086 |                     4,278 |                                2,164 |                                 8,380 |
-| [Louisiana](/us-la)            |            1,267 |                     4,062 |                                2,163 |                                 7,627 |
-| [Maryland](/us-md)             |              421 |                     3,090 |                                1,028 |                                 5,789 |
-| [Ohio](/us-oh)                 |              451 |                     2,164 |                                  933 |                                 5,316 |
-| [Florida](/us-fl)              |              748 |                     2,133 |                                1,197 |                                 4,359 |
-| [Indiana](/us-in)              |              545 |                     2,124 |                                  989 |                                 5,104 |
-| [Texas](/us-tx)                |              476 |                     2,119 |                                  917 |                                 5,535 |
-| [Georgia](/us-ga)              |              673 |                     1,761 |                                1,054 |                                 3,477 |
-| [North Carolina](/us-nc)       |              187 |                     1,370 |                                  519 |                                 3,564 |
-| [Colorado](/us-co)             |              389 |                     1,295 |                                  648 |                                 3,161 |
-| [Virginia](/us-va)             |              258 |                     1,279 |                                  509 |                                 3,185 |
-| [Washington](/us-wa)           |              613 |                     1,157 |                                  768 |                                 2,272 |
-| [Rhode Island](/us-ri)         |              137 |                     1,067 |                                  436 |                                 2,048 |
-| [Arizona](/us-az)              |              180 |                       921 |                                  436 |                                 1,794 |
-| [Missouri](/us-mo)             |              197 |                       907 |                                  383 |                                 2,274 |
-| [Alabama](/us-al)              |              153 |                       902 |                                  388 |                                 2,333 |
-| [Mississippi](/us-ms)          |              152 |                       683 |                                  299 |                                 1,637 |
-| [Wisconsin](/us-wi)            |              212 |                       662 |                                  358 |                                 1,655 |
-| [Minnesota](/us-mn)            |              121 |                       661 |                                  273 |                                 1,768 |
-| [Nevada](/us-nv)               |              151 |                       487 |                                  265 |                                   937 |
-| [Oklahoma](/us-ok)             |              136 |                       460 |                                  246 |                                 1,018 |
-| [Tennessee](/us-tn)            |              142 |                       458 |                                  281 |                                   809 |
-| [Delaware](/us-de)             |               67 |                       450 |                                  184 |                                 1,029 |
-| [South Carolina](/us-sc)       |              119 |                       449 |                                  217 |                                 1,195 |
-| [Kentucky](/us-ky)             |              144 |                       440 |                                  243 |                                   885 |
-| [District of Columbia](/us-dc) |               91 |                       422 |                                  198 |                                   944 |
-| [Iowa](/us-ia)                 |               74 |                       352 |                                  173 |                                   670 |
-| [Oregon](/us-or)               |               72 |                       262 |                                  122 |                                   674 |
-| [New Mexico](/us-nm)           |               53 |                       249 |                                  121 |                                   489 |
-| [Kansas](/us-ks)               |               85 |                       244 |                                  148 |                                   450 |
-| [Puerto Rico](/us-pr)          |               60 |                       235 |                                  113 |                                   638 |
-| [New Hampshire](/us-nh)        |               38 |                       208 |                                   89 |                                   550 |
-| [Maine](/us-me)                |               32 |                       199 |                                  114 |                                   344 |
-| [Arkansas](/us-ar)             |               38 |                       181 |                                  100 |                                   405 |
-| [Idaho](/us-id)                |               43 |                       175 |                                  103 |                                   331 |
-| [Vermont](/us-vt)              |               38 |                       123 |                                   70 |                                   233 |
-| [West Virginia](/us-wv)        |               16 |                       102 |                                   54 |                                   207 |
-| [Nebraska](/us-ne)             |               24 |                       101 |                                   71 |                                   169 |
-| [Utah](/us-ut)                 |               25 |                        94 |                                   55 |                                   179 |
-| [Virgin Islands](/us-vi)       |                3 |                        63 |                                   26 |                                   111 |
-| [South Dakota](/us-sd)         |                7 |                        62 |                                   31 |                                   131 |
-| [Montana](/us-mt)              |               10 |                        56 |                                   34 |                                   107 |
-| [North Dakota](/us-nd)         |                9 |                        47 |                                   32 |                                    81 |
-| [Alaska](/us-ak)               |                9 |                        44 |                                   31 |                                    79 |
-| [Hawaii](/us-hi)               |                9 |                        42 |                                   33 |                                    64 |
-| [Wyoming](/us-wy)              |                2 |                        41 |                                   28 |                                    77 |
-| [Guam](/us-gu)                 |                5 |                        26 |                                   15 |                                    56 |
+| [United States](/us)           |           40,661 |                   120,633 |                               73,024 |                               225,549 |
+| [New York](/us-ny)             |           18,298 |                    38,193 |                               28,918 |                                55,285 |
+| [New Jersey](/us-nj)           |            4,362 |                    13,901 |                                9,061 |                                21,377 |
+| [Michigan](/us-mi)             |            2,391 |                     7,588 |                                4,286 |                                15,489 |
+| [Massachusetts](/us-ma)        |            1,706 |                     6,547 |                                3,488 |                                12,661 |
+| [Pennsylvania](/us-pa)         |            1,276 |                     6,109 |                                2,787 |                                14,285 |
+| [Illinois](/us-il)             |            1,290 |                     5,048 |                                2,502 |                                10,888 |
+| [California](/us-ca)           |            1,177 |                     4,956 |                                2,225 |                                12,084 |
+| [Connecticut](/us-ct)          |            1,127 |                     4,444 |                                2,356 |                                 8,904 |
+| [Louisiana](/us-la)            |            1,296 |                     3,815 |                                2,211 |                                 7,342 |
+| [Maryland](/us-md)             |              461 |                     2,371 |                                1,010 |                                 5,191 |
+| [Ohio](/us-oh)                 |              471 |                     2,115 |                                  977 |                                 5,055 |
+| [Florida](/us-fl)              |              774 |                     2,096 |                                1,240 |                                 4,124 |
+| [Texas](/us-tx)                |              490 |                     2,078 |                                  955 |                                 5,266 |
+| [Indiana](/us-in)              |              562 |                     2,010 |                                1,031 |                                 4,848 |
+| [Georgia](/us-ga)              |              687 |                     1,657 |                                1,062 |                                 3,181 |
+| [Colorado](/us-co)             |              420 |                     1,495 |                                  730 |                                 3,465 |
+| [North Carolina](/us-nc)       |              200 |                     1,382 |                                  568 |                                 3,473 |
+| [Virginia](/us-va)             |              277 |                     1,355 |                                  577 |                                 3,193 |
+| [Washington](/us-wa)           |              636 |                     1,245 |                                  818 |                                 2,356 |
+| [Rhode Island](/us-ri)         |              150 |                     1,089 |                                  473 |                                 2,291 |
+| [Arizona](/us-az)              |              184 |                       942 |                                  462 |                                 1,884 |
+| [Alabama](/us-al)              |              157 |                       843 |                                  403 |                                 2,137 |
+| [Missouri](/us-mo)             |              199 |                       778 |                                  382 |                                 1,929 |
+| [Minnesota](/us-mn)            |              134 |                       773 |                                  320 |                                 1,964 |
+| [Wisconsin](/us-wi)            |              220 |                       694 |                                  389 |                                 1,658 |
+| [Mississippi](/us-ms)          |              159 |                       668 |                                  315 |                                 1,567 |
+| [Tennessee](/us-tn)            |              148 |                       508 |                                  312 |                                   909 |
+| [Nevada](/us-nv)               |              158 |                       507 |                                  285 |                                   940 |
+| [Oklahoma](/us-ok)             |              140 |                       499 |                                  266 |                                 1,182 |
+| [South Carolina](/us-sc)       |              120 |                       447 |                                  230 |                                 1,143 |
+| [District of Columbia](/us-dc) |               96 |                       441 |                                  217 |                                   980 |
+| [Kentucky](/us-ky)             |              146 |                       435 |                                  252 |                                   853 |
+| [Delaware](/us-de)             |               67 |                       402 |                                  183 |                                   966 |
+| [Iowa](/us-ia)                 |               75 |                       400 |                                  190 |                                   788 |
+| [Oregon](/us-or)               |               74 |                       291 |                                  134 |                                   769 |
+| [New Mexico](/us-nm)           |               55 |                       286 |                                  136 |                                   599 |
+| [Kansas](/us-ks)               |               93 |                       278 |                                  166 |                                   519 |
+| [Puerto Rico](/us-pr)          |               62 |                       247 |                                  122 |                                   643 |
+| [New Hampshire](/us-nh)        |               38 |                       207 |                                   93 |                                   540 |
+| [Maine](/us-me)                |               34 |                       201 |                                  121 |                                   352 |
+| [Arkansas](/us-ar)             |               39 |                       191 |                                  108 |                                   407 |
+| [Idaho](/us-id)                |               44 |                       178 |                                  109 |                                   324 |
+| [West Virginia](/us-wv)        |               18 |                       130 |                                   65 |                                   274 |
+| [Vermont](/us-vt)              |               38 |                       122 |                                   73 |                                   232 |
+| [Nebraska](/us-ne)             |               28 |                       121 |                                   80 |                                   187 |
+| [Utah](/us-ut)                 |               27 |                       121 |                                   66 |                                   255 |
+| [South Dakota](/us-sd)         |                7 |                        78 |                                   37 |                                   178 |
+| [Montana](/us-mt)              |               10 |                        67 |                                   39 |                                   128 |
+| [Hawaii](/us-hi)               |               10 |                        52 |                                   39 |                                    88 |
+| [North Dakota](/us-nd)         |                9 |                        48 |                                   34 |                                    78 |
+| [Wyoming](/us-wy)              |                2 |                        44 |                                   31 |                                    76 |
+| [Alaska](/us-ak)               |                9 |                        39 |                                   29 |                                    67 |
+| [Virgin Islands](/us-vi)       |                3 |                        34 |                                   18 |                                    54 |
+| [Guam](/us-gu)                 |                5 |                        28 |                                   16 |                                    56 |
 
 ### Global
 
 |                                   |   Current Deaths |   Projected Deaths - Mean |   Projected Deaths - 2.5% Percentile |   Projected Deaths - 97.5% Percentile |
 |-----------------------------------|-----------------:|--------------------------:|-------------------------------------:|--------------------------------------:|
-| [United Kingdom](/united-kingdom) |           15,498 |                    52,156 |                               30,347 |                                98,520 |
-| [France](/france)                 |           19,345 |                    51,633 |                               31,482 |                                98,580 |
-| [Italy](/italy)                   |           23,227 |                    44,609 |                               31,857 |                                72,366 |
-| [Spain](/spain)                   |           20,043 |                    34,811 |                               28,628 |                                52,390 |
-| [Brazil](/brazil)                 |            2,354 |                    28,951 |                               11,961 |                                69,613 |
-| [Germany](/germany)               |            4,459 |                    19,302 |                                9,381 |                                36,161 |
-| [Turkey](/turkey)                 |            1,890 |                    18,034 |                                7,359 |                                41,183 |
-| [Belgium](/belgium)               |            5,453 |                    16,741 |                               10,867 |                                27,645 |
-| [Netherlands](/netherlands)       |            3,613 |                    11,193 |                                6,257 |                                20,294 |
-| [Iran](/iran)                     |            5,031 |                     9,956 |                                6,836 |                                15,612 |
-| [Sweden](/sweden)                 |            1,511 |                     7,669 |                                3,903 |                                15,732 |
-| [Canada](/canada)                 |            1,400 |                     6,730 |                                3,321 |                                12,431 |
-| [China](/china)                   |            4,636 |                     4,735 |                                4,672 |                                 4,866 |
-| [Portugal](/portugal)             |              687 |                     3,727 |                                1,690 |                                 7,134 |
-| [Switzerland](/switzerland)       |            1,368 |                     3,179 |                                2,051 |                                 6,555 |
-| [Mexico](/mexico)                 |              546 |                     3,155 |                                1,463 |                                 6,466 |
-| [Ireland](/ireland)               |              571 |                     2,547 |                                1,218 |                                 6,025 |
-| [Russia](/russia)                 |              313 |                     2,147 |                                  939 |                                 4,346 |
-| [India](/india)                   |              521 |                     2,050 |                                1,018 |                                 5,238 |
-| [Romania](/romania)               |              421 |                     1,695 |                                  919 |                                 3,966 |
-| [Indonesia](/indonesia)           |              535 |                     1,626 |                                  820 |                                 3,103 |
-| [Poland](/poland)                 |              347 |                     1,402 |                                  610 |                                 3,486 |
-| [Austria](/austria)               |              443 |                     1,256 |                                  705 |                                 2,879 |
-| [Philippines](/philippines)       |              397 |                     1,071 |                                  556 |                                 1,938 |
-| [Denmark](/denmark)               |              346 |                       958 |                                  586 |                                 2,025 |
-| [Hungary](/hungary)               |              172 |                       868 |                                  376 |                                 2,152 |
-| [Czechia](/czechia)               |              181 |                       796 |                                  431 |                                 1,375 |
-| [Norway](/norway)                 |              164 |                       585 |                                  313 |                                 1,391 |
-| [Finland](/finland)               |               90 |                       518 |                                  212 |                                 1,136 |
-| [Greece](/greece)                 |              110 |                       326 |                                  196 |                                   744 |
-| [Slovenia](/slovenia)             |               70 |                       226 |                                  112 |                                   503 |
-| [Luxembourg](/luxembourg)         |               72 |                       222 |                                  119 |                                   521 |
-| [Croatia](/croatia)               |               39 |                       207 |                                  100 |                                   503 |
-| [Bulgaria](/bulgaria)             |               41 |                       196 |                                   97 |                                   498 |
-| [Lithuania](/lithuania)           |               33 |                       182 |                                   94 |                                   473 |
-| [Estonia](/estonia)               |               38 |                       171 |                                  103 |                                   321 |
-| [Slovakia](/slovakia)             |               11 |                        93 |                                   32 |                                   212 |
-| [Cyprus](/cyprus)                 |               12 |                        61 |                                   36 |                                   120 |
-| [Malta](/malta)                   |                3 |                        46 |                                   17 |                                    68 |
-| [Latvia](/latvia)                 |                5 |                        41 |                                   16 |                                    69 |
+| [Italy](/italy)                   |           23,660 |                    44,283 |                               31,909 |                                71,824 |
+| [France](/france)                 |           19,744 |                    44,196 |                               27,807 |                                83,713 |
+| [United Kingdom](/united-kingdom) |           16,095 |                    41,649 |                               24,306 |                                82,704 |
+| [Spain](/spain)                   |           20,453 |                    31,889 |                               26,095 |                                48,040 |
+| [Brazil](/brazil)                 |            2,462 |                    20,984 |                                9,165 |                                49,365 |
+| [Germany](/germany)               |            4,586 |                    16,169 |                                7,914 |                                29,152 |
+| [Turkey](/turkey)                 |            2,017 |                    15,110 |                                5,775 |                                39,035 |
+| [Belgium](/belgium)               |            5,683 |                    13,144 |                                8,188 |                                24,356 |
+| [Iran](/iran)                     |            5,118 |                     9,916 |                                6,874 |                                15,488 |
+| [Netherlands](/netherlands)       |            3,697 |                     9,698 |                                5,367 |                                17,027 |
+| [Canada](/canada)                 |            1,564 |                     6,869 |                                3,397 |                                12,356 |
+| [Sweden](/sweden)                 |            1,540 |                     5,319 |                                2,809 |                                11,844 |
+| [Mexico](/mexico)                 |              650 |                     4,783 |                                2,053 |                                 9,660 |
+| [China](/china)                   |            4,636 |                     4,732 |                                4,671 |                                 4,860 |
+| [Russia](/russia)                 |              361 |                     4,518 |                                1,734 |                                10,925 |
+| [Portugal](/portugal)             |              714 |                     3,612 |                                1,628 |                                 7,085 |
+| [Switzerland](/switzerland)       |            1,393 |                     2,846 |                                1,814 |                                 5,845 |
+| [Ireland](/ireland)               |              610 |                     2,340 |                                1,120 |                                 5,628 |
+| [India](/india)                   |              559 |                     2,013 |                                1,030 |                                 5,019 |
+| [Romania](/romania)               |              451 |                     1,962 |                                  969 |                                 4,813 |
+| [Indonesia](/indonesia)           |              582 |                     1,816 |                                  885 |                                 3,280 |
+| [Poland](/poland)                 |              360 |                     1,363 |                                  608 |                                 3,450 |
+| [Austria](/austria)               |              452 |                     1,159 |                                  658 |                                 2,682 |
+| [Philippines](/philippines)       |              409 |                     1,066 |                                  562 |                                 1,926 |
+| [Denmark](/denmark)               |              355 |                       901 |                                  544 |                                 1,813 |
+| [Hungary](/hungary)               |              189 |                       856 |                                  361 |                                 2,192 |
+| [Czechia](/czechia)               |              186 |                       720 |                                  407 |                                 1,225 |
+| [Finland](/finland)               |               94 |                       472 |                                  192 |                                 1,089 |
+| [Norway](/norway)                 |              165 |                       451 |                                  259 |                                 1,031 |
+| [Greece](/greece)                 |              113 |                       295 |                                  182 |                                   702 |
+| [Slovenia](/slovenia)             |               74 |                       217 |                                  110 |                                   493 |
+| [Croatia](/croatia)               |               47 |                       215 |                                  102 |                                   512 |
+| [Luxembourg](/luxembourg)         |               73 |                       202 |                                  112 |                                   465 |
+| [Bulgaria](/bulgaria)             |               42 |                       182 |                                   90 |                                   491 |
+| [Lithuania](/lithuania)           |               35 |                       166 |                                   83 |                                   399 |
+| [Estonia](/estonia)               |               40 |                       163 |                                   97 |                                   314 |
+| [Slovakia](/slovakia)             |               12 |                        85 |                                   29 |                                   209 |
+| [Cyprus](/cyprus)                 |               12 |                        53 |                                   32 |                                   117 |
+| [Latvia](/latvia)                 |                5 |                        36 |                                   14 |                                    60 |
+| [Malta](/malta)                   |                3 |                        34 |                                   13 |                                    58 |
 
