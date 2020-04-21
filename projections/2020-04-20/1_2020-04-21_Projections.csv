@@ -1,5 +1,5 @@
 country,region,daily_deaths,daily_deaths_lower,daily_deaths_upper
-US,,1828,1348,2412
+US,,1826,1348,2409
 US,NY,560,444,699
 US,NJ,249,184,321
 US,MI,117,89,151
@@ -10,7 +10,7 @@ US,IL,74,55,94
 US,CA,70,44,97
 US,LA,54,40,69
 US,FL,42,27,62
-US,GA,35,23,51
+US,GA,33,23,47
 US,MD,32,23,41
 US,IN,31,21,44
 US,OH,29,22,38
@@ -34,7 +34,7 @@ US,TN,6,4,8
 US,IA,5,4,6
 US,DE,5,3,8
 US,SC,5,3,8
-US,KS,5,3,6
+US,KS,5,3,7
 US,NM,5,3,6
 US,OR,4,2,7
 US,PR,3,2,5
