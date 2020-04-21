@@ -61,6 +61,8 @@ To measure the error of a parameter set, we use a loss function that minimizes t
 
 While we do not have much out-of-sample data to work with, we try our best to take advantage of the data from countries such as China, Italy, and Iran, whose progression is much further along than regions such as the US.
 
+It is also important to limit the number of free variables. For example, it would be very difficult to try to determine 5 free variables when you only have 20 days of data. Therefore, for some of the variable parameters, we try varying one parameter at a time while holding all other parameters constant. This allows us to improve the signal-to-noise ratio when doing parameter search. 
+
 ### Validation Techniques
 
 For any machine learning model, it is important to minimize overfitting. This model is no exception. In fact, due to the limited amount of data (e.g. if a region reported its first death 10 days ago, we only have 10 data points), it is very easy to overfit if we are not careful. That's why we have developed a robust validation system that allows us to test various changes in a controlled environment such that overfitting is minimized. We can set our model to run on the first 20 days of data and compare the performance on the next 10 days. We can then repeat this process by running it on the first 21 days and comparing the performance on the next 9 days, and so forth. This allows us to perform cross-validation while preserving the maximum amount of data in our training set.
