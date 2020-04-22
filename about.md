@@ -16,7 +16,7 @@ permalink: /about/
 
 ## About the model
 
-Our COVID-19 prediction model has an underlying simulator based on [an SEIS model](http://leonidzhukov.net/hse/2014/socialnetworks/papers/2000SiamRev.pdf) to simulate the COVID-19 epidemic in each given country/state/region. The parameters/inputs of this simulator are then learned using machine learning techniques that attempts to minimize the error between the projected outputs and the actual results. After some additional validation techniques (to minimize a phenomenon called overfitting), we use the learned parameters to simulate the future and make projections.
+Our COVID-19 prediction model combines the power of artificial intelligence on top of a classic infectious disease model. We developed a simulator based on the [SEIS model](http://leonidzhukov.net/hse/2014/socialnetworks/papers/2000SiamRev.pdf) [Wiki](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology#The_SEIS_model) to simulate the COVID-19 epidemic in each given country/state/region. The parameters/inputs of this simulator are then learned using machine learning techniques that attempts to minimize the error between the projected outputsand the actual results. We utilize daily deaths data reported by each state/country to forecast future deaths. After some additional validation techniques (to minimize a phenomenon called overfitting), we use the learned parameters to simulate the future and make projections.
 
 The goal of this project is to showcase the strengths of artificial intelligence to tackle one of the world's most difficult problems: predict the track of a pandemic. Here, we use a pure data-driven approach by letting the machine do the learning.
 
