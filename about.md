@@ -20,7 +20,7 @@ Our COVID-19 prediction model adds the power of artificial intelligence on top o
 
 The goal of this project is to showcase the strengths of artificial intelligence to tackle one of the world's most difficult problems: predict the track of a pandemic. Here, we use a pure data-driven approach by letting the machine do the learning.
 
-We are working on a more detailed write-up about our model, which you can find [here](/model-details/).
+[Click here](/model-details/) to read a more in-depth description of how our model operates.
 
 ## How our model is different
 
