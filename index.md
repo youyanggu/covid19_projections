@@ -9,7 +9,7 @@ Please note: **Our infections estimate includes ALL infected people**, not just 
 ## Current Projection for US (Updated Daily - Last Updated: Apr 21):
 <p align="center">
   <b>103,187</b> new infections on <b>Apr 22, 2020</b> | Currently infected: <b>1.85 million</b><br>
-  Peak: <b>2,485</b> deaths on <b>Apr 15, 2020</b> | Total: <b>129,150</b> deaths by Aug 4, 2020 (Range: 71-278k) {% include iframe.html %}
+  Current Total: <b>44,444</b> deaths | Projected Total: <b>129,150</b> deaths by Aug 4, 2020 (Range: 71-278k) {% include iframe.html %}
 </p>
 
 ## View Projections
