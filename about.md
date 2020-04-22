@@ -42,7 +42,35 @@ Unfortunately, the IHME model is deeply flawed. There are already news articles 
 
 In the words of Ruth Etzioni, an epidemiologist at Seattle’s Fred Hutchinson Cancer Research Center, “that \[the IHME model\] is being used for policy decisions and its results interpreted wrongly is a travesty unfolding before our eyes.”
 
-In essence, their model is based on fitting a mathethetical curve rather than a real world simulation, so some of their projections do not pass what we call the "common sense test". Here are a few examples:
+In essence, their model is based on fitting a mathethetical curve rather than a real world simulation, so some of their projections do not pass what we call the "common sense test". Below are a few examples.
+
+As scientists, we update our models as new data becomes available. Your model is going to make wrong predictions, but it's important that you correct them as soon as new data shows otherwise. The problem with IHME is that they refuse to recognize their wrong assumptions. Hence, they are perpetually making the same mistake over and over again: under-projection.
+
+### Sample Summary of IHME Bad Predictions
+
+The death toll that IHME projected will take *four months* to reach was exceeded in *six days*.
+
+|  | April 21 Total Deaths | IHME Aug Deaths Projections from April 15 | Our Aug Deaths Projections from April 15
+| --- | --- | --- | --- |
+| New York | 19,104 | 14,542 | 33,384
+| New Jersey | 4,753 | 4,407 | 12,056
+| Michigan | 2,575 | 2,373 | 8,196
+| Illinois | 1,468 | 1,248 | 4,163
+| Italy | 24,648 | 21,130 | 40,216
+| Spain | 21,282 | 18,713 | 31,854
+| France | 20,829 | 17,448 | 41,643
+
+The most alarming thing is that they continue to make low projections. Below is their projections from April 21. We project that those estimates will also be exceed in less than a week:
+
+|  | April 21 Total Deaths | IHME Aug Deaths Projections from April 21 | Our Aug Deaths Projections from April 21
+| --- | --- | --- | --- |
+| New York | 19,104 | 23,741 |	35,238
+| New Jersey | 4,753 | 7,116 | 13,651
+| Michigan | 2,575 | 3,361 | 6,798
+| Illinois | 1,468 | 2,093 | 6,653
+| Italy | 24,648 | 26,600 | 44,683
+| Spain | 21,282 | 24,624 | 31,854
+| France | 20,829 | 23,104 | 41,643
 
 ### Italy
 
