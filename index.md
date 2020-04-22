@@ -12,6 +12,8 @@ Please note: **Our infections estimate includes ALL infected people**, not just 
   Current Total: <b>44,444</b> deaths | Projected Total: <b>129,150</b> deaths by Aug 4, 2020 (Range: 71-278k) {% include iframe.html %}
 </p>
 
+[Back to Top](#top)
+
 ## View Projections
 
 Below you can find our projections for every US state and 40 countries (including all 27 EU countries).
@@ -60,6 +62,8 @@ Below you can find our projections for every US state and 40 countries (includin
 | [China](/china) | [Norway](/norway) | [United Kingdom](/united-kingdom) |
 | [India](/india) | [Philippines](/philippines) |
 | [Indonesia](/indonesia) | [Russia](/russia) |
+
+[Back to Top](#top)
 
 ## Summary
 
@@ -122,6 +126,8 @@ Below you can find our projections for every US state and 40 countries (includin
 | [Virgin Islands](/us-vi)       |                3 |                        34 |                                   16 |                                    64 |
 | [Wyoming](/us-wy)              |                2 |                        34 |                                   13 |                                    65 |
 | [Guam](/us-gu)                 |                5 |                        29 |                                   16 |                                    70 |
+
+[Back to Top](#top)
 
 ### Global
 
