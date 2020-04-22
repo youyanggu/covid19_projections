@@ -44,8 +44,6 @@ In the words of Ruth Etzioni, an epidemiologist at Seattle’s Fred Hutchinson C
 
 In essence, their model is based on fitting a mathethetical curve rather than a real world simulation, so some of their projections do not pass what we call the "common sense test". Below are a few examples.
 
-As scientists, we update our models as new data becomes available. Your model is going to make wrong predictions, but it's important that you correct them as soon as new data shows otherwise. The problem with IHME is that they refuse to recognize their wrong assumptions. Hence, they are perpetually making the same mistake over and over again: under-projection.
-
 ### Sample Summary of IHME Bad Predictions
 
 In their April 15 model, the death toll that IHME projected will take *four months* to reach was in fact exceeded in *six days*:
@@ -60,7 +58,7 @@ In their April 15 model, the death toll that IHME projected will take *four mont
 | Spain | 21,282 | 18,713 | 31,854
 | France | 20,829 | 17,448 | 41,643
 
-The most alarming thing is that they continue to make low projections. Below is their projections from April 21. We project that most of these estimates will be exceeded in less than 2 weeks:
+The most alarming thing is that they continue to make low projections. Below is their projections from April 21. We project that most of the IHME estimates will also be exceeded in less than 2 weeks:
 
 |  | April 21 Total Deaths | IHME Aug proj. deaths from Apr 21 | Our Aug proj. deaths from Apr 21
 | --- | --- | --- | --- |
@@ -71,6 +69,8 @@ The most alarming thing is that they continue to make low projections. Below is 
 | Italy | 24,648 | 26,600 | 44,683
 | Spain | 21,282 | 24,624 | 31,854
 | France | 20,829 | 23,104 | 41,643
+
+As scientists, we update our models as new data becomes available. Your model is going to make wrong predictions, but it's important that you correct them as soon as new data shows otherwise. The problem with IHME is that they refuse to recognize their wrong assumptions. Hence, they are perpetually making the same mistake over and over again: under-projection.
 
 [Back to Top](#top)
 
