@@ -12,7 +12,7 @@ Our COVID-19 prediction model has an underlying simulator based on an elaboratio
 
 To quickly summarize how an SEIS model works, at each time period, an individual in a population is in one of three states: susceptible (S), exposed (E), and infectious (I). If an individual is in the susceptible state, we can assume they are healthy. If they are in the exposed state, they have been infected with the virus but are not infectious. If they are infectious, they can actively transmit the disease. An individual who is infected ultimately either recovers or dies. We can model the movement of individuals through these various states at each time period. The model's exact specifications depend on its parameters, which we describe in the next section.
 
-For our implementation, we use a discrete time series where each data point is a day in the simulation. For each day, we have a probability distribution for which an infected individual will transmit the virus, and another probability distribution for which an infected individual will succumb to the disease. These distributions are then convolved with the total existing cases to determine the number of new infections and new deaths per day. For new infections, we multiple the convolution by R_<sub>0</sub>, while for deaths, we multiple the convolution by the mortality rate.
+For our implementation, we use a discrete time series where each data point is a day in the simulation. For each day, we have a probability distribution for which an infected individual will transmit the virus, and another probability distribution for which an infected individual will succumb to the disease. These distributions are then convolved with the total existing cases to determine the number of new infections and new deaths per day. For new infections, we multiple the convolution by R<sub>0</sub>, while for deaths, we multiple the convolution by the mortality rate.
 
 ## Assumptions
 
@@ -26,7 +26,7 @@ For our SEIS model, there are basic inputs/parameters that must be set to begin 
 
 Fixed parameters are those that are fixed for this particular COVID-19 epidemic and likely do not fluctuate significantly across countries/states/regions. These include the following:
 - Latency period
-- Infections period
+- Infectious period
 - Time between illness onset to hospitalization
 - Time between illness onset to death
 - Hospital stay time
