@@ -3,8 +3,8 @@ There are many existing COVID-19 / coronavirus models out there. We believe many
 Visit our [About](/about/#how-our-model-is-different) page to see our explanation on why our model is different from other existing models.
 
 On this page:
-* [View Projections](#projections)
-* [Summary of Projections](#summary)
+* [View projections for each state/country](#view-projections)
+* [Summary of projections](#summary)
 
 Please note: Our infections estimate includes **ALL** infected people, not just those that took a coronavirus test kit and tested positive. The vast majority of infected individuals did NOT get tested due to 1) lack of available testing, 2) they are only mildly symptomatic or 3) they do not know they are carrying the virus.
 
