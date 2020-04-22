@@ -1,8 +1,8 @@
 There are many existing COVID-19 / coronavirus models out there. We believe many of them have shortcomings that can be improved upon. Here we present an intuitive model that uses machine learning techniques to make COVID-19 projections for infections, peak deaths, and total deaths in the US and around the world. We aim to make more realistic projections and hope they will act as an alternative resource in determining how to best allocate medical resources and estimating the effects of lifting shelter-at-home orders.
 
-Please note: Our infections estimate includes **ALL** infected people, not just those that took a coronavirus test kit and tested positive. The vast majority of infected individuals did NOT get tested due to 1) lack of available testing, 2) they are only mildly symptomatic or 3) they do not know they are carrying the virus.
-
 [Click here](/about/#how-our-model-is-different) to see our explanation on why our model is different from other existing models.
+
+Please note: Our infections estimate includes **ALL** infected people, not just those that took a coronavirus test kit and tested positive. The vast majority of infected individuals did NOT get tested due to 1) lack of available testing, 2) they are only mildly symptomatic or 3) they do not know they are carrying the virus.
 
 **NEW as of April 15**: We now assume social distancing will be relaxed starting on June 1, leading to higher projections than prior iterations. Learn more about our assumptions [here](/about/#assumptions).
 
