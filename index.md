@@ -8,8 +8,8 @@ Please note: **Our infections estimate includes ALL infected people**, not just 
 
 ## Current Projection for US (Updated Daily - Last Updated: Apr 21):
 <p align="center">
-  <b>103,187</b> new infections on <b>Apr 22, 2020</b> | Currently infected: <b>1.85 million</b><br>
-  Current Total: <b>44,444</b> deaths | Projected Total: <b>129,150</b> deaths by Aug 4, 2020 (Range: 71-278k) {% include iframe.html %}
+  <b>104,042</b> new infections on <b>Apr 22, 2020</b> | Currently infected: <b>1.86 million</b><br>
+  Current Total: <b>44,444</b> deaths | Projected Total: <b>129,658</b> deaths by Aug 4, 2020 (Range: 71-281k) {% include iframe.html %}
 </p>
 
 [Back to Top](#top)
@@ -71,60 +71,60 @@ Below you can find our projections for every US state and 40 countries (includin
 
 |                                |   Current Deaths |   Projected Deaths - Mean |   Projected Deaths - 2.5% Percentile |   Projected Deaths - 97.5% Percentile |
 |--------------------------------|-----------------:|--------------------------:|-------------------------------------:|--------------------------------------:|
-| [United States](/us)           |           44,444 |                   129,150 |                               71,480 |                               277,619 |
+| [United States](/us)           |           44,444 |                   129,658 |                               71,709 |                               280,754 |
 | [New York](/us-ny)             |           19,104 |                    35,238 |                               26,465 |                                57,609 |
 | [New Jersey](/us-nj)           |            4,753 |                    13,651 |                                8,123 |                                24,663 |
-| [Massachusetts](/us-ma)        |            1,961 |                     8,017 |                                3,797 |                                16,170 |
-| [Michigan](/us-mi)             |            2,575 |                     6,942 |                                4,233 |                                16,353 |
+| [Massachusetts](/us-ma)        |            1,961 |                     8,076 |                                3,798 |                                16,166 |
+| [Michigan](/us-mi)             |            2,575 |                     6,798 |                                4,219 |                                15,983 |
+| [Pennsylvania](/us-pa)         |            1,614 |                     6,679 |                                2,899 |                                16,440 |
 | [Illinois](/us-il)             |            1,468 |                     6,653 |                                2,703 |                                15,590 |
-| [Pennsylvania](/us-pa)         |            1,614 |                     6,442 |                                2,887 |                                16,452 |
-| [California](/us-ca)           |            1,282 |                     5,383 |                                2,163 |                                15,511 |
+| [California](/us-ca)           |            1,282 |                     5,352 |                                2,176 |                                15,721 |
+| [Louisiana](/us-la)            |            1,405 |                     4,164 |                                2,275 |                                 9,087 |
 | [Connecticut](/us-ct)          |            1,423 |                     4,030 |                                2,288 |                                 8,790 |
-| [Louisiana](/us-la)            |            1,405 |                     3,962 |                                2,254 |                                 8,293 |
-| [Maryland](/us-md)             |              652 |                     3,496 |                                1,273 |                                 7,863 |
-| [Georgia](/us-ga)              |              798 |                     3,316 |                                1,346 |                                 8,044 |
+| [Maryland](/us-md)             |              652 |                     3,355 |                                1,295 |                                 8,448 |
+| [Georgia](/us-ga)              |              798 |                     3,124 |                                1,338 |                                 8,220 |
 | [Ohio](/us-oh)                 |              557 |                     3,060 |                                1,135 |                                 7,877 |
 | [Indiana](/us-in)              |              635 |                     2,486 |                                1,105 |                                 6,732 |
 | [Florida](/us-fl)              |              867 |                     2,411 |                                1,317 |                                 5,327 |
+| [Texas](/us-tx)                |              533 |                     2,205 |                                  936 |                                 6,730 |
 | [Colorado](/us-co)             |              483 |                     2,178 |                                  837 |                                 5,330 |
-| [Texas](/us-tx)                |              533 |                     2,116 |                                  934 |                                 6,573 |
-| [Virginia](/us-va)             |              324 |                     1,869 |                                  641 |                                 4,819 |
-| [North Carolina](/us-nc)       |              245 |                     1,835 |                                  628 |                                 5,119 |
-| [Washington](/us-wa)           |              664 |                     1,325 |                                  831 |                                 3,024 |
+| [Virginia](/us-va)             |              324 |                     1,905 |                                  684 |                                 5,466 |
+| [North Carolina](/us-nc)       |              245 |                     1,826 |                                  635 |                                 5,282 |
+| [Washington](/us-wa)           |              664 |                     1,315 |                                  832 |                                 2,981 |
+| [Alabama](/us-al)              |              183 |                     1,307 |                                  479 |                                 3,258 |
 | [Arizona](/us-az)              |              208 |                     1,173 |                                  492 |                                 2,610 |
-| [Rhode Island](/us-ri)         |              171 |                     1,127 |                                  470 |                                 2,527 |
-| [Alabama](/us-al)              |              183 |                     1,091 |                                  438 |                                 3,016 |
-| [Minnesota](/us-mn)            |              160 |                     1,025 |                                  355 |                                 2,905 |
+| [Rhode Island](/us-ri)         |              171 |                     1,100 |                                  471 |                                 2,575 |
+| [Minnesota](/us-mn)            |              160 |                     1,062 |                                  365 |                                 3,126 |
 | [Mississippi](/us-ms)          |              183 |                       940 |                                  354 |                                 2,389 |
 | [Missouri](/us-mo)             |              224 |                       939 |                                  401 |                                 2,790 |
-| [Wisconsin](/us-wi)            |              244 |                       797 |                                  406 |                                 2,088 |
-| [Oklahoma](/us-ok)             |              164 |                       685 |                                  303 |                                 1,877 |
+| [Wisconsin](/us-wi)            |              244 |                       889 |                                  414 |                                 2,352 |
+| [Oklahoma](/us-ok)             |              164 |                       817 |                                  351 |                                 2,057 |
 | [Iowa](/us-ia)                 |               83 |                       634 |                                  214 |                                 1,821 |
 | [Kentucky](/us-ky)             |              171 |                       590 |                                  286 |                                 1,304 |
-| [District of Columbia](/us-dc) |              112 |                       521 |                                  232 |                                 1,285 |
+| [District of Columbia](/us-dc) |              112 |                       512 |                                  232 |                                 1,307 |
 | [Delaware](/us-de)             |               82 |                       500 |                                  201 |                                 1,332 |
 | [Tennessee](/us-tn)            |              157 |                       491 |                                  297 |                                   884 |
-| [Kansas](/us-ks)               |              109 |                       453 |                                  201 |                                 1,139 |
+| [Kansas](/us-ks)               |              109 |                       482 |                                  212 |                                 1,222 |
 | [Nevada](/us-nv)               |              163 |                       448 |                                  259 |                                   910 |
 | [South Carolina](/us-sc)       |              124 |                       421 |                                  223 |                                 1,227 |
-| [Oregon](/us-or)               |               78 |                       335 |                                  134 |                                 1,082 |
-| [West Virginia](/us-wv)        |               26 |                       301 |                                   93 |                                   864 |
-| [New Mexico](/us-nm)           |               58 |                       292 |                                  129 |                                   698 |
+| [Oregon](/us-or)               |               78 |                       321 |                                  132 |                                   989 |
+| [West Virginia](/us-wv)        |               26 |                       296 |                                   95 |                                   903 |
+| [New Mexico](/us-nm)           |               58 |                       289 |                                  130 |                                   701 |
 | [New Hampshire](/us-nh)        |               42 |                       231 |                                   94 |                                   724 |
 | [Puerto Rico](/us-pr)          |               64 |                       229 |                                  118 |                                   631 |
-| [Arkansas](/us-ar)             |               42 |                       209 |                                  108 |                                   542 |
-| [Utah](/us-ut)                 |               32 |                       205 |                                   79 |                                   610 |
+| [Utah](/us-ut)                 |               32 |                       204 |                                   79 |                                   572 |
 | [Idaho](/us-id)                |               48 |                       187 |                                  108 |                                   397 |
-| [Maine](/us-me)                |               36 |                       184 |                                  107 |                                   356 |
+| [Arkansas](/us-ar)             |               42 |                       183 |                                  107 |                                   426 |
+| [Maine](/us-me)                |               36 |                       182 |                                  118 |                                   355 |
 | [Nebraska](/us-ne)             |               33 |                       150 |                                   93 |                                   233 |
-| [Vermont](/us-vt)              |               40 |                       133 |                                   73 |                                   304 |
+| [Vermont](/us-vt)              |               40 |                       131 |                                   73 |                                   287 |
 | [South Dakota](/us-sd)         |                8 |                        90 |                                   37 |                                   233 |
-| [Montana](/us-mt)              |               12 |                        75 |                                   40 |                                   164 |
-| [North Dakota](/us-nd)         |               13 |                        58 |                                   37 |                                   105 |
+| [Montana](/us-mt)              |               12 |                        75 |                                   40 |                                   163 |
+| [North Dakota](/us-nd)         |               13 |                        59 |                                   37 |                                   105 |
 | [Hawaii](/us-hi)               |               10 |                        52 |                                   38 |                                    88 |
-| [Alaska](/us-ak)               |                9 |                        39 |                                   28 |                                    72 |
-| [Virgin Islands](/us-vi)       |                3 |                        34 |                                   16 |                                    64 |
-| [Wyoming](/us-wy)              |                2 |                        34 |                                   13 |                                    65 |
+| [Alaska](/us-ak)               |                9 |                        37 |                                   28 |                                    62 |
+| [Wyoming](/us-wy)              |                2 |                        34 |                                   13 |                                    71 |
+| [Virgin Islands](/us-vi)       |                3 |                        30 |                                   15 |                                    64 |
 | [Guam](/us-gu)                 |                5 |                        29 |                                   16 |                                    70 |
 
 [Back to Top](#top)
