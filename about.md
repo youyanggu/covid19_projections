@@ -139,7 +139,7 @@ We will compare our daily projections with the IHME projections for several heav
 | April 17, 2020 | 120,541 (69-229k) | 60,308 (34-141k)
 | April 18, 2020 | 121,830 (70-227k) | 60,308 (34-141k)
 | April 19, 2020 | 120,633 (70-227k) | 60,308 (34-141k)
-| April 19, 2020 | 117,123 (69-229k) | 60,308 (34-141k)
+| April 20, 2020 | 117,123 (69-229k) | 60,308 (34-141k)
 
 | Date | Our US Jun-Aug proj. death total | IHME US Jun-Aug proj. death total
 | --- | --- | --- |
