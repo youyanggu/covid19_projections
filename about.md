@@ -70,7 +70,7 @@ As you can see above, their models made dismally bad projections for almost all 
 | Spain | 21,282 | 24,624 | 31,854
 | France | 20,829 | 23,104 | 41,643
 
-As scientists, we update our models as new data becomes available. Your model is going to make wrong predictions, but it's important that you correct them as soon as new data shows otherwise. The problem with IHME is that they refuse to recognize their wrong assumptions. Hence, they are perpetually making the same mistake over and over again: under-projection.
+As scientists, we update our models as new data becomes available. Model are going to make wrong predictions, but it's important that we correct them as soon as new data shows otherwise. The problem with IHME is that they refuse to recognize their wrong assumptions. Hence, they are perpetually making the same mistake over and over again: under-projection.
 
 [Back to Top](#top)
 
