@@ -124,7 +124,7 @@ We enourage questions/insights/feedback! Please reach out to Youyang Gu on Twitt
 
 For US and European countries, we assume moderate social distancing until June 1, 2020 and light social distancing from June 1 onwards. This more accurately reflects the current sentiment expressed by US and European government officials that it is imperative to re-open the economy, even before the virus is fully contained. This will likely cause a second wave of infections and is reflected by the higher death tolls in our June-August projections.
 
-### Moderate vs light social distancing
+#### Moderate vs light social distancing
 
 Mderate social distancing is what we have now in many states and countries: stay-at-home orders, closed non-essential businesses, etc. Light social distancing is what we think will happen once states gradually begin opening up. Some establishments will re-open, but people will still be somewhat cognizant of keeping a distance. The infection rate (R) will be higher than it is now, but lower than what it was pre-COVID.
 
