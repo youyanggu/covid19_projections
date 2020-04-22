@@ -50,7 +50,7 @@ As scientists, we update our models as new data becomes available. Your model is
 
 The death toll that IHME projected will take *four months* to reach was exceeded in *six days*.
 
-|  | April 21 Total Deaths | IHME Aug Deaths Projections from Apr 15 | Our Aug Deaths Projections from Apr 15
+|  | April 21 Total Deaths | IHME Aug proj. deaths from Apr 15 | Our Aug proj. deaths from Apr 15
 | --- | --- | --- | --- |
 | New York | 19,104 | 14,542 | 33,384
 | New Jersey | 4,753 | 4,407 | 12,056
@@ -62,7 +62,7 @@ The death toll that IHME projected will take *four months* to reach was exceeded
 
 The most alarming thing is that they continue to make low projections. Below is their projections from April 21. We project that those estimates will also be exceed in less than a week:
 
-|  | April 21 Total Deaths | IHME Aug Deaths Projections from Apr 21 | Our Aug Deaths Projections from Apr 21
+|  | April 21 Total Deaths | IHME Aug proj. deaths from Apr 21 | Our Aug proj. deaths from Apr 21
 | --- | --- | --- | --- |
 | New York | 19,104 | 23,741 |35,238
 | New Jersey | 4,753 | 7,116 | 13,651
