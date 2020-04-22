@@ -50,7 +50,7 @@ As scientists, we update our models as new data becomes available. Your model is
 
 The death toll that IHME projected will take *four months* to reach was exceeded in *six days*.
 
-|  | April 21 Total Deaths | IHME Aug Deaths Projections from April 15 | Our Aug Deaths Projections from April 15
+|  | April 21 Total Deaths | IHME Aug Deaths Projections from Apr 15 | Our Aug Deaths Projections from Apr 15
 | --- | --- | --- | --- |
 | New York | 19,104 | 14,542 | 33,384
 | New Jersey | 4,753 | 4,407 | 12,056
@@ -62,15 +62,17 @@ The death toll that IHME projected will take *four months* to reach was exceeded
 
 The most alarming thing is that they continue to make low projections. Below is their projections from April 21. We project that those estimates will also be exceed in less than a week:
 
-|  | April 21 Total Deaths | IHME Aug Deaths Projections from April 21 | Our Aug Deaths Projections from April 21
+|  | April 21 Total Deaths | IHME Aug Deaths Projections from Apr 21 | Our Aug Deaths Projections from Apr 21
 | --- | --- | --- | --- |
-| New York | 19,104 | 23,741 |	35,238
+| New York | 19,104 | 23,741 |35,238
 | New Jersey | 4,753 | 7,116 | 13,651
 | Michigan | 2,575 | 3,361 | 6,798
 | Illinois | 1,468 | 2,093 | 6,653
 | Italy | 24,648 | 26,600 | 44,683
 | Spain | 21,282 | 24,624 | 31,854
 | France | 20,829 | 23,104 | 41,643
+
+[Back to Top](#top)
 
 ### Italy
 
@@ -102,7 +104,7 @@ Most transmissions do not happen with strangers, but rather close contacts. Even
 
 We posted [a Tweet](https://twitter.com/youyanggu/status/1248844841733128192) on April 11 about MTA (NYC) and BART (Bay Area) subway ridership being down 90% in March. However, the deaths have only dropped around 25% in NY, while CA have not seen any decrease in deaths, more than a month after the drop in ridership.
 
-We believe that a successful model must be able to quickly determine what is realistic and what is not, and the above examples highlights our main concerns with the IHME model. IHME is making grossly unfounded assumptions that is going to cost lives if their advice is heeded by policy-makers.
+We believe that a successful model must be able to quickly determine what is realistic and what is not, and the above examples highlights our main concerns with the IHME model. IHME is making grossly unfounded assumptions that is going to lead to dire consequences if their advice is heeded by policy-makers.
 
 [Back to Top](#top)
 
