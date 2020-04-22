@@ -48,7 +48,7 @@ As scientists, we update our models as new data becomes available. Your model is
 
 ### Sample Summary of IHME Bad Predictions
 
-The death toll that IHME projected will take *four months* to reach was exceeded in *six days*.
+In their April 15 model, the death toll that IHME projected will take *four months* to reach was in fact exceeded in *six days*:
 
 |  | April 21 Total Deaths | IHME Aug proj. deaths from Apr 15 | Our Aug proj. deaths from Apr 15
 | --- | --- | --- | --- |
@@ -60,7 +60,7 @@ The death toll that IHME projected will take *four months* to reach was exceeded
 | Spain | 21,282 | 18,713 | 31,854
 | France | 20,829 | 17,448 | 41,643
 
-The most alarming thing is that they continue to make low projections. Below is their projections from April 21. We project that those estimates will also be exceed in less than a week:
+The most alarming thing is that they continue to make low projections. Below is their projections from April 21. We project that these estimates will also be exceed in less than a week:
 
 |  | April 21 Total Deaths | IHME Aug proj. deaths from Apr 21 | Our Aug proj. deaths from Apr 21
 | --- | --- | --- | --- |
