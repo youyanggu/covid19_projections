@@ -58,7 +58,7 @@ In their April 15 model, the death toll that IHME projected will take *four mont
 | Spain | 21,282 | 18,713 | 31,854
 | France | 20,829 | 17,448 | 41,643
 
-The most alarming thing is that they continue to make low projections. Below is their projections from April 21. We project that most of the IHME estimates will also be exceeded in less than 2 weeks:
+As you can see above, their models made dismally bad projections for almost all of the worst-impacted regions in the world. The most alarming thing is that they continue to make low projections. Below is their projections from April 21. We project that most of the IHME estimates will also be exceeded in less than 2 weeks:
 
 |  | April 21 Total Deaths | IHME Aug proj. deaths from Apr 21 | Our Aug proj. deaths from Apr 21
 | --- | --- | --- | --- |
