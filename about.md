@@ -130,15 +130,15 @@ For US and European countries, we assume heavy social distancing until June 1, 2
 
 #### Heavy vs moderate social distancing
 
-Heavy social distancing is what we have now in many states and countries: stay-at-home orders, closed non-essential businesses, etc. Moderate social distancing is what we think will happen once states gradually begin opening up. Some establishments will re-open, but people will still be somewhat cognizant of keeping a distance. The infection rate (R) will be higher than it is now, but lower than what it was pre-COVID.
+Heavy social distancing is what we have now in many states and countries: stay-at-home orders, closed non-essential businesses, etc. Infection rates typically decrease ~60%, going from an R<sub>0</sub> of around 2 to a R of 0.6-1.0. Moderate social distancing is what we think will happen once states gradually begin opening up. Some establishments will re-open, but people will still be somewhat cognizant about maintaining social distancing. We assume that infection rates will increase 0-20%, with an R of around 0.8-1.2. Note that this still assumes a much lower infection rate than what it was pre-COVID.
 
 If states fail to maintain moderate social distancing during their re-openings, we think the infection rate can become much steeper in June-August than we are currently projecting.
 
-Starting on April 15, we also take into account that a certain percentage of recovered individuals will be immune, and thus the susceptible population will decrease over time.
+We also take into account that a certain percentage of recovered individuals will be immune, and thus the susceptible population will decrease over time.
 
 If states and countries relax social distancing measures prior to June 1, then the death toll may be higher than projected, while the reverse holds true as well. In addition, if states and countries fully lift social distancing measures prior to August, we may also see a higher death toll than projected.
 
-For all other countries, we assume continued social distancing until August 2020 (same as prior to Apr 15).
+For non-US and non-European countries, we assume continued social distancing until August 2020 (same as prior to Apr 15).
 
 ### Projections prior to April 15, 2020
 
