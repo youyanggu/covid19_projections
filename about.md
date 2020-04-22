@@ -122,11 +122,13 @@ We enourage questions/insights/feedback! Please reach out to Youyang Gu on Twitt
 
 ### Projections since April 15, 2020
 
-For US and European countries, we assume moderate social distancing until June 1, 2020 and light social distancing from June 1 onwards. This more accurately reflects the current sentiment expressed by US and European government officials that it is imperative to re-open the economy, even before the virus is fully contained. This will likely cause a second wave of infections and is reflected by the higher death tolls in our June-August projections.
+For US and European countries, we assume heavy social distancing until June 1, 2020 and moderate social distancing from June 1 onwards. This more accurately reflects the current sentiment expressed by US and European government officials that it is imperative to re-open the economy, even before the virus is fully contained. This will likely cause a second wave of infections and is reflected by the higher death tolls in our June-August projections.
 
-#### Moderate vs light social distancing
+#### Heavy vs moderate social distancing
 
-Mderate social distancing is what we have now in many states and countries: stay-at-home orders, closed non-essential businesses, etc. Light social distancing is what we think will happen once states gradually begin opening up. Some establishments will re-open, but people will still be somewhat cognizant of keeping a distance. The infection rate (R) will be higher than it is now, but lower than what it was pre-COVID.
+Heavy social distancing is what we have now in many states and countries: stay-at-home orders, closed non-essential businesses, etc. Moderate social distancing is what we think will happen once states gradually begin opening up. Some establishments will re-open, but people will still be somewhat cognizant of keeping a distance. The infection rate (R) will be higher than it is now, but lower than what it was pre-COVID.
+
+If states fail to maintain moderate social distancing during their re-openings, we think the infection rate can become much steeper in June-August than we are currently projecting.
 
 Starting on April 15, we also take into account that a certain percentage of recovered individuals will be immune, and thus the susceptible population will decrease over time.
 
