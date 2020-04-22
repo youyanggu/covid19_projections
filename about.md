@@ -139,6 +139,7 @@ We will compare our daily projections with the IHME projections for several heav
 | April 17, 2020 | 120,541 (69-229k) | 60,308 (34-141k)
 | April 18, 2020 | 121,830 (70-227k) | 60,308 (34-141k)
 | April 19, 2020 | 120,633 (70-227k) | 60,308 (34-141k)
+| April 19, 2020 | 117,123 (69-229k) | 60,308 (34-141k)
 
 | Date | Our US Jun-Aug proj. death total | IHME US Jun-Aug proj. death total
 | --- | --- | --- |
@@ -153,6 +154,7 @@ We will compare our daily projections with the IHME projections for several heav
 | April 17, 2020 | 29,829 (4.2-104k) | 36 (0-300)
 | April 18, 2020 | 31,386 (4.3-104k) | 36 (0-300)
 | April 19, 2020 | 29,993 (4.8-104k) | 36 (0-300)
+| April 20, 2020 | 29,277 (4.0-108k) | 36 (0-300)
 
 | Date | Our NY proj. death total | IHME NY proj. death total
 | --- | --- | --- |
@@ -167,6 +169,7 @@ We will compare our daily projections with the IHME projections for several heav
 | April 17, 2020 | 39,193 (29-57k) | 21,812 (13-43k)
 | April 18, 2020 | 37,996 (28-56k) | 21,812 (13-43k)
 | April 19, 2020 | 38,193 (28-56k) | 21,812 (13-43k)
+| April 20, 2020 | 36,527 (26-58k) | 21,812 (13-43k)
 
 | Date | Our MI proj. death total | IHME MI proj. death total
 | --- | --- | --- |
@@ -181,6 +184,7 @@ We will compare our daily projections with the IHME projections for several heav
 | April 17, 2020 | 9,029 (4.2-18k) | 3,304 (2.1-6.8k)
 | April 18, 2020 | 7,619 (4.1-16k) | 3,304 (2.1-6.8k)
 | April 19, 2020 | 7,588 (4.2-16k) | 3,304 (2.1-6.8k)
+| April 20, 2020 | 7,573 (4.2-16k) | 3,304 (2.1-6.8k)
 
 | Date | Our Italy proj. death total | IHME Italy proj. death total
 | --- | --- | --- |
@@ -195,6 +199,7 @@ We will compare our daily projections with the IHME projections for several heav
 | April 17, 2020 | 43,086 (31-73k) | 26,007 (23-32k)
 | April 18, 2020 | 44,609 (31-73k) | 26,007 (23-32k)
 | April 19, 2020 | 44,283 (31-72k) | 26,007 (23-32k)
+| April 20, 2020 | 44,117 (32-72k) | 26,007 (23-32k)
 
 | Date | Our France proj. death total | IHME France proj. death total
 | --- | --- | --- |
@@ -209,6 +214,7 @@ We will compare our daily projections with the IHME projections for several heav
 | April 17, 2020 | 54,095 (31-104k) | 22,555 (19-30k)
 | April 18, 2020 | 51,633 (31-99k) | 22,555 (19-30k)
 | April 19, 2020 | 44,196 (27-84k) | 22,555 (19-30k)
+| April 20, 2020 | 43,242 (27-83k) | 22,555 (19-30k)
 
 [Back to Top](#top)
 
