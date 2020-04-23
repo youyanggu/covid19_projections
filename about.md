@@ -40,11 +40,11 @@ Another strength of our model is that because it is purely data-driven, it is qu
 
 In this section we will compare our projections with a popular model developed by the [Institute for Health Metrics and Evaluation (IHME)](https://covid19.healthdata.org/) and commonly referred to by the White House and media.
 
-Unfortunately, the IHME model is deeply flawed. There are already news articles such as [STAT News](https://www.statnews.com/2020/04/17/influential-covid-19-model-uses-flawed-methods-shouldnt-guide-policies-critics-say/) and [CNN](https://www.cnn.com/2020/04/13/health/ihme-model-death-predictions/index.html) that agrees with our concern.
+Unfortunately, the IHME model is deeply flawed. There are existing news articles such as [STAT News](https://www.statnews.com/2020/04/17/influential-covid-19-model-uses-flawed-methods-shouldnt-guide-policies-critics-say/), [CNN](https://www.cnn.com/2020/04/13/health/ihme-model-death-predictions/index.html), and [Quartz](https://qz.com/1840186/what-the-ihme-covid-19-model-can-and-cant-tell-the-us/) that agree with our concerns.
 
 In the words of Ruth Etzioni, an epidemiologist at Seattle’s Fred Hutchinson Cancer Research Center, “that \[the IHME model\] is being used for policy decisions and its results interpreted wrongly is a travesty unfolding before our eyes.”
 
-In essence, their model is based on fitting a mathethetical curve rather than a real world simulation, so some of their projections do not pass what we call the "common sense test". Below are a few examples.
+In essence, their model is based on fitting a mathethetical curve with no basis in epidemiology or disease modeling. As a result, some of their projections do not pass what we call the "common sense test". Below are a few examples.
 
 ### Sample Summary of IHME Bad Predictions
 
