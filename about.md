@@ -46,7 +46,7 @@ In the words of Ruth Etzioni, an epidemiologist at Seattle’s Fred Hutchinson C
 
 In essence, their model is based on fitting a mathethetical curve with no basis in epidemiology or disease modeling. As a result, some of their projections do not pass what we call the "common sense test". Below are a few examples.
 
-### Sample Summary of IHME Bad Predictions
+### Sample Summary of IHME Inaccurate Predictions
 
 In their April 15 model, the death toll that IHME projected will take *four months* to reach was in fact exceeded in *six days*:
 
@@ -60,7 +60,7 @@ In their April 15 model, the death toll that IHME projected will take *four mont
 | Spain | 21,282 | 18,713 | 31,854
 | France | 20,829 | 17,448 | 41,643
 
-As you can see above, their models made dismally bad projections for almost all of the worst-impacted regions in the world. The most alarming thing is that they continue to make low projections. Below is their projections from April 21. We project that most of the IHME estimates will also be exceeded in less than 2 weeks:
+As you can see above, their models made incredibly misguided projections for almost all of the worst-impacted regions in the world. The most alarming thing is that they continue to make low projections. Below is their projections from April 21. It doesn't take a scientist to recognize that most of these IHME projections will also be exceeded in less than 2 weeks:
 
 |  | April 21 Total Deaths | IHME Aug proj. deaths from Apr 21 | Our Aug proj. deaths from Apr 21
 | --- | --- | --- | --- |
