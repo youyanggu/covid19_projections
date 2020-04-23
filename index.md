@@ -16,7 +16,7 @@ We hope you can find our forecasts to be more reasonable than some other widely 
 <p align="center">
   <b>112,197</b> new infections on <b>Apr 23, 2020</b> | Currently infected: <b>1.97 million</b><br>
   Current Total: <b>46,610</b> deaths | Projected Total: <b>139,165</b> deaths by Aug 4, 2020 (Range: 76-292k)<br>
-  Currently Infected: <b>0.6%</b> | Total Infected: <b2.4%</b> {% include iframe.html %}
+  Currently Infected: <b>0.6%</b> | Total Infected: <b>2.4%</b> {% include iframe.html %}
 </p>
 
 [Back to Top](#top)
