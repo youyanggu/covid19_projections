@@ -185,6 +185,7 @@ A ~~strikethrough~~ means that the current deaths have already exceeded the tota
 | April 19, 2020 | 120,633 (70-227k) | 60,308 (34-141k)
 | April 20, 2020 | 117,123 (69-229k) | 60,308 (34-141k)
 | April 21, 2020 | 129,658 (71-281k) | 65,976 (45-125k)
+| April 22, 2020 | 139,165 (76-292k) | 67,641 (48-124k)
 
 | Date | Our US Jun-Aug proj. death total | IHME US Jun-Aug proj. death total
 | --- | --- | --- |
@@ -201,6 +202,7 @@ A ~~strikethrough~~ means that the current deaths have already exceeded the tota
 | April 19, 2020 | 29,993 (4.8-104k) | 36 (0-300)
 | April 20, 2020 | 29,277 (4.0-108k) | 36 (0-300)
 | April 21, 2020 | 37,886 (4.2-151k) | 126 (0-560)
+| April 22, 2020 | 43,073 (4.6-160k) | 197 (0-954)
 
 | Date | Our NY proj. death total | IHME NY proj. death total
 | --- | --- | --- |
@@ -217,6 +219,7 @@ A ~~strikethrough~~ means that the current deaths have already exceeded the tota
 | April 19, 2020 | 38,193 (28-56k) | 21,812 (13-43k)
 | April 20, 2020 | 36,527 (26-58k) | 21,812 (13-43k)
 | April 21, 2020 | 35,238 (26-58k) | 23,741 (18-36k)
+| April 22, 2020 | 32,470 (26-50k) | 23,232 (19-33k)
 
 | Date | Our MI proj. death total | IHME MI proj. death total
 | --- | --- | --- |
@@ -233,6 +236,7 @@ A ~~strikethrough~~ means that the current deaths have already exceeded the tota
 | April 19, 2020 | 7,588 (4.2-16k) | 3,304 (2.1-6.8k)
 | April 20, 2020 | 7,573 (4.2-16k) | 3,304 (2.1-6.8k)
 | April 21, 2020 | 6,798 (4.2-16k) | 3,361 (2.6-5.4k)
+| April 22, 2020 | 7,859 (5.1-17k) | 3,379 (2.7-5.1k)
 
 | Date | Our Italy proj. death total | IHME Italy proj. death total
 | --- | --- | --- |
@@ -249,6 +253,7 @@ A ~~strikethrough~~ means that the current deaths have already exceeded the tota
 | April 19, 2020 | 44,283 (31-72k) | 26,007 (23-32k)
 | April 20, 2020 | 44,117 (32-72k) | 26,007 (23-32k)
 | April 21, 2020 | 44,683 (32-71k) | 26,600 (24-32k)
+| April 22, 2020 | 43,591 (32-66k) | 26,867 (25-33k)
 
 | Date | Our France proj. death total | IHME France proj. death total
 | --- | --- | --- |
@@ -265,6 +270,7 @@ A ~~strikethrough~~ means that the current deaths have already exceeded the tota
 | April 19, 2020 | 44,196 (27-84k) | 22,555 (19-30k)
 | April 20, 2020 | 43,242 (27-83k) | 22,555 (19-30k)
 | April 21, 2020 | 41,643 (27-81k) | 23,104 (20-29k)
+| April 22, 2020 | 40,156 (28-74k) | 23,304 (21-30k)
 
 [Back to Top](#top)
 
