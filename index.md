@@ -8,7 +8,7 @@ On this page:
 
 Please note: Our infections estimate includes **ALL** infected people, not just those that took a coronavirus test kit and tested positive. The vast majority of infected individuals did NOT get tested due to 1) lack of available testing, 2) they are only mildly symptomatic or 3) they do not know they are carrying the virus.
 
-**Social distancing assumptions:**: We assume that the current style of social distancing will be relaxed slightly starting in June, leading to a possible "second wave" of infections from late June onwards. Learn more about our assumptions [here](/about/#assumptions).
+**Social distancing assumptions:**: We assume that the current style of social distancing will be relaxed slightly starting in June, leading to a possible "second wave" of infections. Learn more about our assumptions [here](/about/#assumptions).
 
 We hope you can find our forecasts to be more reasonable than some other widely cited projections. If you agree, we would appreciate you sharing our website to help us get more support and traction. We need to build a discussion around facts and science.
 
