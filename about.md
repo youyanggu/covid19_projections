@@ -128,6 +128,8 @@ We enourage questions/insights/feedback! Please reach out to Youyang Gu on Twitt
 
 For US and European countries, we assume heavy social distancing until June 1, 2020 and moderate social distancing from June 1 onwards. This more accurately reflects the current sentiment expressed by US and European government officials that it is imperative to re-open the economy, even before the virus is fully contained. This will likely cause a second wave of infections and is reflected by the higher death tolls in our June-August projections.
 
+*Note: For Georgia, we use May 1 instead of June 1 to reflect the governor's intention of an early re-opening of the state.*
+
 #### Heavy vs moderate social distancing
 
 Heavy social distancing is what we have now in many states and countries: stay-at-home orders, closed non-essential businesses, etc. Infection rates typically decrease ~60%, going from an R<sub>0</sub> of around 2 to a R of 0.6-1.0. Moderate social distancing is what we think will happen once states gradually begin opening up. Some establishments will re-open, but people will still be somewhat cognizant about maintaining social distancing. We assume that infection rates will increase 0-20%, with an R of around 0.8-1.2. Note that this still assumes a much lower infection rate than what it was pre-COVID.
