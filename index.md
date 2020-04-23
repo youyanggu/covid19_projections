@@ -10,6 +10,8 @@ Please note: Our infections estimate includes **ALL** infected people, not just 
 
 **NEW as of April 15**: We assume social distancing will be slightly relaxed starting on June 1, leading to a "second wave" of infections starting in late June. Learn more about our assumptions [here](/about/#assumptions).
 
+We hope you can find that our forecasts are more reasonable than other widely cited projections. If you agree, we would appreciate you sharing our website to help us get more support and traction.
+
 ## Current Projection for US (Updated Daily - Last Updated: Apr 21):
 <p align="center">
   <b>104,042</b> new infections on <b>Apr 22, 2020</b> | Currently infected: <b>1.86 million</b><br>
