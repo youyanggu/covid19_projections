@@ -18,6 +18,12 @@ For our implementation, we use a discrete time series where each data point is a
 
 Please see the [About](/about#assumptions) page to read about the assumptions in our model.
 
+## Data
+
+The sole data source we use is the daily reported deaths from [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports). In addition, we use population data for each state/country to calculate the total susceptible population.
+
+Because the raw data may be noisy, we must first run a smoothing algorithm to smooth the data. For example, if a state reports 0 death on one day and 300 deaths the next day, we smooth the data to show 150 deaths on each day.
+
 ## Parameters
 
 For our SEIS model, there are basic inputs/parameters that must be set to begin simulation. [covid19-scenarios.org](https://covid19-scenarios.org/) developed by the University of Basel provides a good visualization of sample inputs/parameters into a simulation. We chose a set of parameters that we think are important for the accuracy of the simulation. We divide the parameters into two categories:
