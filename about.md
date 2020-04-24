@@ -290,6 +290,9 @@ A ~~strikethrough~~ means that the current deaths have already exceeded the tota
 
 ## Updates
 
+2020-04-23
+* Incorporate probable deaths into projections, following updated CDC guidelines
+
 2020-04-15
 * Incorporate the relaxing of social distancing in June (see our [Assumptions](/about#assumptions) page)
 
