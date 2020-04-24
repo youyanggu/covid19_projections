@@ -78,11 +78,11 @@ Below you can find our projections for every US state and 40 countries (includin
 
 |                                |   Current Deaths |   Projected Deaths - Mean |   Projected Deaths - 2.5% Percentile |   Projected Deaths - 97.5% Percentile |
 |--------------------------------|-----------------:|--------------------------:|-------------------------------------:|--------------------------------------:|
-| [United States](/us)           |           49,951 |                   172,770 |                               92,996 |                               325,838 |
+| [United States](/us)           |           49,951 |                   172,746 |                               92,327 |                               326,242 |
 | [New York](/us-ny)             |           20,973 |                    44,689 |                               33,903 |                                57,237 |
 | [New Jersey](/us-nj)           |            5,426 |                    16,513 |                                9,965 |                                25,583 |
 | [Massachusetts](/us-ma)        |            2,360 |                    11,875 |                                6,217 |                                21,862 |
-| [Michigan](/us-mi)             |            2,977 |                    11,254 |                                6,061 |                                20,866 |
+| [Michigan](/us-mi)             |            2,977 |                    11,230 |                                5,392 |                                21,270 |
 | [Pennsylvania](/us-pa)         |            1,724 |                     8,824 |                                3,638 |                                19,835 |
 | [Illinois](/us-il)             |            1,688 |                     8,300 |                                3,246 |                                16,956 |
 | [California](/us-ca)           |            1,533 |                     8,070 |                                3,190 |                                19,207 |
