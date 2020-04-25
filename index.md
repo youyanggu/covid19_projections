@@ -7,7 +7,7 @@ On this page:
 * [Likelihoods of death milestones in US](#us-deaths-likelihoods)
 * [Summary of projections](#summary)
 
-Please note: Our infections estimate includes **ALL** infected people, not just those that took a coronavirus test kit and tested positive. The vast majority of infected individuals did NOT get tested due to 1) lack of available testing, 2) they are only mildly symptomatic or 3) they do not know they are carrying the virus.
+Please note: Our infections estimate includes **ALL** infected people, not just those that took a coronavirus test kit and tested positive. The vast majority of infected individuals did not get tested due to 1) they are asymptomatic or only mildly symptomatic or 2) lack of available testing.
 
 **Social distancing assumptions**: We assume that the current style of social distancing in the US will be relaxed slightly starting in June, leading to a possible "second wave" of infections. Learn more about our assumptions [here](/about/#assumptions).
 
