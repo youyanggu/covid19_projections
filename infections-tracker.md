@@ -10,7 +10,7 @@ Our model tries to do what no other model currently does (to the best of our kno
 
 ## R<sub>0</sub> value estimates
 
-The below [basic reproduction number](https://en.wikipedia.org/wiki/Basic_reproduction_number) (R) estimates are what our model has learned for each state/region. While we present a single value for the purpose of this chart, our model actually uses a weighted range of R values to make its projections. We provide a longer explanation of how our model works [here](/model-details).
+The below [basic reproduction number](https://en.wikipedia.org/wiki/Basic_reproduction_number) (R) estimates are what our model has learned for each state/region. While we present a single value for the purpose of this chart, our model actually uses a weighted range of R values to make its projections. The initial R<sub>0</sub> is the R value before states began implementing stay-at-home orders (early March). We provide a longer explanation of how our model works [here](/model-details).
 
 |                                    |   Initial R<sub>0</sub> |   Current R |
 |------------------------------------|-------------------------|-------------|
