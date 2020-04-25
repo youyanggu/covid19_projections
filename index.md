@@ -4,11 +4,14 @@ Visit our [About](/about/#how-our-model-is-different) page to see our explanatio
 
 On this page:
 * [View projections for each state/country](#view-projections)
+* [Likelihoods of death milestones in US](#us-deaths-likelihoods)
 * [Summary of projections](#summary)
 
 Please note: Our infections estimate includes **ALL** infected people, not just those that took a coronavirus test kit and tested positive. The vast majority of infected individuals did NOT get tested due to 1) lack of available testing, 2) they are only mildly symptomatic or 3) they do not know they are carrying the virus.
 
 **Social distancing assumptions**: We assume that the current style of social distancing in the US will be relaxed slightly starting in June, leading to a possible "second wave" of infections. Learn more about our assumptions [here](/about/#assumptions).
+
+**April 25 update:** We now added [likelihoods of death milestones in the US](#us-deaths-likelihoods) and [R value estimates](/infections-tracker).
 
 We hope you can find our forecasts to be more reasonable than some other widely cited projections. If you agree, we would appreciate you sharing our website to help us get more support and traction. We need your help to stop the spread of misinformation and build a discussion around facts and science.
 
@@ -18,9 +21,11 @@ We hope you can find our forecasts to be more reasonable than some other widely 
   Currently Infected: <b>0.7%</b> | Total Infected: <b>2.7%</b> {% include iframe.html %}
 </p>
 
+## US Deaths Likelihoods
+
 Below, we present the likelihood of US surpassing each deaths milestone by May 1, June 1, July 1, and August 1. For example, we estimate a 73% chance that the US surpasses 100,000 deaths by June 1.
 
-| US Deaths Surpass:     |   By May 1 |   By Jun 1 |   By Jul 1 |   By Aug 1 |
+| US deaths surpass:     |   By May 1 |   By Jun 1 |   By Jul 1 |   By Aug 1 |
 |-----------------------:|-----------:|-----------:|-----------:|-----------:|
 | 60,000                 |        99% |       >99% |       >99% |       >99% |
 | 70,000                 |         9% |        99% |        99% |        99% |
