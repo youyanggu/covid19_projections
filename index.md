@@ -18,6 +18,17 @@ We hope you can find our forecasts to be more reasonable than some other widely 
   Currently Infected: <b>0.8%</b> | Total Infected: <b>2.8%</b> {% include iframe.html %}
 </p>
 
+| US Deaths by Aug 4   |   Likelihood |
+|---------------------:|-------------:|
+| 75,000               |         >99% |
+| 100,000              |          92% |
+| 125,000              |          72% |
+| 150,000              |          54% |
+| 200,000              |          29% |
+| 250,000              |          14% |
+| 300,000              |           6% |
+| 400,000              |          <1% |
+
 [Back to Top](#top)
 
 ## View Projections
