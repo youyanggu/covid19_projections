@@ -1,4 +1,4 @@
-There are many existing COVID-19 / coronavirus models out there. We believe many of them have shortcomings that can be improved upon. Here we present an intuitive model that uses machine learning techniques to make COVID-19 projections for infections, peak deaths, and total deaths for all 50 US states and 40 countries.
+There are several existing COVID-19 / coronavirus models out there. We believe many of them have shortcomings that we aim to improve upon. Here we present an intuitive model that uses machine learning techniques to make COVID-19 projections for infections, peak deaths, and total deaths for all 50 US states and 40 countries.
 
 Visit our [About](/about/#how-our-model-is-different) page to see our explanation on why our model is different from other existing models.
 
