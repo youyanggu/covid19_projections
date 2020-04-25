@@ -18,6 +18,8 @@ We hope you can find our forecasts to be more reasonable than some other widely 
   Currently Infected: <b>0.7%</b> | Total Infected: <b>2.7%</b> {% include iframe.html %}
 </p>
 
+Below, we present the likelihood of US surpassing each deaths milestone by May 1, June 1, July 1, and August 1. For example, we estimate a 73% chance that the US surpasses 100,000 deaths by June 1.
+
 | US Deaths Surpass:     |   By May 1 |   By Jun 1 |   By Jul 1 |   By Aug 1 |
 |-----------------------:|-----------:|-----------:|-----------:|-----------:|
 | 60,000                 |        99% |       >99% |       >99% |       >99% |
