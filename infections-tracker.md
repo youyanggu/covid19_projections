@@ -10,7 +10,9 @@ The infections estimate includes **all** infected individuals, not just those th
 
 ## R<sub>0</sub> value estimates
 
-The below [basic reproduction number](https://en.wikipedia.org/wiki/Basic_reproduction_number) (R) estimates are what our model has learned for each state/region. While we present a single value for the purpose of this chart, our model actually uses a weighted range of R values to make its projections. The initial R<sub>0</sub> is the R value before states began implementing stay-at-home orders (early March). We provide a longer explanation of how our model works [here](/model-details).
+The below [basic reproduction number](https://en.wikipedia.org/wiki/Basic_reproduction_number) (R) estimates are what our model has learned for each state/region. While we present a single value for the purpose of this chart, our model actually uses a weighted range of R values to make its projections. The initial R<sub>0</sub> is the R value in early-to-mid March, right before states began implementing stay-at-home orders. We provide a longer explanation of how our model works [here](/model-details).
+
+*Please note that this is merely an estimate. The true R values can vary widely, even day-to-day.*
 
 |                                    |   Initial R<sub>0</sub> |   Current R |
 |------------------------------------|-------------------------|-------------|
