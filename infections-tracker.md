@@ -6,7 +6,7 @@ permalink: /infections-tracker/
 
 Our model tries to do what no other model currently does (to the best of our knowledge): provide an estimate for the R values and the true number of infected individuals in every region.
 
-**Please Note: The infections estimate includes ALL infected people, not just those that took a coronavirus test kit and tested positive.** The vast majority of infested individuals did NOT get tested due to 1) lack of available testing, 2) they are only mildly symptomatic or 3) they do not know they are carrying the virus. For example, if the US reported 30,000 new cases, we estimate the true number of infected people to be likely 5-15x higher.
+The infections estimate includes **all** infected individuals, not just those that took a coronavirus test kit and tested positive. The vast majority of infected individuals did not get tested due to 1) they are asymptomatic or only mildly symptomatic or 2) lack of available testing. We estimate that the true number of infections is likely 5-15x higher than reported cases.
 
 ## R<sub>0</sub> value estimates
 
