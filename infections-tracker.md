@@ -4,9 +4,72 @@ title: COVID-19 Infections Tracker
 permalink: /infections-tracker/
 ---
 
-Our model tries to do what no other model currently does (to the best of our knowledge): provide an estimate for the true number of infected individuals in every region.
+Our model tries to do what no other model currently does (to the best of our knowledge): provide an estimate for the R values and the true number of infected individuals in every region.
 
 **Please Note: The infections estimate includes ALL infected people, not just those that took a coronavirus test kit and tested positive.** The vast majority of infested individuals did NOT get tested due to 1) lack of available testing, 2) they are only mildly symptomatic or 3) they do not know they are carrying the virus. For example, if the US reported 30,000 new cases, we estimate the true number of infected people to be likely 5-15x higher.
+
+## R<sub>0</sub> value estimates
+
+The below [basic reproduction number](https://en.wikipedia.org/wiki/Basic_reproduction_number) (R) estimates are what our model has learned for each state/region. While we present a single value for the purpose of this chart, our model actually uses a weighted range of R values to make its projections. We provide a longer explanation of how our model works [here](/model-details).
+
+|                                    |   Initial R<sub>0</sub> |   Current R |
+|------------------------------------|-------------------------|-------------|
+| [United States](/us)               |                     2.3 |         0.9 |
+| [Alaska](/us-ak)                   |                     1.0 |         0.6 |
+| [Alabama](/us-al)                  |                     2.0 |         0.9 |
+| [Arkansas](/us-ar)                 |                     1.2 |         0.8 |
+| [Arizona](/us-az)                  |                     1.6 |         0.9 |
+| [California](/us-ca)               |                     1.5 |         0.9 |
+| [Colorado](/us-co)                 |                     1.7 |         0.9 |
+| [Connecticut](/us-ct)              |                     2.3 |         0.9 |
+| [District of Columbia](/us-dc)     |                     1.6 |         0.9 |
+| [Delaware](/us-de)                 |                     1.9 |         0.9 |
+| [Florida](/us-fl)                  |                     1.5 |         0.9 |
+| [Georgia](/us-ga)                  |                     1.8 |         0.9 |
+| [Guam](/us-gu)                     |                     1.1 |         0.8 |
+| [Hawaii](/us-hi)                   |                     1.8 |         0.7 |
+| [Iowa](/us-ia)                     |                     1.3 |         0.9 |
+| [Idaho](/us-id)                    |                     1.3 |         0.8 |
+| [Illinois](/us-il)                 |                     2.2 |         0.9 |
+| [Indiana](/us-in)                  |                     1.9 |         0.9 |
+| [Kansas](/us-ks)                   |                     1.1 |         0.9 |
+| [Kentucky](/us-ky)                 |                     1.7 |         0.9 |
+| [Louisiana](/us-la)                |                     2.1 |         0.9 |
+| [Massachusetts](/us-ma)            |                     1.9 |         0.9 |
+| [Maryland](/us-md)                 |                     1.9 |         0.9 |
+| [Maine](/us-me)                    |                     1.2 |         0.8 |
+| [Michigan](/us-mi)                 |                     2.1 |         0.9 |
+| [Minnesota](/us-mn)                |                     1.7 |         0.9 |
+| [Missouri](/us-mo)                 |                     2.0 |         0.9 |
+| [Northern Mariana Islands](/us-mp) |                     1.1 |         0.7 |
+| [Mississippi](/us-ms)              |                     1.9 |         0.9 |
+| [Montana](/us-mt)                  |                     0.7 |         0.8 |
+| [North Carolina](/us-nc)           |                     1.9 |         0.9 |
+| [North Dakota](/us-nd)             |                     0.7 |         0.7 |
+| [Nebraska](/us-ne)                 |                     1.2 |         0.8 |
+| [New Hampshire](/us-nh)            |                     1.9 |         0.9 |
+| [New Jersey](/us-nj)               |                     2.7 |         0.9 |
+| [New Mexico](/us-nm)               |                     1.7 |         0.9 |
+| [Nevada](/us-nv)                   |                     1.5 |         0.9 |
+| [New York](/us-ny)                 |                     3.6 |         0.9 |
+| [Ohio](/us-oh)                     |                     1.7 |         0.9 |
+| [Oklahoma](/us-ok)                 |                     1.6 |         0.9 |
+| [Oregon](/us-or)                   |                     1.5 |         0.9 |
+| [Pennsylvania](/us-pa)             |                     2.5 |         0.9 |
+| [Puerto Rico](/us-pr)              |                     2.4 |         0.9 |
+| [Rhode Island](/us-ri)             |                     1.7 |         0.9 |
+| [South Carolina](/us-sc)           |                     1.6 |         0.9 |
+| [South Dakota](/us-sd)             |                     0.9 |         0.8 |
+| [Tennessee](/us-tn)                |                     2.1 |         0.8 |
+| [Texas](/us-tx)                    |                     1.9 |         0.9 |
+| [Utah](/us-ut)                     |                     1.2 |         0.9 |
+| [Virginia](/us-va)                 |                     1.5 |         0.9 |
+| [Virgin Islands](/us-vi)           |                     1.2 |         0.6 |
+| [Vermont](/us-vt)                  |                     1.4 |         0.8 |
+| [Washington](/us-wa)               |                     1.4 |         0.8 |
+| [Wisconsin](/us-wi)                |                     2.3 |         0.8 |
+| [West Virginia](/us-wv)            |                     1.5 |         0.9 |
+| [Wyoming](/us-wy)                  |                     1.5 |         0.8 |
 
 ## Number of Total Infected Individuals by Date
 This is an estimate of the total number of infected individuals by each date. This encompasses all individuals who have ever been infected, including asymtomatic and untested individuals.
