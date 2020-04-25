@@ -18,8 +18,8 @@ We hope you can find our forecasts to be more reasonable than some other widely 
   Currently Infected: <b>0.7%</b> | Total Infected: <b>2.7%</b> {% include iframe.html %}
 </p>
 
-| US Deaths Surpasses:   |   By May 1 |   By Jun 1 |   By Jul 1 |   By Aug 1 |
-|------------------------|------------|------------|------------|------------|
+| US Deaths Surpass:     |   By May 1 |   By Jun 1 |   By Jul 1 |   By Aug 1 |
+|-----------------------:|-----------:|-----------:|-----------:|-----------:|
 | 60,000                 |        99% |       >99% |       >99% |       >99% |
 | 70,000                 |         9% |        99% |        99% |        99% |
 | 80,000                 |        <1% |        99% |        99% |        99% |
@@ -31,8 +31,6 @@ We hope you can find our forecasts to be more reasonable than some other widely 
 | 250,000                |        <1% |        <1% |        <1% |        12% |
 | 300,000                |        <1% |        <1% |        <1% |         4% |
 | 350,000                |        <1% |        <1% |        <1% |        <1% |
-
-
 
 [Back to Top](#top)
 
