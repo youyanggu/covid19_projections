@@ -24,7 +24,7 @@ The goal of this project is to showcase the strengths of artificial intelligence
 
 ## How our model is different
 
-Firstly, to our best knowledge, we are the only model that receives no funding from any state or federal government, making us a completely independent entity.
+Firstly, to our best knowledge, we are the only model that receives no state or federal funding, making us a completely independent entity.
 
 Next, unlike other models that try to create complex mathematical equations to "fit a curve" without an intuitive explanation as to why it works, we try to simulate what is happening in the real world. This makes our model easy to interpret and understand.
 
