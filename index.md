@@ -13,7 +13,7 @@ Please note: Our infections estimate includes **ALL** infected people, not just 
 
 **April 25 update:** We now added [likelihoods of death milestones in the US](#us-deaths-likelihoods) and [R value estimates](/infections-tracker).
 
-**A small request:** We hope you can find our forecasts to be realistic and scientifically sound. If you agree, we would appreciate you sharing our website to help us get more support and traction. We need your help to stop the spread of misinformation and build a discussion around facts and science.
+**A small request:** We hope you find our forecasts to be realistic and scientifically sound. If you agree, we would appreciate you sharing our website to help us get more support and traction. We need your help to stop the spread of misinformation and build a discussion around facts and science.
 
 ## Current Projection for US (Updated Daily - Last Updated: Apr 24):
 <p align="center">
