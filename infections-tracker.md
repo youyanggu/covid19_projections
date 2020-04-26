@@ -14,65 +14,7 @@ The below [basic reproduction number](https://en.wikipedia.org/wiki/Basic_reprod
 
 *Please note that this is merely an estimate. The true R values can vary widely, even day-to-day.*
 
-|                                    |   Initial R<sub>0</sub> |   Current R |
-|------------------------------------|-------------------------|-------------|
-| [United States](/us)               |                    2.29 |        0.89 |
-| [Alaska](/us-ak)                   |                    0.96 |        0.57 |
-| [Alabama](/us-al)                  |                    2.10 |        0.83 |
-| [Arkansas](/us-ar)                 |                    1.20 |        0.78 |
-| [Arizona](/us-az)                  |                    1.60 |        0.93 |
-| [California](/us-ca)               |                    1.50 |        0.91 |
-| [Colorado](/us-co)                 |                    1.71 |        0.95 |
-| [Connecticut](/us-ct)              |                    2.27 |        0.91 |
-| [District of Columbia](/us-dc)     |                    1.62 |        0.90 |
-| [Delaware](/us-de)                 |                    1.90 |        0.90 |
-| [Florida](/us-fl)                  |                    1.50 |        0.87 |
-| [Georgia](/us-ga)                  |                    1.83 |        0.89 |
-| [Guam](/us-gu)                     |                    1.14 |        0.75 |
-| [Hawaii](/us-hi)                   |                    1.80 |        0.70 |
-| [Iowa](/us-ia)                     |                    1.26 |        0.94 |
-| [Idaho](/us-id)                    |                    1.27 |        0.76 |
-| [Illinois](/us-il)                 |                    2.23 |        0.92 |
-| [Indiana](/us-in)                  |                    1.86 |        0.90 |
-| [Kansas](/us-ks)                   |                    1.10 |        0.87 |
-| [Kentucky](/us-ky)                 |                    1.67 |        0.91 |
-| [Louisiana](/us-la)                |                    2.10 |        0.95 |
-| [Massachusetts](/us-ma)            |                    1.86 |        0.91 |
-| [Maryland](/us-md)                 |                    1.92 |        0.91 |
-| [Maine](/us-me)                    |                    1.19 |        0.80 |
-| [Michigan](/us-mi)                 |                    2.15 |        0.87 |
-| [Minnesota](/us-mn)                |                    1.76 |        0.90 |
-| [Missouri](/us-mo)                 |                    2.03 |        0.90 |
-| [Northern Mariana Islands](/us-mp) |                    1.07 |        0.66 |
-| [Mississippi](/us-ms)              |                    1.91 |        0.90 |
-| [Montana](/us-mt)                  |                    0.72 |        0.77 |
-| [North Carolina](/us-nc)           |                    1.87 |        0.86 |
-| [North Dakota](/us-nd)             |                    0.72 |        0.72 |
-| [Nebraska](/us-ne)                 |                    1.21 |        0.81 |
-| [New Hampshire](/us-nh)            |                    1.94 |        0.86 |
-| [New Jersey](/us-nj)               |                    2.68 |        0.92 |
-| [New Mexico](/us-nm)               |                    1.75 |        0.86 |
-| [Nevada](/us-nv)                   |                    1.45 |        0.87 |
-| [New York](/us-ny)                 |                    3.59 |        0.91 |
-| [Ohio](/us-oh)                     |                    1.64 |        0.89 |
-| [Oklahoma](/us-ok)                 |                    1.59 |        0.89 |
-| [Oregon](/us-or)                   |                    1.54 |        0.86 |
-| [Pennsylvania](/us-pa)             |                    2.48 |        0.87 |
-| [Puerto Rico](/us-pr)              |                    2.34 |        0.88 |
-| [Rhode Island](/us-ri)             |                    1.71 |        0.86 |
-| [South Carolina](/us-sc)           |                    1.55 |        0.88 |
-| [South Dakota](/us-sd)             |                    0.90 |        0.82 |
-| [Tennessee](/us-tn)                |                    2.10 |        0.79 |
-| [Texas](/us-tx)                    |                    1.95 |        0.86 |
-| [Utah](/us-ut)                     |                    1.17 |        0.88 |
-| [Virginia](/us-va)                 |                    1.55 |        0.90 |
-| [Virgin Islands](/us-vi)           |                    1.24 |        0.64 |
-| [Vermont](/us-vt)                  |                    1.43 |        0.82 |
-| [Washington](/us-wa)               |                    1.43 |        0.82 |
-| [Wisconsin](/us-wi)                |                    2.28 |        0.81 |
-| [West Virginia](/us-wv)            |                    1.39 |        0.86 |
-| [Wyoming](/us-wy)                  |                    1.09 |        0.65 |
-
+{% include iframe_r_values.html %}
 
 ## Number of Total Infected Individuals by Date
 This is an estimate of the total number of infected individuals by each date. This encompasses all individuals who have ever been infected, including asymtomatic and untested individuals.
