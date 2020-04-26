@@ -196,6 +196,7 @@ A ~~strikethrough~~ means that the current deaths have already exceeded the tota
 | April 22, 2020 | 139,165 (76-292k) | 67,641 (48-124k)
 | April 23, 2020^ | 172,746 (92-327k) | 67,641 (48-124k)
 | April 24, 2020 | 165,539 (88-322k) | 67,641 (48-124k)
+| April 25, 2020 | 160,293 (88-311k) | 67,641 (48-124k)
 
 | Date | Our US Jun-Aug proj. death total | IHME US Jun-Aug proj. death total
 | --- | --- | --- |
@@ -215,25 +216,27 @@ A ~~strikethrough~~ means that the current deaths have already exceeded the tota
 | April 22, 2020 | 43,073 (4.6-160k) | 197 (0-954)
 | April 23, 2020^ | 60,104 (8.2-181k) | 197 (0-954)
 | April 24, 2020 | 56,232 (7.4-179k) | 197 (0-954)
+| April 25, 2020 | 52,722 (7.3-172k) | 197 (0-954)
 
 | Date | Our NY proj. death total | IHME NY proj. death total
 | --- | --- | --- |
 | April 9, 2020 | ~~17,371~~ (13-24k) | ~~13,306~~ (9-22k)
-| April 10, 2020 | 21,342 (14-35k) | ~~13,463~~ (9-25k)
-| April 11, 2020 | 21,703 (15-31k) | ~~13,463~~ (9-25k)
-| April 12, 2020 | 21,479 (15-29k) | ~~13,463~~ (9-25k)
-| April 13, 2020 | 20,738 (16-27k) | ~~14,542~~ (11-23k)
+| April 10, 2020 | ~~21,342~~ (14-35k) | ~~13,463~~ (9-25k)
+| April 11, 2020 | ~~21,703~~ (15-31k) | ~~13,463~~ (9-25k)
+| April 12, 2020 | ~~21,479~~ (15-29k) | ~~13,463~~ (9-25k)
+| April 13, 2020 | ~~20,738~~ (16-27k) | ~~14,542~~ (11-23k)
 | April 14, 2020 | 25,019 (18-40k) | ~~14,542~~ (11-23k)
 | April 15, 2020\* | 33,384 (20-51k) | ~~14,542~~ (11-23k)
 | April 16, 2020 | 31,418 (20-56k) | ~~14,542~~ (11-23k)
-| April 17, 2020 | 39,193 (29-57k) | 21,812 (13-43k)
-| April 18, 2020 | 37,996 (28-56k) | 21,812 (13-43k)
-| April 19, 2020 | 38,193 (28-56k) | 21,812 (13-43k)
-| April 20, 2020 | 36,527 (26-58k) | 21,812 (13-43k)
+| April 17, 2020 | 39,193 (29-57k) | ~~21,812~~ (13-43k)
+| April 18, 2020 | 37,996 (28-56k) | ~~21,812~~ (13-43k)
+| April 19, 2020 | 38,193 (28-56k) | ~~21,812~~ (13-43k)
+| April 20, 2020 | 36,527 (26-58k) | ~~21,812~~ (13-43k)
 | April 21, 2020 | 35,238 (26-58k) | 23,741 (18-36k)
 | April 22, 2020 | 32,470 (26-50k) | 23,232 (19-33k)
 | April 23, 2020^ | 44,689 (33-58k) | 23,232 (19-33k)
 | April 24, 2020 | 40,501 (30-56k) | 23,232 (19-33k)
+| April 25, 2020 | 40,926 (30-55k) | 23,232 (19-33k)
 
 | Date | Our MI proj. death total | IHME MI proj. death total
 | --- | --- | --- |
@@ -253,6 +256,7 @@ A ~~strikethrough~~ means that the current deaths have already exceeded the tota
 | April 22, 2020 | 7,859 (5.1-17k) | 3,379 (2.7-5.1k)
 | April 23, 2020^ | 11,230 (5.3-22k) | 3,379 (2.7-5.1k)
 | April 24, 2020 | 10,600 (5.3-21k) | 3,379 (2.7-5.1k)
+| April 25, 2020 | 9,098 (5.1-20k) | 3,379 (2.7-5.1k)
 
 | Date | Our Italy proj. death total | IHME Italy proj. death total
 | --- | --- | --- |
@@ -272,6 +276,7 @@ A ~~strikethrough~~ means that the current deaths have already exceeded the tota
 | April 22, 2020 | 43,591 (32-66k) | 26,867 (25-33k)
 | April 23, 2020 | 43,792 (33-66k) | 26,867 (25-33k)
 | April 24, 2020 | 44,422 (33-69k) | 26,867 (25-33k)
+| April 25, 2020 | 44,367 (33-68k) | 26,867 (25-33k)
 
 | Date | Our France proj. death total | IHME France proj. death total
 | --- | --- | --- |
@@ -291,6 +296,7 @@ A ~~strikethrough~~ means that the current deaths have already exceeded the tota
 | April 22, 2020 | 40,156 (28-74k) | 23,304 (21-30k)
 | April 23, 2020 | 40,752 (26-93k) | 23,304 (21-30k)
 | April 24, 2020 | 40,951 (26-93k) | 23,304 (21-30k)
+| April 25, 2020 | 39,784 (26-89k) | 23,304 (21-30k)
 
 [Back to Top](#top)
 
