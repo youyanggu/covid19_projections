@@ -12,6 +12,8 @@ The infections estimate includes **all** infected individuals, not just those th
 
 The below [basic reproduction number](https://en.wikipedia.org/wiki/Basic_reproduction_number) (R) estimates are what our model has learned for each state/region. While we present a single value for the purpose of this chart, our model actually uses a weighted range of R values to make its projections. The initial R<sub>0</sub> is the R value in early-to-mid March, right before states began implementing stay-at-home orders. We provide a longer explanation of how our model works [here](/model-details).
 
+One interesting thing to note is that the 5 states with the lowest initial R0 estimates also happen to be the 5 least densely-populated states in the US: Montana, North Dakota, South Dakota, Alaska, and Wyoming. Our model has zero knowledge of population density, yet it was able to deduce that from the R0.
+
 *Please note that this is merely an estimate. The true R values can vary widely, even day-to-day.*
 
 {% include iframe_r_values.html %}
