@@ -46,7 +46,7 @@ In this section we will compare our projections with a popular model developed b
 
 {% include iframe_ny_comparison.html %}
 
-The above plots compare our April 17 projections for New York and Italy, two of the most heavily-impacted regions by COVID-19. IHME's projections failed to accurately capture the true trajectory for these two regions. Our projections, meanwhile, have been significantly more accurate. Below, we will go into further details as to why IHME is a deeply flawed model.
+The above plots compare our early April projections for New York, Michigan and Italy, three of the most heavily-impacted regions by COVID-19. IHME's projections failed to accurately capture the true trajectory for these regions. Our projections, meanwhile, have been significantly more accurate. Below, we will go into further details as to why IHME is a deeply flawed model.
 
 There are existing news articles such as [STAT News](https://www.statnews.com/2020/04/17/influential-covid-19-model-uses-flawed-methods-shouldnt-guide-policies-critics-say/), [CNN](https://www.cnn.com/2020/04/13/health/ihme-model-death-predictions/index.html), and [Quartz](https://qz.com/1840186/what-the-ihme-covid-19-model-can-and-cant-tell-the-us/) that agree with our concerns.
 
