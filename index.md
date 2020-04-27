@@ -9,7 +9,7 @@ On this page:
 
 Please note: Our infections estimate includes **ALL** infected people, not just those that took a coronavirus test kit and tested positive. The vast majority of infected individuals did not get tested due to 1) they are asymptomatic or only mildly symptomatic or 2) lack of available testing.
 
-**Social distancing assumptions**: We assume that the current style of social distancing in the US will be relaxed slightly starting in June, leading to a possible "second wave" of infections. Learn more about our assumptions [here](/about/#assumptions).
+**Social distancing assumptions**: We assume that the current style of social distancing in the US and Europe will be relaxed slightly starting in June, leading to a possible "second wave" of infections. Learn more about our assumptions [here](/about/#assumptions).
 
 **April 25 update:** We now added [likelihoods of death milestones in the US](#us-deaths-likelihoods) and [R value estimates](/infections-tracker).
 
