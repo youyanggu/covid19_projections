@@ -42,13 +42,13 @@ Another strength of our model is that because it is purely data-driven, it is qu
 
 ## Concerns with the IHME model
 
+In this section we will compare our projections with a popular model developed by the [Institute for Health Metrics and Evaluation (IHME)](https://covid19.healthdata.org/) and commonly referred to by the White House and media. We compare our projections (C19Pro) with IHME below. 
+
 {% include iframe_ny_comparison.html %}
 
-The above plots compare our April 17 projections for New York and Italy, two of the most heavily-impacted regions by COVID-19. IHME's projections failed to accurately capture the true trajectory for these two regions. Our projections, meanwhile, have been significantly more accurate. Below, we will go into further details as to why IHME is a flawed model.
+The above plots compare our April 17 projections for New York and Italy, two of the most heavily-impacted regions by COVID-19. IHME's projections failed to accurately capture the true trajectory for these two regions. Our projections, meanwhile, have been significantly more accurate. Below, we will go into further details as to why IHME is a deeply flawed model.
 
-In this section we will compare our projections with a popular model developed by the [Institute for Health Metrics and Evaluation (IHME)](https://covid19.healthdata.org/) and commonly referred to by the White House and media.
-
-Unfortunately, the IHME model is deeply flawed. There are existing news articles such as [STAT News](https://www.statnews.com/2020/04/17/influential-covid-19-model-uses-flawed-methods-shouldnt-guide-policies-critics-say/), [CNN](https://www.cnn.com/2020/04/13/health/ihme-model-death-predictions/index.html), and [Quartz](https://qz.com/1840186/what-the-ihme-covid-19-model-can-and-cant-tell-the-us/) that agree with our concerns.
+There are existing news articles such as [STAT News](https://www.statnews.com/2020/04/17/influential-covid-19-model-uses-flawed-methods-shouldnt-guide-policies-critics-say/), [CNN](https://www.cnn.com/2020/04/13/health/ihme-model-death-predictions/index.html), and [Quartz](https://qz.com/1840186/what-the-ihme-covid-19-model-can-and-cant-tell-the-us/) that agree with our concerns.
 
 In the words of Ruth Etzioni, an epidemiologist at Seattle’s Fred Hutchinson Cancer Research Center, “that \[the IHME model\] is being used for policy decisions and its results interpreted wrongly is a travesty unfolding before our eyes.”
 
