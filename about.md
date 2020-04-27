@@ -85,11 +85,9 @@ As scientists, we update our models as new data becomes available. Model are goi
 
 {% include iframe_ny_comparison.html %}
 
-New York reached its peak of 800 deaths on April 9-10. As of April 11, the IHME model was projecting 42-196 deaths for NY on April 24, 14 days after the peak. That is a decrease of 90% from the peak. However, 15 days after Italy reached its peak deaths at 917, they still reported 619 deaths. So assuming that New York deaths will drop 90% in 15 days when Italy dropped only 30% was an extremely optimistic viewpoint. As of April 11, we forecasted that NY will report 206 - 514 deaths on April 24.
+The above graph compares our projections from April 17 with the IHME projections. As you can see, the IHME projections have been quite off.
 
-On April 11, IHME also was projecting 13,463 (9,382 - 24,236) total deaths for New York. Due to the reason above, we believe this is an underestimate. [Click here](#model-comparison-with-ihme) for our most recent estimates for New York.
-
-*April 18 Update:* New York has reported 17,671 deaths, already 4,000 more deaths than IHME's projection for August.
+[Click here](#model-comparison-with-ihme) for our most recent estimates for New York.
 
 ### Italy
 
