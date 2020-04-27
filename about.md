@@ -42,6 +42,10 @@ Another strength of our model is that because it is purely data-driven, it is qu
 
 ## Concerns with the IHME model
 
+{% include iframe_ny_comparison.html %}
+
+The above plots compare our April 17 projections for New York and Italy, two of the most heavily-impacted regions by COVID-19. IHME's projections failed to accurately capture the true trajectory for these two regions. Our projections, meanwhile, have been significantly more accurate. Below, we will go into further details as to why IHME is a flawed model.
+
 In this section we will compare our projections with a popular model developed by the [Institute for Health Metrics and Evaluation (IHME)](https://covid19.healthdata.org/) and commonly referred to by the White House and media.
 
 Unfortunately, the IHME model is deeply flawed. There are existing news articles such as [STAT News](https://www.statnews.com/2020/04/17/influential-covid-19-model-uses-flawed-methods-shouldnt-guide-policies-critics-say/), [CNN](https://www.cnn.com/2020/04/13/health/ihme-model-death-predictions/index.html), and [Quartz](https://qz.com/1840186/what-the-ihme-covid-19-model-can-and-cant-tell-the-us/) that agree with our concerns.
@@ -79,21 +83,6 @@ As you can see above, their models made incredibly misguided projections for alm
 As scientists, we update our models as new data becomes available. Model are going to make wrong predictions, but it's important that we correct them as soon as new data shows otherwise. The problem with IHME is that they refuse to recognize their wrong assumptions. Hence, they are perpetually making the same mistake over and over again: under-projection.
 
 [Back to Top](#top)
-
-
-### New York
-
-{% include iframe_ny_comparison.html %}
-
-The above graph compares our projections from April 17 with the IHME projections. As you can see, the IHME projections have been quite off.
-
-[Click here](#model-comparison-with-ihme) for our most recent estimates for New York.
-
-### Italy
-
-On April 11, 2020, IHME was projecting 19,691 - 21,377 deaths for Italy. However, Italy was already at over 19,000 deaths at the time and they have been reporting 500+ deaths for the past 3 weeks. The IHME confidence interval is unrealistic. See our Tweet [here](https://twitter.com/youyanggu/status/1249243436881829888) for a graphical explanation. [Click here](#model-comparison-with-ihme) for our most recent estimates for Italy.
-
-*April 18 Update:* Italy has reported 23,227 deaths, already 2,000 more deaths than IHME's upper range for August.
 
 ### US June-August
 
