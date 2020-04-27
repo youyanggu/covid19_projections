@@ -6,8 +6,6 @@ permalink: /infections-tracker/
 
 Our model tries to do what no other model currently does (to the best of our knowledge): provide an estimate for the R values and the true number of infected individuals in every region.
 
-The infections estimate includes **all** infected individuals, not just those that took a coronavirus test kit and tested positive. The vast majority of infected individuals did not get tested due to 1) they are asymptomatic or only mildly symptomatic or 2) lack of available testing. We estimate that the true number of infections is likely 5-15x higher than reported cases.
-
 ## R<sub>0</sub> value estimates
 
 The below [basic reproduction number](https://en.wikipedia.org/wiki/Basic_reproduction_number) (R) estimates are what our model has learned for each state/region. While we present a single value for the purpose of this chart, our model actually uses a weighted range of R values to make its projections. The initial R<sub>0</sub> is the R value in early-to-mid March, right before states began implementing stay-at-home orders. We provide a longer explanation of how our model works [here](/model-details).
@@ -19,7 +17,8 @@ One interesting thing to note is that the 5 states with the lowest initial R0 es
 {% include iframe_r_values.html %}
 
 ## Number of Total Infected Individuals by Date
-This is an estimate of the total number of infected individuals by each date. This encompasses all individuals who have ever been infected, including asymtomatic and untested individuals.
+This is an estimate of the total number of infected individuals by each date. The infections estimate includes **all** infected individuals, not just those that took a coronavirus test kit and tested positive. The vast majority of infected individuals did not get tested due to 1) they are asymptomatic or only mildly symptomatic or 2) lack of available testing. We estimate that the true number of infections is likely 5-15x higher than reported cases.
+
 
 |                                |     Apr 1 |    Apr 15 |   Apr 26 (today) |     May 1 |    May 15 |   Jun 1 |   Jun 15 |   Jul 1 |    Jul 15 |     Aug 1 |
 |--------------------------------|----------:|----------:|-----------------:|----------:|----------:|--------:|---------:|--------:|----------:|----------:|
