@@ -1,6 +1,6 @@
-Here we present an intuitive model that uses machine learning techniques to make COVID-19 projections for infections, peak deaths, and total deaths for all 50 US states and 40 countries.
+Here we present an intuitive model that uses machine learning techniques to make COVID-19 projections for infections and deaths for all 50 US states and 40 countries.
 
-Visit our [About](/about/#how-our-model-is-different) page to see our explanation on why our model is different from other existing models.
+Visit our [About](/about/#how-our-model-is-different) page to see our explanation on why our model is different from other existing models. See how our model compares to others on [the CDC website](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html).
 
 On this page:
 * [View projections for each state/country](#view-projections)
@@ -10,8 +10,6 @@ On this page:
 **Social distancing assumptions**: We assume that the current style of social distancing in the US and Europe will be relaxed slightly starting in June, leading to a possible "second wave" of infections. Learn more about our assumptions [here](/about/#assumptions).
 
 **April 25 update:** We now added [likelihoods of death milestones in the US](#us-deaths-likelihoods) and [R value estimates](/infections-tracker).
-
-See how our model compares to others on [the CDC website](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html).
 
 **A small request:** We hope you find our forecasts to be realistic and scientifically sound. If you agree, we would appreciate you sharing our website to help us get more support and traction. We need your help to stop the spread of misinformation and build a discussion around facts and science.
 
