@@ -23,6 +23,8 @@ On this page:
 
 Below, we present the likelihood of US surpassing each deaths milestone by May 1, June 1, July 1, and August 1. For example, we estimate a 59% chance that the US surpasses 100,000 deaths by June 1.
 
+Last updated: April 26, 2020
+
 | US deaths surpass:   |   By May 1 |   By Jun 1 |   By Jul 1 |   By Aug 1 |
 |----------------------|------------|------------|------------|------------|
 | 60,000               |        99% |       >99% |       >99% |       >99% |
