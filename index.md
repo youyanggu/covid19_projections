@@ -42,6 +42,8 @@ Last updated: April 27, 2020
 
 ## View Projections
 
+Below you can find our projections for every US state and 40 countries (including all 27 EU countries).
+
 ### US
 
 | [United States](us) |  |  |
