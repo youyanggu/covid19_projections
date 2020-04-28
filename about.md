@@ -42,7 +42,7 @@ We can learn more from the model than just the R<sub>0</sub>. For example, our m
 
 We have a strong validation system to make sure that all of our updates pass out-of-sample validation before they can be included in the model. This allows us to better differentiate the signal from the noise and be more resistant to outliers.
 
-Another strength of our model is that because it is purely data-driven, it is quick to run and easy to regenerate. No daily tuning needs to be done - it just needs the raw data. Unlike other models that can only be updated once every few days, our entire model takes 10 minutes to generate and is updated on a daily basis, leading to more accurate projections.
+Another strength of our model is that because it is purely data-driven, it is quick to run and easy to regenerate. Unlike other models that are only updated once every few days, our model is updated on a daily basis, leading to more accurate projections.
 
 [Back to Top](#top)
 
