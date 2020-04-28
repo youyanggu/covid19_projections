@@ -28,9 +28,9 @@ The goal of this project is to showcase the strengths of artificial intelligence
 
 ## How our model is different
 
-Firstly, we are the only model [referenced by the CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html) that receives no public funding, making us a completely independent entity.
+Firstly, we are the only model [shared by the CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html) that receives no public funding, making us a completely independent entity.
 
-We are also the only model referenced by the CDC that factors in individual state-by-state or country-by-country re-openings, allowing us to make more realistic projections.
+We are also the only model shared by the CDC that factors in individual state-by-state or country-by-country re-openings, allowing us to make more realistic projections.
 
 Next, unlike other models that try to create complex mathematical equations to "fit a curve" without an intuitive explanation as to why it works, we try to simulate what is happening in the real world. We model the disease exactly how they progress in reality: we start off with the entire population in a region, then a certain proportion gets infected, and those individuals spread the infections to others, and so forth. This makes our model easy to interpret and understand.
 
