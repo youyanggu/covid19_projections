@@ -38,7 +38,7 @@ As an example, one of the most important properties for any infectious disease i
 
 To see our estimates of R values for every state and country, see our [Infections Tracker](https://covid19-projections.com/infections-tracker/) page.
 
-We can learn more from the model than just the R<sub>0</sub>. For example, our model determined that the true mortality rate for COVID-19 in most regions in the world is less than 1%. This is again consistent with what scientists have found, despite the fact that the official mortality rate is much higher (e.g. Italy is at 13%). The model can also determine when people in a region started social-distancing. For New York, this inflection point is determined to be on March 13-14, which closely matches the [NYC subway ridership data](https://twitter.com/youyanggu/status/1248844841733128192).
+We can learn more from the model than just the R<sub>0</sub>. For example, our model determined that the true mortality rate for COVID-19 in most regions in the world is less than 1%. This is again consistent with what scientists have found, despite the fact that the official mortality rate is much higher (e.g. Italy is at 13-14%). The model can also determine when people in a region started social-distancing. For New York, this inflection point is determined to be on March 13-14, which closely matches the [NYC subway ridership data](https://twitter.com/youyanggu/status/1248844841733128192).
 
 We have a strong validation system to make sure that all of our updates pass out-of-sample validation before they can be included in the model. This allows us to better differentiate the signal from the noise and be more resistant to outliers.
 
@@ -86,7 +86,7 @@ As you can see above, their models made misguided projections for almost all of 
 | Spain | 23,521 | 24,624 | 31,854
 | France | 23,327 | 23,104 | 41,643
 
-As scientists, we update our models as new data becomes available. Model are going to make wrong predictions, but it's important that we correct them as soon as new data shows otherwise. The problem with IHME is that they refuse to recognize their wrong assumptions. Hence, they are perpetually making the same mistake over and over again: under-projection.
+As scientists, we update our models as new data becomes available. Models are going to make wrong predictions, but it's important that we correct them as soon as new data shows otherwise. The problem with IHME is that they refuse to recognize their wrong assumptions. Hence, they are perpetually making the same mistake over and over again: under-projecting.
 
 [Back to Top](#top)
 
