@@ -3,7 +3,8 @@ Here we present an intuitive model that uses machine learning techniques to make
 Visit our [About](/about/#how-our-model-is-different) page to see our explanation on why our model is different from other existing models. See how our model compares to others on [the CDC website](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html).
 
 On this page:
-* [View projections for each state/country](#view-projections)
+* [View US projections](#view-projections)
+* [View global projections](#global-projections)
 * [Likelihoods of death milestones in US](#us-deaths-likelihoods)
 * [Summary of projections](#summary)
 
@@ -41,7 +42,7 @@ Last updated: April 27, 2020
 
 ## View Projections
 
-Below you can find our projections for every US state and 40 countries (including all 27 EU countries).
+### US
 
 | [United States](us) |  |  |
 | --- | --- | --- |
@@ -65,7 +66,8 @@ Below you can find our projections for every US state and 40 countries (includin
 | [Kansas](us-ks) | [North Dakota](us-nd) | [Wyoming](us-wy) |
 
 [Back to Top](#top)
-<br />
+
+### Global Projections
 
 | European Union |  |  |
 | --- | --- | --- |
