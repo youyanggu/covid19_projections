@@ -95,6 +95,8 @@ Below you can find our projections for every US state and 40 countries (includin
 
 ## Summary
 
+States are ordered by descending projected deaths.
+
 ### United States
 
 |                                |   Current Deaths |   Projected Deaths - Mean |   Projected Deaths - 2.5% Percentile |   Projected Deaths - 97.5% Percentile |
@@ -158,6 +160,8 @@ Below you can find our projections for every US state and 40 countries (includin
 [Back to Top](#top)
 
 ### Global
+
+Countries are ordered by descending projected deaths.
 
 |                                   |   Current Deaths |   Projected Deaths - Mean |   Projected Deaths - 2.5% Percentile |   Projected Deaths - 97.5% Percentile |
 |-----------------------------------|-----------------:|--------------------------:|-------------------------------------:|--------------------------------------:|
