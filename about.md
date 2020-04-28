@@ -70,15 +70,15 @@ In their April 15 model, the death toll that IHME projected will take *four mont
 
 As you can see above, their models made incredibly misguided projections for almost all of the worst-impacted regions in the world. The most alarming thing is that they continue to make low projections. Below is their projections from April 21. It doesn't take a scientist to recognize that most of these IHME projections will also be exceeded in less than 2 weeks:
 
-|  | April 21 Total Deaths | IHME Aug proj. deaths from Apr 21 | Our Aug proj. deaths from Apr 21
+|  | April 26 Total Deaths | IHME Aug proj. deaths from Apr 21 | Our Aug proj. deaths from Apr 21
 | --- | --- | --- | --- |
-| New York | 19,104 | 23,741 |35,238
-| New Jersey | 4,753 | 7,116 | 13,651
-| Michigan | 2,575 | 3,361 | 6,798
-| Illinois | 1,468 | 2,093 | 6,653
-| Italy | 24,648 | 26,600 | 44,683
-| Spain | 21,282 | 24,624 | 31,854
-| France | 20,829 | 23,104 | 41,643
+| New York | 22,668 | 23,741 | 35,238
+| New Jersey | 6,044 | 7,116 | 13,651
+| Michigan | 3,407 | 3,361 | 6,798
+| Illinois | 1,983 | 2,093 | 6,653
+| Italy | 26,977 | 26,600 | 44,683
+| Spain | 23,521 | 24,624 | 31,854
+| France | 23,327 | 23,104 | 41,643
 
 As scientists, we update our models as new data becomes available. Model are going to make wrong predictions, but it's important that we correct them as soon as new data shows otherwise. The problem with IHME is that they refuse to recognize their wrong assumptions. Hence, they are perpetually making the same mistake over and over again: under-projection.
 
@@ -305,7 +305,7 @@ A ~~strikethrough~~ means that the current deaths have already exceeded the tota
 ## Updates
 
 2020-04-24
-* Added to the [CDC website](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)
+* Forecasts added to the [CDC website](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)
 
 2020-04-23
 * Incorporate probable deaths into projections, following updated [CDC guidelines](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html)
