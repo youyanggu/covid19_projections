@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: COVID-19 Projections Using Machine Learning
 permalink: /about/
 ---
 
