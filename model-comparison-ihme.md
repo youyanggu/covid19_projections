@@ -1,8 +1,8 @@
 ## Model Comparison with IHME
 
-We will compare our daily projections with the IHME projections for several heavily-impacted regions where our estimates widely differ: US, New York, Michigan, Connecticut, Italy, and France. Note that while we update our projections daily, IHME only updates their projections three times a week.
+We will compare our daily projections with the IHME projections for five of the most heavily-impacted regions: US, New York, Michigan, Italy, and France. Note that while we update our projections daily, IHME only updates their projections 2-3 times a week.
 
-### Footnotes
+### Notes
 
 A ~~strikethrough~~ means that the current deaths have already exceeded the total projected deaths by August 4.
 
