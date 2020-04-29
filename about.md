@@ -11,6 +11,7 @@ permalink: /about/
 * [Data and Output](#data-and-output)
 * [Contact](#contact)
 * [Assumptions](#assumptions)
+* [Limitations](#limitations)
 * [Model Comparison with IHME](#model-comparison-with-ihme)
 * [Updates](#updates)
 
@@ -144,19 +145,21 @@ If states and countries relax social distancing measures prior to June 1, then t
 
 For non-US and non-European countries, we assume continued social distancing until August 2020.
 
-### Additional Assumptions
+## Limitations
 
-In additional to our most likely estimate, we also provide a 95% confidence interval. So for example, if we predict 62k deaths with a range of 38-105k, it means that there is roughly a 95% chance that the true deaths will be between 38-105k. There are too many real-world variables that can affect the outcome, which results in this large range.
+While we try our best to make accurate projections, no model is perfect. The future is not set in stone: a single policy change or a small change in the assumptions can cause a large impact in how the epidemic progresses. 
+
+That's why in addition to our most likely estimate, we also provide a 95% confidence interval to reflect this uncertainty. For example, if we predict 150,760 deaths with a range of 88-294k, it means that there is roughly a 95% chance that the true deaths will be between 88-294k. There are too many real-world variables that can affect the outcome, which results in this large range.
+
+*We want to caution against focusing on one particular number as the outcome of this model. We are in fact projecting a range which includes a most likely outcome. If the true results fall within the range, that is within the expected outcome of this model. We highly recommend that you include our range when referencing our projections (i.e. 21,342 (15-34k) deaths).*
 
 Because our model uses only the daily death totals from each region to make projections, it will be more effective for regions where there more available data.
 
 We currently do not factor in seasonality changes, as there has not been sufficient data/research into this area.
 
-*We want to caution against focusing on one particular number as the outcome of this model. We are in fact projecting a range which includes a most likely outcome. If the true results fall within the range, that is within the expected outcome of this model. We highly recommend that you include our range when using our projections (i.e. 21,342 (15-34k) deaths).*
-
 While we attempt our best to ensure accuracy and precision, no model is perfect, so we urge everyone to use caution when interpreting these projections. This is just one particular model, so we encourage everyone to evaluate and be open to multiple sources. At the end of the day, the decision-making rests in the hands of people, not machines.
 
-Also note that while we attempt to predict the *official* death total, the true death total may be higher due to [underreporting at various levels](https://www.nytimes.com/2020/04/05/us/coronavirus-deaths-undercount.html).
+Also note that while we attempt to predict the *official* death total, the true death total may be higher due to underreporting at various levels. The New York Times is currently tracking these [excess deaths](https://www.nytimes.com/interactive/2020/04/21/world/coronavirus-missing-deaths.html).
 
 [Back to Top](#top)
 
