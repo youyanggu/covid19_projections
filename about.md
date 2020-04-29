@@ -127,6 +127,8 @@ Because the model factors in new data on a daily basis, it will be more accurate
 
 We enourage questions/insights/feedback! Please reach out to Youyang Gu on Twitter via [@youyanggu](https://twitter.com/youyanggu) or [on LinkedIn](https://www.linkedin.com/in/youyanggu/).
 
+[Back to Top](#top)
+
 ## Assumptions
 
 For US and European countries, we assume heavy social distancing until June 1, 2020 and moderate social distancing from June 1 onwards. This more accurately reflects the current sentiment expressed by US and European government officials that it is imperative to re-open the economy, even before the virus is fully contained. This will likely cause a second wave of infections and is reflected by the higher death tolls in our June-August projections.
@@ -144,6 +146,8 @@ We also take into account that a certain percentage of recovered individuals wil
 If states and countries relax social distancing measures prior to June 1, then the death toll may be higher than projected, while the reverse holds true as well. In addition, if states and countries fully lift social distancing measures prior to August, we may also see a higher death toll than projected.
 
 For non-US and non-European countries, we assume continued social distancing until August 2020.
+
+[Back to Top](#top)
 
 ## Limitations
 
