@@ -1,6 +1,6 @@
 ## Model Comparison with IHME
 
-We will compare our daily projections with the IHME projections for five of the most heavily-impacted regions: US, New York, Michigan, Italy, and France. Note that while we update our projections daily, IHME only updates their projections 2-3 times a week.
+We will compare our daily projections with the [IHME projections](https://covid19.healthdata.org/projections) for five of the most heavily-impacted regions: US, New York, Michigan, Italy, and France. Note that while we update our projections daily, IHME only updates their projections 2-3 times a week.
 
 See [here](https://covid19-projections.com/about/#concerns-with-the-ihme-model) for a comparison of our historical projections and why we think the IHME model is flawed.
 
