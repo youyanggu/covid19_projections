@@ -164,8 +164,6 @@ Also note that while we attempt to predict the *official* death total, the true 
 
 Click [here](/model-comparison-ihme) to see how our projections have changed over time, compared with IHME.
 
-[Back to Top](#top)
-
 ## Updates
 
 2020-04-28
