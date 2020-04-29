@@ -162,7 +162,7 @@ Also note that while we attempt to predict the *official* death total, the true 
 
 ## Model Comparison with IHME
 
-Click [here](/model-comparison-ihme) to see how our projections have changed over time, compared with IHME.
+Click [here](/model-comparison-ihme) to see how our projections have changed over time, compared with the IHME model.
 
 ## Updates
 
