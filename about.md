@@ -131,9 +131,9 @@ We enourage questions, insights, and feedback. Please reach out to Youyang Gu on
 
 ## Assumptions
 
-For US and European countries, we assume heavy social distancing until June 1, 2020 and moderate social distancing from June 1 onwards. This more accurately reflects the current sentiment expressed by US and European government officials that it is imperative to re-open the economy, even before the virus is fully contained. This will likely cause a second wave of infections and is reflected by the higher death tolls in our June-August projections.
+For US and European countries, we assume heavy social distancing until late May/early June and moderate social distancing from June onwards. This more accurately reflects the current sentiment expressed by US and European government officials that it is imperative to re-open the economy, even before the virus is fully contained. This will likely cause a second wave of infections and is reflected by the higher death tolls in our June-August projections.
 
-*Note: For Georgia, we use May 1 instead of June 1 to reflect the governor's intention of an early re-opening of the state.*
+*Note: For Georgia, we assume social distancing is relaxed beginning in May to reflect the governor's intention of an early re-opening of the state.*
 
 #### Heavy vs moderate social distancing
 
