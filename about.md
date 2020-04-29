@@ -125,7 +125,7 @@ Because the model factors in new data on a daily basis, it will be more accurate
 
 ## Contact
 
-We enourage questions/insights/feedback! Please reach out to Youyang Gu on Twitter via [@youyanggu](https://twitter.com/youyanggu) or [on LinkedIn](https://www.linkedin.com/in/youyanggu/).
+We enourage questions, insights, and feedback. Please reach out to Youyang Gu on Twitter via [@youyanggu](https://twitter.com/youyanggu).
 
 [Back to Top](#top)
 
