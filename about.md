@@ -147,7 +147,7 @@ For non-US and non-European countries, we assume continued social distancing unt
 
 ## Limitations
 
-While we try our best to make accurate projections, no model is perfect. The future is not set in stone: a single policy change or a small change in the assumptions can cause a large impact in how the epidemic progresses. 
+We want to be as clear as possible regarding what our model can and cannot do. While we try our best to make accurate projections, no model is perfect. The future is not set in stone: a single policy change or a small change in the assumptions can cause a large impact in how the epidemic progresses. 
 
 That's why in addition to our most likely estimate, we also provide a 95% confidence interval to reflect this uncertainty. For example, if we predict 150,760 deaths with a range of 88-294k, it means that there is roughly a 95% chance that the true deaths will be between 88-294k. There are too many real-world variables that can affect the outcome, which results in this large range.
 
