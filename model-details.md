@@ -49,9 +49,8 @@ Variable parameters are those that may change depending on the country/state/reg
 - Mitigation effects (i.e. post-mitigation R)
 - Lifting of shelter-at-home orders (i.e. post-reopening R)
 - Population
-- Hospital beds per 1000
 
-Note that variable parameters such as population and hospital beds per 1000 are easily computable from a simple lookup. However, the other parameters are not easily retrievable. We will allocate the majority of our resources towards estimating the most sensible values for these parameters for each region.
+While the population of a region can be easily looked up, the other variable parameters are not easily retrievable. We will allocate the majority of our resources towards estimating the most sensible values for these parameters for each region.
 
 #### Modeling the R value
 
@@ -75,9 +74,13 @@ As described in the previous section, determining the best values for variable p
 
 We found that a brute-force grid search method that iterates through the entire parameter space is the most effective in finding an optimal set of parameters. So if we have 10 values for R<sub>0</sub> and 10 values for the mortality rate, then there are 100 different parameter combinations for those two parameters. To optimize computation time, we prune unrealistic parameters (e.g. R<sub>0</sub> > 10).
 
-To measure the error of a parameter set, we use a loss function that minimizes the error between our projected daily deaths and the actual daily deaths. We find that an ensemble loss function that minimizes both absolute daily deaths and total daily deaths works well. For parameters where we do not have the data to estimate (e.g. we do not know the post-reopening R for regions that have not reopened), we consider all values equally, resulting in a wider confidence interval.
+For parameters where we do not have the data to estimate (e.g. we do not know the post-reopening R for regions that have not reopened), we consider all values equally, resulting in a wider confidence interval.
 
-While we do not have much out-of-sample data to work with, we try our best to take advantage of the data from countries such as China, Italy, and Iran, whose progression is much further along than regions such as the US.
+### Loss Function
+
+To measure the error of a parameter set, we use a loss function that minimizes the error between our projected daily deaths and the actual daily deaths. We tried various loss functions such as mean squared error, absolute error, ratio error, and an ensemble of the aforementioned errors. We find that the mean squared error loss function consistently performs well on out-of-sample data. So for example, if we project 10, 9, 8 deaths for the next 3 days and the true deaths are 15, 5, 10, then our loss is: ((15-10)\*\*2 + (5-9)\*\*2 + (10-8)\*\*2) / 3 = 15.    
+
+In the early stages of our model when we do not have much out-of-sample data to work with, we try our best to take advantage of the data from countries such as China, Italy, and Spain, whose progression is much further along than the US.
 
 It is also important to limit the number of free variables. For example, it would be very difficult to try to determine 5 free variables when you only have 20 days of data. Therefore, for some of the variable parameters, we try varying one parameter at a time while holding all other parameters constant. This allows us to improve the signal-to-noise ratio when doing parameter search. 
 
