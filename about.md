@@ -12,7 +12,6 @@ permalink: /about/
 * [Assumptions](#assumptions)
 * [Limitations](#limitations)
 * [Model Comparison with IHME](#model-comparison-with-ihme)
-* [Contact](#contact)
 * [Updates](#updates)
 
 ## Projections
@@ -170,12 +169,6 @@ Also note that while we attempt to predict the *official* death total, the true 
 ## Model Comparison with IHME
 
 [Click here](/model-comparison-ihme) to see how our projections have changed over time, compared with the IHME model.
-
-## Contact
-
-We enourage questions, insights, and feedback. Please reach out to Youyang Gu on Twitter via [@youyanggu](https://twitter.com/youyanggu).
-
-[Back to Top](#top)
 
 ## Updates
 
