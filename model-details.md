@@ -53,7 +53,19 @@ Variable parameters are those that may change depending on the country/state/reg
 
 Note that variable parameters such as population and hospital beds per 1000 are easily computable from a simple lookup. However, the other parameters are not easily retrievable. We will allocate the majority of our resources towards estimating the most sensible values for these parameters for each region.
 
-To model the effects of shelter-at-home/lockdown orders, we assign an R value for post-lockdown and a separate R value for post-reopening. These R values are unknown ahead of time, and will be learned by the model. We assume that post-mitigation R is less than 1 to account for the decrease in cases, and that the post-reopening R is on average less than the initial R<sub>0</sub>.
+#### Modeling the R value
+
+To model the effects of mitigation strategies such as shelter-at-home/lockdown orders, we use three different R values in our model:
+
+1) R<sub>0</sub>: the initial R before mitigation strategy
+2) post-mitigation R: the R after mitigation strategy
+3) post-reopening R: the R after mitigation strategy has been relaxed
+
+Note that the mitigation strategy can encompass a wide variety of strategies, ranging from a complete lockdown as we've seen in Wuhan, China, to a more relaxed strategy as we've seen in Sweden.
+
+These R values are unknown ahead of time, and will be learned by the model. We use an inverse logistic function to model the transition between R<sub>0</sub> and post-mitigation R. We chose the inverse logistic function based on [subway ridership data](https://twitter.com/youyanggu/status/1248844841733128192) from New York City and California. The shift and the slope of this function is also learned based on the data. For example, we learned that the downward slope of the inverse logistic function is steeper in New York than in Sweden, which matches our intuition that New Yorkers began social distancing at a quicker pace.
+
+We assume that the post-reopening R is greater or equal to the post-mitigation R.
 
 ## Parameter Search using Machine Learning
 
