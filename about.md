@@ -147,9 +147,13 @@ Moderate social distancing is what we assume will happen once states gradually b
 
 If states impose stricter social distancing guidelines than our assumptions listed above, then we will likely see a lower infections and death rate than the current projections. Conversely, if states impose looser guidelines, then we will likely see a higher infections and death rate. For example, if California reopens before June 1, there will be an increased chance of an earlier resurgence. Or if any state required all residents to wear masks, the likelihood of a steep increase in infections will decrease.
 
+#### Second wave
+
+In regions where the outbreak has not yet been fully contained, it is possible that reopening will cause a second wave of infections if states fail to maintain sufficient social distancing.
+
 #### Second lockdown
 
-If states fail to maintain moderate social distancing during their re-openings, we think the infections curve will begin to rise exponentially once again, necessitating a possible second lockdown. Starting from our May 1 projections, we began modeling the concept of this second lockdown, which we estimate will happen approximately 30 days after the reopening. A second lockdown is only necessarsy if the R is greater than 1.
+In the case where the infections curve begin to rise exponentially after a reopening, it may become necessary for regions to impose a second lockdown. Starting from our May 1 projections, we began modeling the concept of this second lockdown, which we estimate will happen approximately 30 days after the reopening. A second lockdown is only necessarsy if the R is greater than 1.
 
 [Back to Top](#top)
 
