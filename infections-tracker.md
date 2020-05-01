@@ -17,6 +17,7 @@ Please note that this is merely an estimate based on the data. The true R values
 ## Number of Total Infected Individuals by Date
 This is an estimate of the total number of infected individuals by each date. The infections estimate includes **all** infected individuals, not just those that took a coronavirus test kit and tested positive. The vast majority of infected individuals did not get tested due to 1) they are asymptomatic or only mildly symptomatic or 2) lack of available testing. We estimate that the true number of infections is likely 5-15x higher than reported cases.
 
+### US
 
 |                                |     Apr 1 |    Apr 15 |     May 1 |     May 15 |      Jun 1 |     Jun 15 |      Jul 1 |     Jul 15 |      Aug 1 |
 |--------------------------------|-----------|-----------|-----------|------------|------------|------------|------------|------------|------------|
@@ -75,6 +76,8 @@ This is an estimate of the total number of infected individuals by each date. Th
 | [West Virginia](/us-wv)        |     2,730 |     5,540 |     8,457 |     10,987 |     14,475 |     17,444 |     20,571 |     23,035 |     25,752 |
 | [Wisconsin](/us-wi)            |    26,183 |    36,939 |    45,895 |     51,816 |     57,237 |     61,014 |     64,904 |     67,844 |     70,934 |
 | [Wyoming](/us-wy)              |       395 |     1,046 |     1,718 |      2,235 |      2,734 |      3,015 |      3,182 |      3,223 |      3,235 |
+
+### Global
 
 |                                   |     Apr 1 |    Apr 15 |     May 1 |    May 15 |     Jun 1 |    Jun 15 |     Jul 1 |    Jul 15 |     Aug 1 |
 |-----------------------------------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
