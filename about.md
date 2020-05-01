@@ -161,7 +161,7 @@ That's why in addition to our most likely estimate, we also provide a 95% confid
 
 * Day of week factors: We currently do not account for day-of-week factors in death reporting. According to [our analysis](https://twitter.com/youyanggu/status/1251779534422073344), deaths reported on Sunday/Monday are about 60% of that of Tuesday-Thursday. So we expect on average that our projections will be higher than Sunday/Monday reports and lower than our Tuesday-Thursday reports.
 
-* Data frequency: Because our model uses only the daily death totals from each region to make projections, it will be more effective for regions where there more available data (such as New York) than regions where there is few data (such as Wyoming).
+* Data frequency: Because our model uses only the daily death totals from each region to make projections, it will be more effective for regions where there are more available deaths data (such as New York) than regions where there are only a few reported deaths (such as Wyoming).
 
 * Seasonality: We currently do not factor in seasonality changes, as there has not been sufficient data/research into this area.
 
