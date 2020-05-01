@@ -79,17 +79,17 @@ In their April 15 model, the death toll that IHME projected will take *four mont
 | Spain | 21,282 | 18,713 | 31,854
 | France | 20,829 | 17,448 | 41,643
 
-As you can see above, their models made misguided projections for almost all of the worst-impacted regions in the world. The most alarming thing is that they continue to make low projections. Below is their projections from April 21. It doesn't take an expert to recognize that most of these IHME projections will also be exceeded in less than 2 weeks:
+As you can see above, their models made misguided projections for almost all of the worst-impacted regions in the world. The most alarming thing is that they continue to make low projections. Below is their projections from April 21. All of the below projections were exceeded within 10 days:
 
-|  | April 26 Total Deaths | IHME Aug proj. deaths from Apr 21 | Our Aug proj. deaths from Apr 21
+|  | April 30 Total Deaths | IHME Aug proj. deaths from Apr 21 | Our Aug proj. deaths from Apr 21
 | --- | --- | --- | --- |
-| New York | 22,668 | 23,741 | 35,238
-| New Jersey | 6,044 | 7,116 | 13,651
-| Michigan | 3,407 | 3,361 | 6,798
-| Illinois | 1,983 | 2,093 | 6,653
-| Italy | 26,977 | 26,600 | 44,683
-| Spain | 23,521 | 24,624 | 31,854
-| France | 23,327 | 23,104 | 41,643
+| New York | 23,587 | 23,741 | 35,238
+| New Jersey | 7,228 | 7,116 | 13,651
+| Michigan | 3,789 | 3,361 | 6,798
+| Illinois | 2,355 | 2,093 | 6,653
+| Italy | 27,967 | 26,600 | 44,683
+| Spain | 24,543 | 24,624 | 31,854
+| France | 24,410 | 23,104 | 41,643
 
 As scientists, we update our models as new data becomes available. Models are going to make wrong predictions, but it's important that we correct them as soon as new data shows otherwise. The problem with IHME is that they refuse to recognize their wrong assumptions. Hence, they are perpetually making the same mistake over and over again: under-projecting.
 
