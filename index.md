@@ -6,7 +6,8 @@ On this page:
 * [View US projections](#view-projections)
 * [View global projections](#global-projections)
 * [Likelihoods of death milestones in US](#us-deaths-likelihoods)
-* [Summary of projections](#summary)
+* [Summary of US projections](#us-summary)
+* [Summary of global projections](#europe-summary)
 
 **April 25 update:** We now added [likelihoods of death milestones in the US](#us-deaths-likelihoods) and [R value estimates](/infections-tracker).
 
@@ -103,9 +104,7 @@ Below you can find our projections for every US state and 40 countries (includin
 
 [Back to Top](#top)
 
-## Summary
-
-### United States
+### US Summary
 
 States are ordered by descending projected deaths (by August 4).
 
@@ -169,7 +168,7 @@ States are ordered by descending projected deaths (by August 4).
 
 [Back to Top](#top)
 
-### Europe
+### Europe Summary
 
 Countries are ordered by descending projected deaths (by 2020-08-04).
 
@@ -208,7 +207,7 @@ Countries are ordered by descending projected deaths (by 2020-08-04).
 
 [Back to Top](#top)
 
-### Global
+### Global Summary
 
 Countries are ordered by descending projected deaths (by 2020-08-04).
 
