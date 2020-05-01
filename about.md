@@ -12,6 +12,7 @@ permalink: /about/
 * [Assumptions](#assumptions)
 * [Limitations](#limitations)
 * [Model Comparison with IHME](#model-comparison-with-ihme)
+* [Media Coverage](#media-coverage)
 * [Updates](#updates)
 
 ## Projections
@@ -170,7 +171,7 @@ Also note that while we attempt to predict the *official* death total, the true 
 
 [Click here](/model-comparison-ihme) to see how our projections have changed over time, compared with the IHME model.
 
-## Media
+## Media Coverage
 
 Our model has been featured on the following sites:
 
