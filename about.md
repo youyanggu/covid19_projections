@@ -157,6 +157,8 @@ That's why in addition to our most likely estimate, we also provide a 95% confid
 
 *We want to caution against focusing on one particular number as the outcome of this model. We are in fact projecting a range which includes a most likely outcome. If the true results fall within the range, that is within the expected outcome of this model. We highly recommend that you include our range when referencing our projections (i.e. 21,342 (15-34k) deaths).*
 
+### Additional limitations
+
 * Day of week factors: We currently do not account for day-of-week factors in death reporting. According to [our analysis](https://twitter.com/youyanggu/status/1251779534422073344), deaths reported on Sunday/Monday are about 60% of that of Tuesday-Thursday. So we expect on average that our projections will be higher than Sunday/Monday reports and lower than our Tuesday-Thursday reports.
 
 * Data frequency: Because our model uses only the daily death totals from each region to make projections, it will be more effective for regions where there more available data (such as New York) than regions where there is few data (such as Wyoming).
