@@ -157,13 +157,15 @@ That's why in addition to our most likely estimate, we also provide a 95% confid
 
 *We want to caution against focusing on one particular number as the outcome of this model. We are in fact projecting a range which includes a most likely outcome. If the true results fall within the range, that is within the expected outcome of this model. We highly recommend that you include our range when referencing our projections (i.e. 21,342 (15-34k) deaths).*
 
-Because our model uses only the daily death totals from each region to make projections, it will be more effective for regions where there more available data.
+* Day of week factors: We currently do not account for day-of-week factors in death reporting. According to [our analysis](https://twitter.com/youyanggu/status/1251779534422073344), deaths reported on Sunday/Monday are about 60% of that of Tuesday-Thursday. So we expect on average that our projections will be higher than Sunday/Monday reports and lower than our Tuesday-Thursday reports.
 
-We currently do not factor in seasonality changes, as there has not been sufficient data/research into this area.
+* Data frequency: Because our model uses only the daily death totals from each region to make projections, it will be more effective for regions where there more available data (such as New York) than regions where there is few data (such as Wyoming).
+
+* Seasonality: We currently do not factor in seasonality changes, as there has not been sufficient data/research into this area.
+
+* Excess deaths: Also note that while we attempt to predict the *official* death total, the true death total may be higher due to underreporting at various levels. The New York Times is currently tracking these [excess deaths](https://www.nytimes.com/interactive/2020/04/21/world/coronavirus-missing-deaths.html).
 
 While we attempt our best to ensure accuracy and precision, no model is perfect, so we urge everyone to use caution when interpreting these projections. This is just one particular model, so we encourage everyone to evaluate and be open to multiple sources. At the end of the day, the decision-making rests in the hands of people, not machines.
-
-Also note that while we attempt to predict the *official* death total, the true death total may be higher due to underreporting at various levels. The New York Times is currently tracking these [excess deaths](https://www.nytimes.com/interactive/2020/04/21/world/coronavirus-missing-deaths.html).
 
 [Back to Top](#top)
 
