@@ -186,8 +186,8 @@ Our model has been featured on the following sites:
 
 ## Updates
 
-2020-04-28
-* Model referenced [on CNN](https://www.cnn.com/2020/04/28/health/georgia-coronavirus-death-projections/index.html)
+2020-04-30
+* Update US states reopening timelines according to [NYT](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html)
 
 2020-04-24
 * Forecasts added to the [CDC website](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)
