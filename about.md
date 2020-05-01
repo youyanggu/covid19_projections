@@ -131,21 +131,25 @@ Because the model factors in new data on a daily basis, it will be more accurate
 
 ## Assumptions
 
-For US and European countries, we assume heavy social distancing until late May/early June and moderate social distancing from June onwards. This more accurately reflects the current sentiment expressed by US and European government officials that it is imperative to re-open the economy, even before the virus is fully contained. This will likely cause a second wave of infections and is reflected by the higher death tolls in our June-August projections.
+### Social Distancing
 
-*Note: For Georgia, we assume social distancing is relaxed beginning in May to reflect the governor's intention of an early re-opening of the state.*
+* US states: We assume heavy social distancing until the reopening date and moderate social distancing afterwards. We use the reopening date as outlined by [the New York Times](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html). For states where there are no concrete reopening date (states highlighted in yellow on the NYT map), we assume a reopening date of June 1. Reopening will likely cause a second wave of infections in states where the outbreak has not yet been fully contained.
+
+* European countries: We assume heavy social distancing until mid-May and moderate social distancing afterwards.
+
+* Non-US and Non-European countries: Because it is difficult to track when each country plans to reopen, we assume heavy social distancing through August.
 
 #### Heavy vs moderate social distancing
 
-Heavy social distancing is what we have now in many states and countries: stay-at-home orders, closed non-essential businesses, etc. Infection rates typically decrease ~60%, going from an R<sub>0</sub> of around 2 to a R of 0.6-1.0. Moderate social distancing is what we think will happen once states gradually begin opening up. Some establishments will re-open, but people will still be somewhat cognizant about maintaining social distancing. We assume that infection rates will increase 0-20%, with an R of around 0.8-1.2. Note that this still assumes a much lower infection rate than what it was pre-COVID.
+Heavy social distancing is what we have now in many states and countries: stay-at-home orders, closed non-essential businesses, etc. Infection rates typically decrease ~60%, going from an R<sub>0</sub> of around 2 to an R of 0.6-1.0. As long as R, a measure of how many people an infected person infects on average, is less than 1, infections will decrease over time. If R is greater than 1, then the infection curve will rise. Hence, the ultimate goal is to keep R under 1.
 
-If states fail to maintain moderate social distancing during their re-openings, we think the infection rate can become much steeper in June-August than we are currently projecting.
+Moderate social distancing is what we assume will happen once states gradually begin opening up. Some establishments will re-open, but people will still be somewhat cognizant about maintaining social distancing. Most states and countries will have guidelines that aim to maximize social distancing and minimize close contact, such as enforcing capacity limits and recommending mask-wearing. We assume that infection rates will increase 0-20%, resulting in an R of around 0.8-1.2. Note that this is still a lower infection rate than what it was pre-COVID.
 
-We also take into account that a certain percentage of recovered individuals will be immune, and thus the susceptible population will decrease over time.
+If states impose stricter social distancing guidelines than our assumptions listed above, then we will likely see a lower infections and death rate than the current projections. Conversely, if states impose looser guidelines, then we will likely see a higher infections and death rate. For example, if California reopens before June 1, there will be an increased chance of an earlier resurgence. Or if any state required all residents to wear masks, the likelihood of a steep increase in infections will decrease.
 
-If states and countries relax social distancing measures prior to June 1, then the death toll may be higher than projected, while the reverse holds true as well. In addition, if states and countries fully lift social distancing measures prior to August, we may also see a higher death toll than projected.
+#### Second lockdown
 
-For non-US and non-European countries, we assume continued social distancing until August 2020.
+If states fail to maintain moderate social distancing during their re-openings, we think the infections curve will begin to rise exponentially once again, necessitating a possible second lockdown. Starting from our May 1 projections, we began modeling the concept of this second lockdown, which we estimate will happen approximately 30 days after the reopening. A second lockdown is only necessarsy if the R is greater than 1.
 
 [Back to Top](#top)
 
