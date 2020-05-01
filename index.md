@@ -10,7 +10,7 @@ On this page:
 
 **April 25 update:** We now added [likelihoods of death milestones in the US](#us-deaths-likelihoods) and [R value estimates](/infections-tracker).
 
-**May 1 update:** We updated each US state's reopening dates according to [The New York Times](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html). To date, we are the only model [referenced by the CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html) that factors in individual state re-openings. Learn more about our assumptions [here](/about/#assumptions).
+**May 1 update:** We updated each US state's reopening timeline according to [The New York Times](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html). To date, we are the only model [referenced by the CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html) that factors in individual state re-openings. Learn more about our assumptions [here](/about/#assumptions).
 
 ## Current Projection for US (Updated Daily - Last Updated: May 1):
 <p align="center">
