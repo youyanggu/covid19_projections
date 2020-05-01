@@ -6,6 +6,8 @@ Harnessing artificial intelligence to most accurately predict infections and dea
 
 You can download the raw daily projections by clicking on the "projections" folder.
 
+Reich forecasts follow the format specified by the [Reich Lab](https://github.com/reichlab/covid19-forecast-hub).
+
 Our projections are featured on the [CDC website](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html).
 
 Questions? Contact me on Twitter at [@youyanggu](https://twitter.com/youyanggu).
