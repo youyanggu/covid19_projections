@@ -170,6 +170,15 @@ Also note that while we attempt to predict the *official* death total, the true 
 
 [Click here](/model-comparison-ihme) to see how our projections have changed over time, compared with the IHME model.
 
+## Media
+
+Our model has been featured on the following sites:
+
+* [CNN](https://www.cnn.com/2020/04/28/health/georgia-coronavirus-death-projections/index.html)
+* [StatNews](https://www.statnews.com/2020/04/30/coronavirus-death-projections-compare-causes-of-death)
+* [TheHill](https://thehill.com/changing-america/well-being/prevention-cures/495459-reopening-georgia-could-lead-to-a-doubling-of)
+* [ABC15 Arizona](https://www.abc15.com/news/state/arizona-sees-21-deaths-reported-in-24-hours)
+
 ## Updates
 
 2020-04-28
