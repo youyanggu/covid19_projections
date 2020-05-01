@@ -26,7 +26,7 @@ Because the raw data may be noisy, we must first run a smoothing algorithm to sm
 
 ## Parameters
 
-For our SEIS model, there are basic inputs/parameters that must be set to begin simulation. [covid19-scenarios.org](https://covid19-scenarios.org/) developed by the University of Basel provides a good visualization of sample inputs/parameters into a simulation. We chose a set of parameters that we think are important for the accuracy of the simulation. We divide the parameters into two categories:
+For our SEIS model, there are basic inputs/parameters that must be set to begin simulation. Gabriel Goh's [Epidemic Calculator](https://gabgoh.github.io/COVID/index.html) or University of Basel's [covid19-scenarios.org](https://covid19-scenarios.org/) provide good visualizations of sample inputs/parameters into a simulation. We chose a set of parameters that we think are important for the accuracy of the simulation. We divide the parameters into two categories:
 
 ### Category 1: Fixed parameters
 
