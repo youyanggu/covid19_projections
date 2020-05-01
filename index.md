@@ -8,11 +8,9 @@ On this page:
 * [Likelihoods of death milestones in US](#us-deaths-likelihoods)
 * [Summary of projections](#summary)
 
-**Social distancing assumptions**: We assume that the current style of social distancing in the US and Europe will be relaxed slightly starting in late May/early June, leading to a possible "second wave" of infections. To date, we are the only model [referenced by the CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html) that factors in individual state re-openings. Learn more about our assumptions [here](/about/#assumptions).
-
 **April 25 update:** We now added [likelihoods of death milestones in the US](#us-deaths-likelihoods) and [R value estimates](/infections-tracker).
 
-**May 1 update:** We updated each US state's reopening timelines according to [The New York Times](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html).
+**May 1 update:** We updated each US state's reopening timelines according to [The New York Times](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html). To date, we are the only model [referenced by the CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html) that factors in individual state re-openings. Learn more about our assumptions [here](/about/#assumptions).
 
 ## Current Projection for US (Updated Daily - Last Updated: May 1):
 <p align="center">
