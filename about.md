@@ -153,7 +153,7 @@ In regions where the outbreak has not yet been fully contained, it is possible t
 
 #### Second lockdown
 
-In the case where the infections curve begin to rise exponentially after a reopening, it may become necessary for regions to impose a second lockdown. Starting from our May 1 projections, we began modeling the concept of this second lockdown, which we estimate will happen approximately 30 days after the reopening. A second lockdown is only necessarsy if the R is greater than 1.
+In the case where the infections curve begin to rise exponentially after a reopening, it may become necessary for regions to impose a second lockdown. Starting from our May 1 projections, we began incorporating into our model the concept of a second lockdown, which we estimate will happen approximately 30 days after the reopening. A second lockdown is only necessary if the effective reproductive number (R) is greater than 1.
 
 [Back to Top](#top)
 
