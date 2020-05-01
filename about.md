@@ -155,7 +155,7 @@ In regions where the outbreak has not yet been fully contained, it is possible t
 
 In the case where the infections curve begin to rise exponentially after a reopening, it may become necessary for regions to impose a second lockdown. Starting from our May 1 projections, we began incorporating into our model the concept of a second lockdown, which we estimate will happen approximately 30 days after the reopening. A second lockdown is only necessary if the effective reproductive number (R) is greater than 1.
 
-#### Infections Estimate
+### Infections Estimate
 
 The current and total infections estimates in our projections are at the core of our SEIS model. We use those estimates to make forecasts regarding future deaths according to the specifications of the SEIS model. The total infections estimate includes **all** individuals who have ever been infected by the virus, including asymptomatic individuals as well as those who were never tested. The current infections estimate is based on how many people are currently infected at that time point (total - recovered). We estimate that the true number of total infections is likely 5-15x higher than reported cases for most regions.
 
