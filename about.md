@@ -153,7 +153,7 @@ In the case where the infections curve begin to rise exponentially after a reope
 
 ### Infections Estimate
 
-The current and total infections estimates in our projections are at the core of our SEIS model. We use those estimates to make forecasts regarding future deaths according to the specifications of the SEIS model. The total infections estimate includes **all** individuals who have ever been infected by the virus, including asymptomatic individuals as well as those who were never tested. The current infections estimate is based on how many people are currently infected at that time point (total - recovered). We estimate that the true number of total infections is likely 5-15x higher than reported cases for most regions.
+The current and total infections estimates in our projections are at the core of our SEIS model. We use those estimates to make forecasts regarding future deaths according to the specifications of the SEIS model. The total infections estimate includes **all** individuals who have ever been infected by the virus, including asymptomatic individuals as well as those who were never tested. The current infections estimate is based on how many people are currently infected at that time point (total - recovered). To compute current infections, we assume that individuals are infected for an average of 15 days. We estimate that the true number of total infections is likely 5-15x higher than reported cases for most regions.
 
 [Back to Top](#top)
 
