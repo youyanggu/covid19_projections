@@ -11,7 +11,7 @@ permalink: /about/
 * [Data and Output](#data-and-output)
 * [Assumptions](#assumptions)
 * [Limitations](#limitations)
-* [Model Comparison with IHME](#model-comparison-with-ihme)
+* [Projection Comparison with IHME](#projection-comparison-with-ihme)
 * [Media Coverage](#media-coverage)
 * [Updates](#updates)
 
@@ -185,7 +185,7 @@ While we attempt our best to ensure accuracy and precision, no model is perfect,
 
 [Back to Top](#top)
 
-## Model Comparison with IHME
+## Projection Comparison with IHME
 
 [Click here](/model-comparison-ihme) to see how our projections have changed over time, compared with the IHME model.
 
