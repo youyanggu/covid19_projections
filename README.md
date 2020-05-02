@@ -11,3 +11,5 @@ Reich forecasts follow the format specified by the [Reich Lab](https://github.co
 Our projections are featured on the [CDC website](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html).
 
 Questions? Contact me on Twitter at [@youyanggu](https://twitter.com/youyanggu).
+
+Site powered by GitHub Pages
