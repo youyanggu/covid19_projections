@@ -12,7 +12,7 @@ permalink: /about/
 * [Assumptions](#assumptions)
 * [Limitations](#limitations)
 * [Projection Comparison with IHME](#projection-comparison-with-ihme)
-* [Media Coverage](#media-coverage)
+* [Government/Media Coverage](#online-coverage)
 * [Updates](#updates)
 
 ## About the model
@@ -183,9 +183,14 @@ While we attempt our best to ensure accuracy and precision, no model is perfect,
 
 [Click here](/model-comparison-ihme) to see how our projections have changed over time, compared with the IHME model.
 
-## Media Coverage
+## Online Coverage
 
-Our model has been featured on the following sites:
+### Government
+
+* [Center for Disease Control and Prevention (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)
+* [Washington State COVID-19 Dashboard](https://coronavirus.wa.gov/what-you-need-know/covid-19-risk-assessment-dashboard)
+
+### Media
 
 * [CNN](https://www.cnn.com/2020/04/28/health/georgia-coronavirus-death-projections/index.html)
 * [StatNews](https://www.statnews.com/2020/04/30/coronavirus-death-projections-compare-causes-of-death)
