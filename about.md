@@ -173,7 +173,9 @@ That's why in addition to our most likely estimate, we also provide a 95% confid
 
 * Seasonality: We currently do not factor in seasonality changes, as there has not been sufficient data/research into this area.
 
-* Excess deaths: Also note that while we attempt to predict the *official* death total, the true death total may be higher due to underreporting at various levels. The New York Times is currently tracking these [excess deaths](https://www.nytimes.com/interactive/2020/04/21/world/coronavirus-missing-deaths.html).
+* Reporting differences: Different countries follow different guidelines on how they are reporting COVID-19 deaths. For example, Belgium is one of the most comprehensive countries when it comes to death reporting: they report all probable deaths as well as nursing home deaths. In contrast, United Kingdom only began including care home deaths starting on April 29, having only reported hospital deaths previously. Because we are projecting future reported deaths, our model assumes that the reporting guidelines remains constant for each country.
+
+* Excess deaths: While we attempt to predict the official death total, the true death total will be higher due to underreporting at various levels. [The New York Times](https://www.nytimes.com/interactive/2020/04/21/world/coronavirus-missing-deaths.html) and [Financial Times](https://www.ft.com/content/6bd88b7d-3386-4543-b2e9-0d5c6fac846c) are currently tracking these excess deaths.
 
 While we attempt our best to ensure accuracy and precision, no model is perfect, so we urge everyone to use caution when interpreting these projections. This is just one particular model, so we encourage everyone to evaluate and be open to multiple sources. At the end of the day, the decision-making rests in the hands of people, not machines.
 
