@@ -103,7 +103,7 @@ New data is extremely important when making projections such as these. That's wh
 
 ### Mobility Data
 
-On April 17, IHME stated that they have new [cell phone data](http://www.healthdata.org/covid/updates) which indicated that people are properly social distancing. As a result, IHME lowered their projections from 68k deaths to 60k deaths by August. But their critical flaw is that they assume a linear relationship between lower mobility and lower infection - this is not the case.
+On April 17, IHME stated that they have new cell phone mobility data which indicated that people are properly social distancing. As a result, IHME lowered their projections from 68k deaths to 60k deaths by August. But their critical flaw is that they assume a linear relationship between lower mobility and lower infection - this is not the case.
 
 Most transmissions do not happen with strangers, but rather close contacts. Even if you reduce your mobility by 90%, you do not reduce your transmission by 90%. The data from Italy shows that it only reduces by around 60%. That's the difference between 20k and 40k+ deaths. IHME is likely making the wrong assumption that a 90% reduction in mobility will decrease transmission by 90%.
 
