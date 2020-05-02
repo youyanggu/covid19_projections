@@ -197,6 +197,7 @@ Our model has been featured on the following sites:
 * [StatNews](https://www.statnews.com/2020/04/30/coronavirus-death-projections-compare-causes-of-death)
 * [TheHill](https://thehill.com/changing-america/well-being/prevention-cures/495459-reopening-georgia-could-lead-to-a-doubling-of)
 * [USA Today](https://www.usatoday.com/story/news/nation/2020/05/01/coronavirus-us-may-hit-10000-deaths-record-cases-may/3062216001/)
+* [Reason](https://reason.com/2020/05/01/covid-19-modeling-how-many-coronavirus-deaths-by-the-end-of-summer/)
 * [ABC15 Arizona](https://www.abc15.com/news/state/arizona-sees-21-deaths-reported-in-24-hours)
 
 ## Updates
