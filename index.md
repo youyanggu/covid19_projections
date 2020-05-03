@@ -11,38 +11,38 @@ On this page:
 
 **May 1 update:** We updated each US state's reopening timeline according to [The New York Times](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html). To date, we are the only model [referenced by the CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html) that factors in individual state re-openings. Learn more about our social distancing assumptions [here](/about/#assumptions).
 
-## Current Projection for US (Updated Daily - Last Updated: May 2):
+## Current Projection for US (Updated Daily - Last Updated: May 3):
 <p align="center">
-  Current Total: <b>65,059</b> deaths | Projected Total: <b>168,445</b> deaths by Aug 4, 2020 (Range: 98-289k)<br>
+  Current Total: <b>66,366</b> deaths | Projected Total: <b>163,789</b> deaths by Aug 4, 2020 (Range: 95-283k)<br>
   Currently Infected: <b>0.6%</b> | Total Infected: <b>2.9%</b> {% include iframe.html %}
 </p>
 
 ## US Deaths Likelihoods
 
-Below, we present the most likely dates that the US will surpass certain deaths milestones, as well as the probabilities of the US surpassing those milestones by several different time periods. For example, we estimate a 73% chance that the US surpasses 100,000 deaths by June 1, with May 25 being the most likely date.
+Below, we present the most likely dates that the US will surpass certain deaths milestones, as well as the probabilities of the US surpassing those milestones by several different time periods. For example, we estimate a 67% chance that the US surpasses 100,000 deaths by June 1, with May 27 being the most likely date.
 
-Last updated: May 2, 2020
+Last updated: May 3, 2020
 
 |   US deaths surpass: |   Most likely date: |
 |----------------------|---------------------|
 |               70,000 |         May 5, 2020 |
-|               80,000 |        May 10, 2020 |
-|               90,000 |        May 17, 2020 |
-|              100,000 |        May 25, 2020 |
+|               80,000 |        May 11, 2020 |
+|               90,000 |        May 18, 2020 |
+|              100,000 |        May 27, 2020 |
 
 <br>
 
 |   US deaths surpass: |   By May 15 |   By Jun 1 |   By Jun 15 |   By Jul 1 |   By Jul 15 |   By Aug 1 |
 |----------------------|-------------|------------|-------------|------------|-------------|------------|
 |               70,000 |        >99% |       >99% |        >99% |       >99% |        >99% |       >99% |
-|               80,000 |         96% |        99% |         99% |        99% |         99% |        99% |
-|               90,000 |         29% |        96% |         99% |        99% |         99% |        99% |
-|              100,000 |         <1% |        73% |         89% |        94% |         96% |        96% |
-|              125,000 |         <1% |        10% |         43% |        62% |         71% |        76% |
-|              150,000 |         <1% |        <1% |          9% |        32% |         45% |        55% |
-|              175,000 |         <1% |        <1% |         <1% |        11% |         25% |        37% |
-|              200,000 |         <1% |        <1% |         <1% |         2% |         12% |        24% |
-|              250,000 |         <1% |        <1% |         <1% |        <1% |         <1% |         8% |
+|               80,000 |         92% |        99% |         99% |        99% |         99% |        99% |
+|               90,000 |         20% |        92% |         98% |        99% |         99% |        99% |
+|              100,000 |         <1% |        67% |         85% |        91% |         93% |        94% |
+|              125,000 |         <1% |         7% |         37% |        58% |         67% |        72% |
+|              150,000 |         <1% |        <1% |          8% |        28% |         41% |        52% |
+|              175,000 |         <1% |        <1% |         <1% |        10% |         22% |        34% |
+|              200,000 |         <1% |        <1% |         <1% |         1% |         10% |        21% |
+|              250,000 |         <1% |        <1% |         <1% |        <1% |         <1% |         7% |
 |              300,000 |         <1% |        <1% |         <1% |        <1% |         <1% |        <1% |
 
 [Back to Top](#top)
@@ -172,36 +172,36 @@ Countries are ordered by descending projected deaths (by 2020-08-04).
 
 |                                   |   Current Deaths |   Projected Deaths - Mean |   Projected Deaths - 2.5% Percentile |   Projected Deaths - 97.5% Percentile |
 |-----------------------------------|------------------|---------------------------|--------------------------------------|---------------------------------------|
-| [United Kingdom](/united-kingdom) |           27,583 |                    58,166 |                               35,421 |                               114,788 |
-| [Italy](/italy)                   |           28,236 |                    42,087 |                               33,290 |                                58,859 |
-| [France](/france)                 |           24,628 |                    38,763 |                               27,450 |                                84,320 |
-| [Spain](/spain)                   |           24,543 |                    32,118 |                               27,196 |                                44,689 |
-| [Germany](/germany)               |            6,736 |                    17,894 |                                9,081 |                                41,893 |
-| [Belgium](/belgium)               |            7,703 |                    11,557 |                                9,039 |                                19,558 |
-| [Netherlands](/netherlands)       |            4,909 |                     9,731 |                                6,146 |                                18,123 |
-| [Sweden](/sweden)                 |            2,653 |                     9,240 |                                4,587 |                                22,466 |
-| [Ireland](/ireland)               |            1,265 |                     3,463 |                                1,733 |                                 8,207 |
-| [Romania](/romania)               |              744 |                     3,213 |                                1,713 |                                 6,244 |
-| [Poland](/poland)                 |              651 |                     2,921 |                                1,056 |                                 6,175 |
-| [Switzerland](/switzerland)       |            1,754 |                     2,645 |                                2,046 |                                 4,301 |
-| [Portugal](/portugal)             |            1,007 |                     2,631 |                                1,678 |                                 4,472 |
-| [Austria](/austria)               |              589 |                     1,003 |                                  714 |                                 1,649 |
-| [Finland](/finland)               |              218 |                       967 |                                  329 |                                 2,254 |
-| [Hungary](/hungary)               |              323 |                       929 |                                  445 |                                 2,512 |
-| [Denmark](/denmark)               |              460 |                       770 |                                  582 |                                 1,187 |
-| [Croatia](/croatia)               |               75 |                       421 |                                  173 |                                   992 |
-| [Czechia](/czechia)               |              240 |                       411 |                                  349 |                                   524 |
-| [Norway](/norway)                 |              210 |                       373 |                                  266 |                                   707 |
-| [Bulgaria](/bulgaria)             |               68 |                       285 |                                  123 |                                   661 |
-| [Greece](/greece)                 |              140 |                       232 |                                  180 |                                   326 |
-| [Slovenia](/slovenia)             |               92 |                       148 |                                  112 |                                   216 |
-| [Luxembourg](/luxembourg)         |               92 |                       147 |                                  114 |                                   194 |
-| [Estonia](/estonia)               |               52 |                       109 |                                   88 |                                   127 |
-| [Lithuania](/lithuania)           |               45 |                        91 |                                   66 |                                   120 |
-| [Latvia](/latvia)                 |               16 |                        71 |                                   52 |                                    97 |
-| [Slovakia](/slovakia)             |               23 |                        51 |                                   32 |                                    87 |
-| [Cyprus](/cyprus)                 |               15 |                        27 |                                   20 |                                    32 |
-| [Malta](/malta)                   |                4 |                        11 |                                   10 |                                    13 |
+| [United Kingdom](/united-kingdom) |           28,205 |                    58,194 |                               35,498 |                               114,118 |
+| [Italy](/italy)                   |           28,710 |                    43,689 |                               33,797 |                                65,981 |
+| [France](/france)                 |           24,763 |                    38,255 |                               27,409 |                                82,944 |
+| [Spain](/spain)                   |           25,100 |                    33,171 |                               28,025 |                                45,775 |
+| [Germany](/germany)               |            6,812 |                    17,049 |                                8,933 |                                40,084 |
+| [Belgium](/belgium)               |            7,765 |                    11,327 |                                9,009 |                                18,731 |
+| [Netherlands](/netherlands)       |            5,003 |                     9,773 |                                6,229 |                                17,891 |
+| [Sweden](/sweden)                 |            2,669 |                     8,571 |                                4,472 |                                21,964 |
+| [Romania](/romania)               |              771 |                     3,329 |                                1,745 |                                 7,223 |
+| [Ireland](/ireland)               |            1,286 |                     3,242 |                                1,706 |                                 7,931 |
+| [Poland](/poland)                 |              664 |                     2,778 |                                1,025 |                                 6,064 |
+| [Switzerland](/switzerland)       |            1,762 |                     2,581 |                                2,031 |                                 4,127 |
+| [Portugal](/portugal)             |            1,023 |                     2,572 |                                1,643 |                                 4,414 |
+| [Austria](/austria)               |              596 |                       994 |                                  718 |                                 1,615 |
+| [Hungary](/hungary)               |              335 |                       956 |                                  453 |                                 2,569 |
+| [Finland](/finland)               |              220 |                       920 |                                  321 |                                 2,192 |
+| [Denmark](/denmark)               |              475 |                       825 |                                  608 |                                 1,277 |
+| [Czechia](/czechia)               |              245 |                       413 |                                  351 |                                   523 |
+| [Croatia](/croatia)               |               77 |                       406 |                                  171 |                                   965 |
+| [Norway](/norway)                 |              211 |                       368 |                                  265 |                                   696 |
+| [Bulgaria](/bulgaria)             |               72 |                       297 |                                  129 |                                   670 |
+| [Greece](/greece)                 |              143 |                       234 |                                  182 |                                   327 |
+| [Slovenia](/slovenia)             |               94 |                       150 |                                  113 |                                   223 |
+| [Luxembourg](/luxembourg)         |               92 |                       144 |                                  114 |                                   191 |
+| [Estonia](/estonia)               |               53 |                       109 |                                   88 |                                   127 |
+| [Lithuania](/lithuania)           |               46 |                        91 |                                   67 |                                   120 |
+| [Latvia](/latvia)                 |               16 |                        58 |                                   45 |                                    77 |
+| [Slovakia](/slovakia)             |               24 |                        52 |                                   33 |                                    87 |
+| [Cyprus](/cyprus)                 |               15 |                        26 |                                   20 |                                    32 |
+| [Malta](/malta)                   |                4 |                        11 |                                   10 |                                    12 |
 
 [Back to Top](#top)
 
@@ -211,13 +211,13 @@ Countries are ordered by descending projected deaths (by 2020-08-04).
 
 |                             |   Current Deaths |   Projected Deaths - Mean |   Projected Deaths - 2.5% Percentile |   Projected Deaths - 97.5% Percentile |
 |-----------------------------|------------------|---------------------------|--------------------------------------|---------------------------------------|
-| [Brazil](/brazil)           |            6,412 |                    83,150 |                               22,067 |                               220,150 |
-| [Canada](/canada)           |            3,537 |                    13,134 |                                6,494 |                                20,168 |
-| [Russia](/russia)           |            1,169 |                    12,575 |                                4,450 |                                33,225 |
-| [Iran](/iran)               |            6,091 |                     9,493 |                                7,301 |                                14,038 |
-| [Mexico](/mexico)           |            1,972 |                     8,936 |                                4,259 |                                16,771 |
-| [India](/india)             |            1,223 |                     6,687 |                                3,102 |                                13,407 |
-| [Turkey](/turkey)           |            3,258 |                     6,034 |                                4,271 |                                11,736 |
-| [China](/china)             |            4,637 |                     4,711 |                                4,661 |                                 4,798 |
-| [Indonesia](/indonesia)     |              800 |                     1,815 |                                1,009 |                                 3,799 |
-| [Philippines](/philippines) |              579 |                     1,461 |                                  712 |                                 2,762 |
+| [Brazil](/brazil)           |            6,761 |                    77,557 |                               20,968 |                               210,605 |
+| [Canada](/canada)           |            3,684 |                    12,937 |                                6,245 |                                19,661 |
+| [Russia](/russia)           |            1,222 |                    10,193 |                                4,162 |                                24,548 |
+| [Iran](/iran)               |            6,156 |                     9,420 |                                7,204 |                                12,783 |
+| [Mexico](/mexico)           |            2,061 |                     8,469 |                                4,215 |                                16,077 |
+| [India](/india)             |            1,323 |                     6,838 |                                3,187 |                                13,589 |
+| [Turkey](/turkey)           |            3,336 |                     5,944 |                                4,293 |                                11,515 |
+| [China](/china)             |            4,637 |                     4,709 |                                4,660 |                                 4,793 |
+| [Indonesia](/indonesia)     |              831 |                     2,005 |                                1,069 |                                 4,057 |
+| [Philippines](/philippines) |              603 |                     1,534 |                                  742 |                                 2,803 |
