@@ -184,7 +184,7 @@ While we attempt our best to ensure accuracy and precision, no model is perfect,
 
 A model isn't very useful if it's not accurate. Below is my analysis on how various models considered by the CDC have performed over the past few weeks. covid19-projections.com has consistently been the most accurate model thus far, for both US and state-by-state projections.
 
-While past performance is not necessarily indicative of future performance, I think it's important to consider a model's historical accuracy in addition to its future forecasts. It is also important to make sure that a model can perform better than the baseline.
+While past performance is not necessarily indicative of future performance, we believe it's important to consider a model's historical accuracy in addition to its future forecasts. It is also important to make sure that a model can perform better than the baseline.
 
 Projections taken from: [https://github.com/reichlab/covid19-forecast-hub](https://github.com/reichlab/covid19-forecast-hub)
 Truth data from Johns Hopkins: [https://github.com/CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19)
