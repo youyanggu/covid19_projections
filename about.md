@@ -183,6 +183,13 @@ While we attempt our best to ensure accuracy and precision, no model is perfect,
 
 [Click here](/model-comparison-ihme) to see how our projections have changed over time, compared with the IHME model.
 
+## Model Comparison
+
+A model isn't very useful if it's not accurate. Below is my analysis on how various models considered by the CDC have performed over the past few weeks. covid19-projections.com has consistently been the most accurate model thus far, for both US and state-by-state projections.
+
+![US comparison](/assets/images/2020-05-02_comparison_us.png)
+![States comparison](/assets/images/2020-05-02_comparison_states.png)
+
 ## Online Coverage
 
 ### Government
@@ -196,6 +203,7 @@ While we attempt our best to ensure accuracy and precision, no model is perfect,
 * [StatNews](https://www.statnews.com/2020/04/30/coronavirus-death-projections-compare-causes-of-death)
 * [TheHill](https://thehill.com/changing-america/well-being/prevention-cures/495459-reopening-georgia-could-lead-to-a-doubling-of)
 * [USA Today](https://www.usatoday.com/story/news/nation/2020/05/01/coronavirus-us-may-hit-10000-deaths-record-cases-may/3062216001/)
+* [The Mercury News](https://www.mercurynews.com/2020/05/04/california-prediction-artificial-intelligence-driven-model-tracks-coronavirus-infections-deaths/)
 * [Reason](https://reason.com/2020/05/01/covid-19-modeling-how-many-coronavirus-deaths-by-the-end-of-summer/)
 * [ABC15 Arizona](https://www.abc15.com/news/state/arizona-sees-21-deaths-reported-in-24-hours)
 
