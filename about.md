@@ -76,17 +76,17 @@ In their April 15 model, the death toll that IHME projected will take *four mont
 | Spain | 21,282 | 18,713 | 31,854
 | France | 20,829 | 17,448 | 41,643
 
-As you can see above, their models made misguided projections for almost all of the worst-impacted regions in the world. The most alarming thing is that they continue to make low projections. Below is their projections from April 21. All of the below projections were exceeded within 10 days:
+As you can see above, their models made misguided projections for almost all of the worst-impacted regions in the world. The most alarming thing is that they continue to make low projections. Below is their projections from April 21. All of the below projections were exceeded by May 2, just a mere 11 days later:
 
-|  | May 1 Total Deaths | IHME Aug proj. deaths from Apr 21 | Our Aug proj. deaths from Apr 21
+|  | May 2 Total Deaths | IHME Aug proj. deaths from Apr 21 | Our Aug proj. deaths from Apr 21
 | --- | --- | --- | --- |
-| New York | 24,039 | 23,741 | 35,238
-| New Jersey | 7,538 | 7,116 | 13,651
-| Michigan | 3,866 | 3,361 | 6,798
-| Illinois | 2,457 | 2,093 | 6,653
-| Italy | 28,236 | 26,600 | 44,683
-| Spain | 24,543 | 24,624 | 31,854
-| France | 24,628 | 23,104 | 41,643
+| New York | 24,198 | 23,741 | 35,238
+| New Jersey | 7,742 | 7,116 | 13,651
+| Michigan | 4,021 | 3,361 | 6,798
+| Illinois | 2,559 | 2,093 | 6,653
+| Italy | 28,710 | 26,600 | 44,683
+| Spain | 25,100 | 24,624 | 31,854
+| France | 24,763 | 23,104 | 41,643
 
 As scientists, we update our models as new data becomes available. Models are going to make wrong predictions, but it's important that we correct them as soon as new data shows otherwise. The problem with IHME is that they refuse to recognize their wrong assumptions. Hence, they are perpetually making the same mistake over and over again: under-projecting.
 
@@ -187,6 +187,7 @@ A model isn't very useful if it's not accurate. Below is our analysis on how var
 While past performance is not necessarily indicative of future performance, we believe it's important to consider a model's historical accuracy and not just a model's future forecasts and/or the creator's name recognition. It is also important to make sure that a model can perform better than the baseline.
 
 Projections taken from: [https://github.com/reichlab/covid19-forecast-hub](https://github.com/reichlab/covid19-forecast-hub)
+
 Truth data from Johns Hopkins: [https://github.com/CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19)
 
 ### US comparison
