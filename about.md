@@ -184,7 +184,12 @@ While we attempt our best to ensure accuracy and precision, no model is perfect,
 
 A model isn't very useful if it's not accurate. Below is my analysis on how various models considered by the CDC have performed over the past few weeks. covid19-projections.com has consistently been the most accurate model thus far, for both US and state-by-state projections.
 
+### US comparison
+
 ![US comparison](/assets/images/2020-05-02_comparison_us.png)
+
+### State-by-state comparison
+
 ![States comparison](/assets/images/2020-05-02_comparison_states.png)
 
 ## Projection Comparison with IHME
