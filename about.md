@@ -139,7 +139,7 @@ Heavy social distancing is what we have now in many states and countries: stay-a
 
 Moderate social distancing is what we assume will happen once states and countries gradually begin relaxing their social distancing guidelines. Some establishments will re-open, but people will still be somewhat cognizant about maintaining social distancing. Most states and countries will have guidelines that aim to maximize social distancing and minimize close contact, such as enforcing capacity limits and recommending mask-wearing. We assume that infection rates will increase 0-20%, resulting in an R of around 0.8-1.2. Note that this is still a lower infection rate than what it was prior to the outbreak for most regions.
 
-If reginos impose stricter social distancing guidelines than our assumptions listed above, then we will likely see a lower infections and death rate than the current projections. Conversely, if regions impose looser guidelines, then we will likely see a higher infections and death rate. For example, if California reopens before June 1, there will be an increased chance of an earlier resurgence. Or if any state required all residents to wear masks, the likelihood of a steep increase in infections will decrease.
+If regions impose stricter social distancing guidelines than our assumptions listed above, then we will likely see a lower infections and death rate than the current projections. Conversely, if regions impose looser guidelines, then we will likely see a higher infections and death rate. For example, if California reopens before June 1, there will be an increased chance of an earlier resurgence. Or if any state required all residents to wear masks, the likelihood of a steep increase in infections will decrease.
 
 #### Second wave
 
