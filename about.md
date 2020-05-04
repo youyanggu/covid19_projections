@@ -11,6 +11,7 @@ permalink: /about/
 * [Data and Output](#data-and-output)
 * [Assumptions](#assumptions)
 * [Limitations](#limitations)
+* [Historical Performance](#historical-performance)
 * [Projection Comparison with IHME](#projection-comparison-with-ihme)
 * [Government/Media Coverage](#online-coverage)
 * [Updates](#updates)
@@ -179,16 +180,16 @@ While we attempt our best to ensure accuracy and precision, no model is perfect,
 
 [Back to Top](#top)
 
-## Projection Comparison with IHME
-
-[Click here](/model-comparison-ihme) to see how our projections have changed over time, compared with the IHME model.
-
-## Model Comparison
+## Historical Performance
 
 A model isn't very useful if it's not accurate. Below is my analysis on how various models considered by the CDC have performed over the past few weeks. covid19-projections.com has consistently been the most accurate model thus far, for both US and state-by-state projections.
 
 ![US comparison](/assets/images/2020-05-02_comparison_us.png)
 ![States comparison](/assets/images/2020-05-02_comparison_states.png)
+
+## Projection Comparison with IHME
+
+[Click here](/model-comparison-ihme) to see how our projections have changed over time, compared with the IHME model.
 
 ## Online Coverage
 
