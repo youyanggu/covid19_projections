@@ -29,7 +29,7 @@ We are currently making projections for: the United States, all 50 US states (pl
 
 Firstly, we are the only model [shared by the CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html) that receives no public funding, making us a completely independent entity.
 
-We are also the only model shared by the CDC that factors in individual state-by-state or country-by-country re-openings, allowing us to make more realistic projections. See an [analysis of our model](https://twitter.com/CT_Bergstrom/status/1255343846445195266) by Dr. Carl T. Bergstrom, Professor of Biology at the Univeristy of Washington. 
+We are also the only model shared by the CDC that factors in individual state-by-state or country-by-country re-openings, allowing us to make more realistic projections.
 
 Next, unlike other models that try to create complex mathematical equations to "fit a curve" without an intuitive explanation as to why it works, we try to simulate what is happening in the real world. We model the disease exactly how they progress in reality: we start off with the entire population in a region, then on each day a certain proportion becomes infected, and those individuals spread the infections to others, and so forth. This makes our model easy to interpret and understand.
 
@@ -42,6 +42,8 @@ We can learn more from the model than just the R<sub>0</sub>. For example, our m
 We have a strong validation system to make sure that all of our updates pass out-of-sample validation before they can be included in the model. This allows us to better differentiate the signal from the noise and be more resistant to outliers.
 
 Our model is agnostic to the region, enabling us to make projections for all 50 US states (plus DC, PR, VI, Guam) and 40 countries. To our best knowledge, this is the most comprehensive model in terms of coverage. Furthermore, unlike other models, we do not require accessory data such as mobile phone data, case data, or dates of lockdowns data. The only input data we require is the daily death reports from Johns Hopkins.
+
+See an [analysis of our model](https://twitter.com/CT_Bergstrom/status/1255343846445195266) by Dr. Carl T. Bergstrom, Professor of Biology at the Univeristy of Washington. 
 
 Another strength of our model is that because it is purely data-driven, it is quick to run and easy to regenerate. Unlike other models that are only updated once every few days, our model is updated on a daily basis, leading to more accurate projections.
 
