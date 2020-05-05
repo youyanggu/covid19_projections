@@ -53,8 +53,6 @@ Another strength of our model is that because it is purely data-driven, it is qu
 
 A model isn't very useful if it's not accurate. Below is our analysis on how various models considered by the CDC have performed over the past few weeks. Because the CDC receives weekly projections from every Monday, we use projections from Monday, April 20 and Monday, April 27 to evaluate the models. Our model has consistently been the most accurate thus far, for both US and state-by-state projections.
 
-While past performance is not necessarily indicative of future performance, we believe it's important to consider a model's historical accuracy and not just a model's future forecasts and/or the creator's name recognition. It is also important to make sure that a model can perform better than the baseline.
-
 Note that the IHME model, a model frequently cited by the White House and media, performed 13th out of 15 models for its US projections from April 27 and 7th out of 15 for its state-by-state projections. Meanwhile, a baseline model that simply uses the previous week's average deaths to make future projections finished 4th out of 15 models for US projections from April 27 and 2nd out of 15 for state-by-state projections.
 
 ### US projections
@@ -64,6 +62,8 @@ Note that the IHME model, a model frequently cited by the White House and media,
 ### State-by-state projections
 
 ![States comparison](/assets/images/2020-05-02_comparison_states.png)
+
+While past performance is not necessarily indicative of future performance, we believe it's important to consider a model's historical accuracy and not just a model's future forecasts and/or the creator's name recognition. It is also important to make sure that a model can perform better than the baseline.
 
 Projections taken from: [https://github.com/reichlab/covid19-forecast-hub](https://github.com/reichlab/covid19-forecast-hub)
 
