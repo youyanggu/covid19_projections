@@ -41,7 +41,7 @@ We can learn more from the model than just the R<sub>0</sub>. For example, our m
 
 We have a strong validation system to make sure that all of our updates pass out-of-sample validation before they can be included in the model. This allows us to better differentiate the signal from the noise and be more resistant to outliers.
 
-Our model is agnostic to the region, enabling us to make projections for all 50 US states (plus DC, PR, VI, Guam) and 40 countries. To our best knowledge, this is the most comprehensive model in terms of coverage. Furthermore, unlike other models, we do not require accessory data such as mobile phone data, case data, or dates of lockdowns data. The only input data we require is the daily death reports from Johns Hopkins.
+Our model is agnostic to the region, enabling us to make projections for all 50 US states (plus DC, PR, VI, Guam) and 40 countries. To our best knowledge, this is the most comprehensive model in terms of coverage. Furthermore, unlike other models, we do not require accessory data such as mobile phone data, case data, or temperature data. The only input data we require is the daily death reports from Johns Hopkins.
 
 See an [analysis of our model](https://twitter.com/CT_Bergstrom/status/1255343846445195266) by Dr. Carl T. Bergstrom, Professor of Biology at the Univeristy of Washington. 
 
