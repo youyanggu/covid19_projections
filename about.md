@@ -12,7 +12,6 @@ permalink: /about/
 * [Assumptions](#assumptions)
 * [Limitations](#limitations)
 * [Historical Performance](#historical-performance)
-* [Projection Comparison with IHME](#projection-comparison-with-ihme)
 * [Government/Media Coverage](#online-coverage)
 * [Updates](#updates)
 
@@ -112,6 +111,10 @@ We posted [a Tweet](https://twitter.com/youyanggu/status/1248844841733128192) on
 
 On top of everything we mentioned above, their model is also inherently flawed from a mathematical perspective. They try to model COVID-19 infections using a [Gaussian error function](https://en.wikipedia.org/wiki/Error_function). The problem is that the Gaussian error function is by design *symmetric*, meaning that the curve comes down from the peak at the same rate as it goes up. Unfortunately, this has not been the case for COVID-19: we come down from the peak at a much slower pace. This leads to a significant under-projection in IHME's model, which we have thoroughly highlighted. University of Washington biology professor Dr. Carl T. Bergostrom discussed this in more detail in this highly informative [series of Tweets](https://twitter.com/CT_Bergstrom/status/1250304069119275009).
 
+### Projections Comparison
+
+[Click here](/model-comparison-ihme) to see how our projections have changed over time, compared with the IHME model.
+
 To conclude, we believe that a successful model must be able to quickly determine what is realistic and what is not, and the above examples highlights our main concerns with the IHME model.
 
 [Back to Top](#top)
@@ -186,10 +189,6 @@ A model isn't very useful if it's not accurate. Below is our analysis on how var
 
 While past performance is not necessarily indicative of future performance, we believe it's important to consider a model's historical accuracy and not just a model's future forecasts and/or the creator's name recognition. It is also important to make sure that a model can perform better than the baseline.
 
-Projections taken from: [https://github.com/reichlab/covid19-forecast-hub](https://github.com/reichlab/covid19-forecast-hub)
-
-Truth data from Johns Hopkins: [https://github.com/CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19)
-
 ### US comparison
 
 ![US comparison](/assets/images/2020-05-02_comparison_us.png)
@@ -198,9 +197,9 @@ Truth data from Johns Hopkins: [https://github.com/CSSEGISandData/COVID-19](http
 
 ![States comparison](/assets/images/2020-05-02_comparison_states.png)
 
-## Projection Comparison with IHME
+Projections taken from: [https://github.com/reichlab/covid19-forecast-hub](https://github.com/reichlab/covid19-forecast-hub)
 
-[Click here](/model-comparison-ihme) to see how our projections have changed over time, compared with the IHME model.
+Truth data from Johns Hopkins: [https://github.com/CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19)
 
 ## Online Coverage
 
