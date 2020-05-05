@@ -1,4 +1,4 @@
-Here we present an intuitive model that uses machine learning techniques to make COVID-19 projections for infections and deaths for all 50 US states and 40 countries.
+We present an intuitive model that uses machine learning techniques to make COVID-19 projections for infections and deaths for all 50 US states and 40 countries.
 
 On this page:
 * [View US projections](#view-projections)
@@ -9,7 +9,7 @@ On this page:
 
 **State-by-state Reopenings:** We update each US state's reopening timeline according to [The New York Times](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html). To date, we are the only model [referenced by the CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html) that factors in individual state re-openings. Learn more about our social distancing assumptions [here](/about/#assumptions).
 
-Over the past 2 weeks, we have been the [most accurate model](/about/#historical-performance) referenced by the CDC.
+**May 4 update:** Over the past 2 weeks, we have been the [most accurate model](/about/#historical-performance) referenced by the CDC.
 
 ## Current Projection for US (Updated Daily - Last Updated: May 4):
 <p align="center">
