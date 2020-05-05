@@ -170,8 +170,8 @@ States are ordered by descending projected deaths (by August 4).
 
 Countries are ordered by descending projected deaths (by 2020-08-04).
 
-|                                   |   Current Deaths |   Projected Deaths - Mean |   Projected Deaths - 2.5% Percentile |   Projected Deaths - 97.5% Percentile |
-|-----------------------------------|------------------|---------------------------|--------------------------------------|---------------------------------------|
+|                                   |   Current Deaths |   Projected Deaths - Mean | Additional Deaths (% of Cur Deaths)   |   Projected Deaths - 2.5% Percentile |   Projected Deaths - 97.5% Percentile |
+|-----------------------------------|------------------|---------------------------|---------------------------------------|--------------------------------------|---------------------------------------|
 | [United Kingdom](/united-kingdom) |           28,809 |                    52,840 | 83%                                   |                               34,352 |                               106,319 |
 | [Italy](/italy)                   |           29,079 |                    42,388 | 46%                                   |                               33,087 |                                64,351 |
 | [France](/france)                 |           25,204 |                    37,321 | 48%                                   |                               27,524 |                                78,329 |
@@ -209,8 +209,8 @@ Countries are ordered by descending projected deaths (by 2020-08-04).
 
 Countries are ordered by descending projected deaths (by 2020-08-04).
 
-|                             |   Current Deaths |   Projected Deaths - Mean |   Projected Deaths - 2.5% Percentile |   Projected Deaths - 97.5% Percentile |
-|-----------------------------|------------------|---------------------------|--------------------------------------|---------------------------------------|
+|                             |   Current Deaths |   Projected Deaths - Mean | Additional Deaths (% of Cur Deaths)   |   Projected Deaths - 2.5% Percentile |   Projected Deaths - 97.5% Percentile |
+|-----------------------------|------------------|---------------------------|---------------------------------------|--------------------------------------|---------------------------------------|
 | [Brazil](/brazil)           |            7,367 |                    66,732 | 806%                                  |                               19,510 |                               190,685 |
 | [Canada](/canada)           |            4,003 |                    13,134 | 228%                                  |                                6,436 |                                19,485 |
 | [Iran](/iran)               |            6,277 |                     9,355 | 49%                                   |                                7,269 |                                12,604 |
