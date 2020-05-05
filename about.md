@@ -53,7 +53,7 @@ A model isn't very useful if it's not accurate. Below is our analysis on how var
 
 While past performance is not necessarily indicative of future performance, we believe it's important to consider a model's historical accuracy and not just a model's future forecasts and/or the creator's name recognition. It is also important to make sure that a model can perform better than the baseline.
 
-Note that the IHME model, a model frequently cited by the White House and media, performed 13th out of 15 models for US projections and 7th out of 15 for state-by-state projections.
+Note that the IHME model, a model frequently cited by the White House and media, performed 13th out of 15 models for 4/27 US projections and 7th out of 15 for 4/27 state-by-state projections.
 
 ### US projections
 
