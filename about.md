@@ -49,7 +49,7 @@ Another strength of our model is that because it is purely data-driven, it is qu
 
 ## Historical Performance
 
-A model isn't very useful if it's not accurate. Below is our analysis on how various models considered by the CDC have performed over the past few weeks. Our model has consistently been the most accurate thus far, for both US and state-by-state projections.
+A model isn't very useful if it's not accurate. Below is our analysis on how various models considered by the CDC have performed over the past few weeks. Because the CDC receives weekly projections from every Monday, we use projections from April 20 and April 27 to evaluate the models. Our model has consistently been the most accurate thus far, for both US and state-by-state projections.
 
 While past performance is not necessarily indicative of future performance, we believe it's important to consider a model's historical accuracy and not just a model's future forecasts and/or the creator's name recognition. It is also important to make sure that a model can perform better than the baseline.
 
