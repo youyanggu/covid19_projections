@@ -1,6 +1,6 @@
 ## Model Comparison with IHME
 
-**As of May 2, we are no longer updating this page. Please see our [About](/about/#concerns-with-the-ihme-model) to see most recent comparisons with the IHME model.**
+**As of May 4, we are no longer updating this page. Please see our [About](/about/#concerns-with-the-ihme-model) to see most recent comparisons with the IHME model.**
 
 We will compare our daily projections with the [IHME projections](https://covid19.healthdata.org/projections) for five of the most heavily-impacted regions: US, New York, Michigan, Italy, and France. Note that while we update our projections daily, IHME only updates their projections 2-3 times a week.
 
@@ -16,29 +16,31 @@ A ~~strikethrough~~ means that the current deaths have already exceeded the tota
 
 | Date | Our US proj. death total | IHME US proj. death total
 | --- | --- | --- |
-| April 9, 2020 | 62,225 (37-106k) | 60,415 (31-127k)
-| April 10, 2020 | 70,699 (41-125k) | 61,545 (26-156k)
-| April 11, 2020 | 75,870 (43-137k) | 61,545 (26-156k)
-| April 12, 2020 | 71,959 (43-125k) | 61,545 (26-156k)
-| April 13, 2020 | 71,731 (45-121k) | 68,841 (30-176k)
-| April 14, 2020 | 85,431 (50-157k) | 68,841 (30-176k)
-| April 15, 2020\* | 114,416 (55-231k) | 68,841 (30-176k)
-| April 16, 2020 | 111,673 (55-232k) | 68,841 (30-176k)
-| April 17, 2020 | 120,541 (69-229k) | 60,308 (34-141k)
-| April 18, 2020 | 121,830 (70-227k) | 60,308 (34-141k)
-| April 19, 2020 | 120,633 (70-227k) | 60,308 (34-141k)
-| April 20, 2020 | 117,123 (69-229k) | 60,308 (34-141k)
-| April 21, 2020 | 129,658 (71-281k) | 65,976 (45-125k)
-| April 22, 2020 | 139,165 (76-292k) | 67,641 (48-124k)
-| April 23, 2020^ | 172,746 (92-327k) | 67,641 (48-124k)
-| April 24, 2020 | 165,539 (88-322k) | 67,641 (48-124k)
-| April 25, 2020 | 160,293 (88-311k) | 67,641 (48-124k)
-| April 26, 2020 | 155,552 (87-306k) | 67,641 (48-124k)
+| April 9, 2020 | ~~62,225~~ (37-106k) | ~~60,415~~ (31-127k)
+| April 10, 2020 | 70,699 (41-125k) | ~~61,545~~ (26-156k)
+| April 11, 2020 | 75,870 (43-137k) | ~~61,545~~ (26-156k)
+| April 12, 2020 | 71,959 (43-125k) | ~~61,545~~ (26-156k)
+| April 13, 2020 | 71,731 (45-121k) | ~~68,841~~ (30-176k)
+| April 14, 2020 | 85,431 (50-157k) | ~~68,841~~ (30-176k)
+| April 15, 2020\* | 114,416 (55-231k) | ~~68,841~~ (30-176k)
+| April 16, 2020 | 111,673 (55-232k) | ~~68,841~~ (30-176k)
+| April 17, 2020 | 120,541 (69-229k) | ~~60,308~~ (34-141k)
+| April 18, 2020 | 121,830 (70-227k) | ~~60,308~~ (34-141k)
+| April 19, 2020 | 120,633 (70-227k) | ~~60,308~~ (34-141k)
+| April 20, 2020 | 117,123 (69-229k) | ~~60,308~~ (34-141k)
+| April 21, 2020 | 129,658 (71-281k) | ~~65,976~~ (45-125k)
+| April 22, 2020 | 139,165 (76-292k) | ~~67,641~~ (48-124k)
+| April 23, 2020^ | 172,746 (92-327k) | ~~67,641~~ (48-124k)
+| April 24, 2020 | 165,539 (88-322k) | ~~67,641~~ (48-124k)
+| April 25, 2020 | 160,293 (88-311k) | ~~67,641~~ (48-124k)
+| April 26, 2020 | 155,552 (87-306k) | ~~67,641~~ (48-124k)
 | April 27, 2020 | 153,373 (87-303k) | 74,073 (56-131k)
 | April 28, 2020 | 150,760 (88-294k) | 74,073 (56-131k)
 | April 29, 2020 | 166,200 (94-308k) | 72,433 (59-115k)
 | April 30, 2020 | 170,041 (98-293k) | 72,433 (59-115k)
 | May 1, 2020 | 168,445 (98-289k) | 72,433 (59-115k)
+| May 2, 2020 | 163,789 (95-283k) | 72,433 (59-115k)
+| May 3, 2020 | 161,321 (95-282k) | 72,433 (59-115k)
 
 | Date | Our US Jun-Aug proj. death total | IHME US Jun-Aug proj. death total
 | --- | --- | --- |
@@ -65,6 +67,8 @@ A ~~strikethrough~~ means that the current deaths have already exceeded the tota
 | April 29, 2020 | 58,305 (8.3-173k) | 304 (0-1644)
 | April 30, 2020 | 60,757 (9.9-159k) | 304 (0-1644)
 | May 1, 2020 | 60,123 (9.7-157k) | 304 (0-1644)
+| May 2, 2020 | 57,528 (8.7-153k) | 304 (0-1644)
+| May 3, 2020 | 55,874 (8.6-153k) | 304 (0-1644)
 
 | Date | Our NY proj. death total | IHME NY proj. death total
 | --- | --- | --- |
@@ -88,9 +92,11 @@ A ~~strikethrough~~ means that the current deaths have already exceeded the tota
 | April 26, 2020 | 39,296 (30-54k) | ~~23,232~~ (19-33k)
 | April 27, 2020 | 38,916 (29-54k) | ~~23,930~~ (21-30k)
 | April 28, 2020 | 37,130 (29-51k) | ~~23,930~~ (21-30k)
-| April 29, 2020 | 37,086 (29-50k) | 24,314 (22-29k)
-| April 30, 2020 | 35,189 (29-48k) | 24,314 (22-29k)
-| May 1, 2020 | 35,280 (29-48k) | 24,314 (22-29k)
+| April 29, 2020 | 37,086 (29-50k) | ~~24,314~~ (22-29k)
+| April 30, 2020 | 35,189 (29-48k) | ~~24,314~~ (22-29k)
+| May 1, 2020 | 35,280 (29-48k) | ~~24,314~~ (22-29k)
+| May 2, 2020 | 33,829 (27-47k) | ~~24,314~~ (22-29k)
+| May 3, 2020 | 34,619 (28-50k) | ~~24,314~~ (22-29k)
 
 | Date | Our MI proj. death total | IHME MI proj. death total
 | --- | --- | --- |
@@ -114,9 +120,11 @@ A ~~strikethrough~~ means that the current deaths have already exceeded the tota
 | April 26, 2020 | 10,131 (5.4-21k) | ~~3,379~~ (2.7-5.1k)
 | April 27, 2020 | 9,878 (5.3-21k) | ~~3,785~~ (3.3-4.9k)
 | April 28, 2020 | 10,509 (5.5-21k) | ~~3,785~~ (3.3-4.9k)
-| April 29, 2020 | 10,411 (5.6-21k) | 3,920 (3.6-4.9k)
-| April 30, 2020 | 10,268 (5.7-19k) | 3,920 (3.6-4.9k)
-| May 1, 2020 | 9,464 (5.6-18k) | 3,920 (3.6-4.9k)
+| April 29, 2020 | 10,411 (5.6-21k) | ~~3,920~~ (3.6-4.9k)
+| April 30, 2020 | 10,268 (5.7-19k) | ~~3,920~~ (3.6-4.9k)
+| May 1, 2020 | 9,464 (5.6-18k) | ~~3,920~~ (3.6-4.9k)
+| May 2, 2020 | 10,386 (5.9-19k) | ~~3,920~~ (3.6-4.9k)
+| May 3, 2020 | 9,635 (5.7-18k) | ~~3,920~~ (3.6-4.9k)
 
 | Date | Our Italy proj. death total | IHME Italy proj. death total
 | --- | --- | --- |
@@ -143,6 +151,8 @@ A ~~strikethrough~~ means that the current deaths have already exceeded the tota
 | April 29, 2020 | 41,432 (33-60k) | ~~27,777~~ (27-30k)
 | April 30, 2020 | 42,323 (33-60k) | ~~27,777~~ (27-30k)
 | May 1, 2020 | 42,087 (33-59k) | ~~27,777~~ (27-30k)
+| May 2, 2020 | 43,689 (33-66k) | ~~27,777~~ (27-30k)
+| May 3, 2020 | 42,777 (33-66k) | ~~27,777~~ (27-30k)
 
 | Date | Our France proj. death total | IHME France proj. death total
 | --- | --- | --- |
@@ -164,8 +174,10 @@ A ~~strikethrough~~ means that the current deaths have already exceeded the tota
 | April 24, 2020 | 40,951 (26-93k) | ~~23,304~~ (21-30k)
 | April 25, 2020 | 39,784 (26-89k) | ~~23,304~~ (21-30k)
 | April 26, 2020 | 38,966 (26-88k) | ~~23,304~~ (21-30k)
-| April 27, 2020 | 38,738 (26-87k) | 24,719 (23-30k)
-| April 28, 2020 | 37,420 (27-80k) | 24,719 (23-30k)
-| April 29, 2020 | 39,007 (27-86k) | 25,096 (23-30k)
-| April 30, 2020 | 39,261 (27-86k) | 25,096 (23-30k)
-| May 1, 2020 | 38,763 (27-85k) | 25,096 (23-30k)
+| April 27, 2020 | 38,738 (26-87k) | ~~24,719~~ (23-30k)
+| April 28, 2020 | 37,420 (27-80k) | ~~24,719~~ (23-30k)
+| April 29, 2020 | 39,007 (27-86k) | ~~25,096~~ (23-30k)
+| April 30, 2020 | 39,261 (27-86k) | ~~25,096~~ (23-30k)
+| May 1, 2020 | 38,763 (27-85k) | ~~25,096~~ (23-30k)
+| May 2, 2020 | 38,255 (27-83k) | ~~25,096~~ (23-30k)
+| May 3, 2020 | 37,741 (27-81k) | ~~25,096~~ (23-30k)
