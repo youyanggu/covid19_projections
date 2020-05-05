@@ -50,7 +50,7 @@ Another strength of our model is that because it is purely data-driven, it is qu
 
 ## Concerns with the IHME model
 
-In this section we will compare our projections with a popular model developed by the [Institute for Health Metrics and Evaluation (IHME)](https://covid19.healthdata.org/) and commonly referred to by the White House and media. We compare our projections (C19Pro) with IHME below for New York, Michigan, New Jersey, California and Italy, five of the most heavily-impacted regions.
+In this section we will compare our projections with a popular model developed by the [Institute for Health Metrics and Evaluation (IHME)](https://covid19.healthdata.org/) and commonly referred to by the White House and media. We compare our projections (C19Pro) with IHME below for US, New York, Michigan, New Jersey, California and Italy, some of the most heavily-impacted regions.
 
 {% include iframe_ny_comparison.html %}
 
