@@ -14,6 +14,8 @@ A ~~strikethrough~~ means that the current deaths have already exceeded the tota
 
 ^ Starting on April 23, we include probable deaths in our US projections, following new [CDC guidelines](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html) from April 14 onwards to include both confirmed and probable deaths.
 
+### US
+
 | Date | Our US proj. death total | IHME US proj. death total
 | --- | --- | --- |
 | April 9, 2020 | ~~62,225~~ (37-106k) | ~~60,415~~ (31-127k)
@@ -41,6 +43,8 @@ A ~~strikethrough~~ means that the current deaths have already exceeded the tota
 | May 1, 2020 | 168,445 (98-289k) | 72,433 (59-115k)
 | May 2, 2020 | 163,789 (95-283k) | 72,433 (59-115k)
 | May 3, 2020 | 161,321 (95-282k) | 72,433 (59-115k)
+
+### US June-August
 
 | Date | Our US Jun-Aug proj. death total | IHME US Jun-Aug proj. death total
 | --- | --- | --- |
@@ -70,6 +74,8 @@ A ~~strikethrough~~ means that the current deaths have already exceeded the tota
 | May 2, 2020 | 57,528 (8.7-153k) | 304 (0-1644)
 | May 3, 2020 | 55,874 (8.6-153k) | 304 (0-1644)
 
+### New York
+
 | Date | Our NY proj. death total | IHME NY proj. death total
 | --- | --- | --- |
 | April 9, 2020 | ~~17,371~~ (13-24k) | ~~13,306~~ (9-22k)
@@ -97,6 +103,8 @@ A ~~strikethrough~~ means that the current deaths have already exceeded the tota
 | May 1, 2020 | 35,280 (29-48k) | ~~24,314~~ (22-29k)
 | May 2, 2020 | 33,829 (27-47k) | ~~24,314~~ (22-29k)
 | May 3, 2020 | 34,619 (28-50k) | ~~24,314~~ (22-29k)
+
+### Michigan
 
 | Date | Our MI proj. death total | IHME MI proj. death total
 | --- | --- | --- |
@@ -126,6 +134,8 @@ A ~~strikethrough~~ means that the current deaths have already exceeded the tota
 | May 2, 2020 | 10,386 (5.9-19k) | ~~3,920~~ (3.6-4.9k)
 | May 3, 2020 | 9,635 (5.7-18k) | ~~3,920~~ (3.6-4.9k)
 
+### Italy
+
 | Date | Our Italy proj. death total | IHME Italy proj. death total
 | --- | --- | --- |
 | April 9, 2020 | 29,402 (22-40k) | ~~20,300~~ (19-22k)
@@ -153,6 +163,8 @@ A ~~strikethrough~~ means that the current deaths have already exceeded the tota
 | May 1, 2020 | 42,087 (33-59k) | ~~27,777~~ (27-30k)
 | May 2, 2020 | 43,689 (33-66k) | ~~27,777~~ (27-30k)
 | May 3, 2020 | 42,777 (33-66k) | ~~27,777~~ (27-30k)
+
+### France
 
 | Date | Our France proj. death total | IHME France proj. death total
 | --- | --- | --- |
