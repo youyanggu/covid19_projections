@@ -5,8 +5,8 @@ permalink: /about/
 ---
 
 ## Table of contents
-* [About the model](#about-the-model)
-* [How our model is different](#how-our-model-is-different)
+* [About the Model](#about-the-model)
+* [How our Model is Different](#how-our-model-is-different)
 * [Historical Performance](#historical-performance)
 * [Concerns with the IHME model](#concerns-with-the-ihme-model)
 * [Data and Output](#data-and-output)
@@ -15,7 +15,7 @@ permalink: /about/
 * [Government/Media Coverage](#online-coverage)
 * [Updates](#updates)
 
-## About the model
+## About the Model
 
 Our COVID-19 prediction model adds the power of artificial intelligence on top of a classic infectious disease model. We developed a simulator based on the [SEIR/SEIS model](http://leonidzhukov.net/hse/2014/socialnetworks/papers/2000SiamRev.pdf) ([Wikipedia](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology#The_SEIS_model)) to simulate the COVID-19 epidemic in each region. The parameters/inputs of this simulator are then learned using machine learning techniques that attempts to minimize the error between the projected outputs and the actual results. We utilize daily deaths data reported by each region to forecast future reported deaths. After some additional validation techniques (to minimize a phenomenon called overfitting), we use the learned parameters to simulate the future and make projections.
 
@@ -25,7 +25,7 @@ We are currently making projections for: the United States, all 50 US states (pl
 
 [Click here](/model-details/) to read a more in-depth description of how our model operates.
 
-## How our model is different
+## How our Model is Different
 
 Firstly, we are the only model [shared by the CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html) that receives no public funding, making us a completely independent entity.
 
