@@ -7,11 +7,11 @@ permalink: /about/
 ## Table of contents
 * [About the model](#about-the-model)
 * [How our model is different](#how-our-model-is-different)
+* [Historical Performance](#historical-performance)
 * [Concerns with the IHME model](#concerns-with-the-ihme-model)
 * [Data and Output](#data-and-output)
 * [Assumptions](#assumptions)
 * [Limitations](#limitations)
-* [Historical Performance](#historical-performance)
 * [Government/Media Coverage](#online-coverage)
 * [Updates](#updates)
 
@@ -47,6 +47,26 @@ Another strength of our model is that because it is purely data-driven, it is qu
 
 [Back to Top](#top)
 
+## Historical Performance
+
+A model isn't very useful if it's not accurate. Below is our analysis on how various models considered by the CDC have performed over the past few weeks. Our model has consistently been the most accurate thus far, for both US and state-by-state projections.
+
+While past performance is not necessarily indicative of future performance, we believe it's important to consider a model's historical accuracy and not just a model's future forecasts and/or the creator's name recognition. It is also important to make sure that a model can perform better than the baseline.
+
+### US comparison
+
+![US comparison](/assets/images/2020-05-02_comparison_us.png)
+
+### State-by-state comparison
+
+![States comparison](/assets/images/2020-05-02_comparison_states.png)
+
+Projections taken from: [https://github.com/reichlab/covid19-forecast-hub](https://github.com/reichlab/covid19-forecast-hub)
+
+Truth data from Johns Hopkins: [https://github.com/CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19)
+
+[Back to Top](#top)
+
 ## Concerns with the IHME model
 
 In this section we will compare our projections with a popular model developed by the [Institute for Health Metrics and Evaluation (IHME)](https://covid19.healthdata.org/) and commonly referred to by the White House and media. We compare our projections (C19Pro) with IHME below for US, New York, Michigan, New Jersey, California and Italy, some of the most heavily-impacted regions.
@@ -60,6 +80,8 @@ There are existing news articles such as [STAT News](https://www.statnews.com/20
 In the words of Ruth Etzioni, an epidemiologist at Seattle’s Fred Hutchinson Cancer Research Center, “that \[the IHME model\] is being used for policy decisions and its results interpreted wrongly is a travesty unfolding before our eyes.”
 
 In essence, their model is based on fitting a mathethetical curve with no basis in epidemiology or disease modeling. As a result, some of their projections do not pass what we call the "common sense test". Below are a few more examples.
+
+[Back to Top](#top)
 
 ### Sample Summary of IHME Inaccurate Predictions
 
@@ -182,24 +204,6 @@ That's why in addition to our most likely estimate, we also provide a 95% confid
 While we attempt our best to ensure accuracy and precision, no model is perfect, so we urge everyone to use caution when interpreting these projections. This is just one particular model, so we encourage everyone to evaluate and be open to multiple sources. At the end of the day, the decision-making rests in the hands of people, not machines.
 
 [Back to Top](#top)
-
-## Historical Performance
-
-A model isn't very useful if it's not accurate. Below is our analysis on how various models considered by the CDC have performed over the past few weeks. Our model has consistently been the most accurate thus far, for both US and state-by-state projections.
-
-While past performance is not necessarily indicative of future performance, we believe it's important to consider a model's historical accuracy and not just a model's future forecasts and/or the creator's name recognition. It is also important to make sure that a model can perform better than the baseline.
-
-### US comparison
-
-![US comparison](/assets/images/2020-05-02_comparison_us.png)
-
-### State-by-state comparison
-
-![States comparison](/assets/images/2020-05-02_comparison_states.png)
-
-Projections taken from: [https://github.com/reichlab/covid19-forecast-hub](https://github.com/reichlab/covid19-forecast-hub)
-
-Truth data from Johns Hopkins: [https://github.com/CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19)
 
 ## Online Coverage
 
