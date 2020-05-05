@@ -111,7 +111,9 @@ As you can see above, their models made misguided projections for almost all of 
 | Spain | 25,100 | 24,624 | 31,854
 | France | 24,763 | 23,104 | 41,643
 
-As scientists, we update our models as new data becomes available. Models are going to make wrong predictions, but it's important that we correct them as soon as new data shows otherwise. The problem with IHME is that they refuse to recognize their wrong assumptions. Hence, they are perpetually making the same mistake over and over again: under-projecting.
+As scientists, we update our models as new data becomes available. Models are going to make wrong predictions, but it's important that we correct them as soon as new data shows otherwise. The problem with IHME is that they refuse to recognize their wrong assumptions for many weeks.
+
+As late as April 30, the director of the IHME, Dr. Chris Murray, appeared on a [CNN town hall](https://www.cnn.com/videos/health/2020/05/01/entire-april-30-coronavirus-town-hall-part-3-sot-vpx.cnn) and continued to advocate their model's 72,000 deaths projection by August. Four days later, they nearly doubled their projections to 135,000. On May 6, the US will exceed IHME's projections for August from just one week earlier.
 
 [Back to Top](#top)
 
