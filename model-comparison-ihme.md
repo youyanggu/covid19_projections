@@ -8,7 +8,7 @@ See [here](https://covid19-projections.com/about/#concerns-with-the-ihme-model) 
 
 ### Notes
 
-A ~~strikethrough~~ means that the current deaths have already exceeded the total projected deaths by August 4.
+A ~~strikethrough~~ means that the current deaths have already exceeded the total projected deaths as of May 4.
 
 \* Starting on April 15, we assume a relaxing of social distancing in US and Europe starting on June 1, leading to higher projections.
 
