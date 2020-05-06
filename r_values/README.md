@@ -4,7 +4,7 @@ Our data-driven model allows us to provide an estimate for the initial [basic re
 
 For each date, we provide our best estimate of the initial R0 and post-mitigation R *from data generated on that date*. For example, file `2020-04-24_r_values_us.csv` simply means that our estimates were generated on April 24, not that these were the R values on April 24. We not have day-by-day R estimates available at this time.
 
-View our [Infections Tracker](https://covid19-projections.com/infections-tracker/) page to see histograms of our latest R estimates.
+View our [Infections Tracker](https://covid19-projections.com/infections-tracker/) page to see histograms of our latest R estimates. See our [Model Details](https://covid19-projections.com/model-details/) page to learn more about how our model generates these estimates.
 
 While we only include a single value for each region in this directory, our model actually uses a weighted range of R values to make its projections. We also include an inflection date, which roughly represents the midpoint of the transition between the initial R0 and the post-mitigation R.
 
