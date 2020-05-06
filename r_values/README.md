@@ -13,5 +13,6 @@ The initial R0 is the R value before the inflection date, while the post-mitigat
 ## Notes
 
 * Please note that this is merely an estimate based on the data. The true R values can vary widely, even day-to-day.
+* Our initial R0 estimate is calculated based on all transmissions up to the inflection date. So if there is a gradual decline in transmission in the days/weeks leading up to the inflection date, it will result in a lower estimated R0 value. The mirror effect applies to the post-mitigation R.
 * Because these estimates are generated from daily death reports, they are highly sensitive to how deaths are being reported by each state/country. For example, California has a lower-than-expected R0 partly because there is a significant time lag in their deaths reporting. While this does not significantly affect our projections (assuming the lag is consistent), it will result in a lower R estimate than the true value.
 * Our post-mitigation R estimates may not accurately reflect the true situation for regions where no mitigation was applied, such as in Sweden and Brazil.
