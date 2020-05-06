@@ -203,7 +203,9 @@ That's why in addition to our most likely estimate, we also provide a 95% confid
 
 * Data frequency: Because our model uses only the daily death totals from each region to make projections, it will be more effective for regions where there are more available deaths data (such as New York) than regions where there are only a few reported deaths (such as Wyoming).
 
-* Seasonality: We currently do not factor in seasonality changes, as there has not been sufficient data/research into this area.
+* Seasonality: We currently do not explicitly factor in seasonality changes. However, if seasonality effects are reflected in the data, we will implicitly factor it in. It is possible that the effects of warmer temperatures may be partially offset by lockdown fatigue.
+
+* Lockdown fatigue: As shown in various mobility data and [our analysis](https://twitter.com/youyanggu/status/1255034262006333440) of the NYC subway data, an increasingly number of people have been moving around in the weeks following a lockdown. This may contribute to an increase in infections, which we currently do not explicitly incorporate.
 
 * Reporting differences: Different countries follow different guidelines on how they are reporting COVID-19 deaths. For example, Belgium is one of the most comprehensive countries when it comes to death reporting: they report all probable deaths as well as nursing home deaths. In contrast, United Kingdom only began including care home deaths starting on April 29, having only reported hospital deaths previously. Because we are projecting future reported deaths, our model assumes that the reporting guidelines remains constant for each country.
 
