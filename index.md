@@ -170,6 +170,7 @@ Countries are ordered by descending projected deaths (by 2020-08-04).
 
 |                                   |   Current Deaths |   Projected Deaths - Mean |   Additional Deaths (% of Current Deaths) |   Projected Deaths - 2.5th Percentile |   Projected Deaths - 97.5th Percentile |
 |-----------------------------------|------------------|---------------------------|-------------------------------------------|---------------------------------------|----------------------------------------|
+|                            Europe |          141,635 |                   213,548 |                                       51% |                               162,549 |                                341,112 |
 | [United Kingdom](/united-kingdom) |           29,501 |                    49,918 |                                       69% |                                34,854 |                                 86,140 |
 |                   [Italy](/italy) |           29,315 |                    39,957 |                                       36% |                                32,910 |                                 53,309 |
 |                 [France](/france) |           25,537 |                    33,460 |                                       31% |                                27,248 |                                 55,101 |
