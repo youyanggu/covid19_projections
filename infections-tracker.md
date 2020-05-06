@@ -8,9 +8,11 @@ Our model tries to do what no other model currently does (to the best of our kno
 
 ## R<sub>0</sub> value estimates
 
+*May 6 update:* You can now download our R estimates as csv files on [our GitHub](https://github.com/youyanggu/covid19_projections/tree/master/r_values).
+
 The below [basic reproduction number](https://en.wikipedia.org/wiki/Basic_reproduction_number) (R) estimates are what our model has learned for each state/region. While we present a single value for the purpose of this chart, our model actually uses a weighted range of R values to make its projections. The initial R<sub>0</sub> is the R value in early-to-mid March, right before states began implementing stay-at-home orders. We provide a longer explanation of how our model works [here](/model-details).
 
-Please note that this is merely an estimate based on the data. The true R values can vary widely, even day-to-day. For example, California has a lower-than-expected R<sub>0</sub> partly because there is a significant time lag in their deaths reporting. While this does not significantly affect our projections (assuming the lag is consistent), it will result in a lower R estimate than the true value.
+Please note that this is merely an estimate based on the data. The true R values can vary widely, even day-to-day. For example, California has a lower-than-expected R<sub>0</sub> partly because there is a significant time lag in their deaths reporting. While this does not significantly affect our projections (assuming the lag is consistent), it will result in a lower R estimate than the true value. Lastly, our post-mitigation R estimates may not accurately reflect the true situation for regions where no mitigation was applied, such as in Sweden and Brazil.
 
 {% include iframe_r_values.html %}
 
