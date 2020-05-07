@@ -7,7 +7,7 @@ permalink: /about/
 ## Table of contents
 * [About the Model](#about-the-model)
 * [How our Model is Different](#how-our-model-is-different)
-* [Who Are We](#who-are-we)
+* [Who We Are](#who-we-are)
 * [Historical Performance](#historical-performance)
 * [Concerns with the IHME model](#concerns-with-the-ihme-model)
 * [Data and Output](#data-and-output)
@@ -50,7 +50,7 @@ Another strength of our model is that because it is purely data-driven, it is qu
 
 [Back to Top](#top)
 
-## Who Are We
+## Who We Are
 
 covid19-projections.com is made by Youyang Gu, an independent data scientist. Youyang completed his Bachelor's and Master's degrees at the Massachusetts Institute of Technology (MIT) in Electrical Engineering & Computer Science. His expertise is in using machine learning to make accurate predictions. You can contact him [on Twitter](https://twitter.com/youyanggu) or by using the [Contact](/contact) page.
 
