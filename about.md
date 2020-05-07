@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Table of contents
 * [About the Model](#about-the-model)
-* [How our Model is Different](#how-our-model-is-different)
+* [How Our Model is Different](#how-our-model-is-different)
 * [Historical Performance](#historical-performance)
 * [Concerns with the IHME model](#concerns-with-the-ihme-model)
 * [Data and Output](#data-and-output)
@@ -26,7 +26,7 @@ We are currently making projections for: the United States, all 50 US states (pl
 
 [Click here](/model-details/) to read a more in-depth description of how our model operates.
 
-## How our Model is Different
+## How Our Model is Different
 
 Firstly, we are the only model [shared by the CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html) that receives no public funding, making us a completely independent entity.
 
