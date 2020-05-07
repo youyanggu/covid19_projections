@@ -88,8 +88,6 @@ There are existing news articles such as [Vox](https://www.vox.com/future-perfec
 
 In the words of Ruth Etzioni, an epidemiologist at Seattle’s Fred Hutchinson Cancer Research Center, “that \[the IHME model\] is being used for policy decisions and its results interpreted wrongly is a travesty unfolding before our eyes.”
 
-In essence, their model is based on fitting a mathethetical curve with no basis in epidemiology or disease modeling. As a result, some of their projections do not pass what we call the "common sense test". Below are a few more examples.
-
 [Back to Top](#top)
 
 ### Sample Summary of IHME Inaccurate Predictions
@@ -120,7 +118,7 @@ As you can see above, their models made misguided projections for almost all of 
 
 As scientists, we update our models as new data becomes available. Models are going to make wrong predictions, but it's important that we correct them as soon as new data shows otherwise. The problem with IHME is that they refuse to recognize their wrong assumptions for many weeks.
 
-As late as April 30, the director of the IHME, Dr. Chris Murray, appeared on a [CNN town hall](https://www.cnn.com/videos/health/2020/05/01/entire-april-30-coronavirus-town-hall-part-3-sot-vpx.cnn) and continued to advocate their model's 72,000 deaths projection by August. Four days later, they nearly doubled their projections to 135,000. On May 6, the US will exceed IHME's projections for August from just one week earlier.
+As late as April 30, the director of the IHME, Dr. Chris Murray, appeared on a [CNN town hall](https://www.cnn.com/videos/health/2020/05/01/entire-april-30-coronavirus-town-hall-part-3-sot-vpx.cnn) and continued to advocate their model's 72,000 deaths projection by August. Four days later, they nearly doubled their projections to 135,000. On May 6, the US exceeded IHME's projections for August from just one week earlier.
 
 [Back to Top](#top)
 
@@ -141,6 +139,8 @@ Most transmissions do not happen with strangers, but rather close contacts. Even
 We posted [a Tweet](https://twitter.com/youyanggu/status/1248844841733128192) on April 11 about MTA (NYC) and BART (Bay Area) subway ridership being down 90% in March. However, the deaths have only dropped around 25% in NY, while CA has yet to see sharp decrease in deaths in April, more than a month after the drop in ridership.
 
 ### Technical Flaw
+
+*May 4 Update: IHME completely overhauled their previous model to now use an SEIR model. Our model is based in SEIR and that has not changed since we first began making projections on April 1.*
 
 On top of everything we mentioned above, their model is also inherently flawed from a mathematical perspective. They try to model COVID-19 infections using a [Gaussian error function](https://en.wikipedia.org/wiki/Error_function). The problem is that the Gaussian error function is by design *symmetric*, meaning that the curve comes down from the peak at the same rate as it goes up. Unfortunately, this has not been the case for COVID-19: we come down from the peak at a much slower pace. This leads to a significant under-projection in IHME's model, which we have thoroughly highlighted. University of Washington biology professor Dr. Carl T. Bergostrom discussed this in more detail in this highly informative [series of Tweets](https://twitter.com/CT_Bergstrom/status/1250304069119275009).
 
