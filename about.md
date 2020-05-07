@@ -52,7 +52,7 @@ Another strength of our model is that because it is purely data-driven, it is qu
 
 ## Who Are We
 
-covid19-projections.com is made by Youyang Gu, an independent data scientist. You can contact him by using the [Contact](/contact) page.
+covid19-projections.com is made by Youyang Gu, an independent data scientist. You can contact him [on Twitter](https://twitter.com/youyanggu) or by using the [Contact](/contact) page.
 
 ## Historical Performance
 
