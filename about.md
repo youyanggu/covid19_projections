@@ -219,7 +219,7 @@ While we attempt our best to ensure accuracy and precision, no model is perfect,
 
 ### Government
 
-* [Center for Disease Control and Prevention (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)
+* [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)
 * [Washington State COVID-19 Dashboard](https://coronavirus.wa.gov/what-you-need-know/covid-19-risk-assessment-dashboard)
 
 ### Media
