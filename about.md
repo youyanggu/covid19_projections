@@ -240,6 +240,8 @@ While we attempt our best to ensure accuracy and precision, no model is perfect,
 
 covid19-projections.com is made by Youyang Gu, an independent data scientist. Youyang completed his Bachelor's and Master's degrees at the Massachusetts Institute of Technology (MIT) in Electrical Engineering & Computer Science. His expertise is in using machine learning to make accurate predictions. You can contact him [on Twitter](https://twitter.com/youyanggu) or by using the [Contact](/contact) page.
 
+[Back to Top](#top)
+
 ## Updates
 
 2020-04-30
