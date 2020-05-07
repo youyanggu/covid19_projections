@@ -7,13 +7,13 @@ permalink: /about/
 ## Table of contents
 * [About the Model](#about-the-model)
 * [How our Model is Different](#how-our-model-is-different)
-* [Who We Are](#who-we-are)
 * [Historical Performance](#historical-performance)
 * [Concerns with the IHME model](#concerns-with-the-ihme-model)
 * [Data and Output](#data-and-output)
 * [Assumptions](#assumptions)
 * [Limitations](#limitations)
 * [Government/Media Coverage](#online-coverage)
+* [Who We Are](#who-we-are)
 * [Updates](#updates)
 
 ## About the Model
@@ -49,10 +49,6 @@ See an [analysis of our model](https://twitter.com/CT_Bergstrom/status/125534384
 Another strength of our model is that because it is purely data-driven, it is quick to run and easy to regenerate. Unlike other models that are only updated once every few days, our model is updated on a daily basis, leading to more accurate projections.
 
 [Back to Top](#top)
-
-## Who We Are
-
-covid19-projections.com is made by Youyang Gu, an independent data scientist. Youyang completed his Bachelor's and Master's degrees at the Massachusetts Institute of Technology (MIT) in Electrical Engineering & Computer Science. His expertise is in using machine learning to make accurate predictions. You can contact him [on Twitter](https://twitter.com/youyanggu) or by using the [Contact](/contact) page.
 
 ## Historical Performance
 
@@ -239,6 +235,10 @@ While we attempt our best to ensure accuracy and precision, no model is perfect,
 * [Reason](https://reason.com/2020/05/01/covid-19-modeling-how-many-coronavirus-deaths-by-the-end-of-summer/) - May 1
 * [Courthouse News](https://www.courthousenews.com/atlanta-businesses-navigate-uncharted-waters-as-georgia-reopens/) - May 6
 * [ABC15 Arizona](https://www.abc15.com/news/state/arizona-sees-21-deaths-reported-in-24-hours) - April 21
+
+## Who We Are
+
+covid19-projections.com is made by Youyang Gu, an independent data scientist. Youyang completed his Bachelor's and Master's degrees at the Massachusetts Institute of Technology (MIT) in Electrical Engineering & Computer Science. His expertise is in using machine learning to make accurate predictions. You can contact him [on Twitter](https://twitter.com/youyanggu) or by using the [Contact](/contact) page.
 
 ## Updates
 
