@@ -7,6 +7,7 @@ permalink: /about/
 ## Table of contents
 * [About the Model](#about-the-model)
 * [How our Model is Different](#how-our-model-is-different)
+* [Who Are We](#who-are-we)
 * [Historical Performance](#historical-performance)
 * [Concerns with the IHME model](#concerns-with-the-ihme-model)
 * [Data and Output](#data-and-output)
@@ -48,6 +49,10 @@ See an [analysis of our model](https://twitter.com/CT_Bergstrom/status/125534384
 Another strength of our model is that because it is purely data-driven, it is quick to run and easy to regenerate. Unlike other models that are only updated once every few days, our model is updated on a daily basis, leading to more accurate projections.
 
 [Back to Top](#top)
+
+## Who Are We
+
+covid19-projections.com is made by Youyang Gu, an independent data scientist. You can contact him by using the [Contact](/contact) page.
 
 ## Historical Performance
 
