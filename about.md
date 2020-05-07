@@ -198,7 +198,9 @@ That's why in addition to our most likely estimate, we also provide a 95% confid
 
 ### Additional limitations
 
-* Day of week factors: We currently do not account for day-of-week factors in death reporting. According to [our analysis](https://twitter.com/youyanggu/status/1251779534422073344), deaths reported on Sunday/Monday are about 60% of that of Tuesday-Thursday. So we expect on average that our projections will be higher than Sunday/Monday reports and lower than our Tuesday-Thursday reports.
+* Day-of-week factors: We currently do not account for day-of-week factors in death reporting. According to [our analysis](https://twitter.com/youyanggu/status/1251779534422073344), deaths reported on Sunday/Monday are about 60% of that of Tuesday-Thursday. So we expect on average that our projections will be higher than Sunday/Monday reports and lower than our Tuesday-Thursday reports. 
+
+* Confidence intervals: Due to the aforementioned day-of-week factors and various reporting noises (e.g. states sometimes report 0 on one day and make up for it on the next day), we recommend smoothing daily reported deaths before comparing them to our daily confidence intervals.
 
 * Data frequency: Because our model uses only the daily death totals from each region to make projections, it will be more effective for regions where there are more available deaths data (such as New York) than regions where there are only a few reported deaths (such as Wyoming).
 
