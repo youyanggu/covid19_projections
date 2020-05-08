@@ -7,7 +7,7 @@ On this page:
 * [Summary of US projections](#us-summary)
 * [Summary of global projections](#europe-summary)
 
-**State-by-state Reopenings:** To date, we are the only model [referenced by the CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html) that factors in individual state re-openings. We update each US state's reopening timeline according to [The New York Times](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html). Learn more about our social distancing assumptions [here](/about/#assumptions).
+**State-by-state Reopenings:** To date, we are the few models [referenced by the CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html) that factors in individual state re-openings. We update each US state's reopening timeline according to [The New York Times](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html). Learn more about our social distancing assumptions [here](/about/#assumptions).
 
 ## Current Projection for US - Updated Daily - Last Updated: May 7 (6am ET):
 <p align="center">
