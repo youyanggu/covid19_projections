@@ -30,7 +30,7 @@ We are currently making projections for: the United States, all 50 US states (pl
 
 Firstly, we are the only model [shared by the CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html) that receives no public funding, making us a completely independent entity.
 
-We are also the only model shared by the CDC that factors in individual state-by-state or country-by-country re-openings, allowing us to make more realistic projections.
+We are also one of the only models shared by the CDC that factors in individual state-by-state or country-by-country re-openings, allowing us to make more realistic projections.
 
 Next, unlike other models that try to create complex mathematical equations to "fit a curve" without an intuitive explanation as to why it works, we try to simulate what is happening in the real world. We model the disease exactly how they progress in reality: we start off with the entire population in a region, then on each day a certain proportion becomes infected, and those individuals spread the infections to others, and so forth. This makes our model easy to interpret and understand.
 
