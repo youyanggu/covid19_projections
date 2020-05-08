@@ -164,7 +164,7 @@ States are ordered by descending projected deaths (by August 4).
 
 ### Europe Summary
 
-Countries are ordered by descending projected deaths (by 2020-08-04).
+Countries are ordered by descending projected deaths (by 2020-08-04). Our Europe estimates currently only include the 27 European Union countries plus United Kingdom, Switzerland, and Norway.
 
 |                                   |   Current Deaths |   Projected Deaths - Mean |   Additional Deaths - Mean |   Additional Deaths (% of Current Deaths) |   Projected Deaths - 2.5th Percentile |   Projected Deaths - 97.5th Percentile |
 |-----------------------------------|------------------|---------------------------|----------------------------|-------------------------------------------|---------------------------------------|----------------------------------------|
