@@ -7,8 +7,8 @@ permalink: /about/
 ## Table of contents
 * [About the Model](#about-the-model)
 * [How Our Model is Different](#how-our-model-is-different)
-* [Historical Performance](#historical-performance)
 * [Concerns with the IHME model](#concerns-with-the-ihme-model)
+* [Historical Performance](#historical-performance)
 * [Data and Output](#data-and-output)
 * [Assumptions](#assumptions)
 * [Limitations](#limitations)
@@ -25,6 +25,8 @@ The goal of this project is to showcase the strengths of artificial intelligence
 We are currently making projections for: the United States, all 50 US states (plus DC, PR, VI, Guam) and 40 countries (including all 27 EU countries).
 
 [Click here](/model-details/) to read a more in-depth description of how our model operates.
+
+[Back to Top](#top)
 
 ## How Our Model is Different
 
@@ -47,28 +49,6 @@ Our model is agnostic to the region, enabling us to make projections for all 50 
 See an [analysis of our model](https://twitter.com/CT_Bergstrom/status/1255343846445195266) by Dr. Carl T. Bergstrom, Professor of Biology at the Univeristy of Washington. 
 
 Another strength of our model is that because it is purely data-driven, it is quick to run and easy to regenerate. Unlike other models that are only updated once every few days, our model is updated on a daily basis, leading to more accurate projections.
-
-[Back to Top](#top)
-
-## Historical Performance
-
-A model isn't very useful if it's not accurate. Below is our analysis on how various models considered by the CDC have performed over the past few weeks. Because the CDC receives weekly projections from every Monday, we use projections from Monday, April 20 and Monday, April 27 to evaluate the models.
-
-Note that the IHME model, a model frequently cited by the White House and media, performed 13th out of 15 models for its US projections from April 27 and 7th out of 15 for its state-by-state projections. Meanwhile, a baseline model that simply uses the previous week's average deaths to make future projections finished 4th out of 15 models for US projections from April 27 and 2nd out of 15 for state-by-state projections.
-
-### US projections
-
-![US comparison](/assets/images/2020-05-02_comparison_us.png)
-
-### State-by-state projections
-
-![States comparison](/assets/images/2020-05-02_comparison_states.png)
-
-While past performance is not necessarily indicative of future performance, we believe it's important to consider a model's historical accuracy and not just a model's future forecasts and/or the creator's name recognition. It is also important to make sure that a model can perform better than the baseline.
-
-Projections taken from: [https://github.com/reichlab/covid19-forecast-hub](https://github.com/reichlab/covid19-forecast-hub)
-
-Truth data from Johns Hopkins: [https://github.com/CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19)
 
 [Back to Top](#top)
 
@@ -145,6 +125,28 @@ On top of everything we mentioned above, their model is also inherently flawed f
 [Click here](/model-comparison-ihme) to see how our projections have changed over time, compared with the IHME model.
 
 To conclude, we believe that a successful model must be able to quickly determine what is realistic and what is not, and the above examples highlights our main concerns with the IHME model.
+
+[Back to Top](#top)
+
+## Historical Performance
+
+A model isn't very useful if it's not accurate. Below is our analysis on how various models considered by the CDC have performed over the past few weeks. Because the CDC receives weekly projections from every Monday, we use projections from Monday, April 20 and Monday, April 27 to evaluate the models.
+
+Note that the IHME model, a model frequently cited by the White House and media, performed 13th out of 15 models for its US projections from April 27 and 7th out of 15 for its state-by-state projections. Meanwhile, a baseline model that simply uses the previous week's average deaths to make future projections finished 4th out of 15 models for US projections from April 27 and 2nd out of 15 for state-by-state projections.
+
+### US projections
+
+![US comparison](/assets/images/2020-05-02_comparison_us.png)
+
+### State-by-state projections
+
+![States comparison](/assets/images/2020-05-02_comparison_states.png)
+
+While past performance is not necessarily indicative of future performance, we believe it's important to consider a model's historical accuracy and not just a model's future forecasts and/or the creator's name recognition. It is also important to make sure that a model can perform better than the baseline.
+
+Projections taken from: [https://github.com/reichlab/covid19-forecast-hub](https://github.com/reichlab/covid19-forecast-hub)
+
+Truth data from Johns Hopkins: [https://github.com/CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19)
 
 [Back to Top](#top)
 
