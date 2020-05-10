@@ -256,7 +256,7 @@ Below, we show how our (C19Pro) August 4 projections for the US has changed over
 
 ## Who We Are
 
-covid19-projections.com is made by Youyang Gu, an independent data scientist. Youyang completed his Bachelor's degree at the Massachusetts Institute of Technology (MIT), double-majoring in Electrical Engineering & Computer Science and Mathematics. He also received his Masters degree at MIT, completing his thesis as part of the Natural Language Processing group. His expertise is in using machine learning to understand data and make accurate predictions. You can contact him [on Twitter](https://twitter.com/youyanggu) or by using the [Contact](/contact) page.
+covid19-projections.com is made by Youyang Gu, an independent data scientist. Youyang completed his Bachelor's degree at the Massachusetts Institute of Technology (MIT), double-majoring in Electrical Engineering & Computer Science and Mathematics. He also received his Masters degree at MIT, completing his thesis as part of the Natural Language Processing group at the MIT Computer Science & Artificial Intelligence Laboratory. His expertise is in using machine learning to understand data and make accurate predictions. You can contact him [on Twitter](https://twitter.com/youyanggu) or by using the [Contact](/contact) page.
 
 [Back to Top](#top)
 
