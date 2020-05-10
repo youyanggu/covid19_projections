@@ -95,7 +95,7 @@ As you can see above, their models made misguided projections for almost all of 
 
 As scientists, we update our models as new data becomes available. Models are going to make wrong predictions, but it's important that we correct them as soon as new data shows otherwise. The problem with IHME is that they refused to recognize and update their wrong assumptions for many weeks. Throughout April, millions of Americans were falsely led to believe that the epidemic would be over by June because of IHME's projections.
 
-As late as April 30, the director of the IHME, Dr. Chris Murray, appeared on a [CNN town hall](https://www.cnn.com/videos/health/2020/05/01/entire-april-30-coronavirus-town-hall-part-3-sot-vpx.cnn) and continued to advocate their model's 72,000 deaths projection by August. Four days later, they nearly doubled their projections to 135,000. One week after Dr. Murray's CNN appearance, the US surpassed his 72,000 deaths by August estimate.
+As late as April 30, the director of the IHME, Dr. Chris Murray, [appeared on CNN](https://www.cnn.com/videos/health/2020/05/01/entire-april-30-coronavirus-town-hall-part-3-sot-vpx.cnn) and continued to advocate their model's 72,000 deaths projection by August. On that day, the US reported 63,000 deaths with an average of 2,000 deaths per day. Four days later, IHME nearly doubled their projections to 135,000 deaths by August. One week after Dr. Murray's CNN appearance, the US surpassed his 72,000 deaths by August estimate. Why go on national televion and proclaim 72,000 deaths by August if you know that your projections will double four days later?
 
 [Back to Top](#top)
 
