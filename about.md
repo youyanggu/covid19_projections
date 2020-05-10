@@ -227,6 +227,8 @@ Below, we show how our (C19Pro) August 4 projections for the US has changed over
 
 {% include iframe_historical.html %}
 
+[Back to Top](#top)
+
 ## Online Coverage
 
 ### Government
@@ -249,6 +251,8 @@ Below, we show how our (C19Pro) August 4 projections for the US has changed over
 * [Reason](https://reason.com/2020/05/01/covid-19-modeling-how-many-coronavirus-deaths-by-the-end-of-summer/) - May 1
 * [Courthouse News](https://www.courthousenews.com/atlanta-businesses-navigate-uncharted-waters-as-georgia-reopens/) - May 6
 * [ABC15 Arizona](https://www.abc15.com/news/state/arizona-sees-21-deaths-reported-in-24-hours) - April 21
+
+[Back to Top](#top)
 
 ## Who We Are
 
