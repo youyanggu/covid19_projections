@@ -12,6 +12,7 @@ permalink: /about/
 * [Data and Output](#data-and-output)
 * [Assumptions](#assumptions)
 * [Limitations](#limitations)
+* [Historical US Projections](#historical-us-projections)
 * [Government/Media Coverage](#online-coverage)
 * [Who We Are](#who-we-are)
 * [Updates](#updates)
