@@ -223,7 +223,9 @@ While we attempt our best to ensure accuracy and precision, no model is perfect,
 
 Below, we show how our (C19Pro) August 4 projections for the US has changed over time, compared to IHME. We also show a comparison of the latest projections.
 
-Note that for the entire month of April, IHME projected between 60,000-73,000 deaths by August, all while deaths increased by an average of 2,000 per day. Furthermore, while we update our projections daily, IHME updates their projections once or twice a week.
+Note that for the entire month of April, IHME projected between 60,000-73,000 deaths by August, all while deaths increased by an average of 2,000 per day. All of their August projections from April were surpassed by May 6.
+
+Also note that while we update our projections daily, IHME only updates their projections once or twice a week.
 
 {% include iframe_historical.html %}
 
