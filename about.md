@@ -223,7 +223,7 @@ While we attempt our best to ensure accuracy and precision, no model is perfect,
 
 ## Historical US Projections
 
-Below, we show how our August 4 projections for the US has changed over time, compared to IHME. We also show a comparison of the latest projections.
+Below, we show how our (C19Pro) August 4 projections for the US has changed over time, compared to IHME. We also show a comparison of the latest projections. Note that while IHME updates their projections 1-2x a week, we update our projections daily.
 
 {% include iframe_historical.html %}
 
