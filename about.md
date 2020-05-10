@@ -121,7 +121,7 @@ We posted [a Tweet](https://twitter.com/youyanggu/status/1248844841733128192) on
 
 On top of everything we mentioned above, their model is also inherently flawed from a mathematical perspective. They try to model COVID-19 infections using a [Gaussian error function](https://en.wikipedia.org/wiki/Error_function). The problem is that the Gaussian error function is by design *symmetric*, meaning that the curve comes down from the peak at the same rate as it goes up. Unfortunately, this has not been the case for COVID-19: we come down from the peak at a much slower pace. This leads to a significant under-projection in IHME's model, which we have thoroughly highlighted. University of Washington biology professor Dr. Carl T. Bergostrom discussed this in more detail in this highly informative [series of Tweets](https://twitter.com/CT_Bergstrom/status/1250304069119275009).
 
-[Click here](/model-comparison-ihme) to see how our projections have changed over time, compared with the IHME model.
+[Click here](#historical-us-projections) to see how our projections have changed over time, compared with the IHME model. For a comparison of April projections for several heavily-impacted states and countries, [click here](/model-comparison-ihme).
 
 To conclude, we believe that a successful model must be able to quickly determine what is realistic and what is not, and the above examples highlights our main concerns with the IHME model.
 
