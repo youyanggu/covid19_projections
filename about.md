@@ -220,6 +220,12 @@ While we attempt our best to ensure accuracy and precision, no model is perfect,
 
 [Back to Top](#top)
 
+## Historical US Projections
+
+Below, we show how our August 4 projections for the US has changed over time, compared to IHME. We also show a comparison of the latest projections.
+
+{% include iframe_historical.html %}
+
 ## Online Coverage
 
 ### Government
