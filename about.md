@@ -33,7 +33,7 @@ We are currently making projections for: the United States, all 50 US states (pl
 
 Firstly, we are the only model [shared by the CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html) that receives no public funding, making us a completely independent entity.
 
-We are also one of the only models shared by the CDC that factors in individual state-by-state or country-by-country re-openings, allowing us to make more realistic projections.
+We are also one of the only models shared by the CDC that factors in individual state-by-state or country-by-country reopenings, allowing us to make more realistic projections.
 
 Next, unlike other models that try to create complex mathematical equations to "fit a curve", we try to simulate the disease exactly how they progress in reality: we start off with the entire population in a region, then on each day a certain proportion becomes infected, and those individuals spread the infections to others, and so forth. This makes our model easy to interpret and understand.
 
@@ -41,7 +41,7 @@ As an example, one of the most important properties for any infectious disease i
 
 To see our estimates of R values for every state and country, see our [Infections Tracker](https://covid19-projections.com/infections-tracker/) page.
 
-We can learn more from the model than just the R<sub>0</sub>. For example, our model determined that the true mortality rate (IFR) for COVID-19 in most regions in the world is [around 1%](https://twitter.com/youyanggu/status/1256051255253757953). This is largely consistent with what [scientists have found](https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2020.00455), despite the fact that the case mortality rate is much higher (e.g. Italy is at 13-14%). The model can also determine when people in a region started social-distancing. For New York, this inflection point is determined to be around March 14, which closely matches the [NYC subway ridership data](https://twitter.com/youyanggu/status/1248844841733128192).
+We can learn more from the model than just the R<sub>0</sub>. For example, our model determined that the true mortality rate (IFR) for COVID-19 in most regions in the world is [around 1%](https://twitter.com/youyanggu/status/1256051255253757953). This is largely consistent with what [scientists have found](https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2020.00455), despite the fact that the case mortality rate is much higher (e.g. Italy is at 13-14%). The model can also determine when people in a region started social distancing. For New York, this inflection point is determined to be around March 14, which closely matches the [NYC subway ridership data](https://twitter.com/youyanggu/status/1248844841733128192).
 
 We have a strong validation system to make sure that all of our updates pass out-of-sample validation before they can be included in the model. This allows us to better differentiate the signal from the noise and be more resistant to outliers. Because all of our assumptions and projections are verified on all 50 states as well as 40 countries, we are able to create more robust projections.
 
@@ -55,7 +55,7 @@ Another strength of our model is that because it is purely data-driven, it is qu
 
 ## Concerns with the IHME model
 
-In this section we will compare our projections with a popular model developed by the [Institute for Health Metrics and Evaluation (IHME)](https://covid19.healthdata.org/) and commonly referred to by the White House and media. We compare our projections (C19Pro) with IHME below for US, New York, Michigan, New Jersey, California and Italy, some of the most heavily-impacted regions.
+In this section we will compare our projections with a popular model developed by the [Institute for Health Metrics and Evaluation (IHME)](https://covid19.healthdata.org/) and commonly referred to by the White House and media. We compare our projections (C19Pro) with IHME below for US, New York, Michigan, New Jersey, California and Italy, some of the most heavily impacted regions.
 
 {% include iframe_ny_comparison.html %}
 
@@ -81,7 +81,7 @@ In their April 15 model, the death toll that IHME projected will take *four mont
 | Spain | 21,282 | 18,713 | 31,854
 | France | 20,829 | 17,448 | 41,643
 
-As you can see above, their models made misguided projections for almost all of the worst-impacted regions in the world. The most alarming thing is that they continue to make low projections. Below is their projections from April 21. All of the below projections were exceeded by May 2, just a mere 11 days later:
+As you can see above, their models made misguided projections for almost all of the worst impacted regions in the world. The most alarming thing is that they continue to make low projections. Below is their projections from April 21. All of the below projections were exceeded by May 2, just a mere 11 days later:
 
 |  | May 2 Total Deaths | IHME Aug proj. deaths from Apr 21 | Our Aug proj. deaths from Apr 21
 | --- | --- | --- | --- |
@@ -111,7 +111,7 @@ New data is extremely important when making projections such as these. That's wh
 
 ### Mobility Data
 
-On [April 17](http://www.healthdata.org/news-release/ihme-hold-media-briefing-4-pm-eastern-today-details-below), IHME stated that they are incoroprating new cell phone mobility data which indicate that people have been properly practicing social distancing: *"These data suggest that mobility and presumably social contact have declined in certain states earlier than the organization’s modeling predicted, especially in the South."* As a result, IHME lowered their projections from 68k deaths to 60k deaths by August. Their critical flaw is that they assume a linear relationship between lower mobility and lower infection - this is not the case.
+On [April 17](http://www.healthdata.org/news-release/ihme-hold-media-briefing-4-pm-eastern-today-details-below), IHME stated that they are incorporating new cell phone mobility data which indicate that people have been properly practicing social distancing: *"These data suggest that mobility and presumably social contact have declined in certain states earlier than the organization’s modeling predicted, especially in the South."* As a result, IHME lowered their projections from 68k deaths to 60k deaths by August. Their critical flaw is that they assume a linear relationship between lower mobility and lower infection - this is not the case.
 
 Most transmissions do not happen with strangers, but rather close contacts. Even if you reduce your mobility by 90%, you do not reduce your transmission by 90%. The data from Italy shows that it only reduces by around 60%. That's the difference between 20k and 40k+ deaths. IHME was likely making the wrong assumption that a 90% reduction in mobility will decrease transmission by 90%. [Here](https://twitter.com/mugecevik/status/1257392347010215947) is a compilation from infectious disease expert Dr. Muge Cevik showing that household contacts were the most likely to be infected.
 
@@ -163,7 +163,7 @@ Truth data from Johns Hopkins: [https://github.com/CSSEGISandData/COVID-19](http
 
 ## Data and Output
 
-To make our projections, we use the daily death total provided by [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports), what is considered by experts to be the "gold standard" reference data. We do not use case-related data in our modeling due to reasonings alluded to [here](https://fivethirtyeight.com/features/coronavirus-case-counts-are-meaningless/).
+To make our projections, we use the daily death total provided by [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports), what is considered by experts to be the "gold standard" reference data. We do not use case-related data in our modeling due to reasoning alluded to [here](https://fivethirtyeight.com/features/coronavirus-case-counts-are-meaningless/).
 
 Every day, raw daily projections for all 50 US states and select international countries will be uploaded onto our [GitHub page](https://github.com/youyanggu/covid19_projections/tree/master/projections). We are projecting future deaths as reported by Johns Hopkins CSSE. For the US, this includes both **confirmed and probable deaths**.
 
@@ -183,7 +183,7 @@ Every day, raw daily projections for all 50 US states and select international c
 
 Heavy social distancing is what we have now in many states and countries: stay-at-home orders, closed non-essential businesses, etc. Infection rates typically decrease ~60%, going from an R<sub>0</sub> of around 2 to an R of 0.6-1.0. As long as R, a measure of how many people an infected person infects on average, is less than 1, infections will decrease over time. If R is greater than 1, then the infection curve will rise. Hence, the ultimate goal is to keep R under 1.
 
-Moderate social distancing is what we assume will happen once states and countries gradually begin relaxing their social distancing guidelines. Some establishments will re-open, but people will still be somewhat cognizant about maintaining social distancing. Most states and countries will have guidelines that aim to maximize social distancing and minimize close contact, such as enforcing capacity limits and recommending mask-wearing. We assume that infection rates will increase 0-20%, resulting in an R of around 0.8-1.2. Note that this is still a lower infection rate than what it was prior to the outbreak for most regions.
+Moderate social distancing is what we assume will happen once states and countries gradually begin relaxing their social distancing guidelines. Some establishments will reopen, but people will still be somewhat cognizant about maintaining social distancing. Most states and countries will have guidelines that aim to maximize social distancing and minimize close contact, such as enforcing capacity limits and recommending mask-wearing. We assume that infection rates will increase 0-20%, resulting in an R of around 0.8-1.2. Note that this is still a lower infection rate than what it was prior to the outbreak for most regions.
 
 If regions impose stricter social distancing guidelines than our assumptions listed above, then we will likely see a lower infections and death rate than the current projections. Conversely, if regions impose looser guidelines, then we will likely see a higher infections and death rate. For example, if California reopens before June 1, there will be an increased chance of an earlier resurgence. Or if a state required all residents to wear masks, the likelihood of a steep increase in infections will decrease, according to some recent studies ([[1]](https://www.nature.com/articles/s41591-020-0843-2), [[2]](https://www.preprints.org/manuscript/202004.0203/v1), [[3]](https://www.sciencetimes.com/articles/25410/20200421/austria-90-drop-coronavirus-cases-requiring-people-wear-face-masks.htm)).
 
@@ -193,7 +193,7 @@ In regions where the outbreak has not yet been fully contained, it is possible t
 
 #### Second lockdown
 
-We assume that states with a second outbreak will take actions to reduce transmission, such as increased contact tracing, mandatory mask wearing, improved treatment, etc. In the case where the infections curve continue to rise exponentially after a reopening, it may become necessary for regions to impose a second lockdown. A second lockdown was seen in numerous Asian countries where a second wave occured, including in [Japan](https://time.com/5826918/hokkaido-coronavirus-lockdown/), [Hong Kong](https://fortune.com/2020/04/21/hong-kong-coronavirus-second-wave-response/), and [Singapore](https://www.usnews.com/news/world-report/articles/2020-04-24/singapore-sees-second-wave-of-coronavirus-with-900-new-cases). Our model incorporates the concept of a second lockdown, which we estimate will happen approximately 30 days after the reopening. A second lockdown is only necessary if the effective reproductive number (R) is greater than 1.
+We assume that states with a second outbreak will take actions to reduce transmission, such as increased contact tracing, mandatory mask wearing, improved treatment, etc. In the case where the infections curve continue to rise exponentially after a reopening, it may become necessary for regions to impose a second lockdown. A second lockdown was seen in numerous Asian countries where a second wave occurred, including in [Japan](https://time.com/5826918/hokkaido-coronavirus-lockdown/), [Hong Kong](https://fortune.com/2020/04/21/hong-kong-coronavirus-second-wave-response/), and [Singapore](https://www.usnews.com/news/world-report/articles/2020-04-24/singapore-sees-second-wave-of-coronavirus-with-900-new-cases). Our model incorporates the concept of a second lockdown, which we estimate will happen approximately 30 days after the reopening. A second lockdown is only necessary if the effective reproductive number (R) is greater than 1.
 
 ### Infections Estimate
 
@@ -270,7 +270,7 @@ Also note that while we update our projections daily, IHME only updates their pr
 
 ## Who We Are
 
-*covid19-projections.com* is made by Youyang Gu, an independent data scientist. Youyang completed his Bachelor's degree at the Massachusetts Institute of Technology (MIT), double-majoring in Electrical Engineering & Computer Science and Mathematics. He also received his Masters degree at MIT, completing his thesis as part of the [Natural Language Processing group](http://nlp.csail.mit.edu/) at the [MIT Computer Science & Artificial Intelligence Laboratory](https://www.csail.mit.edu/). His expertise is in using machine learning to understand data and make accurate predictions. You can contact him [on Twitter](https://twitter.com/youyanggu) or by using the [Contact](/contact) page.
+*covid19-projections.com* is made by Youyang Gu, an independent data scientist. Youyang completed his Bachelor's degree at the Massachusetts Institute of Technology (MIT), double majoring in Electrical Engineering & Computer Science and Mathematics. He also received his Masters degree at MIT, completing his thesis as part of the [Natural Language Processing group](http://nlp.csail.mit.edu/) at the [MIT Computer Science & Artificial Intelligence Laboratory](https://www.csail.mit.edu/). His expertise is in using machine learning to understand data and make accurate predictions. You can contact him [on Twitter](https://twitter.com/youyanggu) or by using the [Contact](/contact) page.
 
 [Back to Top](#top)
 
