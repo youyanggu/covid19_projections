@@ -9,9 +9,9 @@ On this page:
 
 **State-by-state Reopenings:** To date, we are the few models [referenced by the CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html) that factors in individual state re-openings. We update each US state's reopening timeline according to [The New York Times](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html). Learn more about our social distancing assumptions [here](/about/#assumptions).
 
-## Current Projection for US - Updated Daily - Last Updated: May 10 (2am ET):
+## Current Projection for US - Updated Daily - Last Updated: May 11 (4am ET):
 <p align="center">
-  Current Total: <b>78,792</b> deaths | Projected Total: <b>188,698</b> deaths by Aug 4, 2020 (Range: 110-332k)<br>
+  Current Total: <b>79,523</b> deaths | Projected Total: <b>188,190</b> deaths by Aug 4, 2020 (Range: 109-333k)<br>
   Currently Infected: <b>0.6%</b> | Total Infected: <b>3.0%</b> {% include iframe.html %}
 </p>
 
