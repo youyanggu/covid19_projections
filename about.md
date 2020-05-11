@@ -97,6 +97,8 @@ As scientists, we update our models as new data becomes available. Models are go
 
 On April 30, the director of the IHME, Dr. Chris Murray, [appeared on CNN](https://www.cnn.com/videos/health/2020/05/01/entire-april-30-coronavirus-town-hall-part-3-sot-vpx.cnn) and continued to advocate their model's 72,000 deaths projection by August. On that day, the US reported 63,000 deaths, with 13,000 deaths coming from the previous week alone. Four days later, IHME nearly doubled their projections to 135,000 deaths by August. One week after Dr. Murray's CNN appearance, the US surpassed his 72,000 deaths by August estimate. Why go on national televion and proclaim 72,000 deaths by August if you know that your projections will double four days later?
 
+Unfortunately, by the time IHME revised their projections in May, millions of Americans have heard their 60,000-70,000 estimate. It may take a while to undo that misconception and undo the policies that were put in place as a result of this misleading estimate.
+
 [Back to Top](#top)
 
 ### US June-August
