@@ -209,13 +209,13 @@ That's why in addition to our most likely estimate, we also provide a 95% confid
 
 * Seasonality: We currently do not explicitly factor in seasonality changes. A [May 8 study](https://www.cmaj.ca/content/cmaj/early/2020/05/08/cmaj.200920.full.pdf) of 144 geopolitical areas finds no significant correlation between temperature transmission. However, if seasonality effects are reflected in the data, we will implicitly factor it in. It is possible that the effects of warmer temperatures may be partially offset by lockdown fatigue.
 
-* Lockdown fatigue: As shown in various mobility data and [our analysis](https://twitter.com/youyanggu/status/1255034262006333440) of the NYC subway data, an increasingly number of people have been moving around in the weeks following a lockdown. This may contribute to an increase in infections, which we currently do not explicitly incorporate.
+* Lockdown fatigue: As shown in various mobility data and [our analysis](https://twitter.com/youyanggu/status/1255034262006333440) of the NYC subway data, an increasingly number of people have been moving around in the weeks following a lockdown. This may contribute to an increase in infections in the weeks following the lockdown/mitigation.
 
 * Reporting differences: Different countries follow different guidelines on how they are reporting COVID-19 deaths. For example, Belgium is one of the most comprehensive countries when it comes to death reporting: they report all probable deaths as well as nursing home deaths. In contrast, United Kingdom only began including care home deaths starting on April 29, having only reported hospital deaths previously. Because we are projecting future reported deaths, our model assumes that the reporting guidelines remains constant for each country.
 
 * Excess deaths: While we attempt to predict the official death total, the true death total will be higher due to underreporting at various levels. [The New York Times](https://www.nytimes.com/interactive/2020/04/21/world/coronavirus-missing-deaths.html) and [Financial Times](https://www.ft.com/content/6bd88b7d-3386-4543-b2e9-0d5c6fac846c) are currently tracking these excess deaths.
 
-* End date: We are only making projections for 10-14 weeks ahead, but this does not mean that the epidemic will stop afterwards. Deaths will continue to rise even after we stop making projections. We are also currently not factoring in a fall wave, which was the [most deadly wave](https://www.cdc.gov/flu/pandemic-resources/1918-commemoration/three-waves.htm) in the 1918 Flu Pandemic.
+* End date: We are only making projections for 10-18 weeks ahead, but this does not mean that the epidemic will stop afterwards. Deaths will continue to rise even after we stop making projections. We are also currently not factoring in a fall wave, which was the [most deadly wave](https://www.cdc.gov/flu/pandemic-resources/1918-commemoration/three-waves.htm) in the 1918 Flu Pandemic.
 
 While we attempt our best to ensure accuracy and precision, no model is perfect, so we urge everyone to use caution when interpreting these projections. This is just one particular model, so we encourage everyone to evaluate and be open to multiple sources. At the end of the day, the decision-making rests in the hands of people, not machines.
 
@@ -260,7 +260,7 @@ Also note that while we update our projections daily, IHME only updates their pr
 
 ## Who We Are
 
-covid19-projections.com is made by Youyang Gu, an independent data scientist. Youyang completed his Bachelor's degree at the Massachusetts Institute of Technology (MIT), double-majoring in Electrical Engineering & Computer Science and Mathematics. He also received his Masters degree at MIT, completing his thesis as part of the Natural Language Processing group at the MIT Computer Science & Artificial Intelligence Laboratory. His expertise is in using machine learning to understand data and make accurate predictions. You can contact him [on Twitter](https://twitter.com/youyanggu) or by using the [Contact](/contact) page.
+*covid19-projections.com* is made by Youyang Gu, an independent data scientist. Youyang completed his Bachelor's degree at the Massachusetts Institute of Technology (MIT), double-majoring in Electrical Engineering & Computer Science and Mathematics. He also received his Masters degree at MIT, completing his thesis as part of the Natural Language Processing group at the MIT Computer Science & Artificial Intelligence Laboratory. His expertise is in using machine learning to understand data and make accurate predictions. You can contact him [on Twitter](https://twitter.com/youyanggu) or by using the [Contact](/contact) page.
 
 [Back to Top](#top)
 
