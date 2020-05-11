@@ -23,7 +23,7 @@ Our COVID-19 prediction model adds the power of artificial intelligence on top o
 
 The goal of this project is to showcase the strengths of artificial intelligence to tackle one of the world's most difficult problems: predict the track of a pandemic. Here, we use a pure data-driven approach by letting the machine do the learning.
 
-We are currently making projections for: the United States, all 50 US states (plus DC, PR, VI, Guam) and 40 countries (including all 27 EU countries).
+We are currently making projections for: the United States, all 50 US states (plus DC, PR, VI, Guam) and 40 countries (including all 27 EU countries). Combined, these 41 countries account for around 95% of all global COVID-19 deaths, as of May 11.
 
 [Click here](/model-details/) to read a more in-depth description of how our model operates.
 
