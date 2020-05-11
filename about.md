@@ -41,7 +41,7 @@ As an example, one of the most important properties for any infectious disease i
 
 To see our estimates of R values for every state and country, see our [Infections Tracker](https://covid19-projections.com/infections-tracker/) page.
 
-We can learn more from the model than just the R<sub>0</sub>. For example, our model determined that the true mortality rate (IFR) for COVID-19 in most regions in the world is [around 1%](https://twitter.com/youyanggu/status/1256051255253757953). This is largely consistent with what [scientists have found](https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2020.00455), despite the fact that the case mortality rate is much higher (e.g. Italy is at 13-14%). The model can also determine when people in a region started social distancing. For New York, this inflection point is determined to be around March 14, which closely matches the [NYC subway ridership data](https://twitter.com/youyanggu/status/1248844841733128192).
+We can learn more from the model than just the R<sub>0</sub>. For example, our model determined that the true mortality rate (IFR) for COVID-19 in the United States is [around 1%](https://twitter.com/youyanggu/status/1256051255253757953). This is largely consistent with what [scientists have found](https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2020.00455), despite the fact that the case mortality rate is much higher (e.g. Italy is at 13-14%). The model can also determine when people in a region started social distancing. For New York, this inflection point is determined to be around March 14, which closely matches the [NYC subway ridership data](https://twitter.com/youyanggu/status/1248844841733128192).
 
 We have a strong validation system to make sure that all of our updates pass out-of-sample validation before they can be included in the model. This allows us to better differentiate the signal from the noise and be more resistant to outliers. Because all of our assumptions and projections are verified on all 50 states as well as 40 countries, we are able to create more robust projections.
 
@@ -198,6 +198,10 @@ We assume that states with a second outbreak will take actions to reduce transmi
 ### Infections Estimate
 
 The current and total infections estimates in our projections are at the core of our SEIS model. We use those estimates to make forecasts regarding future deaths according to the specifications of the SEIS model. The total infections estimate includes **all** individuals who have ever been infected by the virus, including asymptomatic individuals as well as those who were never tested. The current infections estimate is based on how many people are currently infected at that time point (total - recovered). To compute current infections, we assume that individuals are infected for an average of 15 days. We estimate that the true number of total infections is likely 5-15x higher than reported cases for most regions.
+
+### Infection Fatality Rate (IFR)
+
+We estimate that true mortality rate (IFR) for COVID-19 in the US is [around 1%](https://twitter.com/youyanggu/status/1256051255253757953). We also found that with the exception of United Kingdom, Sweden, and Spain, most countries in Europe have an IFR closer to 0.5%. Hence, in our projections, we use 0.5% for those European countries and 1% for all other countries.
 
 [Back to Top](#top)
 
