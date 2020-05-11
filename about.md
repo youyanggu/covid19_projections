@@ -266,8 +266,14 @@ Also note that while we update our projections daily, IHME only updates their pr
 
 ## Updates
 
+2020-05-06
+* Add R-value estimates [to Github](https://github.com/youyanggu/covid19_projections/tree/master/r_values)
+
 2020-04-30
-* Update US states reopening timelines according to [NYT](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html)
+* Update US states reopening timelines according to the [New York Times](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html)
+
+2020-04-28
+* Add daily combined projections [to Github](https://github.com/youyanggu/covid19_projections/tree/master/projections/combined)
 
 2020-04-24
 * Forecasts added to the [CDC website](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)
@@ -291,7 +297,7 @@ Also note that while we update our projections daily, IHME only updates their pr
 * Add estimate for the number of infected individuals
 
 2020-04-07
-* Add projections for all EU countries and 10 non-EU countries
+* Add projections for all European Union countries and 10 non-European Union countries
 
 2020-04-05
 * Launch [covid19-projections.com](https://covid19-projections.com/)
@@ -311,7 +317,7 @@ Also note that while we update our projections daily, IHME only updates their pr
 * Incorporate US states data and add projections for every state
 
 2020-03-31
-* Add first projections for NY and CA
+* Add first projections for New York and California
 
 2020-03-30
 * Begin project
