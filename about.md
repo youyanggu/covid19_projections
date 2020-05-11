@@ -111,11 +111,21 @@ New data is extremely important when making projections such as these. That's wh
 
 ### Mobility Data
 
-On April 17, IHME stated that they have new cell phone mobility data which indicated that people are properly social distancing. As a result, IHME lowered their projections from 68k deaths to 60k deaths by August. But their critical flaw is that they assume a linear relationship between lower mobility and lower infection - this is not the case.
+On [April 17](http://www.healthdata.org/news-release/ihme-hold-media-briefing-4-pm-eastern-today-details-below), IHME stated that they are incoroprating new cell phone mobility data which indicate that people have been properly practicing social distancing: *"These data suggest that mobility and presumably social contact have declined in certain states earlier than the organization’s modeling predicted, especially in the South."* As a result, IHME lowered their projections from 68k deaths to 60k deaths by August. Their critical flaw is that they assume a linear relationship between lower mobility and lower infection - this is not the case.
 
-Most transmissions do not happen with strangers, but rather close contacts. Even if you reduce your mobility by 90%, you do not reduce your transmission by 90%. The data from Italy shows that it only reduces by around 60%. That's the difference between 20k and 40k+ deaths. IHME is likely making the wrong assumption that a 90% reduction in mobility will decrease transmission by 90%.
+Most transmissions do not happen with strangers, but rather close contacts. Even if you reduce your mobility by 90%, you do not reduce your transmission by 90%. The data from Italy shows that it only reduces by around 60%. That's the difference between 20k and 40k+ deaths. IHME was likely making the wrong assumption that a 90% reduction in mobility will decrease transmission by 90%. [Here](https://twitter.com/mugecevik/status/1257392347010215947) is a compilation from infectious disease expert Dr. Muge Cevik showing that household contacts were the most likely to be infected.
 
 We posted [a Tweet](https://twitter.com/youyanggu/status/1248844841733128192) on April 11 about MTA (NYC) and BART (Bay Area) subway ridership being down 90% in March. However, the deaths have only dropped around 25% in NY, while CA has yet to see sharp decrease in deaths in April, more than a month after the drop in ridership.
+
+Interestingly, after IHME suddenly revised their projections from 72k to 130k on May 4, the director of IHME offered this explanation for why they raised their estimates: *"...we're seeing just explosive increases in mobility in a number of states that we expect will translate into more cases and deaths."* This is directly contradictory to their press release just 2 weeks earlier stating that mobility has been lower than predicted. Any 2-week differences in mobility should not explain this sudden jump in projections - only a flawed methodology would.
+
+### State Reopening Timeline
+
+In their [April 17](http://www.healthdata.org/sites/default/files/files/Projects/COVID/Estimation_update_041720.pdf) press release, IHME released estimates of when they believe each state will have a prevalence of fewer than 1 case per 1 million. They noted that 35 states will reach under 1 prevalent infection per 1 million before June 8. In addition, they projected that *"states such as Louisiana, Michigan, and Washington, may fall below the 1 prevalent infection per 1,000,000 threshold around mid-May."*
+
+As of May 10, Louisiana, Michigan, and Washington are reporting 30-80 confirmed cases per million *each day*. Furthermore, prevalent infetions are 5-15x higher than reported cases since most cases are mild and thus not tested/reported. As a result, we estimate Michigan and Washington to have around 7,000 prevalent infectinos per million, which is 7,000 times higher than IHME's April 17 estimates. An analysis for many of the remaining states show a similar high degree of error. Hence, IHME's estimates have been off by a factor of more than *3 orders of magnitude*.
+
+Unfortunately, it is likely that many individuals and policy-makers used IHME's misguided reopening timelines to shape decisions with regards to reopening. Their reopening timelines were picked up and widely disseminated by [many media outlets](http://www.google.com/search?q=ihme+reopening+timeline), both local and national. Any policies guided by these estimates can have repercussions weeks and months down the road.
 
 ### Technical Flaw
 
