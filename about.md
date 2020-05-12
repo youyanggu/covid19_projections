@@ -67,6 +67,12 @@ In the words of Ruth Etzioni, an epidemiologist at Seattle’s Fred Hutchinson C
 
 [Back to Top](#top)
 
+### May 4 update
+
+On May 4, IHME completely overhauled their previous model and increased their projections from 72k to 132k US deaths by August. Whereas they were previously underprojecting, they are now overprojecting the first two weeks of May. At the time of their new update on May 4, there were 68,919 deaths in the US. They projected that there will be 17,201 deaths in the week ending on May 11. In fact, there were only 11,757 deaths. IHME overshot their 1-week projections by 43%. Meanwhile, we projected 10,676 deaths from May 4 through May 11, an error of less than 10%.
+
+IHME went from severely underprojecting their estimates to now overprojecting their estimates. Their model should not be relied on for accurate projections.
+
 ### Sample Summary of IHME Inaccurate Predictions
 
 In their April 15 model, the death toll that IHME projected will take *four months* to reach was in fact exceeded in *six days*:
@@ -132,10 +138,6 @@ Unfortunately, it is likely that many individuals and policy-makers used IHME's 
 *May 4 Update: IHME completely overhauled their previous model to now use an SEIR model. Our model is based in SEIR and that has not changed since we first began making projections on April 1.*
 
 On top of everything we mentioned above, their model is also inherently flawed from a mathematical perspective. They try to model COVID-19 infections using a [Gaussian error function](https://en.wikipedia.org/wiki/Error_function). The problem is that the Gaussian error function is by design *symmetric*, meaning that the curve comes down from the peak at the same rate as it goes up. Unfortunately, this has not been the case for COVID-19: we come down from the peak at a much slower pace. This leads to a significant under-projection in IHME's model, which we have thoroughly highlighted. University of Washington biology professor Dr. Carl T. Bergostrom discussed this in more detail in this highly informative [series of Tweets](https://twitter.com/CT_Bergstrom/status/1250304069119275009).
-
-### May 4 update
-
-On May 4, IHME completely overhauled their previous model and increased their projections from 72k to 132k US deaths by August. Whereas they were previously underprojecting, they are now overprojecting the first two weeks of May.
 
 [Click here](#historical-us-projections) to see how our projections have changed over time, compared with the IHME model. For a comparison of April projections for several heavily-impacted states and countries, [click here](/model-comparison-ihme).
 
