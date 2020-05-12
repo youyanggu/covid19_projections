@@ -147,7 +147,9 @@ To conclude, we believe that a successful model must be able to quickly determin
 
 A model isn't very useful if it's not accurate. Below is our analysis on how various models considered by the CDC have performed over the past few weeks. Because the CDC receives weekly projections from every Monday, we use projections from past Mondays to evaluate the models.
 
-Note that the IHME model, a model frequently cited by the White House and media, consistently performs in the bottom half of all models for both its US projections and state-by-state projections. Furthermore, many models are unable to consistently outperform a baseline model that simply uses the previous week's average deaths to make future projections.
+We are the only model that consistently places in the top 3 for every week's projections.
+
+Note that the IHME model, a model frequently cited by the White House and media, consistently performs in the bottom half of all models for both its US projections and state-by-state projections. Many models are also unable to outperform a baseline model that simply uses the previous week's average deaths to make future projections.
 
 [Click here](/historical-performance) to see performance evaluations for past dates (e.g. May 2).
 
