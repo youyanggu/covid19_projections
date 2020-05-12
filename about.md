@@ -155,7 +155,7 @@ Note that the IHME model, a model frequently cited by the White House and media,
 
 ![US comparison](/assets/images/2020-05-09_comparison_us.png)
 
-### May 9 evaluation state-by-state projections
+### May 9 evaluation of state-by-state projections
 
 ![States comparison](/assets/images/2020-05-09_comparison_states.png)
 
