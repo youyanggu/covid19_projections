@@ -159,6 +159,8 @@ Note that the IHME model, a model frequently cited by the White House and media,
 
 ![States comparison](/assets/images/2020-05-09_comparison_states.png)
 
+For state-by-state projections, we priortize minimizing the mean error rather than the median error, which is reflected in the results. If our objective is to minimize median error, it would be optimal to simply use the prior week's projections, as indicated by the baseline model.
+
 While past performance is not necessarily indicative of future performance, we believe it's important to consider a model's historical accuracy and not just a model's future forecasts and/or the creator's name recognition. It is also important to make sure that a model can perform better than the baseline.
 
 Projections taken from: [https://github.com/reichlab/covid19-forecast-hub](https://github.com/reichlab/covid19-forecast-hub)
