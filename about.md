@@ -149,7 +149,10 @@ A model isn't very useful if it's not accurate. Below is our analysis on how var
 
 We are the only model that consistently places in the top 3 for every week's projections.
 
-Note that the IHME model, a model frequently cited by the White House and media, consistently performs in the bottom half of all models for both its US projections and state-by-state projections. Many models are also unable to outperform a baseline model that simply uses the previous week's average deaths to make future projections.
+### Notes
+* The IHME model, a model frequently cited by the White House and media, consistently performs in the bottom half of all models for both its US projections and state-by-state projections.
+* Many models are also unable to outperform a baseline model that simply uses the previous week's average deaths to make future projections.
+* The [COVIDhub ensemble model](https://github.com/reichlab/covid19-forecast-hub/#ensemble-model) is created by taking the arithmetic average of all eligible models that submit projections to the CDC. Our C19Pro projections are included in this ensemble.
 
 [Click here](/historical-performance) to see performance evaluations for past dates (e.g. May 2).
 
