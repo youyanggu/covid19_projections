@@ -145,17 +145,19 @@ To conclude, we believe that a successful model must be able to quickly determin
 
 ## Historical Performance
 
-A model isn't very useful if it's not accurate. Below is our analysis on how various models considered by the CDC have performed over the past few weeks. Because the CDC receives weekly projections from every Monday, we use projections from Monday, April 20 and Monday, April 27 to evaluate the models.
+A model isn't very useful if it's not accurate. Below is our analysis on how various models considered by the CDC have performed over the past few weeks. Because the CDC receives weekly projections from every Monday, we use projections from past Mondays to evaluate the models.
 
-Note that the IHME model, a model frequently cited by the White House and media, performed 13th out of 15 models for its US projections from April 27 and 7th out of 15 for its state-by-state projections. Meanwhile, a baseline model that simply uses the previous week's average deaths to make future projections finished 4th out of 15 models for US projections from April 27 and 2nd out of 15 for state-by-state projections.
+Note that the IHME model, a model frequently cited by the White House and media, consistently performs in the bottom half of all models for both its US projections and state-by-state projections. Furthermore, many models are unable to consistently outperform a baseline model that simply uses the previous week's average deaths to make future projections.
 
-### US projections
+[Click here](/historical-performance) to see performance evaluations for past dates (e.g. May 2).
 
-![US comparison](/assets/images/2020-05-02_comparison_us.png)
+### May 9 evaluation of US projections
 
-### State-by-state projections
+![US comparison](/assets/images/2020-05-09_comparison_us.png)
 
-![States comparison](/assets/images/2020-05-02_comparison_states.png)
+### May 9 evaluation state-by-state projections
+
+![States comparison](/assets/images/2020-05-09_comparison_states.png)
 
 While past performance is not necessarily indicative of future performance, we believe it's important to consider a model's historical accuracy and not just a model's future forecasts and/or the creator's name recognition. It is also important to make sure that a model can perform better than the baseline.
 
