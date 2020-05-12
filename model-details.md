@@ -6,13 +6,13 @@ permalink: /model-details/
 
 # Model details
 
-## SEIS Model
+## SEIR Model
 
-Our COVID-19 prediction model has an underlying simulator based on an elaboration of the classic SIR model used in epidemiology: the SEIS (susceptible-exposed-infectious-susceptible) model. We added an exposed (E) period due to the reported incubation period of COVID-19 during which individuals are not yet infectious. We also modified the last step from recovered (R) to susceptible (S) to account for the possibility of re-infection, a phenomenon that has already [been reported](https://www.cnn.com/2020/04/17/health/south-korea-coronavirus-retesting-positive-intl-hnk/index.html) in several regions [and by WHO](https://news.sky.com/story/coronavirus-no-evidence-that-covid-19-survivors-have-immunity-who-warns-11975011). With that said, we assume that a recovered individual is less likely to be infected again.
+Our COVID-19 prediction model has an underlying simulator based on an elaboration of the classic SIR model used in epidemiology: the SEIR (susceptible-exposed-infectious-recovered) model. We added an exposed (E) period due to the reported incubation period of COVID-19 during which individuals are not yet infectious.
 
-To quickly summarize how an SEIS model works, at each time period, an individual in a population is in one of three states: susceptible (S), exposed (E), and infectious (I). If an individual is in the susceptible state, we can assume they are healthy. If they are in the exposed state, they have been infected with the virus but are not infectious. If they are infectious, they can actively transmit the disease. An individual who is infected ultimately either recovers or dies. We assume that a recovered individual's chances of re-infection is lower, but not zero. We can model the movement of individuals through these various states at each time period. The model's exact specifications depend on its parameters, which we describe in the next section.
+To quickly summarize how an SEIR model works, at each time period, an individual in a population is in one of four states: susceptible (S), exposed (E), infectious (I), and recovered (R). If an individual is in the susceptible state, we can assume they are healthy but have no immunity. If they are in the exposed state, they have been infected with the virus but are not infectious. If they are infectious, they can actively transmit the disease. An individual who is infected ultimately either recovers or dies. We assume that a recovered individual's chances of re-infection is low, but not zero. We can model the movement of individuals through these various states at each time period. The model's exact specifications depend on its parameters, which we describe in the next section.
 
-For our SEIS implementation, we use a discrete-time state machine where each step is a day in the simulation. For each day, we have a probability distribution for which individuals in each S/E/I/S state may transition to another S/E/I/S state. For example, we have a probability distribution for when a currently-infected individual will transmit the virus, and another probability distribution for when an infected individual will succumb to the disease. These distributions are then convolved with the total existing cases to determine the number of new infections and new deaths per day. For new infections, we multiple the convolution by R<sub>0</sub>, while for deaths, we multiple the convolution by the mortality rate.
+For our SEIR implementation, we use a discrete-time state machine where each step is a day in the simulation. For each day, we have a probability distribution for which individuals in each S/E/I/R state may transition to another S/E/I/R state. For example, we have a probability distribution for when a currently-infected individual will transmit the virus, and another probability distribution for when an infected individual will succumb to the disease. These distributions are then convolved with the total existing cases to determine the number of new infections and new deaths per day. For new infections, we multiple the convolution by R<sub>0</sub>, while for deaths, we multiple the convolution by the mortality rate.
 
 ## Assumptions
 
@@ -26,7 +26,7 @@ Because the raw data may be noisy, we must first run a smoothing algorithm to sm
 
 ## Parameters
 
-For our SEIS model, there are basic inputs/parameters that must be set to begin simulation. Gabriel Goh's [Epidemic Calculator](https://gabgoh.github.io/COVID/index.html) or University of Basel's [covid19-scenarios.org](https://covid19-scenarios.org/) provide good visualizations of sample inputs/parameters into a simulation. We chose a set of parameters that we think are important for the accuracy of the simulation. We divide the parameters into two categories:
+For our SEIR model, there are basic inputs/parameters that must be set to begin simulation. Gabriel Goh's [Epidemic Calculator](https://gabgoh.github.io/COVID/index.html) or University of Basel's [covid19-scenarios.org](https://covid19-scenarios.org/) provide good visualizations of sample inputs/parameters into a simulation. We chose a set of parameters that we think are important for the accuracy of the simulation. We divide the parameters into two categories:
 
 ### Category 1: Fixed parameters
 
@@ -68,7 +68,7 @@ We assume that the post-reopening R is greater or equal to the post-mitigation R
 
 ## Parameter Search using Machine Learning
 
-As described in the previous section, determining the best values for variable parameters such as R<sub>0</sub>, the mortality rate, post-mitigation R, and post-reopening R will help us determine how COVID-19 will progress in a region. If we know what the "true" values of those parameters are, we can accurately simulate what is happening in the real world using our SEIS model. To determine these values, we use a simple machine learning technique called grid search.
+As described in the previous section, determining the best values for variable parameters such as R<sub>0</sub>, the mortality rate, post-mitigation R, and post-reopening R will help us determine how COVID-19 will progress in a region. If we know what the "true" values of those parameters are, we can accurately simulate what is happening in the real world using our SEIR model. To determine these values, we use a simple machine learning technique called grid search.
 
 ### Parameter Optimization
 
