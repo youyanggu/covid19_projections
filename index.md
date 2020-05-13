@@ -1,4 +1,4 @@
-We present an intuitive model that uses machine learning techniques to make COVID-19 projections for infections and deaths for all 50 US states and more than 60 countries. The countries our projections cover account for over 99% of all global COVID-19 deaths.
+We present an intuitive model that uses machine learning techniques to make COVID-19 projections for infections and deaths for all 50 US states and more than 60 countries.
 
 On this page:
 * [View US projections](#view-projections)
@@ -6,6 +6,8 @@ On this page:
 * [Likelihoods of death milestones in US](#us-deaths-likelihoods)
 * [Summary of US projections](#us-summary)
 * [Summary of global projections](#europe-summary)
+
+**May 12 Update:** We added 23 additional countries. The countries our projections cover now account for over 99% of all global COVID-19 deaths. View our global projections [here](#global-projections).
 
 **State-by-state Reopenings:** To date, we are one of the only models [referenced by the CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html) that factors in individual state re-openings. We update each US state's reopening timeline according to [The New York Times](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html). Learn more about our social distancing assumptions [here](/about/#assumptions).
 
