@@ -243,6 +243,8 @@ That's why in addition to our most likely estimate, we also provide a 95% confid
 
 * End date: We are only making projections for 10-18 weeks ahead, but this does not mean that the epidemic will stop afterwards. Deaths will continue to rise even after we stop making projections. We are also currently not factoring in a fall wave, which was the [most deadly wave](https://www.cdc.gov/flu/pandemic-resources/1918-commemoration/three-waves.htm) in the 1918 Flu Pandemic.
 
+* International projections: Our model was created and optimized for the United States (and to a lesser extent, Europe). We include our projections for over 60 countries, but we want to caution that the model was not optimized for international countries. So if you plan on citing our model's international projections, please be sure to also consult each country's health experts first.
+
 While we attempt our best to ensure accuracy and precision, no model is perfect, so we urge everyone to use caution when interpreting these projections. This is just one particular model, so we encourage everyone to evaluate and be open to multiple sources. At the end of the day, the decision-making rests in the hands of people, not machines.
 
 [Back to Top](#top)
