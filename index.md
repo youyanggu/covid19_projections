@@ -1,4 +1,4 @@
-We present an intuitive model that uses machine learning techniques to make COVID-19 projections for infections and deaths for all 50 US states and 40 countries.
+We present an intuitive model that uses machine learning techniques to make COVID-19 projections for infections and deaths for all 50 US states and more than 60 countries. The countries our projections cover account for 99% of all global COVID-19 deaths.
 
 On this page:
 * [View US projections](#view-projections)
@@ -76,25 +76,33 @@ Below you can find our projections for every US state and 40 countries (includin
 
 | Europe |  |  |
 | --- | --- | --- |
-| [Austria](/austria) | [Germany](/germany) | [Norway](/norway) |
-| [Belgium](/belgium) | [Greece](/greece) | [Poland](/poland) |
-| [Bulgaria](/bulgaria) | [Hungary](/hungary) | [Portugal](/portugal) |
-| [Croatia](/croatia) | [Ireland](/ireland) | [Romania](/romania) |
-| [Cyprus](/cyprus) | [Italy](/italy) | [Slovakia](/slovakia) |
-| [Czechia](/czechia) | [Latvia](/latvia) | [Slovenia](/slovenia) |
-| [Denmark](/denmark) | [Lithuania](/lithuania) | [Spain](/spain) |
-| [Estonia](/estonia) | [Luxembourg](/luxembourg) | [Sweden](/sweden) |
-| [Finland](/finland) | [Malta](/malta) | [Switzerland](/switzerland) |
+| [Austria](/austria) | [Hungary](/hungary) | [Portugal](/portugal) |
+| [Belgium](/belgium) | [Iceland](/iceland) | [Romania](/romania) |
+| [Bulgaria](/bulgaria) | [Ireland](/ireland) | [Serbia](/serbia) |
+| [Croatia](/croatia) | [Italy](/italy) | [Slovakia](/slovakia) |
+| [Cyprus](/cyprus) | [Latvia](/latvia) | [Slovenia](/slovenia) |
+| [Czechia](/czechia) | [Lithuania](/lithuania) | [Spain](/spain) |
+| [Denmark](/denmark) | [Luxembourg](/luxembourg) | [Sweden](/sweden) |
+| [Estonia](/estonia) | [Malta](/malta) | [Switzerland](/switzerland) |
+| [Finland](/finland) | [Moldova](/moldova) | [Ukraine](/ukraine) |
 | [France](/france) | [Netherlands](/netherlands) | [United Kingdom](/united-kingdom) |
+| [Germany](/germany) | [Norway](/norway) |
+| [Greece](/greece) | [Poland](/poland) |
 
 <br />
 
 | Other Countries |  |  |
 | --- | --- | --- |
-| [Brazil](/brazil) | [Indonesia](/indonesia) | [Russia](/russia) |
-| [Canada](/canada) | [Iran](/iran) | [Turkey](/turkey) |
-| [China](/china) | [Mexico](/mexico) |
-| [India](/india) | [Philippines](/philippines) |
+| [Algeria](/algeria) | [Egypt](/egypt) | [Pakistan](/pakistan) |
+| [Argentina](/argentina) | [India](/india) | [Panama](/panama) |
+| [Bangladesh](/bangladesh) | [Indonesia](/indonesia) | [Peru](/peru) |
+| [Brazil](/brazil) | [Iran](/iran) | [Philippines](/philippines) |
+| [Canada](/canada) | [Israel](/israel) | [Russia](/russia) |
+| [Chile](/chile) | [Japan](/japan) | [Saudi Arabia](/saudi-arabia) |
+| [China](/china) | [Malaysia](/malaysia) | [South Africa](/south-africa) |
+| [Colombia](/colombia) | [Mexico](/mexico) | [South Korea](/south-korea) |
+| [Dominican Republic](/dominican-republic) | [Morocco](/morocco) | [Turkey](/turkey) |
+| [Ecuador](/ecuador) | [Nigeria](/nigeria) |
 
 [Back to Top](#top)
 
