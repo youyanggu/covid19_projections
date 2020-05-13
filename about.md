@@ -23,7 +23,7 @@ Our COVID-19 prediction model adds the power of artificial intelligence on top o
 
 The goal of this project is to showcase the strengths of artificial intelligence to tackle one of the world's most difficult problems: predict the track of a pandemic. Here, we use a pure data-driven approach by letting the machine do the learning.
 
-We are currently making projections for: the United States, all 50 US states (plus DC, PR, VI, Guam) and 40 countries (including all 27 EU countries). Combined, these 41 countries account for around 95% of all global COVID-19 deaths, as of May 11.
+We are currently making projections for: the United States, all 50 US states (plus DC, PR, VI, Guam) and 63 countries (including all 27 EU countries). Combined, these 64 countries account for 99% of all global COVID-19 deaths.
 
 [Click here](/model-details/) to read a more in-depth description of how our model operates.
 
@@ -43,9 +43,9 @@ To see our estimates of R values for every state and country, see our [Infection
 
 We can learn more from the model than just the R<sub>0</sub>. For example, our model determined that the true mortality rate (IFR) for COVID-19 in the United States is [around 1%](https://twitter.com/youyanggu/status/1256051255253757953). This is largely consistent with what [scientists have found](https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2020.00455), despite the fact that the case mortality rate is much higher (e.g. Italy is at 13-14%). The model can also determine when people in a region started social distancing. For New York, this inflection point is determined to be around March 14, which closely matches the [NYC subway ridership data](https://twitter.com/youyanggu/status/1248844841733128192).
 
-We have a strong validation system to make sure that all of our updates pass out-of-sample validation before they can be included in the model. This allows us to better differentiate the signal from the noise and be more resistant to outliers. Because all of our assumptions and projections are verified on all 50 states as well as 40 countries, we are able to create more robust projections.
+We have a strong validation system to make sure that all of our updates pass out-of-sample validation before they can be included in the model. This allows us to better differentiate the signal from the noise and be more resistant to outliers. Because all of our assumptions and projections are verified on all 50 states as well as over 60 countries, we are able to create more robust projections.
 
-Our model is agnostic to the region, enabling us to make projections for all 50 US states (plus DC, PR, VI, Guam) and 40 countries. To our best knowledge, this is the most comprehensive model in terms of coverage. Furthermore, unlike other models, we do not require accessory data such as mobile phone data, case data, or temperature data. The only input data we require is the daily death reports from Johns Hopkins.
+Our model is agnostic to the region, enabling us to make projections for all 50 US states (plus DC, PR, VI, Guam) and over 60 countries. To our best knowledge, this is the most comprehensive model in terms of coverage. Furthermore, unlike other models, we do not require accessory data such as mobile phone data, case data, or temperature data. The only input data we require is the daily death reports from Johns Hopkins.
 
 See an [analysis of our model](https://twitter.com/CT_Bergstrom/status/1255343846445195266) by Dr. Carl T. Bergstrom, Professor of Biology at the Univeristy of Washington. 
 
@@ -293,6 +293,9 @@ Also note that while we update our projections daily, IHME only updates their pr
 
 ## Updates
 
+2020-05-12
+* Add projections for 23 additional countries: Algeria, Argentina, Bangladesh, Chile, Colombia, Dominican Republic, Ecuador, Egypt, Iceland, Israel, Japan, Malaysia, Moldova, Morocco, Nigeria, Pakistan, Panama, Peru, Saudi Arabia, Serbia, South Africa, South Korea, Ukraine
+
 2020-05-06
 * Add R-value estimates [to Github](https://github.com/youyanggu/covid19_projections/tree/master/r_values)
 
@@ -324,7 +327,7 @@ Also note that while we update our projections daily, IHME only updates their pr
 * Add estimate for the number of infected individuals
 
 2020-04-07
-* Add projections for all European Union countries and 10 non-European Union countries
+* Add projections for all European Union countries and 7 additional countries: Brazil, Canada, India, Indonesia, Mexico, Philippines, Turkey
 
 2020-04-05
 * Launch [covid19-projections.com](https://covid19-projections.com/)
@@ -334,7 +337,7 @@ Also note that while we update our projections daily, IHME only updates their pr
 * Separate global data from US data
 
 2020-04-03
-* Add 9 international countries for projections
+* Add 9 international countries for projections: Belgium, France, Germany, Iran, Italy, Netherlands, Spain, Switzerland, United Kingdom
 
 2020-04-02
 * Add lower and upper bounds to projections; also project date of peak deaths
