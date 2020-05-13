@@ -171,7 +171,7 @@ States are ordered by descending projected deaths (by August 4).
 |              [Wyoming](/us-wy) |                7 |                        20 |                         13 |                                      186% |                                    16 |                                     27 |
 |               [Alaska](/us-ak) |               10 |                        15 |                          5 |                                       50% |                                    13 |                                     17 |
 |                 [Guam](/us-gu) |                5 |                        13 |                          8 |                                      160% |                                    10 |                                     21 |
-|       [Virgin Islands](/us-vi) |                6 |                        12 |                          6 |                                      100% |                                    11 |                                     14 |                             13 |
+|       [Virgin Islands](/us-vi) |                6 |                        12 |                          6 |                                      100% |                                    11 |                                     14 |
 
 [Back to Top](#top)
 
