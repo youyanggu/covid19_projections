@@ -1,4 +1,4 @@
-We present an intuitive model that uses machine learning techniques to make COVID-19 projections for infections and deaths for all 50 US states and more than 60 countries. The countries our projections cover account for 99% of all global COVID-19 deaths.
+We present an intuitive model that uses machine learning techniques to make COVID-19 projections for infections and deaths for all 50 US states and more than 60 countries. The countries our projections cover account for over 99% of all global COVID-19 deaths.
 
 On this page:
 * [View US projections](#view-projections)
@@ -17,7 +17,7 @@ On this page:
 
 ## US Deaths Likelihoods
 
-Below, we present the most likely dates that the US will surpass certain deaths milestones, as well as the probabilities of the US surpassing those milestones by several different time periods. For example, we estimate a 86% chance that the US surpasses 100,000 deaths by June 1, with May 25 being the most likely date.
+Below, we present the most likely dates that the US will surpass certain deaths milestones, as well as the probabilities of the US surpassing those milestones by different time horizons. For example, we estimate a 86% chance that the US surpasses 100,000 deaths by June 1, with May 25 being the most likely date.
 
 Last updated: May 13, 2020
 
@@ -45,7 +45,7 @@ Last updated: May 13, 2020
 
 ## View Projections
 
-Below you can find our projections for every US state and 40 countries (including all 27 EU countries).
+Below you can find our projections for every US state and 63 countries (including all 27 European Union countries).
 
 ### US
 
