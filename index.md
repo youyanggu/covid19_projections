@@ -5,7 +5,8 @@ On this page:
 * [View global projections](#global-projections)
 * [Likelihoods of death milestones in US](#us-deaths-likelihoods)
 * [Summary of US projections](#us-summary)
-* [Summary of global projections](#europe-summary)
+* [Summary of Europe projections](#europe-summary)
+* [Summary of Rest of World projections](#rest-of-world-summary)
 
 **May 12 Update:** We added 23 additional countries. The countries our projections cover encompass 6.3 billion people and account for over 99% of all global COVID-19 deaths. View our global projections [here](#global-projections).
 
@@ -93,7 +94,7 @@ Below you can find our projections for every US state and 63 countries (includin
 
 <br />
 
-| Other Countries |  |  |
+| Rest of World |  |  |
 | --- | --- | --- |
 | [Algeria](/algeria) | [Egypt](/egypt) | [Pakistan](/pakistan) |
 | [Argentina](/argentina) | [India](/india) | [Panama](/panama) |
@@ -216,7 +217,7 @@ Countries are ordered by descending projected deaths (by 2020-08-04). Our Europe
 
 [Back to Top](#top)
 
-### Global Summary
+### Rest of World Summary
 
 Countries are ordered by descending projected deaths (by 2020-08-04).
 
