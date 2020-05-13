@@ -7,7 +7,7 @@ On this page:
 * [Summary of US projections](#us-summary)
 * [Summary of global projections](#europe-summary)
 
-**May 12 Update:** We added 23 additional countries. The countries our projections cover now account for over 99% of all global COVID-19 deaths. View our global projections [here](#global-projections).
+**May 12 Update:** We added 23 additional countries. The countries our projections cover encompass 6.3 billion people and account for over 99% of all global COVID-19 deaths. View our global projections [here](#global-projections).
 
 **State-by-state Reopenings:** To date, we are one of the only models [referenced by the CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html) that factors in individual state re-openings. We update each US state's reopening timeline according to [The New York Times](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html). Learn more about our social distancing assumptions [here](/about/#assumptions).
 
