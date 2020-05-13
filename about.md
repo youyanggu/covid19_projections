@@ -189,7 +189,7 @@ Every day, raw daily projections for all 50 US states and select international c
 
 * European countries: We assume heavy social distancing until mid-May and moderate social distancing afterwards.
 
-* Non-US and Non-European countries: Because it is difficult to track when each country plans to reopen, we assume heavy social distancing through August.
+* Non-US and Non-European countries: We try our best to keep track of when each country plans to reopen. If there is no news, we assume social distancing through August.
 
 #### Heavy vs moderate social distancing
 
