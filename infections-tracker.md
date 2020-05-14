@@ -14,6 +14,8 @@ The below [basic reproduction number](https://en.wikipedia.org/wiki/Basic_reprod
 
 Please note that this is merely an estimate based on the data. The true R values can vary widely, even day-to-day. For example, California has a lower-than-expected R<sub>0</sub> partly because there is a significant time lag in their deaths reporting. While this does not significantly affect our projections (assuming the lag is consistent), it will result in a lower R estimate than the true value. Lastly, our post-mitigation R estimates may not accurately reflect the true situation for regions where no mitigation was applied, such as in Sweden and Brazil.
 
+*Additional Note: Post-mitigation R is the R value after the initial mitigation strategies. For the US, this is around mid to late March. This does not necessary reflect the current R value in May, although it is a close estimate for regions that have not yet reopened. We are working on releasing estimates for post-reopening R values, although it may take several weeks to have the necessary data to compute those values.
+
 {% include iframe_r_values.html %}
 
 ## Number of Total Infected Individuals by Date
