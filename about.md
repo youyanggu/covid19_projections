@@ -7,9 +7,9 @@ permalink: /about/
 ## Table of contents
 * [About the Model](#about-the-model)
 * [How Our Model is Different](#how-our-model-is-different)
-* [Concerns with the IHME model *(Updated May 14)*](#concerns-with-the-ihme-model)
-  * [May 4 Update](#may-4-update)
-  * [State Reopening Timeline](#state-reopening-timeline)
+* [Concerns with the IHME model *(Updated Daily)*](#concerns-with-the-ihme-model)
+  * [May 4 Revision *(Updated May 14)*](#may-4-revision)
+  * [State Reopening Timeline *(Updated May 11)*](#state-reopening-timeline)
 * [Historical Performance *(Added May 4)*](#historical-performance)
 * [Data and Output](#data-and-output)
 * [Assumptions](#assumptions)
@@ -69,7 +69,7 @@ In the words of Ruth Etzioni, an epidemiologist at Seattle’s Fred Hutchinson C
 
 [Back to Top](#top)
 
-### May 4 update
+### May 4 Revision
 
 On May 4, IHME completely overhauled their previous model and increased their projections from 72k to 132k US deaths by August. Whereas they were previously underprojecting, they are now overprojecting the month of May. At the time of their new update on May 4, there were 68,919 deaths in the US. They projected that there will be 17,201 deaths in the week ending on May 11. In fact, there were only 11,757 deaths. IHME overshot their 1-week projections by 43%. Meanwhile, we projected 10,676 deaths from May 4 through May 11, an error of less than 10%.
 
