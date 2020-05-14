@@ -8,7 +8,7 @@ On this page:
 * [Summary of Europe projections](#europe-summary)
 * [Summary of Rest of World projections](#rest-of-world-summary)
 
-**May 13 Update:** Click [here](/us-1weekearlier) to see how the US would fare if everyone began social distancing one week earlier.
+**May 13 Update:** See how the US would fare if everyone began social distancing [one week earlier](/us-1weekearlier) or [one week later](/us-1weeklater).
 
 May 12 Update: We added 23 additional countries. The countries our projections cover encompass 6.3 billion people and account for over 99% of all global COVID-19 deaths. View our global projections [here](#global-projections).
 
