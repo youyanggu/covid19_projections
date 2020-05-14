@@ -310,6 +310,9 @@ Also note that while we update our projections daily, IHME only updates their pr
 2020-04-28
 * Add daily combined projections [to Github](https://github.com/youyanggu/covid19_projections/tree/master/projections/combined)
 
+2020-04-26
+* Add plots for R-value estimates for every state and country to Infections Tracker page
+
 2020-04-24
 * Forecasts added to the [CDC website](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)
 
@@ -320,7 +323,7 @@ Also note that while we update our projections daily, IHME only updates their pr
 * Incorporate the relaxing of social distancing in June (see our [Assumptions](/about#assumptions) page)
 
 2020-04-13
-* Switch data source to [JHU CSSE Daily Reports](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports)
+* Switch main data source from [COVID Tracking Project](https://covidtracking.com/) to [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports)
 
 2020-04-12
 * Add Norway and Russia to projections
