@@ -299,6 +299,7 @@ Also note that while we update our projections daily, IHME only updates their pr
 
 2020-05-12
 * Add projections for 23 additional countries: Algeria, Argentina, Bangladesh, Chile, Colombia, Dominican Republic, Ecuador, Egypt, Iceland, Israel, Japan, Malaysia, Moldova, Morocco, Nigeria, Pakistan, Panama, Peru, Saudi Arabia, Serbia, South Africa, South Korea, Ukraine
+* Add projections that assume no reopening by appending `-noreopen` to the projections URL (e.g. [covid19-projections.com/us-noreopen](/us-noreopen))
 
 2020-05-06
 * Add R-value estimates [to Github](https://github.com/youyanggu/covid19_projections/tree/master/r_values)
