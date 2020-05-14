@@ -81,7 +81,7 @@ IHME went from severely underprojecting their estimates to now overprojecting th
 
 ### Sample Summary of IHME Inaccurate Predictions
 
-In their April 15 model, the death toll that IHME projected will take *four months* to reach was in fact exceeded in *six days*:
+In their April 15 projections, the death total that IHME projected will take *four months* to reach was in fact exceeded in *six days*:
 
 |  | April 21 Total Deaths | IHME Aug proj. deaths from Apr 15 | Our Aug proj. deaths from Apr 15
 | --- | --- | --- | --- |
@@ -115,7 +115,7 @@ Unfortunately, by the time IHME revised their projections in May, millions of Am
 
 ### US June-August
 
-As of April 11, IHME projects 225 (0 - 1,180) deaths in the US from June 1 to August 4. While we hope the US only has 225 total deaths from June to August (an average of 3 deaths per day), we believe this is an underestimate. The upper range of 1,180 (18 deaths per day) also appears to be an under-projection *for an upper range*.
+As of April 11, IHME projected 225 (0 - 1,180) deaths in the US from June 1 to August 4. While we hope the US only has 225 total deaths from June to August (an average of 3 deaths per day), we believe this is an underestimate.
 
 ### Update time
 
