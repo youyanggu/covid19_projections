@@ -71,7 +71,9 @@ In the words of Ruth Etzioni, an epidemiologist at Seattle’s Fred Hutchinson C
 
 On May 4, IHME completely overhauled their previous model and increased their projections from 72k to 132k US deaths by August. Whereas they were previously underprojecting, they are now overprojecting the first two weeks of May. At the time of their new update on May 4, there were 68,919 deaths in the US. They projected that there will be 17,201 deaths in the week ending on May 11. In fact, there were only 11,757 deaths. IHME overshot their 1-week projections by 43%. Meanwhile, we projected 10,676 deaths from May 4 through May 11, an error of less than 10%.
 
-IHME went from severely underprojecting their estimates to now overprojecting their estimates. Furthermore, as of May 12, they are still projecting 0 deaths by August 4. Their model should not be relied on for accurate projections.
+IHME went from severely underprojecting their estimates to now overprojecting their estimates. Furthermore, as recently as May 12, they were still projecting 0 deaths by August 4. Their model should not be relied on for accurate projections.
+
+{% include iframe_ihme_may10.html %}
 
 ### Sample Summary of IHME Inaccurate Predictions
 
