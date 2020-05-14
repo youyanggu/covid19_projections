@@ -8,6 +8,8 @@ permalink: /about/
 * [About the Model](#about-the-model)
 * [How Our Model is Different](#how-our-model-is-different)
 * [Concerns with the IHME model *(Updated May 12)*](#concerns-with-the-ihme-model)
+  * [May 4 Update](#may-4-update)
+  * [State Reopening Timeline](#state-reopening-timeline)
 * [Historical Performance *(Added May 4)*](#historical-performance)
 * [Data and Output](#data-and-output)
 * [Assumptions](#assumptions)
