@@ -1,12 +1,12 @@
 country,region,daily_deaths,daily_deaths_lower,daily_deaths_upper
-Brazil,,689,482,890
+Brazil,,694,497,898
 United Kingdom,,404,237,638
 France,,243,148,468
+Mexico,,217,147,295
 Italy,,215,130,354
-Mexico,,214,151,298
 Spain,,161,86,280
 Canada,,151,101,192
-India,,112,77,155
+India,,113,80,156
 Russia,,101,65,136
 Peru,,90,56,124
 Germany,,85,41,146
@@ -20,23 +20,23 @@ Pakistan,,27,16,39
 Romania,,24,17,31
 Poland,,18,10,28
 Ireland,,18,9,34
+Colombia,,17,12,22
 Indonesia,,17,9,27
 Japan,,17,6,27
-Colombia,,16,11,22
 Philippines,,16,7,26
+Ukraine,,15,9,20
 Portugal,,15,8,23
-Ukraine,,14,8,18
 Egypt,,13,7,19
+Bangladesh,,12,7,18
+South Africa,,11,8,14
 Chile,,11,7,15
 Switzerland,,11,5,22
-South Africa,,10,7,13
-Argentina,,10,6,15
-Bangladesh,,10,6,15
-Saudi Arabia,,9,6,12
+Argentina,,10,6,14
+Saudi Arabia,,9,7,12
 Nigeria,,8,4,11
 Dominican Republic,,7,4,11
 Hungary,,7,3,12
-Moldova,,6,4,8
+Moldova,,6,4,9
 Austria,,5,2,9
 Denmark,,5,2,8
 Finland,,5,2,8
