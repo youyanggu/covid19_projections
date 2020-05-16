@@ -55,7 +55,7 @@ See an [analysis of our model](https://twitter.com/CT_Bergstrom/status/125534384
 
 * *Learning when people started social distancing*: It turns out that many people began social distancing before a region's formal lockdown order is issued. Our model is able to learn the exact dates when people in a region started social distancing, which are often independent of the stay-at-home orders. For example, in New York, this inflection point is determined to be around March 14, which closely matches the [NYC subway ridership data](https://twitter.com/youyanggu/status/1248844841733128192). For the US as a whole, we estimate that date to be around March 18. You can see what happens if everyone in the US reacted [one week earlier](/us-1weekearlier) (March 11) or [one week later](/us-1weeklater) (March 25).
 
-* *Open data:* We upload all of our raw data/projections daily onto [our GitHub page](https://github.com/youyanggu/covid19_projections).
+* *Open data:* We upload all of our raw data/projections daily onto [our GitHub page](https://github.com/youyanggu/covid19_projections). All of the data used on this website can be downloaded.
 
 * *Strong validation system*: Many of the other models tend to overfit to the data. We have a strong validation system to make sure that all of our updates pass out-of-sample validation before they can be included in the model. This allows us to better differentiate the signal from the noise and be more resistant to outliers. Because all of our assumptions and projections are tested/verified on all 50 states as well as over 60 countries, we are able to create more robust projections.
 
