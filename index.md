@@ -8,7 +8,7 @@ On this page:
 * [Summary of Europe projections](#europe-summary)
 * [Summary of Rest of World projections](#rest-of-world-summary)
 
-**May 16 Update:** We added a plot of the effective reproduction number (R_t) over time to all of our projections. If R_t is greater than 1, it means that the number of cases is growing. The goal is to keep R_t under 1. BBC provides a [simple explanation](https://www.bbc.com/news/health-52473523) for what the R value means.
+**May 16 Update:** We added a plot of the effective reproduction number (R_t) over time to all of our projections. If R_t is greater than 1, it means that the number of cases is growing. The ultimate goal is to keep R_t under 1. BBC provides a [simple explanation](https://www.bbc.com/news/health-52473523) for understanding the importance of the R value.
 
 **May 14 Update:** See how the US would have fared if everyone began social distancing [one week earlier](/us-1weekearlier) or [one week later](/us-1weeklater).
 
