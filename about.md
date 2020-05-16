@@ -311,8 +311,11 @@ Also note that while we update our projections daily, IHME only updates their pr
 
 ## Updates
 
+2020-05-16
+* Add plots for the effective reproduction value (R_t) over time. Raw data also available [on GitHub](https://github.com/youyanggu/covid19_projections/tree/master/projections).
+
 2020-05-14
-* Added hypothetical of how the US would fare if everyone began social distancing [one week earlier](/us-1weekearlier) or [one week later](/us-1weeklater).
+* Add hypothetical of how the US would fare if everyone began social distancing [one week earlier](/us-1weekearlier) or [one week later](/us-1weeklater).
 
 2020-05-13
 * Add projections that assume no reopening by appending `-noreopen` to the projections URL (e.g. [covid19-projections.com/us-noreopen](/us-noreopen))
@@ -321,7 +324,7 @@ Also note that while we update our projections daily, IHME only updates their pr
 * Add projections for 23 additional countries: Algeria, Argentina, Bangladesh, Chile, Colombia, Dominican Republic, Ecuador, Egypt, Iceland, Israel, Japan, Malaysia, Moldova, Morocco, Nigeria, Pakistan, Panama, Peru, Saudi Arabia, Serbia, South Africa, South Korea, Ukraine
 
 2020-05-06
-* Add R-value estimates [to Github](https://github.com/youyanggu/covid19_projections/tree/master/r_values)
+* Add R0 and post-mitigation R estimates [to GitHub](https://github.com/youyanggu/covid19_projections/tree/master/r_values)
 
 2020-04-30
 * Update US states reopening timelines according to the [New York Times](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html)
