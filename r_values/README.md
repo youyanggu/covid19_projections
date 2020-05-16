@@ -1,5 +1,7 @@
 # R Value Estimates
 
+*May 15 Update:* For a time series of the R_t over time, use our [https://github.com/youyanggu/covid19_projections/tree/master/projections](projections) files. This data available starting on May 15 projections.
+
 Our data-driven model allows us to provide an estimate for the initial [basic reproduction number](https://en.wikipedia.org/wiki/Basic_reproduction_number) (R0) and post-mitigation R in each US state and 40 countries.
 
 For each date, we provide our best estimate of the initial R0 and post-mitigation R *from data generated on that date*. For example, file `2020-04-24_r_values_us.csv` simply means that our estimates were generated on April 24, not that these were the R values on April 24. We not have day-by-day R estimates available at this time.
