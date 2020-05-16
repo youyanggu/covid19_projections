@@ -27,33 +27,31 @@ The goal of this project is to showcase the strengths of artificial intelligence
 
 We are currently making projections for: the United States, all 50 US states (plus DC, PR, VI, Guam) and 63 countries (including all 27 EU countries). Combined, these 64 countries account for 99% of all global COVID-19 deaths.
 
+See an [analysis of our model](https://twitter.com/CT_Bergstrom/status/1255343846445195266) by Dr. Carl T. Bergstrom, Professor of Biology at the Univeristy of Washington. 
+
 [Click here](/model-details/) to read a more in-depth description of how our model operates.
 
 [Back to Top](#top)
 
 ## How Our Model is Different
 
-Firstly, we are the only model [shared by the CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html) that receives no public funding, making us a completely independent entity.
+* Firstly, we are the only model [shared by the CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html) that receives no public funding, making us a completely independent entity.
 
-We are also one of the only models shared by the CDC that factors in individual state-by-state or country-by-country reopenings, allowing us to make more realistic projections.
+* We are also one of the only models shared by the CDC that factors in individual state-by-state or country-by-country reopenings, allowing us to make more realistic projections.
 
-Next, unlike other models that try to create complex mathematical equations to "fit a curve", we try to simulate the disease exactly how they progress in reality: we start off with the entire population in a region, then on each day a certain proportion becomes infected, and those individuals spread the infections to others, and so forth. This makes our model easy to interpret and understand.
+* Next, unlike other models that try to create complex mathematical equations to "fit a curve", we try to simulate the disease exactly how they progress in reality: we start off with the entire population in a region, then on each day a certain proportion becomes infected, and those individuals spread the infections to others, and so forth. This makes our model easy to interpret and understand.
 
-Because of model's realistic and flexible properties, we are able to generate varoius hypotheticals, such as what happens if everyone began social distancing [one week earlier](/us-1weekearlier) or [one week later](/us-1weeklater). We have also generated hypotheticals on what would happen in each region if there are [no reopenings](https://twitter.com/youyanggu/status/1260678487221796864). A model that simply uses a curve fitting function or tries to track the growth rate will not be able to generate such hypotheticals.
+* Because of model's realistic and flexible properties, we are able to generate varoius hypotheticals, such as what happens if everyone began social distancing [one week earlier](/us-1weekearlier) or [one week later](/us-1weeklater). We have also generated hypotheticals on what would happen in each region if there are [no reopenings](https://twitter.com/youyanggu/status/1260678487221796864). A model that simply uses a curve fitting function or tries to track the growth rate will not be able to generate such hypotheticals.
 
-As another example, one of the most important properties for any infectious disease is the [basic reproduction number](https://en.wikipedia.org/wiki/Basic_reproduction_number), known as R<sub>0</sub>. Rather than pre-setting this value based on assumptions, our model is able to learn the value that most closely matches the data. For Italy, the R<sub>0</sub> is found to be around 2-2.2, while for New York state, the R<sub>0</sub> is 3.4-3.8. This means that on average, an infected person in New York will infect 3.4 to 3.8 additional people. For most regions, the R<sub>0</sub> is found to be around 2, which matches [the WHO findings](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf) from China.
+* As another example, one of the most important properties for any infectious disease is the [basic reproduction number](https://en.wikipedia.org/wiki/Basic_reproduction_number), known as R<sub>0</sub>. Rather than pre-setting this value based on assumptions, our model is able to learn the value that most closely matches the data. For Italy, the R<sub>0</sub> is found to be around 2-2.2, while for New York state, the R<sub>0</sub> is 3.4-3.8. This means that on average, an infected person in New York will infect 3.4 to 3.8 additional people. For most regions, the R<sub>0</sub> is found to be around 2, which matches [the WHO findings](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf) from China. To see our estimates of R values for every state and country, see our [Infections Tracker](/infections-tracker/) page.
 
-To see our estimates of R values for every state and country, see our [Infections Tracker](https://covid19-projections.com/infections-tracker/) page.
+* We can learn more from the model than just the R<sub>0</sub>. For example, our model determined that the true mortality rate (IFR) for COVID-19 in the United States is [around 1%](https://twitter.com/youyanggu/status/1256051255253757953). This is largely consistent with what [scientists have found](https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2020.00455), despite the fact that the case mortality rate is much higher (e.g. Italy is at 13-14%). The model can also determine when people in a region started social distancing. For New York, this inflection point is determined to be around March 14, which closely matches the [NYC subway ridership data](https://twitter.com/youyanggu/status/1248844841733128192).
 
-We can learn more from the model than just the R<sub>0</sub>. For example, our model determined that the true mortality rate (IFR) for COVID-19 in the United States is [around 1%](https://twitter.com/youyanggu/status/1256051255253757953). This is largely consistent with what [scientists have found](https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2020.00455), despite the fact that the case mortality rate is much higher (e.g. Italy is at 13-14%). The model can also determine when people in a region started social distancing. For New York, this inflection point is determined to be around March 14, which closely matches the [NYC subway ridership data](https://twitter.com/youyanggu/status/1248844841733128192).
+* We have a strong validation system to make sure that all of our updates pass out-of-sample validation before they can be included in the model. This allows us to better differentiate the signal from the noise and be more resistant to outliers. Because all of our assumptions and projections are verified on all 50 states as well as over 60 countries, we are able to create more robust projections.
 
-We have a strong validation system to make sure that all of our updates pass out-of-sample validation before they can be included in the model. This allows us to better differentiate the signal from the noise and be more resistant to outliers. Because all of our assumptions and projections are verified on all 50 states as well as over 60 countries, we are able to create more robust projections.
+* Our model is agnostic to the region, enabling us to make projections for all 50 US states (plus DC, PR, VI, Guam) and over 60 countries. To our best knowledge, this is the most comprehensive model in terms of coverage. Furthermore, unlike other models, we do not require accessory data such as mobile phone data, case data, or temperature data. The only input data we require is the daily death reports from Johns Hopkins.
 
-Our model is agnostic to the region, enabling us to make projections for all 50 US states (plus DC, PR, VI, Guam) and over 60 countries. To our best knowledge, this is the most comprehensive model in terms of coverage. Furthermore, unlike other models, we do not require accessory data such as mobile phone data, case data, or temperature data. The only input data we require is the daily death reports from Johns Hopkins.
-
-See an [analysis of our model](https://twitter.com/CT_Bergstrom/status/1255343846445195266) by Dr. Carl T. Bergstrom, Professor of Biology at the Univeristy of Washington. 
-
-Another strength of our model is that because it is purely data-driven, it is quick to run and easy to regenerate. Unlike other models that are only updated once every few days, our model is updated on a daily basis, leading to more accurate projections.
+* Another strength of our model is that because it is purely data-driven, it is quick to run and easy to regenerate. Unlike other models that are only updated once every few days, our model is updated on a daily basis, leading to more accurate projections.
 
 [Back to Top](#top)
 
