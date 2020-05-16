@@ -21,7 +21,7 @@ On this page:
 ## Current Projection for US - Updated Daily - Last Updated: May 16 (1am ET):
 <p align="center">
   Current Total: <b>87,527</b> deaths | Projected Total: <b>195,706</b> deaths by Aug 4, 2020 (Range: 116-322k)<br>
-  Currently Infected: <b>0.5%</b> | Total Infected: <b>3.2%</b> {% include iframe.html %}
+  Currently Infected: <b>0.6%</b> | Total Infected: <b>3.4%</b> {% include iframe.html %}
 </p>
 
 ## US Deaths Likelihoods
