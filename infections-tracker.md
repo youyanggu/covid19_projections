@@ -8,9 +8,11 @@ Our model tries to do what no other model currently does (to the best of our kno
 
 ## R<sub>0</sub> value estimates
 
+*May 15 update:* You can now view a graph of our R_t estimates over time in all of our projections (e.g. [US](/us)). You can also download the raw R_t time series on [our GitHub](https://github.com/youyanggu/covid19_projections/tree/master/projections) (starting from May 15 projections).
+
 *May 6 update:* You can now download our R estimates as csv files on [our GitHub](https://github.com/youyanggu/covid19_projections/tree/master/r_values).
 
-The below [basic reproduction number](https://en.wikipedia.org/wiki/Basic_reproduction_number) (R) estimates are what our model has learned for each state/region. While we present a single value for the purpose of this chart, our model actually uses a weighted range of R values to make its projections. The initial R<sub>0</sub> is the R value in early-to-mid March, right before states began implementing stay-at-home orders. We provide a longer explanation of how our model works [here](/model-details).
+The below [reproduction number](https://en.wikipedia.org/wiki/Basic_reproduction_number) (R) estimates are what our model has learned for each state/country. While we present a single value for the purpose of this chart, our model actually uses a weighted range of R values to make its projections. The initial R<sub>0</sub> is the R value in early-to-mid March, right before states began implementing stay-at-home orders. We provide a longer explanation of how our model works [here](/model-details).
 
 ### Notes
 
