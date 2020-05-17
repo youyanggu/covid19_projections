@@ -64,6 +64,8 @@ See an [analysis of our model](https://twitter.com/CT_Bergstrom/status/125534384
 
 ## Historical Performance
 
+**Last Updated: May 16**
+
 A model isn't very useful if it's not accurate. Below is our analysis on how various models considered by the CDC have performed over the past few weeks. Because the CDC receives weekly projections from every Monday, we use projections from past Mondays to evaluate the models.
 
 [Click here](/historical-performance) to see performance evaluations for past dates (e.g. May 2).
