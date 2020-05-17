@@ -1,6 +1,8 @@
-When evaluating our projections, please keep in mind the following updates. We are transparent and released every projection since we began the project on March 30. But note that we were continuing to improve our model in the initial weeks of this project. We did not submit our first projections to the CDC until April 20. While we welcome an evaluation of every projection we have ever made, we also want to point out that our projections have been constantly evolving/improving, and it wasn't until April 20 that we felt confident enough in our projections to submit to the CDC.
+When evaluating our projections, please keep in mind the following updates. We are transparent and released every projection since we began the project on March 30. But note that we were continuing to improve our model in the initial weeks of this project. While we hoped that we could generate accurate projections a few days into the project, such expectations are unrealistic.
 
-We send projections to the CDC every Monday using Sunday's projections. For example, April 26, May 3, May 10, etc. As a result, we recommend using those projections for evaluation, since those projections have the "highest" impact.
+We did not submit our first projections to the CDC until April 20. While we welcome an evaluation of every projection we have ever made, we also want to point out that our projections have been constantly evolving/improving, and it wasn't until April 20 that we felt confident enough in our projections to submit to the CDC. With that said, we fully stand behind every projection we have sent to the CDC.
+
+We send projections to the CDC every Monday using Sunday's projections. For example, April 26, May 3, May 10, May 17, etc. As a result, we recommend using those projections for evaluation, since those projections have the "highest" impact.
 
 # Updates
 
