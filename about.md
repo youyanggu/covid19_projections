@@ -7,10 +7,10 @@ permalink: /about/
 ## Table of contents
 * [About the Model](#about-the-model)
 * [How Our Model is Different](#how-our-model-is-different)
+* [Historical Performance *(Updated May 17)*](#historical-performance)
 * [Concerns with the IHME model *(Updated Daily)*](#concerns-with-the-ihme-model)
   * [May 4 Revision *(Updated May 14)*](#may-4-revision)
   * [State Reopening Timeline *(Updated May 11)*](#state-reopening-timeline)
-* [Historical Performance *(Updated May 11)*](#historical-performance)
 * [Data and Output](#data-and-output)
 * [Assumptions](#assumptions)
 * [Limitations](#limitations)
@@ -58,6 +58,40 @@ See an [analysis of our model](https://twitter.com/CT_Bergstrom/status/125534384
 * *Open data:* We upload all of our raw data/projections daily onto [our GitHub page](https://github.com/youyanggu/covid19_projections). All of the data used on this website can be downloaded.
 
 * *Strong validation system*: Many of the other models tend to overfit to the data. We have a strong validation system to make sure that all of our updates pass out-of-sample validation before they can be included in the model. This allows us to better differentiate the signal from the noise and be more resistant to outliers. Because all of our assumptions and projections are tested/verified on all 50 states as well as over 60 countries, we are able to create more robust projections.
+
+[Back to Top](#top)
+
+
+## Historical Performance
+
+A model isn't very useful if it's not accurate. Below is our analysis on how various models considered by the CDC have performed over the past few weeks. Because the CDC receives weekly projections from every Monday, we use projections from past Mondays to evaluate the models.
+
+[Click here](/historical-performance) to see performance evaluations for past dates (e.g. May 2).
+
+### May 16 evaluation of US projections
+
+![US comparison](/assets/images/2020-05-16_comparison_us.png)
+
+![US comparison](/assets/images/2020-05-16_comparison_us_perc.png)
+
+### May 9 evaluation of state-by-state projections
+
+Check back soon for May 16 state-by-state evaluations!
+
+![States comparison](/assets/images/2020-05-09_comparison_states.png)
+
+### Notes
+
+* We are the only model that consistently places in the top 3 for every week's projections.
+* The IHME model, a model frequently cited by the White House and media, consistently performs in the bottom half of all models for both its US projections and state-by-state projections.
+* A baseline model that simply uses the previous week's average deaths to make future projections outperforms many models for short-term forecasts.
+* The [COVIDhub ensemble model](https://github.com/reichlab/covid19-forecast-hub/#ensemble-model) is created by taking the arithmetic average of all eligible models that submit projections to the CDC. Our C19Pro projections are included in this ensemble.
+* For state-by-state projections, we prioritize minimizing the mean error rather than the median error, which is reflected in the results. If our objective is to minimize median error, it would be optimal to simply use the prior week's projections, as indicated by the strong performance of the baseline model.
+* While past performance is not necessarily indicative of future performance, we believe it's important to consider a model's historical accuracy and not just a model's future forecasts and/or the creator's name recognition. It is also important to make sure that a model can perform better than the baseline.
+
+Projections taken from: [https://github.com/reichlab/covid19-forecast-hub](https://github.com/reichlab/covid19-forecast-hub)
+
+Truth data from Johns Hopkins: [https://github.com/CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19)
 
 [Back to Top](#top)
 
@@ -160,34 +194,6 @@ On top of everything we mentioned above, their model is also inherently flawed f
 [Click here](#historical-us-projections) to see how our projections have changed over time, compared with the IHME model. For a comparison of April projections for several heavily-impacted states and countries, [click here](/model-comparison-ihme).
 
 To conclude, we believe that a successful model must be able to quickly determine what is realistic and what is not, and the above examples highlights our main concerns with the IHME model.
-
-[Back to Top](#top)
-
-## Historical Performance
-
-A model isn't very useful if it's not accurate. Below is our analysis on how various models considered by the CDC have performed over the past few weeks. Because the CDC receives weekly projections from every Monday, we use projections from past Mondays to evaluate the models.
-
-[Click here](/historical-performance) to see performance evaluations for past dates (e.g. May 2).
-
-### May 9 evaluation of US projections
-
-![US comparison](/assets/images/2020-05-09_comparison_us.png)
-
-### May 9 evaluation of state-by-state projections
-
-![States comparison](/assets/images/2020-05-09_comparison_states.png)
-
-### Notes
-* We are the only model that consistently places in the top 3 for every week's projections.
-* The IHME model, a model frequently cited by the White House and media, consistently performs in the bottom half of all models for both its US projections and state-by-state projections.
-* A baseline model that simply uses the previous week's average deaths to make future projections outperforms many models for short-term forecasts.
-* The [COVIDhub ensemble model](https://github.com/reichlab/covid19-forecast-hub/#ensemble-model) is created by taking the arithmetic average of all eligible models that submit projections to the CDC. Our C19Pro projections are included in this ensemble.
-* For state-by-state projections, we prioritize minimizing the mean error rather than the median error, which is reflected in the results. If our objective is to minimize median error, it would be optimal to simply use the prior week's projections, as indicated by the strong performance of the baseline model.
-* While past performance is not necessarily indicative of future performance, we believe it's important to consider a model's historical accuracy and not just a model's future forecasts and/or the creator's name recognition. It is also important to make sure that a model can perform better than the baseline.
-
-Projections taken from: [https://github.com/reichlab/covid19-forecast-hub](https://github.com/reichlab/covid19-forecast-hub)
-
-Truth data from Johns Hopkins: [https://github.com/CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19)
 
 [Back to Top](#top)
 
@@ -381,10 +387,7 @@ Also note that while we update our projections daily, IHME only updates their pr
 * Incorporate international data and add projections for Italy
 
 2020-04-01
-* Incorporate US states data and add projections for every state
-
-2020-03-31
-* Add first projections for New York and California
+* Add first projections for the US and individual states
 
 2020-03-30
 * Begin project
