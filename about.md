@@ -345,6 +345,9 @@ Also note that while we update our projections daily, IHME only updates their pr
 2020-04-23
 * Incorporate probable deaths into projections, following updated [CDC guidelines](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html)
 
+2020-04-20
+* First projections submitted to the Centers for Disease Control and Prevention (CDC).
+
 2020-04-15
 * Incorporate the relaxing of social distancing in June (see our [Assumptions](/about#assumptions) page)
 
