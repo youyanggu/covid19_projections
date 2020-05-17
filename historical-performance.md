@@ -6,6 +6,18 @@ permalink: /historical-performance/
 
 # Historical Performance
 
+## May 16
+
+### US projections
+
+![US comparison](/assets/images/2020-05-16_comparison_us.png)
+
+![US comparison](/assets/images/2020-05-16_comparison_us_perc.png)
+
+### State-by-state projections
+
+Coming soon!
+
 ## May 9
 
 ### US projections
