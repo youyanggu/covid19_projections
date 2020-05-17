@@ -70,6 +70,8 @@ A model isn't very useful if it's not accurate. Below is our analysis on how var
 
 ### May 16 evaluation of US projections
 
+See our [Tweet](https://twitter.com/youyanggu/status/1262149966249652224) that explains our May 16 evaluations.
+
 ![US comparison](/assets/images/2020-05-16_comparison_us.png)
 
 ![US comparison](/assets/images/2020-05-16_comparison_us_perc.png)
