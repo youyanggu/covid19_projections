@@ -8,7 +8,7 @@ On this page:
 * [Summary of Europe projections](#europe-summary)
 * [Summary of Rest of World projections](#rest-of-world-summary)
 
-**May 17 Update:** We added a tests per day target for each region, based on Harvard Global Health Institute's [study](https://globalepidemics.org/2020/05/07/hghi-projected-tests-needed-may15/) that assumes 10 contacts per infected individual. You can see this estimate above the "Newly infected" graph on each projection page.
+**May 17 Update:** We added a tests per day target for each region based on Harvard Global Health Institute's [study](https://globalepidemics.org/2020/05/07/hghi-projected-tests-needed-may15/) that assumes 10 contacts per infected individual. You can see this estimate above the "Newly Infected" graph on each projection page (e.g. [US](/us)).
 
 **May 16 Update:** We added a plot of our estimate of the effective reproduction number (R_t) over time to all of our projections. If R_t is greater than 1, it means that the number of cases is growing. The ultimate goal is to keep R_t under 1. BBC provides a [simple explanation](https://www.bbc.com/news/health-52473523) for understanding the importance of the R value.
 
