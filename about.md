@@ -371,7 +371,8 @@ Also note that while we update our projections daily, IHME only updates their pr
 * Add Infections Tracker page that estimates the number of infections in each US state
 
 2020-04-08
-* Add estimate for the number of infected individuals
+* Increase projected end date from June 30 to August 4
+* Add plots for the number of infected individuals
 
 2020-04-07
 * Add projections for all European Union countries and 7 additional countries: Brazil, Canada, India, Indonesia, Mexico, Philippines, Turkey
