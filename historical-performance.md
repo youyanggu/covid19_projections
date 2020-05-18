@@ -16,7 +16,7 @@ permalink: /historical-performance/
 
 ### State-by-state projections
 
-Coming soon!
+![States comparison](/assets/images/2020-05-16_comparison_states.png)
 
 ## May 9
 
