@@ -80,18 +80,16 @@ See our [Tweet](https://twitter.com/youyanggu/status/1262149966249652224) that e
 
 ![US comparison](/assets/images/2020-05-16_comparison_us_perc.png)
 
-### May 9 evaluation of state-by-state projections
+### May 16 evaluation of state-by-state projections
 
-Check back soon for May 16 state-by-state evaluations!
-
-![States comparison](/assets/images/2020-05-09_comparison_states.png)
+![States comparison](/assets/images/2020-05-16_comparison_states.png)
 
 ### Notes
 
-* We are the only model that consistently places in the top 3 for every week's projections.
-* The IHME model, a model frequently cited by the White House and media, consistently performs in the bottom half of all models for both its US projections and state-by-state projections.
+* We are the only model that consistently places in the top 3 for every week's projections, and the only model that beat the baseline every week.
 * A baseline model that simply uses the previous week's average deaths to make future projections outperforms many models for short-term forecasts.
-* The [COVIDhub ensemble model](https://github.com/reichlab/covid19-forecast-hub/#ensemble-model) is created by taking the arithmetic average of all eligible models that submit projections to the CDC. Our C19Pro projections are included in this ensemble.
+* The IHME model, a model frequently cited by the White House and media, consistently performs in the bottom half of all models for both its US projections and state-by-state projections.
+* The [COVIDhub ensemble model](https://github.com/reichlab/covid19-forecast-hub/#ensemble-model) is created by taking a combination of all eligible models that submit projections to the CDC. Our projections are included in this ensemble.
 * For state-by-state projections, we prioritize minimizing the mean error rather than the median error, which is reflected in the results. If our objective is to minimize median error, it would be optimal to simply use the prior week's projections, as indicated by the strong performance of the baseline model.
 * While past performance is not necessarily indicative of future performance, we believe it's important to consider a model's historical accuracy and not just a model's future forecasts and/or the creator's name recognition. It is also important to make sure that a model can perform better than the baseline.
 
