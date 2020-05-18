@@ -6,6 +6,10 @@ permalink: /infections-tracker/
 
 Our model tries to do what no other model currently does (to the best of our knowledge): provide an estimate for the R values and the true number of infected individuals in every region.
 
+## Testing Targets
+
+You can see our testing targets per day for the [US and all 50 states](https://github.com/youyanggu/covid19_projections/blob/master/tests_target/tests_target_us_by_2020-06-01.csv) and [globally](https://github.com/youyanggu/covid19_projections/blob/master/tests_target/tests_target_global_by_2020-06-01.csv). To make these estimates, we use Harvard Global Health Institute’s [study](https://globalepidemics.org/2020/05/07/hghi-projected-tests-needed-may15/) that recommends 10 contacts per infected individual.
+
 ## R<sub>0</sub> value estimates
 
 *May 15 update:* You can now view a graph of our R_t estimates over time in all of our projections (e.g. [US](/us)). You can also download the raw R_t time series on [our GitHub](https://github.com/youyanggu/covid19_projections/tree/master/projections) (starting from May 15 projections).
