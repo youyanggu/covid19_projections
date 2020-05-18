@@ -33,7 +33,8 @@ One way to think of this is to view our projections starting on April 20 as the 
 * Add Norway and Russia to projections
 
 2020-04-08
-* Add estimate for the number of infected individuals
+* Increase projected end date from June 30 to August 4
+* Add plots for the number of infected individuals
 
 2020-04-07
 * Add projections for all European Union countries and 7 additional countries: Brazil, Canada, India, Indonesia, Mexico, Philippines, Turkey
