@@ -32,7 +32,7 @@ On this page:
 
 ## US Deaths Likelihoods
 
-Below, we present the most likely dates that the US will surpass certain deaths milestones, as well as the probabilities of the US surpassing those milestones by different time horizons. For example, we estimate a 54% chance that the US surpasses 125,000 deaths by June 15, with June 14 being the most likely date.
+Below, we present the most likely dates that the US will surpass certain deaths milestones, as well as the probabilities of the US surpassing those milestones by different time horizons. For example, we estimate a 49% chance that the US surpasses 125,000 deaths by June 15, with June 15 being the most likely date.
 
 Last updated: May 18, 2020
 
