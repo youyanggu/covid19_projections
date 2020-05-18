@@ -7,7 +7,7 @@ permalink: /about/
 ## Table of contents
 * [About the Model](#about-the-model)
 * [How Our Model is Different](#how-our-model-is-different)
-* [Historical Performance *(Updated May 17)*](#historical-performance)
+* [Historical Performance *(Updated May 18)*](#historical-performance)
 * [Concerns with the IHME model *(Updated Daily)*](#concerns-with-the-ihme-model)
   * [May 4 Revision *(Updated May 14)*](#may-4-revision)
   * [State Reopening Timeline *(Updated May 11)*](#state-reopening-timeline)
@@ -66,7 +66,7 @@ See an [analysis of our model](https://twitter.com/CT_Bergstrom/status/125534384
 
 ## Historical Performance
 
-**Last Updated: May 16**
+**Last Updated: May 18**
 
 A model isn't very useful if it's not accurate. Below is our analysis on how various models considered by the CDC have performed over the past few weeks. Because the CDC receives weekly projections from every Monday, we use projections from past Mondays to evaluate the models.
 
