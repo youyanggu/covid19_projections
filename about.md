@@ -103,7 +103,7 @@ Truth data from Johns Hopkins: [https://github.com/CSSEGISandData/COVID-19](http
 
 ## Concerns with the IHME model
 
-In this section we will compare our projections with a popular model developed by the [Institute for Health Metrics and Evaluation (IHME)](https://covid19.healthdata.org/) and commonly referred to by the White House and media. We compare our projections (C19Pro) with IHME below for US, New York, Michigan, New Jersey, California and Italy, some of the most heavily impacted regions.
+In this section we will compare our projections with a popular model developed by the [Institute for Health Metrics and Evaluation (IHME)](https://covid19.healthdata.org/) and commonly referred to by the White House and media. Below, we compare a sample of our April projections (C19Pro) with IHME for US, New York, Michigan, New Jersey, California and Italy, some of the most heavily impacted regions.
 
 {% include iframe_ny_comparison.html %}
 
