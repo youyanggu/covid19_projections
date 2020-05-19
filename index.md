@@ -10,7 +10,7 @@ On this page:
 
 ## Recent Updates
 
-* **May 17:** See how our models have performed historically compared to other models [here](/about/#historical-performance).
+* **May 18:** See how our models have performed historically compared to other models [here](/about/#historical-performance).
 
 * **May 17:** We added a tests-per-day target for each region based on Harvard Global Health Institute's [study](https://globalepidemics.org/2020/05/07/hghi-projected-tests-needed-may15/) that recommends 10 contacts per infected individual. You can see this estimate above the "Newly Infected" graph on each projection page (e.g. we estimate 1.3 million tests/day are needed for the [US](/us)). Download the raw data [here](https://github.com/youyanggu/covid19_projections/tree/master/tests_target).
 
