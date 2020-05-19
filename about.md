@@ -35,9 +35,9 @@ See an [analysis of our model](https://twitter.com/CT_Bergstrom/status/125534384
 
 ## How Our Model is Different
 
-* *No public funding*: we are the only model [shared by the CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html) that receives no public funding, making us a completely independent entity.
+* *No public funding*: We are the only model [used by the CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html) that receives no public funding, making us a completely independent entity.
 
-* *Reopenings*: We are also one of the only models shared by the CDC that factors in individual state-by-state or country-by-country reopenings, allowing us to make more realistic projections.
+* *Accounts for reopenings*: We are also one of the only models used by the CDC that factors in individual state-by-state or country-by-country reopenings, allowing us to make more realistic projections.
 
 * *Daily updates*: Because our model is purely data-driven, it is quick to run and easy to regenerate. Unlike other models that are only updated once every few days, our model is updated on a daily basis, leading to more accurate projections.
 
