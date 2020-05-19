@@ -47,6 +47,7 @@ Variable parameters are those that may change depending on the country/state/reg
 - Mortality rate
 - Imports of positive cases per day
 - Mitigation effects (i.e. post-mitigation R)
+- Lockdown fatigue factor
 - Lifting of shelter-at-home orders (i.e. post-reopening R)
 - Population
 
@@ -59,6 +60,7 @@ To model the effects of mitigation strategies such as shelter-at-home/lockdown o
 1) R<sub>0</sub>: the initial R before mitigation strategy
 2) post-mitigation R: the R after mitigation strategy
 3) post-reopening R: the R after mitigation strategy has been relaxed
+Supplemental: We apply a small lockdown fatigue ratio to certain regions 2-4 weeks after lockdown. This will increase the post-mitigation R slightly.
 
 Note that the mitigation strategy can encompass a wide variety of strategies, ranging from a complete lockdown as we've seen in Wuhan, China, to a more relaxed strategy as we've seen in Sweden.
 
