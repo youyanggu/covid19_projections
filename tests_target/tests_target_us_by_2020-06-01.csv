@@ -1,56 +1,56 @@
 country,region,tests_needed_per_day
-US,,1289230
+US,,1282160
 US,Alaska,60
-US,Alabama,28140
-US,Arkansas,1620
-US,Arizona,53370
-US,California,66130
-US,Colorado,34460
-US,Connecticut,21590
+US,Alabama,28040
+US,Arkansas,1630
+US,Arizona,53150
+US,California,65780
+US,Colorado,32620
+US,Connecticut,20720
 US,District of Columbia,6540
-US,Delaware,11510
-US,Florida,41500
-US,Georgia,35210
+US,Delaware,11440
+US,Florida,41350
+US,Georgia,35860
 US,Guam,70
 US,Hawaii,140
-US,Iowa,37090
+US,Iowa,37030
 US,Idaho,350
-US,Illinois,147490
-US,Indiana,68930
-US,Kansas,2440
-US,Kentucky,3730
-US,Louisiana,16980
-US,Massachusetts,59150
-US,Maryland,46590
+US,Illinois,146930
+US,Indiana,68380
+US,Kansas,2430
+US,Kentucky,4060
+US,Louisiana,17260
+US,Massachusetts,58820
+US,Maryland,46510
 US,Maine,580
-US,Michigan,20410
-US,Minnesota,32350
-US,Missouri,27590
-US,Mississippi,33960
+US,Michigan,20340
+US,Minnesota,31730
+US,Missouri,27340
+US,Mississippi,33420
 US,Montana,90
-US,North Carolina,17600
-US,North Dakota,2540
-US,Nebraska,7130
-US,New Hampshire,11410
-US,New Jersey,68170
-US,New Mexico,12450
-US,Nevada,6400
-US,New York,50840
-US,Ohio,64200
+US,North Carolina,17450
+US,North Dakota,2560
+US,Nebraska,6890
+US,New Hampshire,11430
+US,New Jersey,68010
+US,New Mexico,12430
+US,Nevada,6450
+US,New York,51130
+US,Ohio,64100
 US,Oklahoma,2920
-US,Oregon,960
-US,Pennsylvania,86460
+US,Oregon,970
+US,Pennsylvania,85120
 US,Puerto Rico,840
-US,Rhode Island,9830
-US,South Carolina,17800
+US,Rhode Island,9760
+US,South Carolina,17980
 US,South Dakota,2810
-US,Tennessee,3900
-US,Texas,83710
-US,Utah,3410
-US,Virginia,25560
+US,Tennessee,5410
+US,Texas,82240
+US,Utah,3310
+US,Virginia,25450
 US,Virgin Islands,60
-US,Vermont,240
+US,Vermont,250
 US,Washington,4810
-US,Wisconsin,5930
-US,West Virginia,1010
+US,Wisconsin,5960
+US,West Virginia,980
 US,Wyoming,110
