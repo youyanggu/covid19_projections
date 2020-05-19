@@ -10,7 +10,7 @@ On this page:
 
 ## Recent Updates
 
-* **May 18:** See how our models have performed historically compared to other models [here](/about/#historical-performance).
+* **May 18:** See how our models have performed historically compared to other CDC models [here](/about/#historical-performance).
 
 * **May 17:** We added a tests-per-day target for each region based on Harvard Global Health Institute's [study](https://globalepidemics.org/2020/05/07/hghi-projected-tests-needed-may15/) that recommends 10 contacts per infected individual. You can see this estimate above the "Newly Infected" graph on each projection page (e.g. we estimate 1.3 million tests/day are needed for the [US](/us)). Download the raw data [here](https://github.com/youyanggu/covid19_projections/tree/master/tests_target).
 
@@ -24,7 +24,7 @@ On this page:
 
 **State-by-state Reopenings:** To date, we are one of the only models [referenced by the CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html) that factors in individual state re-openings. We update each US state's reopening timeline according to [The New York Times](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html). Learn more about our social distancing assumptions [here](/about/#assumptions).
 
-## Current Projection for US - Updated Daily - Last Updated: May 18 (3am ET):
+## Current Projection for US - Updated Daily - Last Updated: May 19 (1am ET):
 <p align="center">
   Current Total: <b>90,344</b> deaths | Projected Total: <b>195,077</b> deaths by Aug 4, 2020 (Range: 120-337k)<br>
   Currently Infected: <b>0.6%</b> | Total Infected: <b>3.5%</b> {% include iframe.html %}
