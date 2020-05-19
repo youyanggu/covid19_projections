@@ -86,11 +86,12 @@ See our [Tweet](https://twitter.com/youyanggu/status/1262149966249652224) that e
 
 ### Notes
 
-* We are the only model that consistently places in the top 3 for every week's projections, and the only model that beat the baseline every week.
+* We are the only model that consistently places in the top 3 for every week's projections, and the only model that beats the baseline every week.
 * A baseline model that simply uses the previous week's average deaths to make future projections outperforms many models for short-term forecasts.
 * The IHME model, a model frequently cited by the White House and media, consistently performs in the bottom half of all models for both its US projections and state-by-state projections.
 * The [COVIDhub ensemble model](https://github.com/reichlab/covid19-forecast-hub/#ensemble-model) is created by taking a combination of all eligible models that submit projections to the CDC. Our projections are included in this ensemble.
 * For state-by-state projections, we evaluate all models that have 4+ week projections for more than 40 states. For models with missing state projections, we use the mean projection for that state (among all the models). Our model prioritizes minimizing the mean absolute error. If our objective is to minimize the median absolute error, it would be optimal to use the prior week's projections, as indicated by the strong performance of the baseline model.
+* For groups that submit more than one model, we combine them into a single model by taking the mean projections.
 * While past performance is not necessarily indicative of future performance, we believe it's important to consider a model's historical accuracy and not just a model's future forecasts and/or the creator's name recognition. It is also important to make sure that a model can perform better than the baseline.
 * We welcome and encourage independent model evaluations. See [here](https://twitter.com/FelixHoenikker_/status/1262517002507182080) for an evaluation from a PhD data scientist at NASA Ames.
 
