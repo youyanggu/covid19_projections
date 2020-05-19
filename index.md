@@ -1,4 +1,4 @@
-We present an intuitive model that uses machine learning techniques to make COVID-19 projections for infections and deaths for all 50 US states and more than 60 countries.
+We present an intuitive model that builds machine learning techniques on top of a classic infectious disease model to make COVID-19 infections and deaths projections for the US, all 50 US states, and more than 60 countries.
 
 On this page:
 * [View US projections](#view-projections)
