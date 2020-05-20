@@ -10,7 +10,7 @@ On this page:
 
 ## Recent Updates
 
-* **May 20:** We added county-level projections for 14 US counties, including [New York City](/us-ny-new-york-city), [Los Angeles](/us-ca-los-angeles), and [Chicago](/us-il-cook). See all 14 counties [here](#view-projections). We also added [Ontario](/canada-ontario) and [Quebec](/canada-quebec).
+* **May 20:** We added county-level projections for 14 US counties, including [New York City](/us-ny-new-york-city), [Los Angeles](/us-ca-los-angeles), and [Chicago](/us-il-cook). See all 14 counties [here](#us-counties). We also added 2 Canadian provinces, [Ontario](/canada-ontario) and [Quebec](/canada-quebec).
 
 * **May 18:** See how our models have performed historically compared to other CDC models [here](/about/#historical-performance).
 
@@ -86,7 +86,7 @@ Below you can find our projections for every US state and 63 countries (includin
 | [Iowa](us-ia) | [North Carolina](us-nc) | [Wisconsin](us-wi) |
 | [Kansas](us-ks) | [North Dakota](us-nd) | [Wyoming](us-wy) |
 
-<br />
+### US Counties
 
 | US Counties |  |  |
 | --- | --- | --- |
