@@ -8,7 +8,7 @@ Our model tries to do what no other model currently does (to the best of our kno
 
 ## Testing Targets
 
-You can see our testing targets per day for the [US and all 50 states](https://github.com/youyanggu/covid19_projections/blob/master/tests_target/tests_target_us_by_2020-06-01.csv) and [globally](https://github.com/youyanggu/covid19_projections/blob/master/tests_target/tests_target_global_by_2020-06-01.csv). To make these estimates, we use Harvard Global Health Institute’s [study](https://globalepidemics.org/2020/05/07/hghi-projected-tests-needed-may15/) that recommends 10 contacts per infected individual.
+You can see our testing targets per day for the [US and all 50 states](https://github.com/youyanggu/covid19_projections/blob/master/tests_target/tests_target_us_by_2020-06-01.csv), [globally](https://github.com/youyanggu/covid19_projections/blob/master/tests_target/tests_target_global_by_2020-06-01.csv), and [select US counties + subregions](https://github.com/youyanggu/covid19_projections/blob/master/tests_target/tests_target_subregion_by_2020-06-01.csv). To make these estimates, we use Harvard Global Health Institute’s [study](https://globalepidemics.org/2020/05/07/hghi-projected-tests-needed-may15/) that recommends 10 contacts per infected individual.
 
 ## R<sub>0</sub> value estimates
 
