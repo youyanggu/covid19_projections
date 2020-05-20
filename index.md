@@ -1,6 +1,6 @@
 We present an intuitive model that builds machine learning techniques on top of a classic infectious disease model to make COVID-19 infections and deaths projections for the US, all 50 US states, and more than 60 countries.
 
-Note that our infections estimates includes all infected individuals, not just those that took a COVID-19 test kit and tested positive. The vast majority of infected individuals do not get tested, and thus do not get reported as a positive case. As of mid-May, we estimate the true number of infected individuals in the US is ~5x higher than the reported cases.
+Note that our infections estimate includes all infected individuals, not just those that took a COVID-19 test kit and tested positive. The vast majority of infected individuals do not get tested, and thus do not get reported as a positive case. As of mid-May, we estimate the true number of infected individuals in the US is ~5x higher than the reported cases.
 
 On this page:
 * [View US projections](#view-projections)
@@ -12,7 +12,7 @@ On this page:
 
 ## Recent Updates
 
-* **May 20:** We added county-level projections for 14 US counties, including [New York City](/us-ny-new-york-city), [Los Angeles](/us-ca-los-angeles), and [Chicago](/us-il-cook). See all 14 counties [here](#us-counties). We also added 2 Canadian provinces, [Ontario](/canada-ontario) and [Quebec](/canada-quebec).
+* **May 20:** We added county-level projections for 14 US counties heavily impacted by COVID-19. This includes cities such as [New York City](/us-ny-new-york-city) (5 boroughs), [Los Angeles](/us-ca-los-angeles), and [Chicago](/us-il-cook). See all 14 counties [here](#us-counties). We also added the 2 Canadian provinces accounting for ~85% of cases in Canada: [Ontario](/canada-ontario) and [Quebec](/canada-quebec).
 
 * **May 18:** See how our models have performed historically compared to other CDC models [here](/about/#historical-performance).
 
