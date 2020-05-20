@@ -1,10 +1,12 @@
-When evaluating our projections, please keep in mind the following notes:
+When evaluating our projections, please keep in mind the following notes and update log:
 
-We did not submit our first projections to the CDC until April 20. While we welcome an evaluation of every projection we have ever made, we also want to point out that our projections have been constantly evolving/improving, and it wasn't until April 20 that we felt confident enough in our projections to submit to the CDC. With that said, we fully stand behind every projection we have sent to the CDC.
+* Our estimates from early April do not incorporate reopenings and probable deaths, two factors that significantly increases the estimates. Furthermore, our early April projections only go through June.
 
-We send projections to the CDC every Monday using Sunday's data. For example, April 26, May 3, May 10, May 17, etc. As a result, we recommend using those projections for evaluation, since those have the highest impact and were the most carefully vetted.
+* We send projections to the CDC every Monday using Sunday's data. For example, April 26, May 3, May 10, May 17, etc. As a result, we recommend using those projections for evaluation, since those have the highest impact and were the most carefully vetted.
 
-One way to think of this is to view our projections starting on April 20 as the "release" version, while projections prior to April 20 were "beta" versions.
+* We did not submit our first projections to the CDC until April 20. While we welcome an evaluation of every projection we have ever made, we also want to point out that our projections have been constantly evolving/improving, and it wasn't until April 20 that we felt confident enough in our projections to submit to the CDC. With that said, we fully stand behind every projection we have sent to the CDC.
+
+* One way to think of this is to view our projections starting on April 20 as the "release" version, while projections prior to April 20 were "beta" versions.
 
 # Updates
 
