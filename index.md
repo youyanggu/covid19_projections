@@ -86,13 +86,15 @@ Below you can find our projections for every US state and 63 countries (includin
 | [Iowa](us-ia) | [North Carolina](us-nc) | [Wisconsin](us-wi) |
 | [Kansas](us-ks) | [North Dakota](us-nd) | [Wyoming](us-wy) |
 
+<br />
+
 | US Counties |  |  |
 | --- | --- | --- |
-| [US-CA-Los Angeles](/us-ca-los-angeles) | [US-MI-Wayne](/us-mi-wayne) | [US-NY-New York City](/us-ny-new-york-city) |
-| [US-CA-Santa Clara](/us-ca-santa-clara) | [US-NJ-Bergen](/us-nj-bergen) | [US-NY-Suffolk](/us-ny-suffolk) |
-| [US-FL-Miami-Dade](/us-fl-miami-dade) | [US-NJ-Essex](/us-nj-essex) | [US-NY-Westchester](/us-ny-westchester) |
-| [US-IL-Cook](/us-il-cook) | [US-NV-Washoe](/us-nv-washoe) | [US-PA-Philadelphia](/us-pa-philadelphia) |
-| [US-MA-Middlesex](/us-ma-middlesex) | [US-NY-Nassau](/us-ny-nassau) |
+| [CA - Los Angeles](/us-ca-los-angeles) | [MI - Wayne](/us-mi-wayne) | [NY - New York City](/us-ny-new-york-city) |
+| [CA - Santa Clara](/us-ca-santa-clara) | [NJ - Bergen](/us-nj-bergen) | [NY - Suffolk](/us-ny-suffolk) |
+| [FL - Miami-Dade](/us-fl-miami-dade) | [NJ - Essex](/us-nj-essex) | [NY - Westchester](/us-ny-westchester) |
+| [IL - Cook](/us-il-cook) | [NV - Washoe](/us-nv-washoe) | [PA - Philadelphia](/us-pa-philadelphia) |
+| [MA - Middlesex](/us-ma-middlesex) | [NY - Nassau](/us-ny-nassau) |
 
 [Back to Top](#top)
 
@@ -100,7 +102,9 @@ Below you can find our projections for every US state and 63 countries (includin
 
 | [Canada](/canada) |  |  |
 | --- | --- | --- |
-| [Canada-Ontario](/canada-ontario) | [Canada-Quebec](/canada-quebec) |
+| [Ontario](/canada-ontario) | [Quebec](/canada-quebec) |
+
+<br />
 
 | Europe |  |  |
 | --- | --- | --- |
