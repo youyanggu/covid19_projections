@@ -1,56 +1,56 @@
-country,region,tests_needed_per_day
-US,,1282160
-US,Alaska,60
-US,Alabama,28040
-US,Arkansas,1630
-US,Arizona,53150
-US,California,65780
-US,Colorado,32620
-US,Connecticut,20720
-US,District of Columbia,6540
-US,Delaware,11440
-US,Florida,41350
-US,Georgia,35860
-US,Guam,70
-US,Hawaii,140
-US,Iowa,37030
-US,Idaho,350
-US,Illinois,146930
-US,Indiana,68380
-US,Kansas,2430
-US,Kentucky,4060
-US,Louisiana,17260
-US,Massachusetts,58820
-US,Maryland,46510
-US,Maine,580
-US,Michigan,20340
-US,Minnesota,31730
-US,Missouri,27340
-US,Mississippi,33420
-US,Montana,90
-US,North Carolina,17450
-US,North Dakota,2560
-US,Nebraska,6890
-US,New Hampshire,11430
-US,New Jersey,68010
-US,New Mexico,12430
-US,Nevada,6450
-US,New York,51130
-US,Ohio,64100
-US,Oklahoma,2920
-US,Oregon,970
-US,Pennsylvania,85120
-US,Puerto Rico,840
-US,Rhode Island,9760
-US,South Carolina,17980
-US,South Dakota,2810
-US,Tennessee,5410
-US,Texas,82240
-US,Utah,3310
-US,Virginia,25450
-US,Virgin Islands,60
-US,Vermont,250
-US,Washington,4810
-US,Wisconsin,5960
-US,West Virginia,980
-US,Wyoming,110
+country,region,subregion,tests_needed_per_day
+US,,,1192530
+US,Alaska,,50
+US,Alabama,,21190
+US,Arkansas,,1550
+US,Arizona,,47000
+US,California,,67510
+US,Colorado,,34080
+US,Connecticut,,18970
+US,District of Columbia,,6420
+US,Delaware,,10890
+US,Florida,,40390
+US,Georgia,,34150
+US,Guam,,70
+US,Hawaii,,140
+US,Iowa,,31930
+US,Idaho,,400
+US,Illinois,,134280
+US,Indiana,,64270
+US,Kansas,,2120
+US,Kentucky,,5760
+US,Louisiana,,18190
+US,Massachusetts,,51190
+US,Maryland,,45300
+US,Maine,,590
+US,Michigan,,21140
+US,Minnesota,,26740
+US,Missouri,,26630
+US,Mississippi,,34520
+US,Montana,,90
+US,North Carolina,,11460
+US,North Dakota,,2290
+US,Nebraska,,4680
+US,New Hampshire,,10100
+US,New Jersey,,63820
+US,New Mexico,,11480
+US,Nevada,,5690
+US,New York,,53500
+US,Ohio,,60100
+US,Oklahoma,,2700
+US,Oregon,,920
+US,Pennsylvania,,77870
+US,Puerto Rico,,760
+US,Rhode Island,,11530
+US,South Carolina,,15140
+US,South Dakota,,2660
+US,Tennessee,,5100
+US,Texas,,70290
+US,Utah,,4680
+US,Virginia,,20400
+US,Virgin Islands,,60
+US,Vermont,,240
+US,Washington,,4990
+US,Wisconsin,,5450
+US,West Virginia,,880
+US,Wyoming,,120
