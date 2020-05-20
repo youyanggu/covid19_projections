@@ -10,6 +10,8 @@ On this page:
 
 ## Recent Updates
 
+* **May 20:** We added county-level projections for 14 US counties, including [New York City](/us-ny-new-york-city), [Los Angeles](/us-ca-los-angeles), and [Chicago](/us-il-cook). See all 14 counties [here](#view-projections). We also added [Ontario](/canada-ontario) and [Quebec](/canada-quebec).
+
 * **May 18:** See how our models have performed historically compared to other CDC models [here](/about/#historical-performance).
 
 * **May 17:** We added a tests-per-day target for each region based on Harvard Global Health Institute's [study](https://globalepidemics.org/2020/05/07/hghi-projected-tests-needed-may15/) that recommends 10 contacts per infected individual. You can see this estimate above the "Newly Infected" graph on each projection page (e.g. we estimate 1.3 million tests/day are needed for the [US](/us)). Download the raw data [here](https://github.com/youyanggu/covid19_projections/tree/master/tests_target).
@@ -84,9 +86,21 @@ Below you can find our projections for every US state and 63 countries (includin
 | [Iowa](us-ia) | [North Carolina](us-nc) | [Wisconsin](us-wi) |
 | [Kansas](us-ks) | [North Dakota](us-nd) | [Wyoming](us-wy) |
 
+| US Counties |  |  |
+| --- | --- | --- |
+| [US-CA-Los Angeles](/us-ca-los-angeles) | [US-MI-Wayne](/us-mi-wayne) | [US-NY-New York City](/us-ny-new-york-city) |
+| [US-CA-Santa Clara](/us-ca-santa-clara) | [US-NJ-Bergen](/us-nj-bergen) | [US-NY-Suffolk](/us-ny-suffolk) |
+| [US-FL-Miami-Dade](/us-fl-miami-dade) | [US-NJ-Essex](/us-nj-essex) | [US-NY-Westchester](/us-ny-westchester) |
+| [US-IL-Cook](/us-il-cook) | [US-NV-Washoe](/us-nv-washoe) | [US-PA-Philadelphia](/us-pa-philadelphia) |
+| [US-MA-Middlesex](/us-ma-middlesex) | [US-NY-Nassau](/us-ny-nassau) |
+
 [Back to Top](#top)
 
 ### Global Projections
+
+| [Canada](/canada) |  |  |
+| --- | --- | --- |
+| [Canada-Ontario](/canada-ontario) | [Canada-Quebec](/canada-quebec) |
 
 | Europe |  |  |
 | --- | --- | --- |
