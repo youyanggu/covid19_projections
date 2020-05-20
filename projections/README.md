@@ -8,6 +8,9 @@ One way to think of this is to view our projections starting on April 20 as the 
 
 # Updates
 
+2020-05-19
+* Add subregion projections (14 US counties + Ontario/Quebec)
+
 2020-05-16
 * Add estimate for the effective reproduction value (R_t) over time.
 
