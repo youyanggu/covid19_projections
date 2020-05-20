@@ -330,6 +330,9 @@ Also note that while we update our projections daily, IHME only updates their pr
 
 ## Updates
 
+2020-05-19
+* Add subregion projections (14 US counties + Ontario/Quebec)
+
 2020-05-16
 * Add plots for the effective reproduction value (R_t) over time. Raw data also available [on GitHub](https://github.com/youyanggu/covid19_projections/tree/master/projections).
 
