@@ -28,7 +28,7 @@ The below [reproduction number](https://en.wikipedia.org/wiki/Basic_reproduction
 {% include iframe_r_values.html %}
 
 ## Number of Total Infected Individuals by Date
-This is an estimate of the total number of infected individuals by each date. The infections estimate includes **all** infected individuals, not just those that took a coronavirus test kit and tested positive. The vast majority of infected individuals did not get tested due to 1) they are asymptomatic or only mildly symptomatic or 2) lack of available testing. As of May 18, we estimate that the true number of infections is likely ~5x higher than reported cases. In March and April, when testing was not as prevalent, we estimate that ratio to be closer to 10-15x.
+This is an estimate of the total number of infected individuals by each date. The infections estimate includes **all** infected individuals, not just those that took a coronavirus test kit and tested positive. The vast majority of infected individuals did not get tested due to 1) they are asymptomatic or only mildly symptomatic or 2) lack of available testing. As of May 18, we estimate that the true number of infections in the US is likely ~5x higher than reported cases. In March and April, when testing was not as prevalent, we estimate that ratio to be closer to 10-15x.
 
 Last Updated: May 18
 
