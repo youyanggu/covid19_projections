@@ -320,6 +320,7 @@ Also note that while we update our projections daily, IHME only updates their pr
 * [New York Post](https://nypost.com/2020/04/29/georgia-coronavirus-death-rate-could-double-as-lockdown-eases/) - Apr 29
 * [Reason](https://reason.com/2020/05/01/covid-19-modeling-how-many-coronavirus-deaths-by-the-end-of-summer/) - May 1
 * [The Bulwark](https://thebulwark.com/what-winning-the-war-on-covid-19-looks-like/) - May 21
+* [Bustle](https://www.bustle.com/p/is-it-safe-to-go-to-bars-restaurants-as-coronavirus-restrictions-ease-heres-what-experts-say-22904245) - May 22
 * [Courthouse News](https://www.courthousenews.com/atlanta-businesses-navigate-uncharted-waters-as-georgia-reopens/) - May 6
 * [KUOW-FM](https://www.kuow.org/stories/updates-on-the-coronavirus-pandemic-in-washington-state) - May 18
 * [ABC15 Arizona](https://www.abc15.com/news/state/arizona-sees-21-deaths-reported-in-24-hours) - April 21
