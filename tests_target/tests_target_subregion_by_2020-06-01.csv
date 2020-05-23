@@ -1,17 +1,17 @@
 country,region,subregion,tests_needed_per_day
-Canada,,Ontario,20980
-Canada,,Quebec,60130
-US,CA,Los Angeles,41880
-US,CA,Santa Clara,940
-US,FL,Miami-Dade,9920
-US,IL,Cook,86130
-US,MA,Middlesex,10840
-US,MI,Wayne,8930
-US,NJ,Bergen,6060
-US,NJ,Essex,5340
-US,NV,Washoe,460
-US,NY,Nassau,6430
-US,NY,New York City,19060
-US,NY,Suffolk,12840
-US,NY,Westchester,4230
-US,PA,Philadelphia,24970
+Canada,,Ontario,17720
+Canada,,Quebec,50650
+US,CA,Los Angeles,40480
+US,CA,Santa Clara,920
+US,FL,Miami-Dade,10030
+US,IL,Cook,82270
+US,MA,Middlesex,9860
+US,MI,Wayne,8310
+US,NJ,Bergen,5740
+US,NJ,Essex,5080
+US,NV,Washoe,440
+US,NY,Nassau,6180
+US,NY,New York City,18130
+US,NY,Suffolk,12020
+US,NY,Westchester,4080
+US,PA,Philadelphia,27200

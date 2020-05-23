@@ -1,56 +1,56 @@
 country,region,subregion,tests_needed_per_day
-US,,,1217720
+US,,,1214430
 US,Alaska,,50
-US,Alabama,,18950
-US,Arkansas,,1870
-US,Arizona,,49120
-US,California,,75610
-US,Colorado,,34730
-US,Connecticut,,19800
-US,District of Columbia,,5850
-US,Delaware,,9640
-US,Florida,,42970
-US,Georgia,,45310
+US,Alabama,,19900
+US,Arkansas,,2160
+US,Arizona,,45130
+US,California,,77070
+US,Colorado,,32160
+US,Connecticut,,20610
+US,District of Columbia,,5240
+US,Delaware,,9050
+US,Florida,,43350
+US,Georgia,,48630
 US,Guam,,70
 US,Hawaii,,130
-US,Iowa,,29230
-US,Idaho,,400
-US,Illinois,,131070
-US,Indiana,,63580
-US,Kansas,,2040
-US,Kentucky,,6490
-US,Louisiana,,17650
-US,Massachusetts,,50200
-US,Maryland,,43440
-US,Maine,,540
-US,Michigan,,21350
-US,Minnesota,,32480
-US,Missouri,,27860
-US,Mississippi,,32900
+US,Iowa,,28150
+US,Idaho,,410
+US,Illinois,,131010
+US,Indiana,,61420
+US,Kansas,,1950
+US,Kentucky,,6450
+US,Louisiana,,18870
+US,Massachusetts,,49970
+US,Maryland,,43850
+US,Maine,,570
+US,Michigan,,21270
+US,Minnesota,,34650
+US,Missouri,,26400
+US,Mississippi,,32370
 US,Montana,,90
-US,North Carolina,,11620
-US,North Dakota,,2940
-US,Nebraska,,7690
-US,New Hampshire,,7830
-US,New Jersey,,60820
-US,New Mexico,,11230
-US,Nevada,,7330
-US,New York,,51430
-US,Ohio,,73040
-US,Oklahoma,,2810
-US,Oregon,,930
-US,Pennsylvania,,79520
-US,Puerto Rico,,710
-US,Rhode Island,,11060
-US,South Carolina,,13940
-US,South Dakota,,2350
-US,Tennessee,,4860
-US,Texas,,66890
-US,Utah,,4260
-US,Virginia,,20740
+US,North Carolina,,18660
+US,North Dakota,,2780
+US,Nebraska,,8350
+US,New Hampshire,,7140
+US,New Jersey,,59540
+US,New Mexico,,10900
+US,Nevada,,7260
+US,New York,,50850
+US,Ohio,,69650
+US,Oklahoma,,2860
+US,Oregon,,980
+US,Pennsylvania,,80550
+US,Puerto Rico,,700
+US,Rhode Island,,12590
+US,South Carolina,,12760
+US,South Dakota,,2500
+US,Tennessee,,4590
+US,Texas,,59750
+US,Utah,,3880
+US,Virginia,,24290
 US,Virgin Islands,,60
 US,Vermont,,240
-US,Washington,,4810
-US,Wisconsin,,5890
-US,West Virginia,,880
-US,Wyoming,,360
+US,Washington,,4910
+US,Wisconsin,,6350
+US,West Virginia,,930
+US,Wyoming,,320
