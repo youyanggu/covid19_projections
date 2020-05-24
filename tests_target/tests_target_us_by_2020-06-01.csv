@@ -1,56 +1,56 @@
 country,region,subregion,tests_needed_per_day
-US,,,1214430
+US,,,1311870
 US,Alaska,,50
-US,Alabama,,19900
-US,Arkansas,,2160
-US,Arizona,,45130
-US,California,,77070
-US,Colorado,,32160
-US,Connecticut,,20610
-US,District of Columbia,,5240
-US,Delaware,,9050
-US,Florida,,43350
-US,Georgia,,48630
+US,Alabama,,21280
+US,Arkansas,,2370
+US,Arizona,,51440
+US,California,,85960
+US,Colorado,,32770
+US,Connecticut,,22610
+US,District of Columbia,,5840
+US,Delaware,,7980
+US,Florida,,48780
+US,Georgia,,51310
 US,Guam,,70
-US,Hawaii,,130
-US,Iowa,,28150
-US,Idaho,,410
-US,Illinois,,131010
-US,Indiana,,61420
-US,Kansas,,1950
-US,Kentucky,,6450
-US,Louisiana,,18870
-US,Massachusetts,,49970
-US,Maryland,,43850
-US,Maine,,570
-US,Michigan,,21270
-US,Minnesota,,34650
-US,Missouri,,26400
-US,Mississippi,,32370
+US,Hawaii,,140
+US,Iowa,,30160
+US,Idaho,,430
+US,Illinois,,138080
+US,Indiana,,65670
+US,Kansas,,2100
+US,Kentucky,,6390
+US,Louisiana,,19750
+US,Massachusetts,,54080
+US,Maryland,,46360
+US,Maine,,620
+US,Michigan,,24030
+US,Minnesota,,34380
+US,Missouri,,26720
+US,Mississippi,,35970
 US,Montana,,90
-US,North Carolina,,18660
-US,North Dakota,,2780
-US,Nebraska,,8350
-US,New Hampshire,,7140
-US,New Jersey,,59540
-US,New Mexico,,10900
-US,Nevada,,7260
-US,New York,,50850
-US,Ohio,,69650
-US,Oklahoma,,2860
-US,Oregon,,980
-US,Pennsylvania,,80550
-US,Puerto Rico,,700
-US,Rhode Island,,12590
-US,South Carolina,,12760
-US,South Dakota,,2500
-US,Tennessee,,4590
-US,Texas,,59750
-US,Utah,,3880
-US,Virginia,,24290
+US,North Carolina,,17740
+US,North Dakota,,2710
+US,Nebraska,,7880
+US,New Hampshire,,7360
+US,New Jersey,,64470
+US,New Mexico,,10240
+US,Nevada,,7620
+US,New York,,56100
+US,Ohio,,87120
+US,Oklahoma,,3320
+US,Oregon,,1030
+US,Pennsylvania,,86860
+US,Puerto Rico,,750
+US,Rhode Island,,13910
+US,South Carolina,,14290
+US,South Dakota,,2610
+US,Tennessee,,5950
+US,Texas,,60160
+US,Utah,,4930
+US,Virginia,,26650
 US,Virgin Islands,,60
 US,Vermont,,240
-US,Washington,,4910
-US,Wisconsin,,6350
-US,West Virginia,,930
-US,Wyoming,,320
+US,Washington,,5440
+US,Wisconsin,,7720
+US,West Virginia,,920
+US,Wyoming,,300
