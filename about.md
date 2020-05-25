@@ -68,16 +68,15 @@ See an [analysis of our model](https://twitter.com/CT_Bergstrom/status/125534384
 
 ## Historical Performance
 
-**Last Updated: May 18**
+**Last Updated: May 23**
 
 A model isn't very useful if it's not accurate. Below is our analysis on how various models considered by the CDC have performed over the past few weeks. Because the CDC receives weekly projections from every Monday, we use projections from past Mondays to evaluate the models.
 
-[Click here](/historical-performance) to see performance evaluations for past dates (e.g. May 2).
-
+[Click here](/historical-performance) to see performance evaluations for past dates.
 
 ### May 23 evaluation of US projections
 
-![US comparison](/assets/images/2020-05-16_comparison_us.png)
+![US comparison](/assets/images/2020-05-23_comparison_us.png)
 
 ### May 23 evaluation of state-by-state projections
 
