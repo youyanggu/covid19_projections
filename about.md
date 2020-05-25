@@ -74,13 +74,13 @@ A model isn't very useful if it's not accurate. Below is our analysis on how var
 
 [Click here](/historical-performance) to see performance evaluations for past dates.
 
-### May 23 evaluation of US projections
-
-![US comparison](/assets/images/2020-05-23_comparison_us.png)
-
 ### May 23 evaluation of state-by-state projections
 
 ![States comparison](/assets/images/2020-05-23_comparison_states.png)
+
+### May 23 evaluation of US projections
+
+![US comparison](/assets/images/2020-05-23_comparison_us.png)
 
 ### Notes
 
