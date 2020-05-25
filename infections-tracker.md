@@ -25,6 +25,8 @@ The below [reproduction number](https://en.wikipedia.org/wiki/Basic_reproduction
 * For example, California has a lower-than-expected R<sub>0</sub> partly because there is a significant time lag in their deaths reporting. While this does not significantly affect our projections (assuming the lag is consistent), it will result in a lower R estimate than the true value.
 * Our post-mitigation R estimates may not accurately reflect the true situation for regions where no mitigation was applied, such as in Sweden or South Dakota.
 
+Note: You can click on the legend on the upper right corner of each plot below to hide/unhide the bars.
+
 {% include iframe_r_values.html %}
 
 ## Number of Total Infected Individuals by Date
