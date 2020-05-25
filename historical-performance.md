@@ -6,6 +6,8 @@ permalink: /historical-performance/
 
 # Historical Performance
 
+Click [here](/about/#historical-performance) for an explanation of these evaluations.
+
 ## May 23
 
 ### US projections
