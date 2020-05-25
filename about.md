@@ -68,7 +68,7 @@ See an [analysis of our model](https://twitter.com/CT_Bergstrom/status/125534384
 
 ## Historical Performance
 
-**Last Updated: May 23**
+**Last Updated: May 25**
 
 A model isn't very useful if it's not accurate. Below is our analysis on how various models considered by the CDC have performed over the past few weeks. Because the CDC receives weekly projections from every Monday, we use projections from past Mondays to evaluate the models.
 
@@ -84,13 +84,13 @@ A model isn't very useful if it's not accurate. Below is our analysis on how var
 
 ### Notes
 
-* We are consistently the best-performing model for state-by-state projections.
+* We are consistently the top-performing model for state-by-state projections.
 * We are the only model with <10% error for US projections from each of the past 4 weeks.
 * We are one of only two models that beats the baseline every week (the other is LANL).
 * A baseline model that simply uses the previous week's average deaths to make future projections outperforms many models for short-term forecasts.
-* The IHME model, a model frequently cited by the White House and media, consistently performs in the bottom half of all models for both its US projections and state-by-state projections.
+* The IHME model, a model frequently cited by the White House and media, consistently performs in the bottom half of all models for both its US projections and state-by-state projections. The model also frequently fails to beat the baseline model.
 * The [COVIDhub ensemble model](https://github.com/reichlab/covid19-forecast-hub/#ensemble-model) is created by taking a combination of all eligible models that submit projections to the CDC. Our projections are included in this ensemble.
-* For state-by-state projections, we evaluate all models that have 4+ week projections for more than 40 states. For models with missing state projections, we use the mean projection for that state (among all the models). Our model prioritizes minimizing the mean absolute error. If our objective is to minimize the median absolute error, it would be optimal to use the prior week's projections, as indicated by the strong performance of the baseline model.
+* For state-by-state projections, we evaluate all models that have 4+ week projections for more than 40 states. For models with missing state projections, we use the mean projection for that state (among all the models).
 * While past performance is not necessarily indicative of future performance, we believe it's important to consider a model's historical accuracy and not just a model's future forecasts and/or the creator's name recognition. It is also important to make sure that a model can perform better than the baseline.
 * We welcome and encourage independent model evaluations. See [here](https://twitter.com/FelixHoenikker_/status/1262517002507182080) for an evaluation from a PhD data scientist at NASA Ames.
 
