@@ -247,6 +247,8 @@ The current and total infections estimates in our projections are at the core of
 
 We estimate that true mortality rate (IFR) for COVID-19 in the US is between [0.9-1.2%](https://twitter.com/youyanggu/status/1256051255253757953). This matches a [May 7 study](https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2020.00455) that estimates the IFR to be slightly less than 1.3% after accounting for asymptomatic cases. We also found that most countries in Europe (with the the exceptions of United Kingdom, Spain, and Eastern Europe) have an IFR closer to 0.75%, which matches [this May 6 study](https://www.medrxiv.org/content/10.1101/2020.05.03.20089854v1). Hence, in our projections, we use 0.75% for those European countries and 1% for all US states and other countries.
 
+Recent [global](https://www.medrxiv.org/content/10.1101/2020.05.11.20098780v1) and [US](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-23-united-states/) studies point to a 1% IFR as a reasonable estimate.
+
 [Back to Top](#top)
 
 ## Limitations
