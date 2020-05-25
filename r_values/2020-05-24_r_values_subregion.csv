@@ -1,17 +1,17 @@
-combined_subregion,initial_r_0,post_mitigation_r,inflection_date
-Canada-Ontario,1.74,0.86,2020-03-29
-Canada-Quebec,2.10,0.93,2020-03-28
-US-CA-Los Angeles,2.97,0.98,2020-03-17
-US-CA-Santa Clara,3.20,0.65,2020-02-29
-US-FL-Miami-Dade,3.81,0.85,2020-03-11
-US-IL-Cook,3.40,1.02,2020-03-14
-US-MA-Middlesex,2.47,0.85,2020-03-27
-US-MI-Wayne,3.60,0.81,2020-03-15
-US-NJ-Bergen,3.82,0.84,2020-03-15
-US-NJ-Essex,3.61,0.82,2020-03-15
-US-NV-Washoe,4.01,0.68,2020-03-07
-US-NY-Nassau,4.02,0.78,2020-03-14
-US-NY-New York City,5.60,0.77,2020-03-11
-US-NY-Suffolk,3.21,0.88,2020-03-15
-US-NY-Westchester,4.41,0.73,2020-03-15
-US-PA-Philadelphia,3.78,0.96,2020-03-14
+combined_subregion,initial_r_0,post_mitigation_r,inflection_date,current_r,cur_date
+Canada-Ontario,1.74,0.86,2020-03-29,0.86,2020-05-24
+Canada-Quebec,2.10,0.93,2020-03-28,0.93,2020-05-24
+US-CA-Los Angeles,2.97,0.98,2020-03-17,0.98,2020-05-24
+US-CA-Santa Clara,3.20,0.65,2020-02-29,0.66,2020-05-24
+US-FL-Miami-Dade,3.81,0.85,2020-03-11,0.95,2020-05-24
+US-IL-Cook,3.40,1.02,2020-03-14,1.02,2020-05-24
+US-MA-Middlesex,2.47,0.85,2020-03-27,0.85,2020-05-24
+US-MI-Wayne,3.60,0.81,2020-03-15,0.82,2020-05-24
+US-NJ-Bergen,3.82,0.84,2020-03-15,0.84,2020-05-24
+US-NJ-Essex,3.61,0.82,2020-03-15,0.83,2020-05-24
+US-NV-Washoe,4.01,0.68,2020-03-07,0.68,2020-05-24
+US-NY-Nassau,4.02,0.78,2020-03-14,0.78,2020-05-24
+US-NY-New York City,5.60,0.77,2020-03-11,0.77,2020-05-24
+US-NY-Suffolk,3.21,0.88,2020-03-15,0.89,2020-05-24
+US-NY-Westchester,4.41,0.73,2020-03-15,0.74,2020-05-24
+US-PA-Philadelphia,3.78,0.96,2020-03-14,0.96,2020-05-24
