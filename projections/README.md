@@ -10,11 +10,14 @@ When evaluating our projections, please keep in mind the following notes and upd
 
 # Updates
 
+2020-05-25
+* Increase projected end date from August 4 to September 1
+
 2020-05-19
 * Add subregion projections (14 US counties + Ontario/Quebec)
 
 2020-05-16
-* Add estimate for the effective reproduction value (R_t) over time.
+* Add estimate for the effective reproduction value (R_t) over time
 
 2020-05-12
 * Add projections for 23 additional countries: Algeria, Argentina, Bangladesh, Chile, Colombia, Dominican Republic, Ecuador, Egypt, Iceland, Israel, Japan, Malaysia, Moldova, Morocco, Nigeria, Pakistan, Panama, Peru, Saudi Arabia, Serbia, South Africa, South Korea, Ukraine
