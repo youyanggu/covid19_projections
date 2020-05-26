@@ -313,6 +313,7 @@ Also note that while we update our projections daily, IHME only updates their pr
 * [The Economist](https://www.economist.com/graphic-detail/2020/05/23/early-projections-of-covid-19-in-america-underestimated-its-severity) - May 21
 * [CNN](https://www.cnn.com/2020/04/28/health/georgia-coronavirus-death-projections/index.html) - Apr 28
 * [TheHill](https://thehill.com/changing-america/well-being/prevention-cures/495459-reopening-georgia-could-lead-to-a-doubling-of) - Apr 30
+* [The Merucyr News](https://www.mercurynews.com/2020/05/26/graph-number-of-coronavirus-deaths-projected-in-santa-clara-county-by-sept-1/) - May 26
 * [The Mercury News](https://www.mercurynews.com/2020/05/04/california-prediction-artificial-intelligence-driven-model-tracks-coronavirus-infections-deaths/) - May 4
 * [Star Tribune](https://www.startribune.com/health-experts-reopening-businesses-in-minnesota-will-spread-covid-19-but-how-much/570443112/) - May 13
 * [New York Times](https://www.nytimes.com/2020/05/05/us/coronavirus-deaths-cases-united-states.html) - May 5
