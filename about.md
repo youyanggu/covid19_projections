@@ -258,6 +258,8 @@ That's why in addition to our most likely estimate, we also provide a 95% confid
 
 ### Additional limitations
 
+* *Data accuracy* : A model is only as good as the data we feed it. If the data is not accurate, then it would be difficult to make accurate projections downstream. Recently, there have been various reports regarding the accuracy and integrity of data that some US states have been reporting (e.g. see [The Atlantic](https://www.theatlantic.com/health/archive/2020/05/cdc-and-states-are-misreporting-covid-19-test-data-pennsylvania-georgia-texas/611935/) and [Associated Press](https://apnews.com/6dbd9ad370add2ba299c7da46c25004f)). We express similar concerns, and hope that states will do their best to report accurate data.
+
 * *Day-of-week factors*: We currently do not account for day-of-week factors in death reporting. According to [our analysis](https://twitter.com/youyanggu/status/1251779534422073344), deaths reported on Sunday/Monday are about 60% of that of Tuesday-Thursday. So we expect on average that our projections will be higher than Sunday/Monday reports and lower than our Tuesday-Thursday reports. 
 
 * *Confidence intervals*: Due to the aforementioned day-of-week factors and various reporting noises (e.g. states sometimes report 0 on one day and make up for it on the next day), we recommend smoothing daily reported deaths before comparing them to our daily confidence intervals.
