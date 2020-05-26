@@ -335,6 +335,9 @@ Also note that while we update our projections daily, IHME only updates their pr
 
 ## Updates
 
+2020-05-25
+* Increase projected end date from August 4 to September 1
+
 2020-05-19
 * Add subregion projections (14 US counties + Ontario/Quebec)
 
