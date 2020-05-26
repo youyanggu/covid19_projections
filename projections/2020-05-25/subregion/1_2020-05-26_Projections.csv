@@ -1,0 +1,17 @@
+country,region,subregion,daily_deaths,daily_deaths_lower,daily_deaths_upper
+Canada,,Quebec,66,39,97
+US,NY,New York City,66,32,159
+US,IL,Cook,60,42,77
+US,CA,Los Angeles,36,23,50
+Canada,,Ontario,27,14,43
+US,PA,Philadelphia,21,13,27
+US,MI,Wayne,16,10,28
+US,MA,Middlesex,16,9,26
+US,NY,Suffolk,13,6,24
+US,FL,Miami-Dade,9,6,12
+US,NY,Nassau,9,4,18
+US,NJ,Bergen,9,4,15
+US,NJ,Essex,8,4,13
+US,NY,Westchester,7,3,14
+US,CA,Santa Clara,1,0,2
+US,NV,Washoe,1,0,1
