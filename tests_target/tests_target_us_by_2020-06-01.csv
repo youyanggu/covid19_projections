@@ -1,57 +1,57 @@
 country,region,subregion,tests_needed_per_day
-US,,,1061091
+US,,,1032092
 US,Alaska,,33
-US,Alabama,,17342
-US,Arkansas,,2162
-US,Arizona,,37992
-US,California,,68665
-US,Colorado,,31062
-US,Connecticut,,16954
-US,District of Columbia,,4059
-US,Delaware,,6633
-US,Florida,,46093
-US,Georgia,,44880
+US,Alabama,,17383
+US,Arkansas,,2607
+US,Arizona,,31433
+US,California,,66693
+US,Colorado,,30113
+US,Connecticut,,17061
+US,District of Columbia,,4002
+US,Delaware,,6534
+US,Florida,,44897
+US,Georgia,,44460
 US,Guam,,25
 US,Hawaii,,75
-US,Iowa,,22284
-US,Idaho,,281
-US,Illinois,,108265
-US,Indiana,,52668
-US,Kansas,,2426
-US,Kentucky,,5511
-US,Louisiana,,17779
-US,Massachusetts,,47883
-US,Maryland,,39378
+US,Iowa,,16641
+US,Idaho,,289
+US,Illinois,,105807
+US,Indiana,,51010
+US,Kansas,,2236
+US,Kentucky,,5487
+US,Louisiana,,18002
+US,Massachusetts,,47793
+US,Maryland,,39204
 US,Maine,,454
-US,Michigan,,16987
-US,Minnesota,,26450
-US,Missouri,,24165
+US,Michigan,,16797
+US,Minnesota,,26120
+US,Missouri,,23562
 US,Northern Mariana Islands,,25
-US,Mississippi,,26722
+US,Mississippi,,23802
 US,Montana,,58
-US,North Carolina,,14809
-US,North Dakota,,2459
-US,Nebraska,,7211
-US,New Hampshire,,8292
-US,New Jersey,,51942
-US,New Mexico,,9009
-US,Nevada,,6699
-US,New York,,44187
-US,Ohio,,61999
+US,North Carolina,,14487
+US,North Dakota,,2211
+US,Nebraska,,7854
+US,New Hampshire,,8201
+US,New Jersey,,51604
+US,New Mexico,,8935
+US,Nevada,,6411
+US,New York,,44088
+US,Ohio,,60935
 US,Oklahoma,,3589
-US,Oregon,,759
-US,Pennsylvania,,58526
+US,Oregon,,743
+US,Pennsylvania,,57247
 US,Puerto Rico,,553
-US,Rhode Island,,11253
-US,South Carolina,,12491
-US,South Dakota,,2632
-US,Tennessee,,5841
-US,Texas,,54681
-US,Utah,,4414
-US,Virginia,,19743
+US,Rhode Island,,11930
+US,South Carolina,,12276
+US,South Dakota,,2253
+US,Tennessee,,5825
+US,Texas,,53345
+US,Utah,,4348
+US,Virginia,,19965
 US,Virgin Islands,,33
 US,Vermont,,108
-US,Washington,,4554
-US,Wisconsin,,6584
-US,West Virginia,,1040
-US,Wyoming,,388
+US,Washington,,4612
+US,Wisconsin,,6534
+US,West Virginia,,1023
+US,Wyoming,,396
