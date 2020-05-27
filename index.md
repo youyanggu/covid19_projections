@@ -12,6 +12,8 @@ On this page:
 
 ## Recent Updates
 
+* **May 27:** We added [6 new countries](/#global-projections) (Australia, Belarus, Bolivia, Cuba, Honduras, Kuwait, UAE), [2 Canadian provinces](/#global-projections) (Alberta and BC), and [20 US counties](/#us-counties). We now have projections for 30 of the most populous counties in the US.
+
 * **May 26:** We have extended our projections to September 1, 2020.
 
 * **May 25:** See how our models have performed historically compared to other CDC models [here](/about/#historical-performance).
