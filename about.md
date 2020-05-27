@@ -49,7 +49,7 @@ See an [analysis of our model](https://twitter.com/CT_Bergstrom/status/125534384
 
 * *Minimal assumptions*: Because our model uses machine learning to learn the inputs and parameters, we minimize the number of assumptions we have to introduce. This allows us to avoid certain biases that can be present when incorporating various assumptions.
 
-* *Region-agnostic*: Our model is agnostic to the region, enabling us to make projections for all 50 US states (plus DC, PR, VI, Guam) and over 60 countries. To our best knowledge, this is the most comprehensive model in terms of coverage. Furthermore, unlike other models, we do not require accessory data such as mobile phone data, case data, or temperature data. The only input data we require is the daily death reports from Johns Hopkins. Due to our machine learning layer, we also do not require manual tuning for each region, allowing us to focus our time on improving our projections.
+* *Region-agnostic*: Our model is agnostic to the region, enabling us to make projections for all 50 US states (plus DC, PR, VI, Guam), 30+ US counties, and 70+ countries. To our best knowledge, this is the most comprehensive model in terms of coverage. Furthermore, unlike other models, we do not require accessory data such as mobile phone data, case data, or temperature data. The only input data we require is the daily death reports from Johns Hopkins. Due to our machine learning layer, we also do not require manual tuning for each region, allowing us to focus our time on improving our projections.
 
 * *Estimating testing targets*: Because our model keeps an estimate of the number of newly infected individuals each day, we can use this estimate to determine a how many tests each region should ideally perform each day. We base our estimates on Harvard Global Health Institute’s [study](https://globalepidemics.org/2020/05/07/hghi-projected-tests-needed-may15/) that assumes 10 contacts per infected individual. You can download our estimates [here](https://github.com/youyanggu/covid19_projections/tree/master/tests_target).
 
@@ -61,7 +61,7 @@ See an [analysis of our model](https://twitter.com/CT_Bergstrom/status/125534384
 
 * *Open data:* We upload all of our raw data/projections daily onto [our GitHub page](https://github.com/youyanggu/covid19_projections). All of the data used on this website can be downloaded.
 
-* *Strong validation system*: Many of the other models tend to overfit to the data. We have a strong validation system to make sure that all of our updates pass out-of-sample validation before they can be included in the model. This allows us to better differentiate the signal from the noise and be more resistant to outliers. Because all of our assumptions and projections are tested/verified on all 50 states as well as over 60 countries, we are able to create more robust projections.
+* *Strong validation system*: Many of the other models tend to overfit to the data. We have a strong validation system to make sure that all of our updates pass out-of-sample validation before they can be included in the model. This allows us to better differentiate the signal from the noise and be more resistant to outliers. Because all of our assumptions and projections are tested/verified on all 50 states as well as over 70 countries, we are able to create more robust projections.
 
 [Back to Top](#top)
 
