@@ -10,6 +10,9 @@ When evaluating our projections, please keep in mind the following notes and upd
 
 # Updates
 
+2020-05-26
+* Add 7 new countries (Australia, Belarus, Bolivia, Cuba, Honduras, Kuwait, UAE), 2 Canadian provinces (Alberta, British Columbia), and 20 US counties
+
 2020-05-25
 * Increase projected end date from August 4 to September 1
 
