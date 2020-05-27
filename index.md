@@ -117,7 +117,8 @@ Below you can find our projections for every US state and 63 countries (includin
 
 | Europe |  |  |
 | --- | --- | --- |
-| [Austria](/austria) | [Hungary](/hungary) | [Portugal](/portugal) |
+| [Austria](/austria) | [Greece](/greece) | [Poland](/poland) |
+| [Belarus](/belarus) | [Hungary](/hungary) | [Portugal](/portugal) |
 | [Belgium](/belgium) | [Iceland](/iceland) | [Romania](/romania) |
 | [Bulgaria](/bulgaria) | [Ireland](/ireland) | [Serbia](/serbia) |
 | [Croatia](/croatia) | [Italy](/italy) | [Slovakia](/slovakia) |
@@ -128,22 +129,23 @@ Below you can find our projections for every US state and 63 countries (includin
 | [Finland](/finland) | [Moldova](/moldova) | [Ukraine](/ukraine) |
 | [France](/france) | [Netherlands](/netherlands) | [United Kingdom](/united-kingdom) |
 | [Germany](/germany) | [Norway](/norway) |
-| [Greece](/greece) | [Poland](/poland) |
 
 <br />
 
 | Rest of World |  |  |
 | --- | --- | --- |
-| [Algeria](/algeria) | [Egypt](/egypt) | [Pakistan](/pakistan) |
-| [Argentina](/argentina) | [India](/india) | [Panama](/panama) |
-| [Bangladesh](/bangladesh) | [Indonesia](/indonesia) | [Peru](/peru) |
-| [Brazil](/brazil) | [Iran](/iran) | [Philippines](/philippines) |
-| [Canada](/canada) | [Israel](/israel) | [Russia](/russia) |
-| [Chile](/chile) | [Japan](/japan) | [Saudi Arabia](/saudi-arabia) |
-| [China](/china) | [Malaysia](/malaysia) | [South Africa](/south-africa) |
-| [Colombia](/colombia) | [Mexico](/mexico) | [South Korea](/south-korea) |
-| [Dominican Republic](/dominican-republic) | [Morocco](/morocco) | [Turkey](/turkey) |
-| [Ecuador](/ecuador) | [Nigeria](/nigeria) |
+| [Algeria](/algeria) | [Ecuador](/ecuador) | [Nigeria](/nigeria) |
+| [Argentina](/argentina) | [Egypt](/egypt) | [Pakistan](/pakistan) |
+| [Australia](/australia) | [Honduras](/honduras) | [Panama](/panama) |
+| [Bangladesh](/bangladesh) | [India](/india) | [Peru](/peru) |
+| [Bolivia](/bolivia) | [Indonesia](/indonesia) | [Philippines](/philippines) |
+| [Brazil](/brazil) | [Iran](/iran) | [Russia](/russia) |
+| [Canada](/canada) | [Israel](/israel) | [Saudi Arabia](/saudi-arabia) |
+| [Chile](/chile) | [Japan](/japan) | [South Africa](/south-africa) |
+| [China](/china) | [Kuwait](/kuwait) | [South Korea](/south-korea) |
+| [Colombia](/colombia) | [Malaysia](/malaysia) | [Turkey](/turkey) |
+| [Cuba](/cuba) | [Mexico](/mexico) | [United Arab Emirates](/united-arab-emirates) |
+| [Dominican Republic](/dominican-republic) | [Morocco](/morocco) |
 
 [Back to Top](#top)
 
