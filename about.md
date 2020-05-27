@@ -338,11 +338,14 @@ Also note that while we update our projections daily, IHME only updates their pr
 
 ## Updates
 
+2020-05-26
+* Add 7 new countries (Australia, Belarus, Bolivia, Cuba, Honduras, Kuwait, UAE), 2 Canadian provinces (Alberta, British Columbia), and 20 US counties
+
 2020-05-25
 * Increase projected end date from August 4 to September 1
 
 2020-05-19
-* Add subregion projections (14 US counties + Ontario/Quebec)
+* Add 2 Canadian provinces (Ontario, Quebec) and 14 US counties
 
 2020-05-16
 * Add plots for the effective reproduction value (R_t) over time. Raw data also available [on GitHub](https://github.com/youyanggu/covid19_projections/tree/master/projections).
