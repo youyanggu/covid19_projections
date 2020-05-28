@@ -308,7 +308,7 @@ Also note that while we update our projections daily, IHME only updates their pr
 * [CNN](https://www.cnn.com/2020/05/05/health/states-early-reopening-impact/index.html) - May 5
 * [StatNews](https://www.statnews.com/2020/04/30/coronavirus-death-projections-compare-causes-of-death) - Apr 30
 * [MarketWatch](https://www.marketwatch.com/story/will-some-people-be-affected-badly-yes-trump-says-us-must-reopen-coronavirus-deaths-projected-to-hit-100000-in-weeks-2020-05-06) - May 6
-* [New York Times](https://www.nytimes.com/interactive/2020/05/12/upshot/coronavirus-models.htmlz) - May 12
+* [New York Times](https://www.nytimes.com/interactive/2020/05/12/upshot/coronavirus-models.html) - May 12
 * [FiveThirtyEight](https://projects.fivethirtyeight.com/covid-forecasts/)
 * [The Economist](https://www.economist.com/graphic-detail/2020/05/23/early-projections-of-covid-19-in-america-underestimated-its-severity) - May 21
 * [CNN](https://www.cnn.com/2020/04/28/health/georgia-coronavirus-death-projections/index.html) - Apr 28
