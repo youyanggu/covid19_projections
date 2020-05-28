@@ -1,57 +1,57 @@
 country,region,subregion,tests_needed_per_day
-US,,,1032092
+US,,,987550
 US,Alaska,,33
-US,Alabama,,17383
-US,Arkansas,,2607
-US,Arizona,,31433
-US,California,,66693
-US,Colorado,,30113
-US,Connecticut,,17061
-US,District of Columbia,,4002
-US,Delaware,,6534
-US,Florida,,44897
-US,Georgia,,44460
+US,Alabama,,16393
+US,Arkansas,,2583
+US,Arizona,,30030
+US,California,,60234
+US,Colorado,,28488
+US,Connecticut,,16476
+US,District of Columbia,,3713
+US,Delaware,,5808
+US,Florida,,41283
+US,Georgia,,44592
 US,Guam,,25
 US,Hawaii,,75
-US,Iowa,,16641
-US,Idaho,,289
-US,Illinois,,105807
-US,Indiana,,51010
-US,Kansas,,2236
-US,Kentucky,,5487
-US,Louisiana,,18002
-US,Massachusetts,,47793
-US,Maryland,,39204
-US,Maine,,454
-US,Michigan,,16797
-US,Minnesota,,26120
-US,Missouri,,23562
+US,Iowa,,17094
+US,Idaho,,306
+US,Illinois,,98390
+US,Indiana,,44806
+US,Kansas,,2170
+US,Kentucky,,5000
+US,Louisiana,,17416
+US,Massachusetts,,45400
+US,Maryland,,39081
+US,Maine,,462
+US,Michigan,,16542
+US,Minnesota,,26730
+US,Missouri,,18414
 US,Northern Mariana Islands,,25
-US,Mississippi,,23802
+US,Mississippi,,23876
 US,Montana,,58
-US,North Carolina,,14487
-US,North Dakota,,2211
-US,Nebraska,,7854
-US,New Hampshire,,8201
-US,New Jersey,,51604
-US,New Mexico,,8935
-US,Nevada,,6411
-US,New York,,44088
-US,Ohio,,60935
-US,Oklahoma,,3589
-US,Oregon,,743
-US,Pennsylvania,,57247
-US,Puerto Rico,,553
-US,Rhode Island,,11930
-US,South Carolina,,12276
-US,South Dakota,,2253
-US,Tennessee,,5825
-US,Texas,,53345
-US,Utah,,4348
-US,Virginia,,19965
+US,North Carolina,,16517
+US,North Dakota,,2170
+US,Nebraska,,7607
+US,New Hampshire,,8127
+US,New Jersey,,48816
+US,New Mexico,,8151
+US,Nevada,,6666
+US,New York,,44352
+US,Ohio,,57536
+US,Oklahoma,,3556
+US,Oregon,,693
+US,Pennsylvania,,53097
+US,Puerto Rico,,520
+US,Rhode Island,,13209
+US,South Carolina,,14190
+US,South Dakota,,2451
+US,Tennessee,,6213
+US,Texas,,46440
+US,Utah,,4422
+US,Virginia,,23587
 US,Virgin Islands,,33
 US,Vermont,,108
-US,Washington,,4612
-US,Wisconsin,,6534
+US,Washington,,4884
+US,Wisconsin,,7161
 US,West Virginia,,1023
-US,Wyoming,,396
+US,Wyoming,,537
