@@ -1,39 +1,39 @@
 country,region,subregion,tests_needed_per_day
-Canada,,Alberta,916
-Canada,,British Columbia,1205
-Canada,,Ontario,13720
-Canada,,Quebec,44633
-US,AZ,Maricopa,16674
-US,CA,Alameda,636
-US,CA,Los Angeles,30723
-US,CA,Orange,4975
-US,CA,Riverside,6180
-US,CA,Sacramento,314
-US,CA,San Bernardino,2624
-US,CA,San Diego,4728
-US,CA,Santa Clara,537
-US,FL,Broward,2310
-US,FL,Hillsborough,4109
-US,FL,Miami-Dade,8242
-US,FL,Orange,223
-US,FL,Palm Beach,4084
-US,IL,Cook,64664
-US,LA,Orleans,1560
-US,MA,Middlesex,6732
-US,MA,Suffolk,1848
-US,MI,Wayne,6262
-US,NJ,Bergen,4266
-US,NJ,Essex,3812
-US,NJ,Hudson,2319
-US,NV,Clark,4431
-US,NV,Washoe,743
-US,NY,Nassau,4076
-US,NY,New York City,13803
-US,NY,Suffolk,8844
+Canada,,Alberta,957
+Canada,,British Columbia,1238
+Canada,,Ontario,13819
+Canada,,Quebec,45260
+US,AZ,Maricopa,15675
+US,CA,Alameda,611
+US,CA,Los Angeles,30270
+US,CA,Orange,5091
+US,CA,Riverside,6419
+US,CA,Sacramento,306
+US,CA,San Bernardino,3573
+US,CA,San Diego,5000
+US,CA,Santa Clara,504
+US,FL,Broward,2236
+US,FL,Hillsborough,4167
+US,FL,Miami-Dade,8349
+US,FL,Orange,231
+US,FL,Palm Beach,4076
+US,IL,Cook,63319
+US,LA,Orleans,1551
+US,MA,Middlesex,6394
+US,MA,Suffolk,1766
+US,MI,Wayne,6081
+US,NJ,Bergen,4167
+US,NJ,Essex,3762
+US,NJ,Hudson,2277
+US,NV,Clark,4010
+US,NV,Washoe,726
+US,NY,Nassau,3919
+US,NY,New York City,13332
+US,NY,Suffolk,8349
 US,NY,Westchester,2706
-US,PA,Philadelphia,16253
-US,TX,Bexar,867
-US,TX,Dallas,9513
-US,TX,Harris,4546
-US,TX,Tarrant,4472
-US,WA,King,1659
+US,PA,Philadelphia,15156
+US,TX,Bexar,900
+US,TX,Dallas,6501
+US,TX,Harris,3721
+US,TX,Tarrant,6006
+US,WA,King,1667
