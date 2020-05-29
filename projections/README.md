@@ -1,3 +1,9 @@
+# Projections Data
+
+Here, you will find all of our projections based on the date the projectoins were generated. Under each date directory, you will find a .csv file for each individual state/region/country. You can also look under our `combined` directory to see all of our daily projections combined in a single file.
+
+# Evaluation
+
 When evaluating our projections, please keep in mind the following notes and update log:
 
 * Our estimates from early April do not incorporate reopenings and probable deaths, two factors that significantly increases the estimates. Furthermore, our early April projections only go through June.
