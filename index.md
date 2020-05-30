@@ -30,9 +30,9 @@ On this page:
 
 **State-by-state Reopenings:** To date, we are one of the only models [referenced by the CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html) that factors in individual state re-openings. We update each US state's reopening timeline according to [The New York Times](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html). Learn more about our social distancing assumptions [here](/about/#assumptions).
 
-## Current Projection for US - Updated Daily - Last Updated: May 29 (3am ET):
+## Current Projection for US - Updated Daily - Last Updated: May 30 (2am ET):
 <p align="center">
-  Current Total: <b>101,613</b> deaths | Projected Total: <b>201,847 deaths by Sep 1, 2020</b> (Range: 125-346k)<br>
+  Current Total: <b>102,806</b> deaths | Projected Total: <b>200,130 deaths by Sep 1, 2020</b> (Range: 127-335k)<br>
   Currently Infected: <b>0.6%</b> | Total Infected: <b>4.0%</b> {% include iframe.html %}
 </p>
 
@@ -40,7 +40,7 @@ On this page:
 
 Below, we present the most likely dates that the US will surpass certain deaths milestones, as well as the probabilities of the US surpassing those milestones by different time horizons. For example, we estimate a 76% chance that the US surpasses 125,000 deaths by July 1, with June 23 being the most likely date.
 
-Last updated: May 29, 2020
+Last updated: May 30, 2020
 
 |   US deaths surpass: |   Most likely date: |
 |----------------------|---------------------|
