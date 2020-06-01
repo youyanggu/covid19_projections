@@ -7,7 +7,7 @@ permalink: /about/
 ## Table of contents
 * [About the Model](#about-the-model)
 * [How Our Model is Different](#how-our-model-is-different)
-* [Historical Performance *(Updated May 25)*](#historical-performance)
+* [Historical Performance *(Updated Jun 1)*](#historical-performance)
 * [Concerns with the IHME model *(Updated Daily)*](#concerns-with-the-ihme-model)
   * [May 4 Revision *(Updated May 14)*](#may-4-revision)
   * [State Reopening Timeline *(Updated May 11)*](#state-reopening-timeline)
@@ -68,24 +68,22 @@ See an [analysis of our model](https://twitter.com/CT_Bergstrom/status/125534384
 
 ## Historical Performance
 
-**Last Updated: May 25**
+**Last Updated: Jun 1**
 
 A model isn't very useful if it's not accurate. Below is our analysis on how various models considered by the CDC have performed over the past few weeks. Because the CDC receives weekly projections from every Monday, we use projections from past Mondays to evaluate the models.
 
 [Click here](/historical-performance) to see performance evaluations for past dates.
 
-### May 23 evaluation of state-by-state projections
+### May 30 evaluation of state-by-state projections
 
-![States comparison](/assets/images/2020-05-23_comparison_states.png)
+![States comparison](/assets/images/2020-05-30_comparison_states.png)
 
-### May 23 evaluation of US projections
+### May 30 evaluation of US projections
 
-![US comparison](/assets/images/2020-05-23_comparison_us.png)
+![US comparison](/assets/images/2020-05-30_comparison_us.png)
 
 ### Notes
 
-* We are consistently the top-performing model for state-by-state projections.
-* We are the only model with <10% error for US projections from each of the past 4 weeks.
 * We are one of only two models that beats the baseline every week (the other is LANL).
 * A baseline model that simply uses the previous week's average deaths to make future projections outperforms many models for short-term forecasts.
 * The IHME model, a model frequently cited by the White House and media, consistently performs in the bottom half of all models for both its US projections and state-by-state projections. The model also frequently fails to beat the baseline model.
