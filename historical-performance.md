@@ -8,6 +8,16 @@ permalink: /historical-performance/
 
 Click [here](/about/#historical-performance) for an explanation of these evaluations.
 
+## May 30
+
+### State-by-state projections
+
+![States comparison](/assets/images/2020-05-30_comparison_states.png)
+
+### US projections
+
+![US comparison](/assets/images/2020-05-30_comparison_us.png)
+
 ## May 23
 
 ### State-by-state projections
