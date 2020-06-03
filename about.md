@@ -27,7 +27,7 @@ The goal of this project is to showcase the strengths of artificial intelligence
 
 We are currently making projections for: the United States, all 50 US states (plus DC, PR, VI, Guam) and 63 countries (including all 27 EU countries). Combined, these 64 countries account for 99% of all global COVID-19 deaths.
 
-See an [analysis of our model](https://twitter.com/CT_Bergstrom/status/1255343846445195266) by Dr. Carl T. Bergstrom, Professor of Biology at the Univeristy of Washington. 
+See an [analysis of our model](https://twitter.com/CT_Bergstrom/status/1255343846445195266) by Dr. Carl T. Bergstrom, Professor of Biology at the University of Washington. 
 
 [Click here](/model-details/) to read a more in-depth description of how our model operates.
 
