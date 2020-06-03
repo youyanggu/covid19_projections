@@ -26,9 +26,9 @@ On this page:
 
 **State-by-state Reopenings:** To date, we are one of the only models [referenced by the CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html) that factors in individual state re-openings. We update each US state's reopening timeline according to [The New York Times](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html). Learn more about our social distancing assumptions [here](/about/#assumptions).
 
-## Current Projection for US - Updated Daily - Last Updated: Jun 3 (12am ET):
+## Current Projection for US - Updated Daily - Last Updated: Jun 3 (1am ET):
 <p align="center">
-  Current Total: <b>106,177</b> deaths | Projected Total: <b>186,651 deaths by Sep 1, 2020</b> (Range: 127-280k)<br>
+  Current Total: <b>106,177</b> deaths | Projected Total: <b>187,171 deaths by Sep 1, 2020</b> (Range: 127-281k)<br>
   Currently Infected: <b>0.5%</b> | Total Infected: <b>4.1%</b> {% include iframe.html %}
 </p>
 
@@ -45,15 +45,15 @@ Last updated: Jun 3, 2020
 |              125,000 |        Jun 26, 2020 |
 |              130,000 |         Jul 2, 2020 |
 |              140,000 |        Jul 14, 2020 |
-|              150,000 |        Jul 25, 2020 |
+|              150,000 |        Jul 24, 2020 |
 
 <br>
 
 |   US deaths surpass: |   By Jun 15 |   By Jul 1 |   By Jul 15 |   By Aug 1 |   By Aug 15 |   By Sep 1 |
 |----------------------|-------------|------------|-------------|------------|-------------|------------|
-|              125,000 |         <1% |        70% |         90% |        96% |         98% |        98% |
-|              150,000 |         <1% |        <1% |         26% |        56% |         67% |        74% |
-|              175,000 |         <1% |        <1% |         <1% |        24% |         41% |        52% |
+|              125,000 |         <1% |        70% |         91% |        96% |         98% |        98% |
+|              150,000 |         <1% |        <1% |         27% |        56% |         67% |        74% |
+|              175,000 |         <1% |        <1% |         <1% |        24% |         41% |        53% |
 |              200,000 |         <1% |        <1% |         <1% |         5% |         22% |        35% |
 |              250,000 |         <1% |        <1% |         <1% |        <1% |         <1% |        12% |
 |              300,000 |         <1% |        <1% |         <1% |        <1% |         <1% |        <1% |
@@ -155,7 +155,7 @@ States are ordered by descending projected deaths (by September 1).
 
 |                                |   Current Deaths |   Projected Deaths - Mean |   Projected Deaths / 1M |   Additional Deaths - Mean |   Additional Deaths (% of Current Deaths) |   Projected Deaths - 2.5th Percentile |   Projected Deaths - 97.5th Percentile |
 |--------------------------------|------------------|---------------------------|-------------------------|----------------------------|-------------------------------------------|---------------------------------------|----------------------------------------|
-|             *[United States](/us)* |          106,177 |                   186,651 |                     563 |                     80,474 |                                       76% |                               127,302 |                                279,773 |
+|             *[United States](/us)* |          106,177 |                   187,171 |                     564 |                     80,994 |                                       76% |                               127,420 |                                280,129 |
 |                 [New York](/us-ny) |           29,968 |                    33,033 |                   1,698 |                      3,065 |                                       10% |                                30,652 |                                 38,033 |
 |               [New Jersey](/us-nj) |           11,771 |                    14,285 |                   1,608 |                      2,514 |                                       21% |                                12,605 |                                 16,558 |
 |               [California](/us-ca) |            4,305 |                    13,003 |                     329 |                      8,698 |                                      202% |                                 5,979 |                                 24,074 |
@@ -175,10 +175,10 @@ States are ordered by descending projected deaths (by September 1).
 |                [Minnesota](/us-mn) |            1,082 |                     4,009 |                     711 |                      2,927 |                                      271% |                                 1,849 |                                  6,362 |
 |                 [Colorado](/us-co) |            1,474 |                     3,831 |                     665 |                      2,357 |                                      160% |                                 2,024 |                                  6,515 |
 |           [North Carolina](/us-nc) |              961 |                     3,455 |                     329 |                      2,494 |                                      260% |                                 1,693 |                                  5,968 |
-|                  [Arizona](/us-az) |              943 |                     2,810 |                     386 |                      1,867 |                                      198% |                                 1,289 |                                  5,612 |
+|                  [Arizona](/us-az) |              943 |                     3,017 |                     414 |                      2,074 |                                      220% |                                 1,320 |                                  5,746 |
 |                 [Missouri](/us-mo) |              786 |                     2,616 |                     426 |                      1,830 |                                      233% |                                 1,310 |                                  4,389 |
+|              [Mississippi](/us-ms) |              767 |                     2,548 |                     856 |                      1,781 |                                      232% |                                 1,128 |                                  4,167 |
 |                  [Alabama](/us-al) |              653 |                     2,342 |                     478 |                      1,689 |                                      259% |                                 1,191 |                                  3,859 |
-|              [Mississippi](/us-ms) |              767 |                     2,235 |                     751 |                      1,468 |                                      191% |                                 1,041 |                                  3,945 |
 |           [South Carolina](/us-sc) |              501 |                     1,793 |                     348 |                      1,292 |                                      258% |                                   820 |                                  3,092 |
 |             [Rhode Island](/us-ri) |              732 |                     1,723 |                   1,626 |                        991 |                                      135% |                                 1,155 |                                  2,327 |
 |               [Washington](/us-wa) |            1,129 |                     1,718 |                     226 |                        589 |                                       52% |                                 1,233 |                                  2,995 |
