@@ -30,7 +30,7 @@ On this page:
 
 {% include iframe_r_map.html %}
 
-## Current Projection for US - Updated Daily - Last Updated: Jun 4 (1am ET):
+## Current Projection for US - Updated Daily - Last Updated: Jun 5 (1am ET):
 <p align="center">
   Current Total: <b>108,208</b> deaths | Projected Total: <b>187,714 deaths by Sep 1, 2020</b> (Range: 129-281k)<br>
   Currently Infected: <b>0.5%</b> | Total Infected: <b>4.1%</b> {% include iframe.html %}
