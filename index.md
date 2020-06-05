@@ -12,6 +12,8 @@ On this page:
 
 ## Recent Updates
 
+* **Jun 5:** We made a map of our estimate of the current R_t for every US state and 70+ countries. Scroll down below to see it.
+
 * **Jun 1:** We have lowered our US projections after an analysis of recent studies showing [promising treatment results](https://www.nejm.org/doi/full/10.1056/NEJMoa2007764), [possible seasonality effects](https://projects.iq.harvard.edu/covid19), [high mask-wearing compliance](https://www.usatoday.com/story/news/politics/2020/05/21/coronavirus-wearing-mask-public-common-nationscape-survey-finds/5215365002/), and [slow reopenings](https://twitter.com/youyanggu/status/1267551592837832704).
 
 * **May 29:** We ran a simulation on what would happen if just 20% of infected individuals reduced their own transmission by 25% (such as by self-quarantining immediately after showing symptoms). US deaths would be 30% lower by May 29, and up to 50% lower by September. See the results [here](/us-self-quarantine).
@@ -26,10 +28,12 @@ On this page:
 
 **State-by-state Reopenings:** To date, we are one of the only models [referenced by the CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html) that factors in individual state re-openings. We update each US state's reopening timeline according to [The New York Times](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html). Learn more about our social distancing assumptions [here](/about/#assumptions).
 
+{% include iframe_r_map.html %}
+
 ## Current Projection for US - Updated Daily - Last Updated: Jun 4 (1am ET):
 <p align="center">
   Current Total: <b>108,208</b> deaths | Projected Total: <b>187,714 deaths by Sep 1, 2020</b> (Range: 129-281k)<br>
-  Currently Infected: <b>0.5%</b> | Total Infected: <b>4.1%</b> {% include iframe_r_map.html %}{% include iframe.html %}
+  Currently Infected: <b>0.5%</b> | Total Infected: <b>4.1%</b> {% include iframe.html %}
 </p>
 
 ## US Deaths Likelihoods
