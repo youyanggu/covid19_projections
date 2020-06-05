@@ -10,13 +10,13 @@ Our model tries to do what no other model currently does (to the best of our kno
 
 You can see our testing targets per day for the [US and all 50 states](https://github.com/youyanggu/covid19_projections/blob/master/tests_target/tests_target_us_by_2020-06-01.csv), [globally](https://github.com/youyanggu/covid19_projections/blob/master/tests_target/tests_target_global_by_2020-06-01.csv), and [select US counties + subregions](https://github.com/youyanggu/covid19_projections/blob/master/tests_target/tests_target_subregion_by_2020-06-01.csv). To make these estimates, we use Harvard Global Health Institute’s [study](https://globalepidemics.org/2020/05/07/hghi-projected-tests-needed-may15/) that recommends 10 contacts per infected individual.
 
-## R<sub>0</sub> value estimates
+## R<sub>t</sub> estimates
 
-*May 15 update:* You can now view a graph of our R_t estimates over time in all of our projections (e.g. [US](/us)). You can also download the raw R_t time series on [our GitHub](https://github.com/youyanggu/covid19_projections/tree/master/projections) (starting from May 15 projections).
-
-*May 6 update:* You can now download our R estimates as csv files on [our GitHub](https://github.com/youyanggu/covid19_projections/tree/master/r_values).
+You can now download our current R estimates as csv files on [our GitHub](https://github.com/youyanggu/covid19_projections/tree/master/r_values). You can also download the raw R_t time series from our [projections folder](https://github.com/youyanggu/covid19_projections/tree/master/projections) (starting from May 15 projections).
 
 The below [reproduction number](https://en.wikipedia.org/wiki/Basic_reproduction_number) (R) estimates are what our model has learned for each state/country. While we present a single value for the purpose of this chart, our model actually uses a weighted range of R values to make its projections. The initial R<sub>0</sub> is the R value in early-to-mid March, right before states began implementing stay-at-home orders. We provide a longer explanation of how our model works [here](/model-details).
+
+{% include iframe_r_values.html %}
 
 ### Notes
 
@@ -24,10 +24,7 @@ The below [reproduction number](https://en.wikipedia.org/wiki/Basic_reproduction
 * These are merely best estimates of the R values based on the data. The true R values can vary widely, even day-to-day.
 * For example, California has a lower-than-expected R<sub>0</sub> partly because there is a significant time lag in their deaths reporting. While this does not significantly affect our projections (assuming the lag is consistent), it will result in a lower R estimate than the true value.
 * Our post-mitigation R estimates may not accurately reflect the true situation for regions where no mitigation was applied, such as in Sweden or South Dakota.
-
-Note: You can click on the legend on the upper right corner of each plot below to hide/unhide the bars.
-
-{% include iframe_r_values.html %}
+* You can click on the legend on the upper right corner of each plot below to hide/unhide the bars.
 
 ## Number of Total Infected Individuals by Date
 This is an estimate of the total number of infected individuals by each date. The infections estimate includes **all** infected individuals, not just those that took a COVID-19 test kit and tested positive. The vast majority of infected individuals did not get tested due to 1) they are asymptomatic or only mildly symptomatic or 2) lack of available testing. As of May 18, we estimate that the true number of infections in the US is likely ~5x higher than reported cases. In March and April, when testing was not as prevalent, we estimate that ratio to be closer to 10-15x.
