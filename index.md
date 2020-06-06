@@ -3,7 +3,9 @@ We present an intuitive model that builds machine learning techniques on top of 
 Note that our infections estimate includes all infected individuals, not just those that took a COVID-19 test kit and tested positive. The vast majority of infected individuals do not get tested, and thus do not get reported as a positive case. As of mid-May, we estimate the true number of infected individuals in the US is ~5x higher than the reported cases.
 
 On this page:
-* [View US projections](#view-projections)
+* [US and Global Dashboard](#covid-19-dashboard)
+* [View US projections](#current-projection-for-us)
+* [View US state-by-state projections](#view-projections)
 * [View global projections](#global-projections)
 * [Likelihoods of death milestones in US](#us-deaths-likelihoods)
 * [Summary of US projections](#us-summary)
@@ -16,21 +18,12 @@ On this page:
 
 * **Jun 1:** We have lowered our US projections after an analysis of recent studies showing [promising treatment results](https://www.nejm.org/doi/full/10.1056/NEJMoa2007764), [possible seasonality effects](https://projects.iq.harvard.edu/covid19), [high mask-wearing compliance](https://www.usatoday.com/story/news/politics/2020/05/21/coronavirus-wearing-mask-public-common-nationscape-survey-finds/5215365002/), and [slow reopenings](https://twitter.com/youyanggu/status/1267551592837832704).
 
-* **May 29:** We ran a simulation on what would happen if just 20% of infected individuals reduced their own transmission by 25% (such as by self-quarantining immediately after showing symptoms). US deaths would be 30% lower by May 29, and up to 50% lower by September. See the results [here](/us-self-quarantine).
-
-* **May 27:** We added [7 new countries](/#global-projections) (Australia, Belarus, Bolivia, Cuba, Honduras, Kuwait, UAE), [2 Canadian provinces](/#global-projections) (Alberta and British Columbia), and [20 US counties](/#us-counties). We now have projections for 71 countries (>99% of all global COVID-19 deaths), 4 Canadian provinces (99% of Canadian COVID-19 deaths), 56 US states and territories, and 34 US counties (including the top 30 most populous counties).
-
-* **May 26:** We have extended our projections to September 1, 2020.
-
-* **May 17:** We added a tests-per-day target for each region based on Harvard Global Health Institute's [study](https://globalepidemics.org/2020/05/07/hghi-projected-tests-needed-may15/) that recommends 10 contacts per infected individual. You can see this estimate above the "Newly Infected" graph on each projection page (e.g. we estimate 1.3 million tests/day are needed for the [US](/us)). Download the raw data [here](https://github.com/youyanggu/covid19_projections/tree/master/tests_target).
-
-* **May 14:** See how the US would have fared if everyone began social distancing [one week earlier](/us-1weekearlier) or [one week later](/us-1weeklater).
-
-**State-by-state Reopenings:** To date, we are one of the only models [referenced by the CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html) that factors in individual state re-openings. We update each US state's reopening timeline according to [The New York Times](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html). Learn more about our social distancing assumptions [here](/about/#assumptions).
+## COVID-19 Dashboard
 
 {% include iframe_r_map.html %}
 
-## Current Projection for US - Updated Daily - Last Updated: Jun 5 (1am ET):
+## Current Projection for US
+### Updated Daily - Last Updated: Jun 5 (1am ET):
 <p align="center">
   Current Total: <b>108,208</b> deaths | Projected Total: <b>187,714 deaths by Sep 1, 2020</b> (Range: 129-281k)<br>
   Currently Infected: <b>0.5%</b> | Total Infected: <b>4.1%</b> {% include iframe.html %}
