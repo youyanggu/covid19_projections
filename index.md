@@ -25,9 +25,13 @@ On this page:
   Currently Infected: <b>0.5%</b> | Total Infected: <b>4.2%</b> {% include iframe.html %}
 </p>
 
+[Back to Top](#top)
+
 ## COVID-19 Dashboard
 
 {% include iframe_r_map.html %}
+
+[Back to Top](#top)
 
 ## US Deaths Likelihoods
 
@@ -61,6 +65,8 @@ Last updated: Jun 6, 2020
 
 Below you can find our projections for every US state and 63 countries (including all 27 European Union countries).
 
+[Back to Top](#top)
+
 ### US
 
 | [United States](us) |  |  |
@@ -83,6 +89,8 @@ Below you can find our projections for every US state and 63 countries (includin
 | [Indiana](us-in) | [New York](us-ny) | [West Virginia](us-wv) |
 | [Iowa](us-ia) | [North Carolina](us-nc) | [Wisconsin](us-wi) |
 | [Kansas](us-ks) | [North Dakota](us-nd) | [Wyoming](us-wy) |
+
+[Back to Top](#top)
 
 ### US Counties
 
@@ -110,7 +118,7 @@ Below you can find our projections for every US state and 63 countries (includin
 | [Alberta](/canada-alberta) | [Ontario](/canada-ontario) |
 | [British Columbia](/canada-british-columbia) | [Quebec](/canada-quebec) |
 
-<br />
+[Back to Top](#top)
 
 | Europe |  |  |
 | --- | --- | --- |
@@ -127,7 +135,7 @@ Below you can find our projections for every US state and 63 countries (includin
 | [France](/france) | [Netherlands](/netherlands) | [United Kingdom](/united-kingdom) |
 | [Germany](/germany) | [Norway](/norway) |
 
-<br />
+[Back to Top](#top)
 
 | Rest of World |  |  |
 | --- | --- | --- |
