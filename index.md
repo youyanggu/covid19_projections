@@ -14,13 +14,9 @@ On this page:
 
 ## Recent Updates
 
-* **Jun 5:** We made a map of our estimate of the current R_t for every US state and 70+ countries. Scroll down below to see it.
+* **Jun 5:** We launched a new [Maps](/maps) page to better visualize our projections. Check it out.
 
 * **Jun 1:** We have lowered our US projections after an analysis of recent studies showing [promising treatment results](https://www.nejm.org/doi/full/10.1056/NEJMoa2007764), [possible seasonality effects](https://projects.iq.harvard.edu/covid19), [high mask-wearing compliance](https://www.usatoday.com/story/news/politics/2020/05/21/coronavirus-wearing-mask-public-common-nationscape-survey-finds/5215365002/), and [slow reopenings](https://twitter.com/youyanggu/status/1267551592837832704).
-
-## COVID-19 Dashboard
-
-{% include iframe_r_map.html %}
 
 ## Current Projection for US
 ### Updated Daily - Last Updated: Jun 5 (1am ET):
@@ -28,6 +24,10 @@ On this page:
   Current Total: <b>108,208</b> deaths | Projected Total: <b>187,714 deaths by Sep 1, 2020</b> (Range: 129-281k)<br>
   Currently Infected: <b>0.5%</b> | Total Infected: <b>4.1%</b> {% include iframe.html %}
 </p>
+
+## COVID-19 Dashboard
+
+{% include iframe_r_map.html %}
 
 ## US Deaths Likelihoods
 
