@@ -12,6 +12,8 @@ You can see our testing targets per day for the [US and all 50 states](https://g
 
 ## R<sub>t</sub> estimates
 
+**June 6 Update:** You can now view a map of our current R_t estimates on our [Maps](/maps) page.
+
 The below [reproduction number](https://en.wikipedia.org/wiki/Basic_reproduction_number) (R) estimates are what our model has learned for each state/country. While we present a single value for the purpose of this chart, our model actually uses a weighted range of R values to make its projections. The initial R<sub>0</sub> is the R value in early-to-mid March, right before states began implementing stay-at-home orders. We provide a longer explanation of how our model works [here](/model-details).
 
 You can download our R_t estimates as csv files on [our GitHub](https://github.com/youyanggu/covid19_projections/tree/master/r_values). You can also download the raw R_t time series from our [projections folder](https://github.com/youyanggu/covid19_projections/tree/master/projections) (starting from May 15 projections).
