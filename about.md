@@ -9,13 +9,13 @@ permalink: /about/
 * [How Our Model is Different](#how-our-model-is-different)
 * [Historical Performance *(Updated Jun 1)*](#historical-performance)
 * [CDC Projections Over Time **(New Jun 6)**](#cdc-projections-over-time)
+* [Historical US Projections *(Updated Daily)*](#historical-us-projections)
 * [Concerns with the IHME model *(Updated Daily)*](#concerns-with-the-ihme-model)
   * [May 4 Revision *(Updated May 14)*](#may-4-revision)
   * [State Reopening Timeline *(Updated May 11)*](#state-reopening-timeline)
 * [Data and Output](#data-and-output)
 * [Assumptions](#assumptions)
 * [Limitations](#limitations)
-* [Historical US Projections *(Updated Daily)*](#historical-us-projections)
 * [Government/Media Coverage](#online-coverage)
 * [Who We Are](#who-we-are)
 * [Updates](#updates)
@@ -103,6 +103,20 @@ Truth data from Johns Hopkins: [https://github.com/CSSEGISandData/COVID-19](http
 Below, we show our CDC projections over time, as well as the IHME CDC projections over time.
 
 {% include iframe_cdc_comparison.html %}
+
+[Back to Top](#top)
+
+## Historical US Projections
+
+Below, we show how our (C19Pro) August 4 projections for the US has changed over time, compared to IHME. We also show a comparison of the latest projections.
+
+Note that for the entire month of April, IHME projected between 60,000-73,000 deaths by August, all while deaths increased by an average of 2,000 per day. All of their August projections from April were surpassed by May 6.
+
+Also note that while we update our projections daily, IHME only updates their projections once or twice a week.
+
+{% include iframe_historical.html %}
+
+[Back to Top](#top)
 
 ## Concerns with the IHME model
 
@@ -287,18 +301,6 @@ That's why in addition to our most likely estimate, we also provide a 95% confid
 * *Affecting the future*: Our projections are not set in stone and do not exist in a vacuum. If everyone saw our projections and heeded the advice of experts to continuously practice social distancing, the infections and deaths will decrease over time, leading to a final tally that is lower than our projection. That does not mean that our projection were "wrong". In fact, our greatest hope is the scenario described above where we can help prevent future infections and deaths, causing our projections to be an overestimate. For example, a early March [Imperical College study](https://www.nytimes.com/2020/03/17/world/europe/coronavirus-imperial-college-johnson.html) estimated that 2.2 million people would die in the US if mitigations were not implemented. This helped lead to a wave of lockdowns and stay-at-home orders, thereby significantly reducing deaths. That does not mean that the Imperial College study was "wrong" - their study helped shape the outcome of the future.
 
 While we attempt our best to ensure accuracy and precision, no model is perfect, so we urge everyone to use caution when interpreting these projections. This is just one particular model, so we encourage everyone to evaluate and be open to multiple sources. At the end of the day, the decision-making rests in the hands of people, not machines.
-
-[Back to Top](#top)
-
-## Historical US Projections
-
-Below, we show how our (C19Pro) August 4 projections for the US has changed over time, compared to IHME. We also show a comparison of the latest projections.
-
-Note that for the entire month of April, IHME projected between 60,000-73,000 deaths by August, all while deaths increased by an average of 2,000 per day. All of their August projections from April were surpassed by May 6.
-
-Also note that while we update our projections daily, IHME only updates their projections once or twice a week.
-
-{% include iframe_historical.html %}
 
 [Back to Top](#top)
 
