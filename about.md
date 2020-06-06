@@ -8,6 +8,7 @@ permalink: /about/
 * [About the Model](#about-the-model)
 * [How Our Model is Different](#how-our-model-is-different)
 * [Historical Performance *(Updated Jun 1)*](#historical-performance)
+* [CDC Projections Over Time **(New Jun 6)**](#cdc-projections-over-time)
 * [Concerns with the IHME model *(Updated Daily)*](#concerns-with-the-ihme-model)
   * [May 4 Revision *(Updated May 14)*](#may-4-revision)
   * [State Reopening Timeline *(Updated May 11)*](#state-reopening-timeline)
@@ -65,7 +66,6 @@ See an [analysis of our model](https://twitter.com/CT_Bergstrom/status/125534384
 
 [Back to Top](#top)
 
-
 ## Historical Performance
 
 **Last Updated: Jun 1**
@@ -97,6 +97,12 @@ Projections taken from: [https://github.com/reichlab/covid19-forecast-hub](https
 Truth data from Johns Hopkins: [https://github.com/CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19)
 
 [Back to Top](#top)
+
+## CDC Projections Over Time
+
+Below, we show our CDC projections over time, as well as the IHME CDC projections over time.
+
+{% include iframe_cdc_comparison.html %}
 
 ## Concerns with the IHME model
 
