@@ -6,6 +6,8 @@ permalink: /maps/
 
 Here we display a variety of maps generated based on our projections. All maps are updated daily.
 
+Note that our future projections have a high degree of uncertainty which is not reflected in these maps. Please refer to our [detailed projections](/#view-projections) to view our confidence interview. Learn more about our assumptions and limitations [here](/about/#assumptions).
+
 * [US Maps](#us-maps)
 * [Global Maps](#global-maps)
 
