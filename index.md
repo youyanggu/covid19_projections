@@ -3,8 +3,8 @@ We present an intuitive model that builds machine learning techniques on top of 
 Note that our infections estimate includes all infected individuals, not just those that took a COVID-19 test kit and tested positive. The vast majority of infected individuals do not get tested, and thus do not get reported as a positive case. As of mid-May, we estimate the true number of infected individuals in the US is ~5x higher than the reported cases.
 
 On this page:
-* [US and Global Dashboard](#covid-19-dashboard)
 * [View US projections](#current-projection-for-us)
+* [US and Global Dashboard](#covid-19-dashboard)
 * [View US state-by-state projections](#view-projections)
 * [View global projections](#global-projections)
 * [Likelihoods of death milestones in US](#us-deaths-likelihoods)
@@ -19,10 +19,10 @@ On this page:
 * **Jun 1:** We have lowered our US projections after an analysis of recent studies showing [promising treatment results](https://www.nejm.org/doi/full/10.1056/NEJMoa2007764), [possible seasonality effects](https://projects.iq.harvard.edu/covid19), [high mask-wearing compliance](https://www.usatoday.com/story/news/politics/2020/05/21/coronavirus-wearing-mask-public-common-nationscape-survey-finds/5215365002/), and [slow reopenings](https://twitter.com/youyanggu/status/1267551592837832704).
 
 ## Current Projection for US
-### Updated Daily - Last Updated: Jun 5 (1am ET):
+### Updated Daily - Last Updated: Jun 6 (3am ET):
 <p align="center">
-  Current Total: <b>108,208</b> deaths | Projected Total: <b>187,714 deaths by Sep 1, 2020</b> (Range: 129-281k)<br>
-  Currently Infected: <b>0.5%</b> | Total Infected: <b>4.1%</b> {% include iframe.html %}
+  Current Total: <b>109,129</b> deaths | Projected Total: <b>188,662 deaths by Sep 1, 2020</b> (Range: 130-281k)<br>
+  Currently Infected: <b>0.5%</b> | Total Infected: <b>4.2%</b> {% include iframe.html %}
 </p>
 
 ## COVID-19 Dashboard
@@ -31,9 +31,9 @@ On this page:
 
 ## US Deaths Likelihoods
 
-Below, we present the most likely dates that the US will surpass certain deaths milestones, as well as the probabilities of the US surpassing those milestones by different time horizons. For example, we estimate a 75% chance that the US surpasses 125,000 deaths by July 1, with June 25 being the most likely date.
+Below, we present the most likely dates that the US will surpass certain deaths milestones, as well as the probabilities of the US surpassing those milestones by different time horizons. For example, we estimate a 77% chance that the US surpasses 125,000 deaths by July 1, with June 25 being the most likely date.
 
-Last updated: Jun 5, 2020
+Last updated: Jun 6, 2020
 
 |   US deaths surpass: |   Most likely date: |
 |----------------------|---------------------|
@@ -42,16 +42,16 @@ Last updated: Jun 5, 2020
 |              125,000 |        Jun 25, 2020 |
 |              130,000 |         Jul 1, 2020 |
 |              140,000 |        Jul 13, 2020 |
-|              150,000 |        Jul 24, 2020 |
+|              150,000 |        Jul 23, 2020 |
 
 <br>
 
 |   US deaths surpass: |   By Jun 15 |   By Jul 1 |   By Jul 15 |   By Aug 1 |   By Aug 15 |   By Sep 1 |
 |----------------------|-------------|------------|-------------|------------|-------------|------------|
-|              125,000 |         <1% |        75% |         94% |        98% |         99% |        99% |
-|              150,000 |         <1% |        <1% |         27% |        58% |         69% |        76% |
-|              175,000 |         <1% |        <1% |         <1% |        24% |         42% |        53% |
-|              200,000 |         <1% |        <1% |         <1% |         5% |         21% |        35% |
+|              125,000 |         <1% |        77% |         95% |        98% |         99% |        99% |
+|              150,000 |         <1% |        <1% |         27% |        59% |         70% |        78% |
+|              175,000 |         <1% |        <1% |         <1% |        24% |         43% |        54% |
+|              200,000 |         <1% |        <1% |         <1% |         5% |         22% |        36% |
 |              250,000 |         <1% |        <1% |         <1% |        <1% |         <1% |        11% |
 |              300,000 |         <1% |        <1% |         <1% |        <1% |         <1% |        <1% |
 
@@ -152,59 +152,59 @@ States are ordered by descending projected deaths (by September 1).
 
 |                                |   Current Deaths |   Projected Deaths - Mean |   Projected Deaths / 1M |   Additional Deaths - Mean |   Additional Deaths (% of Current Deaths) |   Projected Deaths - 2.5th Percentile |   Projected Deaths - 97.5th Percentile |
 |--------------------------------|------------------|---------------------------|-------------------------|----------------------------|-------------------------------------------|---------------------------------------|----------------------------------------|
-|             *[United States](/us)* |          108,208 |                   187,714 |                     566 |                     79,506 |                                       73% |                               129,506 |                                280,604 |
-|                 [New York](/us-ny) |           30,174 |                    33,208 |                   1,707 |                      3,034 |                                       10% |                                30,805 |                                 38,080 |
-|               [New Jersey](/us-nj) |           11,970 |                    14,726 |                   1,658 |                      2,756 |                                       23% |                                12,924 |                                 18,142 |
-|               [California](/us-ca) |            4,444 |                    13,128 |                     332 |                      8,684 |                                      195% |                                 6,366 |                                 23,775 |
-|                 [Illinois](/us-il) |            5,736 |                    10,682 |                     843 |                      4,946 |                                       86% |                                 7,517 |                                 14,583 |
-|             [Pennsylvania](/us-pa) |            5,832 |                     9,802 |                     766 |                      3,970 |                                       68% |                                 6,988 |                                 14,045 |
-|            [Massachusetts](/us-ma) |            7,201 |                     9,572 |                   1,377 |                      2,371 |                                       33% |                                 8,031 |                                 12,475 |
-|                  [Florida](/us-fl) |            2,607 |                     7,271 |                     339 |                      4,664 |                                      179% |                                 3,559 |                                 12,322 |
-|                 [Michigan](/us-mi) |            5,595 |                     6,956 |                     697 |                      1,361 |                                       24% |                                 6,022 |                                  9,382 |
-|                     [Ohio](/us-oh) |            2,340 |                     6,893 |                     590 |                      4,553 |                                      195% |                                 3,726 |                                 10,699 |
-|                 [Maryland](/us-md) |            2,668 |                     6,135 |                   1,015 |                      3,467 |                                      130% |                                 3,526 |                                  9,754 |
-|                    [Texas](/us-tx) |            1,776 |                     5,262 |                     181 |                      3,486 |                                      196% |                                 2,766 |                                 10,036 |
-|              [Connecticut](/us-ct) |            4,007 |                     5,215 |                   1,463 |                      1,208 |                                       30% |                                 4,344 |                                  6,794 |
-|                  [Georgia](/us-ga) |            2,149 |                     5,119 |                     482 |                      2,970 |                                      138% |                                 3,014 |                                  9,504 |
-|                  [Indiana](/us-in) |            2,231 |                     4,798 |                     713 |                      2,567 |                                      115% |                                 2,855 |                                  7,997 |
-|                [Louisiana](/us-la) |            2,883 |                     4,304 |                     926 |                      1,421 |                                       49% |                                 3,271 |                                  6,927 |
-|                [Minnesota](/us-mn) |            1,126 |                     4,090 |                     725 |                      2,964 |                                      263% |                                 1,948 |                                  6,184 |
-|                 [Virginia](/us-va) |            1,445 |                     3,977 |                     466 |                      2,532 |                                      175% |                                 1,943 |                                  7,307 |
-|           [North Carolina](/us-nc) |            1,006 |                     3,662 |                     349 |                      2,656 |                                      264% |                                 1,776 |                                  6,120 |
-|                  [Arizona](/us-az) |              999 |                     3,473 |                     477 |                      2,474 |                                      248% |                                 1,463 |                                  6,120 |
-|                 [Colorado](/us-co) |            1,512 |                     3,171 |                     551 |                      1,659 |                                      110% |                                 1,807 |                                  6,160 |
-|              [Mississippi](/us-ms) |              794 |                     2,540 |                     853 |                      1,746 |                                      220% |                                 1,148 |                                  4,094 |
-|                 [Missouri](/us-mo) |              795 |                     2,417 |                     394 |                      1,622 |                                      204% |                                 1,189 |                                  4,125 |
-|                  [Alabama](/us-al) |              653 |                     1,955 |                     399 |                      1,302 |                                      199% |                                 1,008 |                                  3,425 |
-|               [Washington](/us-wa) |            1,138 |                     1,952 |                     256 |                        814 |                                       72% |                                 1,270 |                                  3,572 |
-|                [Wisconsin](/us-wi) |              626 |                     1,791 |                     308 |                      1,165 |                                      186% |                                   933 |                                  3,153 |
-|             [Rhode Island](/us-ri) |              756 |                     1,722 |                   1,626 |                        966 |                                      128% |                                 1,166 |                                  2,316 |
-|                     [Iowa](/us-ia) |              583 |                     1,618 |                     513 |                      1,035 |                                      178% |                                 1,083 |                                  2,337 |
-|           [South Carolina](/us-sc) |              501 |                     1,479 |                     287 |                        978 |                                      195% |                                   709 |                                  2,706 |
-|                [Tennessee](/us-tn) |              401 |                     1,225 |                     179 |                        824 |                                      205% |                                   606 |                                  2,184 |
-|                 [Kentucky](/us-ky) |              458 |                     1,212 |                     271 |                        754 |                                      165% |                                   643 |                                  2,176 |
-|               [New Mexico](/us-nm) |              383 |                     1,132 |                     540 |                        749 |                                      196% |                                   625 |                                  1,731 |
-|                   [Nevada](/us-nv) |              430 |                       911 |                     296 |                        481 |                                      112% |                                   540 |                                  1,614 |
-|            [New Hampshire](/us-nh) |              273 |                       823 |                     605 |                        550 |                                      201% |                                   380 |                                  1,473 |
-|                 [Delaware](/us-de) |              386 |                       752 |                     772 |                        366 |                                       95% |                                   464 |                                  1,371 |
-|     [District of Columbia](/us-dc) |              475 |                       722 |                   1,023 |                        247 |                                       52% |                                   531 |                                  1,076 |
-|                 [Nebraska](/us-ne) |              187 |                       637 |                     329 |                        450 |                                      241% |                                   379 |                                  1,033 |
-|                 [Arkansas](/us-ar) |              151 |                       618 |                     205 |                        467 |                                      309% |                                   289 |                                  1,013 |
-|                 [Oklahoma](/us-ok) |              344 |                       554 |                     140 |                        210 |                                       61% |                                   408 |                                    919 |
-|                     [Utah](/us-ut) |              117 |                       429 |                     134 |                        312 |                                      267% |                                   198 |                                    779 |
-|                   [Kansas](/us-ks) |              227 |                       389 |                     134 |                        162 |                                       71% |                                   256 |                                    860 |
-|                   [Oregon](/us-or) |              159 |                       246 |                      58 |                         87 |                                       55% |                                   179 |                                    422 |
-|              [Puerto Rico](/us-pr) |              140 |                       202 |                      63 |                         62 |                                       44% |                                   161 |                                    291 |
-|             [South Dakota](/us-sd) |               64 |                       193 |                     218 |                        129 |                                      202% |                                   102 |                                    407 |
-|             [North Dakota](/us-nd) |               66 |                       172 |                     226 |                        106 |                                      161% |                                   114 |                                    294 |
-|                    [Maine](/us-me) |               95 |                       156 |                     116 |                         61 |                                       64% |                                   117 |                                    267 |
-|            [West Virginia](/us-wv) |               79 |                       128 |                      71 |                         49 |                                       62% |                                    95 |                                    209 |
-|                    [Idaho](/us-id) |               83 |                       104 |                      58 |                         21 |                                       25% |                                    92 |                                    128 |
-|                  [Vermont](/us-vt) |               55 |                        64 |                     103 |                          9 |                                       16% |                                    60 |                                     70 |
-|                  [Wyoming](/us-wy) |               17 |                        38 |                      66 |                         21 |                                      124% |                                    30 |                                     55 |
-| [Northern Mariana Islands](/us-mp) |               16 |                        21 |                     380 |                          5 |                                       31% |                                    19 |                                     23 |
+|             *[United States](/us)* |          109,129 |                   188,662 |                     569 |                     79,533 |                                       73% |                               130,540 |                                280,790 |
+|                 [New York](/us-ny) |           30,236 |                    33,175 |                   1,705 |                      2,939 |                                       10% |                                30,842 |                                 37,934 |
+|               [New Jersey](/us-nj) |           12,049 |                    14,776 |                   1,664 |                      2,727 |                                       23% |                                12,980 |                                 18,151 |
+|               [California](/us-ca) |            4,529 |                    13,429 |                     340 |                      8,900 |                                      197% |                                 6,598 |                                 23,979 |
+|                 [Illinois](/us-il) |            5,795 |                    10,740 |                     848 |                      4,945 |                                       85% |                                 7,572 |                                 14,530 |
+|             [Pennsylvania](/us-pa) |            5,898 |                     9,876 |                     771 |                      3,978 |                                       67% |                                 7,039 |                                 14,042 |
+|            [Massachusetts](/us-ma) |            7,235 |                     9,474 |                   1,363 |                      2,239 |                                       31% |                                 8,010 |                                 12,383 |
+|                  [Florida](/us-fl) |            2,660 |                     7,400 |                     345 |                      4,740 |                                      178% |                                 3,611 |                                 12,525 |
+|                 [Michigan](/us-mi) |            5,613 |                     6,913 |                     692 |                      1,300 |                                       23% |                                 6,017 |                                  9,313 |
+|                     [Ohio](/us-oh) |            2,357 |                     6,799 |                     582 |                      4,442 |                                      188% |                                 3,716 |                                 10,609 |
+|                 [Maryland](/us-md) |            2,702 |                     6,133 |                   1,014 |                      3,431 |                                      127% |                                 3,549 |                                  9,729 |
+|                    [Texas](/us-tx) |            1,812 |                     5,442 |                     188 |                      3,630 |                                      200% |                                 2,829 |                                 10,088 |
+|              [Connecticut](/us-ct) |            4,038 |                     5,236 |                   1,469 |                      1,198 |                                       30% |                                 4,370 |                                  6,791 |
+|                  [Georgia](/us-ga) |            2,174 |                     5,029 |                     474 |                      2,855 |                                      131% |                                 3,022 |                                  9,355 |
+|                  [Indiana](/us-in) |            2,258 |                     4,818 |                     716 |                      2,560 |                                      113% |                                 2,874 |                                  7,992 |
+|                [Louisiana](/us-la) |            2,912 |                     4,376 |                     941 |                      1,464 |                                       50% |                                 3,306 |                                  7,040 |
+|                [Minnesota](/us-mn) |            1,159 |                     4,284 |                     760 |                      3,125 |                                      270% |                                 2,032 |                                  6,293 |
+|                 [Virginia](/us-va) |            1,454 |                     3,834 |                     449 |                      2,380 |                                      164% |                                 1,923 |                                  7,209 |
+|           [North Carolina](/us-nc) |            1,015 |                     3,492 |                     333 |                      2,477 |                                      244% |                                 1,746 |                                  5,895 |
+|                  [Arizona](/us-az) |            1,015 |                     3,432 |                     472 |                      2,417 |                                      238% |                                 1,469 |                                  6,046 |
+|                 [Colorado](/us-co) |            1,524 |                     3,132 |                     544 |                      1,608 |                                      106% |                                 1,809 |                                  6,128 |
+|              [Mississippi](/us-ms) |              803 |                     2,455 |                     825 |                      1,652 |                                      206% |                                 1,142 |                                  4,024 |
+|                 [Missouri](/us-mo) |              805 |                     2,387 |                     389 |                      1,582 |                                      197% |                                 1,190 |                                  4,096 |
+|                  [Alabama](/us-al) |              676 |                     2,157 |                     440 |                      1,481 |                                      219% |                                 1,140 |                                  3,689 |
+|           [South Carolina](/us-sc) |              539 |                     1,984 |                     385 |                      1,445 |                                      268% |                                   901 |                                  3,246 |
+|               [Washington](/us-wa) |            1,149 |                     1,978 |                     260 |                        829 |                                       72% |                                 1,285 |                                  3,596 |
+|                [Wisconsin](/us-wi) |              633 |                     1,765 |                     303 |                      1,132 |                                      179% |                                   932 |                                  3,137 |
+|             [Rhode Island](/us-ri) |              772 |                     1,739 |                   1,642 |                        967 |                                      125% |                                 1,182 |                                  2,319 |
+|                     [Iowa](/us-ia) |              593 |                     1,607 |                     509 |                      1,014 |                                      171% |                                 1,084 |                                  2,324 |
+|                [Tennessee](/us-tn) |              408 |                     1,245 |                     182 |                        837 |                                      205% |                                   624 |                                  2,179 |
+|                 [Kentucky](/us-ky) |              466 |                     1,239 |                     277 |                        773 |                                      166% |                                   656 |                                  2,190 |
+|               [New Mexico](/us-nm) |              387 |                     1,117 |                     533 |                        730 |                                      189% |                                   602 |                                  1,718 |
+|                   [Nevada](/us-nv) |              436 |                       928 |                     301 |                        492 |                                      113% |                                   548 |                                  1,621 |
+|            [New Hampshire](/us-nh) |              278 |                       825 |                     607 |                        547 |                                      197% |                                   389 |                                  1,471 |
+|                 [Delaware](/us-de) |              388 |                       724 |                     744 |                        336 |                                       87% |                                   460 |                                  1,272 |
+|     [District of Columbia](/us-dc) |              479 |                       721 |                   1,022 |                        242 |                                       51% |                                   534 |                                  1,070 |
+|                 [Arkansas](/us-ar) |              152 |                       598 |                     198 |                        446 |                                      293% |                                   287 |                                  1,003 |
+|                 [Nebraska](/us-ne) |              187 |                       570 |                     295 |                        383 |                                      205% |                                   344 |                                    921 |
+|                 [Oklahoma](/us-ok) |              345 |                       532 |                     134 |                        187 |                                       54% |                                   405 |                                    860 |
+|                     [Utah](/us-ut) |              120 |                       450 |                     140 |                        330 |                                      275% |                                   202 |                                    811 |
+|                   [Kansas](/us-ks) |              232 |                       413 |                     142 |                        181 |                                       78% |                                   266 |                                    915 |
+|                   [Oregon](/us-or) |              161 |                       249 |                      59 |                         88 |                                       55% |                                   181 |                                    423 |
+|              [Puerto Rico](/us-pr) |              141 |                       203 |                      64 |                         62 |                                       44% |                                   162 |                                    290 |
+|             [North Dakota](/us-nd) |               71 |                       195 |                     256 |                        124 |                                      175% |                                   124 |                                    340 |
+|             [South Dakota](/us-sd) |               64 |                       183 |                     207 |                        119 |                                      186% |                                   100 |                                    323 |
+|                    [Maine](/us-me) |               98 |                       163 |                     121 |                         65 |                                       66% |                                   122 |                                    273 |
+|            [West Virginia](/us-wv) |               84 |                       154 |                      86 |                         70 |                                       83% |                                   105 |                                    305 |
+|                    [Idaho](/us-id) |               83 |                       103 |                      58 |                         20 |                                       24% |                                    92 |                                    127 |
+|                  [Vermont](/us-vt) |               55 |                        64 |                     103 |                          9 |                                       16% |                                    59 |                                     70 |
+|                  [Wyoming](/us-wy) |               17 |                        34 |                      59 |                         17 |                                      100% |                                    27 |                                     43 |
+|                  [Montana](/us-mt) |               18 |                        22 |                      21 |                          4 |                                       22% |                                    19 |                                     28 |
 |                   [Hawaii](/us-hi) |               17 |                        21 |                      15 |                          4 |                                       24% |                                    19 |                                     22 |
-|                  [Montana](/us-mt) |               17 |                        20 |                      19 |                          3 |                                       18% |                                    18 |                                     24 |
+| [Northern Mariana Islands](/us-mp) |               16 |                        20 |                     362 |                          4 |                                       25% |                                    19 |                                     23 |
 |                   [Alaska](/us-ak) |               10 |                        12 |                      16 |                          2 |                                       20% |                                    11 |                                     13 |
 |           [Virgin Islands](/us-vi) |                6 |                         8 |                      76 |                          2 |                                       33% |                                     7 |                                      8 |
 |                     [Guam](/us-gu) |                5 |                         7 |                      42 |                          2 |                                       40% |                                     6 |                                      8 |
