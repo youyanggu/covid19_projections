@@ -4,13 +4,13 @@ title: Maps
 permalink: /maps/
 ---
 
-* [US Maps](#us)
-* [Global Maps](#global)
+* [US Maps](#us-maps)
+* [Global Maps](#global-maps)
 
-## US
+## US Maps
 {% include iframe_us_maps.html %}
 
 [Back to Top](#top)
 
-## Global
+## Global Maps
 {% include iframe_global_maps.html %}
