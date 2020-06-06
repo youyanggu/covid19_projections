@@ -230,11 +230,9 @@ If regions impose stricter social distancing guidelines than our assumptions lis
 
 #### Second wave
 
-In regions where the outbreak has not yet been fully contained, it is possible that reopening will cause a second wave of infections if states fail to maintain sufficient social distancing.
+In regions where the outbreak has not yet been fully contained, it is possible that reopening will cause a second wave of infections if states fail to maintain sufficient social distancing. We assume that regions that have reopened will take actions to reduce transmission, such as increased contact tracing, mandatory mask wearing, improved treatments, capacity limits, etc. This will lead to a fall in the transmission rate over time.
 
-#### Second lockdown
-
-We assume that states with a second outbreak will take actions to reduce transmission, such as increased contact tracing, mandatory mask wearing, improved treatment, etc. In the case where the infections curve continue to rise exponentially after a reopening, it may become necessary for regions to impose additional mitigation measures, perhaps even a second lockdown. A second lockdown was seen in numerous Asian countries where a second wave occurred, including in [Japan](https://time.com/5826918/hokkaido-coronavirus-lockdown/), [Hong Kong](https://fortune.com/2020/04/21/hong-kong-coronavirus-second-wave-response/), and [Singapore](https://www.usnews.com/news/world-report/articles/2020-04-24/singapore-sees-second-wave-of-coronavirus-with-900-new-cases). Our model incorporates the concept of a second lockdown, which we estimate will happen approximately 30 days after the reopening. **Additional mitigation strategies are only necessary if the effective reproduction number (R) after reopening is significantly greater than 1**.
+As of June 1, our model no longer assumes a second lockdown.
 
 ### Infections Estimate
 
