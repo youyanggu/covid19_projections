@@ -204,6 +204,8 @@ To conclude, we believe that a successful model must be able to quickly determin
 
 To make our projections, we use the daily death total provided by [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports), what is considered by experts to be the "gold standard" reference data. We do not use case-related data in our modeling due to reasoning alluded to [here](https://fivethirtyeight.com/features/coronavirus-case-counts-are-meaningless/).
 
+While we do not use testing data in our model, we sometimes use US testing data from [The COVID Tracking Project](https://covidtracking.com/) in our research and graphs.
+
 Every day, raw daily projections for all 50 US states and select international countries will be uploaded onto our [GitHub page](https://github.com/youyanggu/covid19_projections/tree/master/projections). We are projecting future deaths as reported by Johns Hopkins CSSE. For the US, this includes both **confirmed and probable deaths**.
 
 [Back to Top](#top)
