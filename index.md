@@ -1,6 +1,6 @@
 We present an intuitive model that builds machine learning techniques on top of a classic infectious disease model to make COVID-19 infections and deaths projections for the US, all 50 US states, and more than 70 countries. The countries our projections cover encompass 6.4 billion people and account for over 99% of all global COVID-19 deaths.
 
-Note that our infections estimate includes all infected individuals, not just those that took a COVID-19 test kit and tested positive. The vast majority of infected individuals do not get tested, and thus do not get reported as a positive case. As of mid-May, we estimate the true number of infected individuals in the US is ~5x higher than the reported cases.
+Note that our infections estimate includes all infected individuals of the SARS-CoV-2 virus, not just those that took a COVID-19 test and tested positive. The vast majority of infected individuals in our estimates do not get tested, and thus do not get reported as a positive case. As of June, we estimate the true number of infected individuals in the US is ~5x higher than the reported cases.
 
 On this page:
 * [View US projections](#current-projection-for-us)
@@ -14,7 +14,7 @@ On this page:
 
 ## Recent Updates
 
-* **Jun 5:** We launched a new [Maps](/maps) page to better visualize our projections.
+* **Jun 6:** We launched a new [Maps](/maps) page to better visualize our projections for both US states and global countries
 
 ## Current Projection for US
 ### Updated Daily - Last Updated: Jun 6 (3am ET):
