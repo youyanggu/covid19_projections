@@ -14,9 +14,7 @@ On this page:
 
 ## Recent Updates
 
-* **Jun 5:** We launched a new [Maps](/maps) page to better visualize our projections. Check it out.
-
-* **Jun 1:** We have lowered our US projections after an analysis of recent studies showing [promising treatment results](https://www.nejm.org/doi/full/10.1056/NEJMoa2007764), [possible seasonality effects](https://projects.iq.harvard.edu/covid19), [high mask-wearing compliance](https://www.usatoday.com/story/news/politics/2020/05/21/coronavirus-wearing-mask-public-common-nationscape-survey-finds/5215365002/), and [slow reopenings](https://twitter.com/youyanggu/status/1267551592837832704).
+* **Jun 5:** We launched a new [Maps](/maps) page to better visualize our projections.
 
 ## Current Projection for US
 ### Updated Daily - Last Updated: Jun 6 (3am ET):
