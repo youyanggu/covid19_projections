@@ -16,6 +16,8 @@ The below [reproduction number](https://en.wikipedia.org/wiki/Basic_reproduction
 
 You can download our R_t estimates as csv files on [our GitHub](https://github.com/youyanggu/covid19_projections/tree/master/r_values). You can also download the raw R_t time series from our [projections folder](https://github.com/youyanggu/covid19_projections/tree/master/projections) (starting from May 15 projections).
 
+[Back to Top](#top)
+
 {% include iframe_r_values.html %}
 
 ### Notes
@@ -25,6 +27,8 @@ You can download our R_t estimates as csv files on [our GitHub](https://github.c
 * For example, California has a lower-than-expected R<sub>0</sub> partly because there is a significant time lag in their deaths reporting. While this does not significantly affect our projections (assuming the lag is consistent), it will result in a lower R estimate than the true value.
 * Our post-mitigation R estimates may not accurately reflect the true situation for regions where no mitigation was applied, such as in Sweden or South Dakota.
 * You can click on the legend on the upper right corner of each plot below to hide/unhide the bars.
+
+[Back to Top](#top)
 
 ## Number of Total Infected Individuals by Date
 This is an estimate of the total number of infected individuals by each date. The infections estimate includes **all** infected individuals, not just those that took a COVID-19 test kit and tested positive. The vast majority of infected individuals did not get tested due to 1) they are asymptomatic or only mildly symptomatic or 2) lack of available testing. As of May 18, we estimate that the true number of infections in the US is likely ~5x higher than reported cases. In March and April, when testing was not as prevalent, we estimate that ratio to be closer to 10-15x.
@@ -91,6 +95,8 @@ Last Updated: June 5, 2020
 | [West Virginia](/us-wv)            |     2,756 |     5,333 |      7,336 |      8,803 |     10,571 |     11,889 |     13,152 |     14,027 |     14,846 |     15,389 |     15,948 |
 | [Wisconsin](/us-wi)                |    23,961 |    39,174 |     56,197 |     70,497 |     90,606 |    111,557 |    140,921 |    169,629 |    204,610 |    231,102 |    259,791 |
 | [Wyoming](/us-wy)                  |       168 |       557 |      1,104 |      1,668 |      2,431 |      3,033 |      3,582 |      3,931 |      4,234 |      4,422 |      4,605 |
+
+[Back to Top](#top)
 
 ### Global
 
@@ -167,6 +173,8 @@ Last Updated: June 5, 2020
 | [United Arab Emirates](/united-arab-emirates) |     8,733 |    16,936 |    24,497 |    29,314 |    33,556 |    36,822 |     41,166 |     45,637 |     51,581 |     56,492 |     62,090 |
 | [United Kingdom](/united-kingdom)             | 2,080,927 | 3,054,424 | 3,827,888 | 4,280,993 | 4,637,737 | 4,828,804 |  5,009,697 |  5,161,352 |  5,336,615 |  5,462,253 |  5,581,629 |
 
+[Back to Top](#top)
+
 ### Subregion
 
 |                                                       |     Apr 1 |    Apr 15 |     May 1 |    May 15 |     Jun 1 |    Jun 15 |     Jul 1 |    Jul 15 |     Aug 1 |    Aug 15 |     Sep 1 |
@@ -209,6 +217,3 @@ Last Updated: June 5, 2020
 | [TX - Harris](/us-tx-harris)                          |     9,347 |    15,673 |    22,277 |    28,227 |    36,115 |    42,895 |    50,360 |    56,180 |    62,220 |    66,558 |    71,254 |
 | [TX - Tarrant](/us-tx-tarrant)                        |     5,295 |     9,479 |    14,618 |    19,680 |    26,822 |    33,385 |    41,048 |    47,332 |    54,091 |    59,032 |    64,422 |
 | [WA - King](/us-wa-king)                              |    31,552 |    44,721 |    54,411 |    59,972 |    64,361 |    67,091 |    70,502 |    73,994 |    78,725 |    82,693 |    87,195 |
-
-
-
