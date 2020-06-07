@@ -20,14 +20,14 @@ Note that our future projections have a high degree of uncertainty which is not 
 - *Additional deaths:* Additional deaths per 1 million people from today until the projected date.
 
 ## US Maps
+[Back to Top](#top)
+
 {% include iframe_us_maps.html %}
 
-[Back to Top](#top)
-
 ## Global Maps
+[Back to Top](#top)
 {% include iframe_global_maps.html %}
 
-[Back to Top](#top)
-
 ## Europe Maps
+[Back to Top](#top)
 {% include iframe_europe_maps.html %}
