@@ -7,7 +7,7 @@ permalink: /about/
 ## Table of contents
 * [About the Model](#about-the-model)
 * [How Our Model is Different](#how-our-model-is-different)
-* [Historical Performance *(Updated Jun 1)*](#historical-performance)
+* [Historical Performance *(Updated Jun 7)*](#historical-performance)
 * [CDC Projections Over Time **(New Jun 6)**](#cdc-projections-over-time)
 * [Historical US Projections *(Updated Daily)*](#historical-us-projections)
 * [Concerns with the IHME model *(Updated Daily)*](#concerns-with-the-ihme-model)
@@ -74,18 +74,19 @@ A model isn't very useful if it's not accurate. Below is our analysis on how var
 
 [Click here](/historical-performance) to see performance evaluations for past dates.
 
-### May 30 evaluation of state-by-state projections
+### June 6 evaluation of state-by-state projections
 
-![States comparison](/assets/images/2020-05-30_comparison_states.png)
+![States comparison](/assets/images/2020-06-06_comparison_states.png)
 
-### May 30 evaluation of US projections
+### June 6 evaluation of US projections
 
-![US comparison](/assets/images/2020-05-30_comparison_us.png)
+![US comparison](/assets/images/2020-06-06_comparison_us.png)
 
-### Notes
+### Observations
 
-* We are one of only two models that beats the baseline every week (the other is LANL).
 * A baseline model that simply uses the previous week's average deaths to make future projections outperforms many models for short-term forecasts.
+* We are the only model that beats the baseline model every week for every past projection.
+* A handful of models consistently outperform the remainder of the models.
 * The IHME model, a model frequently cited by the White House and media, consistently performs in the bottom half of all models for both its US projections and state-by-state projections. The model also frequently fails to beat the baseline model.
 * The [COVIDhub ensemble model](https://github.com/reichlab/covid19-forecast-hub/#ensemble-model) is created by taking a combination of all eligible models that submit projections to the CDC. Our projections are included in this ensemble.
 * For state-by-state projections, we evaluate all models that have 4+ week projections for more than 40 states. For models with missing state projections, we use the mean projection for that state (among all the models).
