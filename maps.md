@@ -8,7 +8,7 @@ Here we display a variety of maps generated based on our projections. All maps a
 
 Note that our future projections have a high degree of uncertainty which is not reflected in these maps. Please refer to our [detailed projections](/#view-projections) to view our confidence interview. Learn more about our assumptions and limitations [here](/about/#assumptions).
 
-*Mobile users:* We recommend using landscape mode for optimized viewing of this page.
+*Mobile users: We recommend using landscape mode for optimized viewing of this page.*
 
 * [US Maps](#us-maps)
 * [Global Maps](#global-maps)
