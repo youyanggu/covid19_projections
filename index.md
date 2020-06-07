@@ -14,8 +14,8 @@ On this page:
 
 ## Recent Updates
 
-* **June 7:** We launched a new [Maps](/maps) page to better visualize our projections for both US states, Europe, and global countries
-* **June 7:** View our historical weekly CDC projections [here](/about/#cdc-projections-over-time).
+* **June 6:** We launched a new [Maps](/maps) page to better visualize our projections for both US states, Europe, and global countries
+* **June 6:** View our historical weekly CDC projections [here](/about/#cdc-projections-over-time).
 
 ## Current Projection for US
 ### Updated Daily - Last Updated: Jun 6 (3am ET):
