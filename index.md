@@ -4,7 +4,7 @@ Our infections estimate includes all infected individuals of the SARS-CoV-2 viru
 
 On this page:
 * [View US projections](#current-us-projections)
-* [US and Global Dashboard](#covid-19-dashboard)
+* [US and Global Dashboard *(New June 6)*](#covid-19-dashboard)
 * [View US state-by-state projections](#view-projections)
 * [View global projections](#global-projections)
 * [Likelihoods of death milestones in US](#us-deaths-likelihoods)
@@ -14,8 +14,8 @@ On this page:
 
 ## Recent Updates
 
+* **June 8:** We added a map that shows how cases are changing in each state/country. Scroll down below to see it, or click [here](#covid-19-dashboard)
 * **June 6:** We launched a new [Maps](/maps) page to better visualize our projections for both US states, Europe, and global countries
-* **June 6:** View our historical weekly CDC projections [here](/about/#cdc-projections-over-time).
 
 ## Current US Projections
 ### Updated Daily - Last Updated: June 8 (3am ET):
