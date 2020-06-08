@@ -4,7 +4,7 @@ Our infections estimate includes all infected individuals of the SARS-CoV-2 viru
 
 On this page:
 * [View US projections](#current-us-projections)
-* [US and Global Dashboard *(New June 6)*](#covid-19-dashboard)
+* [US and Global Dashboard **(New June 6)**](#covid-19-dashboard)
 * [View US state-by-state projections](#view-projections)
 * [View global projections](#global-projections)
 * [Likelihoods of death milestones in US](#us-deaths-likelihoods)
@@ -28,8 +28,8 @@ On this page:
 
 ## COVID-19 Dashboard
 
+To see more maps or for more details, visit our [Maps](/maps) page.
 {% include iframe_r_map.html %}
-
 [Back to Top](#top)
 
 ## US Deaths Likelihoods
