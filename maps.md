@@ -7,8 +7,8 @@ permalink: /maps/
 ## Maps
 
 * US maps (this page)
-* [Global maps](/maps-global)
-* [Europe maps](/maps-europe)
+* [View Global maps](/maps-global)
+* [View Europe maps](/maps-europe)
 
 Here we display a variety of US maps generated based on current data and our projections. All maps are updated daily.
 
