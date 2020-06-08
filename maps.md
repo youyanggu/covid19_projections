@@ -25,3 +25,5 @@ Note that our future projections have a high degree of uncertainty which is not 
 [Back to Top](#top)
 
 {% include iframe_us_maps.html %}
+
+You can also view our [global](/maps-global) and [Europe](/maps-europe) maps.
