@@ -36,7 +36,7 @@ To see more maps or for more details, visit our [Maps](/maps) page.
 
 Below, we present the most likely dates that the US will surpass certain deaths milestones, as well as the probabilities of the US surpassing those milestones by different time horizons. For example, we estimate a 73% chance that the US surpasses 125,000 deaths by July 1, with June 26 being the most likely date.
 
-Last updated: Jun 6, 2020
+Last updated: Jun 8, 2020
 
 |   US deaths surpass: |   Most likely date: |
 |----------------------|---------------------|
