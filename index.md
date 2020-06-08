@@ -3,7 +3,7 @@ We present an intuitive model that builds machine learning techniques on top of 
 Our infections estimate includes all infected individuals of the SARS-CoV-2 virus, not just those that took a COVID-19 test and tested positive. The vast majority of infected individuals in our estimates do not get tested, and thus do not get reported as a positive case. As of June, we estimate the true number of infected individuals in the US is ~5x higher than the reported cases.
 
 On this page:
-* [View US projections](#current-projection-for-us)
+* [View US projections](#current-us-projections)
 * [US and Global Dashboard](#covid-19-dashboard)
 * [View US state-by-state projections](#view-projections)
 * [View global projections](#global-projections)
@@ -17,7 +17,7 @@ On this page:
 * **June 6:** We launched a new [Maps](/maps) page to better visualize our projections for both US states, Europe, and global countries
 * **June 6:** View our historical weekly CDC projections [here](/about/#cdc-projections-over-time).
 
-## Current Projection for US
+## Current US Projections
 ### Updated Daily - Last Updated: June 7 (3am ET):
 <p align="center">
   Current Total: <b>109,799</b> deaths | Projected Total: <b>187,185 deaths by Sep 1, 2020</b> (Range: 130-278k)<br>
