@@ -4,7 +4,11 @@ title: COVID-19 Global Maps
 permalink: /maps-global/
 ---
 
-Here we display a variety of world maps generated based on current data and our projections. You can also view our [US](/maps) and [Europe](/maps-europe) maps. All maps are updated daily.
+## Global Maps
+Here we display a variety of world maps generated based on current data and our projections. All maps are updated daily.
+
+* [View US maps](/maps)
+* [View Europe maps](/maps-europe)
 
 Note that our future projections have a high degree of uncertainty which is not reflected in these maps. Please refer to our [detailed projections](/#view-projections) to view our confidence interview. Learn more about our assumptions and limitations [here](/about/#assumptions).
 
@@ -17,7 +21,6 @@ Note that our future projections have a high degree of uncertainty which is not 
 - *Total deaths:* Total deaths per 1 million people by a given date.
 - *Additional deaths:* Additional deaths per 1 million people from today until the projected date.
 
-## Global Maps
 [Back to Top](#top)
 {% include iframe_global_maps.html %}
 You can also view our [US](/maps) and [Europe](/maps-europe) maps.
