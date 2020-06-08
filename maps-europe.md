@@ -21,6 +21,7 @@ Note that our future projections have a high degree of uncertainty which is not 
 - *Total infected:* Percentage of the population that are currently infected or have been infected at some point, by a given date.
 - *Total deaths:* Total deaths per 1 million people by a given date.
 - *Additional deaths:* Additional deaths per 1 million people from today until the projected date.
+- *Cases score:* `average(scaled(Δcases * |cases_%_change|), scaled(Δcases_per_1_mil * |cases_%_change|))`, where the `scaled()` function maps all values to -100 to 100.
 
 [Back to Top](#top)
 {% include iframe_europe_maps.html %}
