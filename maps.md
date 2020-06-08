@@ -6,7 +6,7 @@ permalink: /maps/
 
 ## US Maps
 
-Here we display a variety of US maps generated based on current data and our projections. You can also view our [global](/maps-global) and [Europe](/maps-europe) maps. All maps are updated daily.
+Here we display a variety of US maps generated based on current data and our projections. All maps are updated daily.
 
 Note that our future projections have a high degree of uncertainty which is not reflected in these maps. Please refer to our [detailed projections](/#view-projections) to view our confidence interview. Learn more about our assumptions and limitations [here](/about/#assumptions).
 
