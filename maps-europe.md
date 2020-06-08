@@ -4,7 +4,7 @@ title: COVID-19 Europe Maps
 permalink: /maps-europe/
 ---
 
-You can find our Europe maps here. Click [here](/maps) to view US and global maps. All maps are updated daily.
+Here we display a variety of maps for Europe generated based on current data and our projections. You can also find our [US](/maps) and [global](/maps-global) maps. All maps are updated daily.
 
 Note that our future projections have a high degree of uncertainty which is not reflected in these maps. Please refer to our [detailed projections](/#view-projections) to view our confidence interview. Learn more about our assumptions and limitations [here](/about/#assumptions).
 
