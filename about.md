@@ -267,6 +267,8 @@ We estimate that true mortality rate (IFR) for COVID-19 in the US is between [0.
 
 Recent [global](https://www.medrxiv.org/content/10.1101/2020.05.11.20098780v1) and [US](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-23-united-states/) studies point to a 1% IFR as a reasonable estimate.
 
+Note that our IFR is based on infectious individuals only. There is growing evidence that asymptomatic individuals are unlikely to be infectious. As a result, we do not account for those individuals in our model, since they do not contribute to the spread of the virus.
+
 [Back to Top](#top)
 
 ## Limitations
@@ -280,6 +282,8 @@ That's why in addition to our most likely estimate, we also provide a 95% confid
 ### Additional limitations
 
 * *Data accuracy* : A model is only as good as the data we feed it. If the data is not accurate, then it would be difficult to make accurate projections downstream. Recently, there have been various reports regarding the accuracy and integrity of data that some US states have been reporting (e.g. see [The Atlantic](https://www.theatlantic.com/health/archive/2020/05/cdc-and-states-are-misreporting-covid-19-test-data-pennsylvania-georgia-texas/611935/) and [Associated Press](https://apnews.com/6dbd9ad370add2ba299c7da46c25004f)). We express similar concerns, and hope that states will do their best to report accurate data.
+
+* *Asymtomatic individuals* : Our model is based on infectious individuals only, which are more likely to be symptomatic. There is [growing evidence](https://www.cnbc.com/2020/06/08/asymptomatic-coronavirus-patients-arent-spreading-new-infections-who-says.html) that asymptomatic individuals are unlikely to be infectious. As a result, we do not account for those individuals in our model, since they do not contribute to the spread of the virus.
 
 * *Day-of-week factors*: We currently do not account for day-of-week factors in death reporting. According to [our analysis](https://twitter.com/youyanggu/status/1251779534422073344), deaths reported on Sunday/Monday are about 60% of that of Tuesday-Thursday. So we expect on average that our projections will be higher than Sunday/Monday reports and lower than our Tuesday-Thursday reports. 
 
