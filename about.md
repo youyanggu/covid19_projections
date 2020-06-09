@@ -12,6 +12,7 @@ permalink: /about/
 * [Historical US Projections *(Updated Daily)*](#historical-us-projections)
 * [Concerns with the IHME model *(Updated Daily)*](#concerns-with-the-ihme-model)
   * [May 4 Revision *(Updated May 14)*](#may-4-revision)
+  * [June 8 Revision **(New Jun 8)**](#june-8-revision)
   * [State Reopening Timeline *(Updated May 11)*](#state-reopening-timeline)
 * [Data and Output](#data-and-output)
 * [Assumptions](#assumptions)
