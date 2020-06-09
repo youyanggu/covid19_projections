@@ -141,6 +141,12 @@ IHME went from severely underprojecting their estimates to now overprojecting th
 
 {% include iframe_ihme_may10.html %}
 
+### June 8 Revision
+
+On June 8, IHME once again significantly revised their model to show a more realistic August projection:
+
+![IHME change](/assets/images/ihme_change.png)
+
 [Back to Top](#top)
 
 ### Sample Summary of IHME Inaccurate Predictions
