@@ -287,9 +287,25 @@ That's why in addition to our most likely estimate, we also provide a 95% confid
 
 *We want to caution against focusing on one particular number as the outcome of this model. We are in fact projecting a range which includes a most likely outcome. If the true results fall within the range, that is within the expected outcome of this model. We highly recommend that you include our range when referencing our projections (i.e. 21,342 (15-34k) deaths).*
 
-### Additional limitations
+### Data Accuracy
 
-* *Data accuracy* : A model is only as good as the data we feed it. If the data is not accurate, then it would be difficult to make accurate projections downstream. Recently, there have been various reports regarding the accuracy and integrity of data that some US states have been reporting (e.g. see [The Atlantic](https://www.theatlantic.com/health/archive/2020/05/cdc-and-states-are-misreporting-covid-19-test-data-pennsylvania-georgia-texas/611935/) and [Associated Press](https://apnews.com/6dbd9ad370add2ba299c7da46c25004f)). We express similar concerns, and hope that states will do their best to report accurate data.
+A model is only as good as the data we feed it. If the data is not accurate, then it would be difficult to make accurate projections downstream.
+
+#### Confirmed vs Probable Deaths
+
+Some countries report probable deaths while others only report laboratory-confirmed deaths. This difference explains why countries with comprehensive reporting like Belgium have the [highest death rates](https://www.npr.org/sections/coronavirus-live-updates/2020/04/22/841005901/why-belgiums-death-rate-is-so-high-it-counts-lots-of-suspected-covid-19-cases).
+
+On June 8, the Washington Post published [an investigation](https://www.washingtonpost.com/investigations/cdc-wants-states-to-count-probable-coronavirus-cases-and-deaths-but-most-arent-doing-it/2020/06/07/4aac9a58-9d0a-11ea-b60c-3be060a4f8e1_story.html) showing that "at least 24 [US] states are not heeding the national guidelines on reporting probable cases and deaths, despite previously identifying probable cases in other national outbreaks." We made a series of Tweets about it [here](https://twitter.com/youyanggu/status/1270461343892566016).
+
+Differences in how countries/states report deaths can lead to unfair comparisons and also skew projections. For example, New York City reported close to 5,000 probable deaths between April 14-23, but have not reported any probable deaths since. This was an increase of 30% over the existing death total at the time. As a result, early April projections under-projected the number of deaths for New York, while our late April and early May projections over-projected the number of deaths for New York.
+
+Because the accuracy of our projections rely on consistent reporting of deaths, any inconsistencies may skew our projections.
+
+#### Testing Data
+
+Recently, there have been various reports regarding the accuracy and integrity of data that some US states have been reporting (e.g. see [The Atlantic](https://www.theatlantic.com/health/archive/2020/05/cdc-and-states-are-misreporting-covid-19-test-data-pennsylvania-georgia-texas/611935/) and [Associated Press](https://apnews.com/6dbd9ad370add2ba299c7da46c25004f)). We express similar concerns, and hope that states will do their best to report accurate data.
+
+### Additional limitations
 
 * *Asymtomatic individuals* : Our model is based on infectious individuals only, which are more likely to be symptomatic. There is [growing evidence](https://www.forbes.com/sites/mattperez/2020/06/08/who-says-asymptomatic-spread-of-coronavirus-very-rare-but-experts-raise-questions/#69a15d0143d0) that asymptomatic individuals are unlikely to be infectious. As a result, we do not account for those individuals in our model, since they do not contribute to the spread of the virus.
 
