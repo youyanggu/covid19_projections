@@ -144,9 +144,10 @@ IHME went from severely underprojecting their estimates to now overprojecting th
 
 ### June 8 Revision
 
-On June 8, IHME once again significantly revised their model to show a more realistic August projection:
+On June 8, IHME once again significantly revised their model to show a more realistic August projection. Their August 4 projections changed from 0 deaths in their May 10 projections to 264-1203 deaths in their revised June 8 projections. As the saying goes, better late than never.
 
-![IHME change](/assets/images/ihme_change.png)
+![IHME change](/assets/images/ihme_may10.png)
+![IHME change](/assets/images/ihme_jun8.png)
 
 [Back to Top](#top)
 
