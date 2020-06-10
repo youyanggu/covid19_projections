@@ -11,7 +11,7 @@ Here we display a variety of maps for Europe generated based on current data and
 * [View US maps](/maps)
 * [View global maps](/maps-global)
 
-Note that our future projections have a high degree of uncertainty which is not reflected in these maps. Please refer to our [detailed projections](/#view-projections) to view our confidence interview. Learn more about our assumptions and limitations [here](/about/#assumptions).
+Note that our future projections have a high degree of uncertainty which is not reflected in these maps. Please refer to our [detailed projections](/#view-projections) to view our confidence intervals. Learn more about our assumptions and limitations [here](/about/#assumptions).
 
 *Mobile users: We recommend using landscape mode for optimized viewing of this page.*
 
