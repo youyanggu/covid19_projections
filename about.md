@@ -253,6 +253,10 @@ Every day, raw daily projections for all 50 US states and select international c
 
 ## Assumptions
 
+### Epidemiologic Assumptions
+
+We use a considation of resources provided [by Models of Infectious Disease Agent Study (MIDAS)](https://midasnetwork.us/covid-19/#resources) to set standard parameters such as incubation and infectious period. Most of these parameters have a wide consensus among experts. For example, we assume a 5-day incubation period (on average) and a 7-day infectious period (on average). These assumptions are probabilistic and roughly normally distributed. This means that an infected individual would be infectious between Day 3 to Day 9 after exposure, with Day 5-7 being the most infectious. We assume an average individual is infected for 15 days.
+
 ### Confidence Intervals
 
 The future is not set in stone: a single policy change or a small change in the assumptions can cause a large impact in how the epidemic progresses. That's why in addition to our mean estimate, we also provide a 95% confidence interval to reflect this uncertainty. For example, if we predict 150,760 deaths with a range of 88-294k, it means that we are 95% confident that the true deaths will be between 88-294k. Note that these confidence intervals are generated given that our above assumptions hold true. There are many real-world variables that can cause our assumptions to be inaccurate and affect the true outcome. We will try our best to address any inaccurate assumptions as time goes on.
