@@ -237,7 +237,7 @@ To make our projections, we use the daily death total provided by [Johns Hopkins
 
 While we do not use testing data in our model, we sometimes use US testing data from [The COVID Tracking Project](https://covidtracking.com/) in our research and graphs.
 
-Every day, raw daily projections for all 50 US states and select international countries will be uploaded onto our [GitHub page](https://github.com/youyanggu/covid19_projections/tree/master/projections). We are projecting future deaths as reported by Johns Hopkins CSSE. For the US, this includes both **confirmed and probable deaths**.
+Every day, raw daily projections for all 50 US states and select international countries will be uploaded onto our [GitHub page](https://github.com/youyanggu/covid19_projections/tree/master/projections). We are projecting future deaths as reported by Johns Hopkins CSSE.
 
 [Back to Top](#top)
 
@@ -289,9 +289,13 @@ Note that our IFR is based on infectious individuals only. There is growing evid
 
 We want to be as clear as possible regarding what our model can and cannot do. While we try our best to make accurate projections, no model is perfect. The future is not set in stone: a single policy change or a small change in the assumptions can cause a large impact in how the epidemic progresses. 
 
-That's why in addition to our most likely estimate, we also provide a 95% confidence interval to reflect this uncertainty. For example, if we predict 150,760 deaths with a range of 88-294k, it means that there is roughly a 95% chance that the true deaths will be between 88-294k. Note that these confidence intervals are generated given that our above assumptions hold true. There are many real-world variables that can cause our assumptions to be inaccurate and affect the true outcome. We will try our best to address any inaccurate assumptions as time goes on.
+### Confidence Interval
 
-*We want to caution against focusing on one particular number as the outcome of this model. We are in fact projecting a range which includes a most likely outcome. If the true results fall within the range, that is within the expected outcome of this model. We highly recommend that you include our range when referencing our projections (i.e. 21,342 (15-34k) deaths).*
+That's why in addition to our most likely estimate, we also provide a 95% confidence interval to reflect this uncertainty. For example, if we predict 150,760 deaths with a range of 88-294k, it means that we are 95% confident that the true deaths will be between 88-294k. Note that these confidence intervals are generated given that our above assumptions hold true. There are many real-world variables that can cause our assumptions to be inaccurate and affect the true outcome. We will try our best to address any inaccurate assumptions as time goes on.
+
+In addition to the 95% confidence interval, we present the mean estimate. This value is usually higher than the median/most likely estimate because it is accounting for a longer tail on the higher end of the estimates. So for example, if our mean estimate for September 2020 US deaths is 180k, our median/most likely estimate may be 170k. This is because the upper bound of the deaths is technically unbounded, while the lower bound is bounded by the current death total. This causes a skew in the distribution of death projections, leading to a mean estimate that is higher than the median estimate.
+
+We want to caution against focusing on one particular number as the outcome of this model. We are in fact projecting a range which includes a most likely outcome. If the true results fall within the range, that is within the expected outcome of this model. When citing our projections, we highly recommend including our range when referencing our projections (i.e. 21,342 (15-34k) deaths).
 
 ### Data Accuracy
 
