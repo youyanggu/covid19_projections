@@ -87,6 +87,8 @@ A model isn't very useful if it's not accurate. Below is our analysis on how var
 
 ![US comparison](/assets/images/2020-06-06_comparison_us.png)
 
+[Back to Top](#top)
+
 ### Observations
 
 * A baseline model that simply uses the previous week's average deaths to make future projections outperforms many models for short-term forecasts.
@@ -145,6 +147,8 @@ On May 4, IHME completely overhauled their previous model and increased their pr
 IHME went from severely underprojecting their estimates to now overprojecting their estimates, as you can see in the below comparison of May 4 projections. Furthermore, as recently as May 12, they were still projecting 0 deaths by August 4. Their model should not be relied on for accurate projections.
 
 {% include iframe_ihme_may10.html %}
+
+[Back to Top](#top)
 
 ### June 8 Revision
 
@@ -253,6 +257,8 @@ In addition to the 95% confidence interval, we present the mean estimate. This v
 
 We want to caution against focusing on one particular number as the outcome of this model. We are in fact projecting a range which includes a most likely outcome. If the true results fall within the range, that is within the expected outcome of this model. When citing our projections, we highly recommend including our range when referencing our projections (i.e. 21,342 (15-34k) deaths).
 
+[Back to Top](#top)
+
 ### Social Distancing
 
 * US states: We assume heavy social distancing until the reopening date and moderate social distancing afterwards. We use the reopening date as outlined by [the New York Times](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html). For states with a staggered reopening, we use the date for which restaurants are allowed to reopen. For states where there is no concrete reopening date (states highlighted in yellow on the NYT map), we assume a reopening date of June 1. Reopening will likely cause a second wave of infections in states where the outbreak has not yet been fully contained.
@@ -260,6 +266,8 @@ We want to caution against focusing on one particular number as the outcome of t
 * European countries: We assume heavy social distancing until mid-May and moderate social distancing afterwards.
 
 * Non-US and Non-European countries: We try our best to keep track of when each country plans to reopen. If there is no news, we assume social distancing through August.
+
+[Back to Top](#top)
 
 #### Heavy vs moderate social distancing
 
@@ -269,19 +277,27 @@ Moderate social distancing is what we assume will happen once states and countri
 
 If regions impose stricter social distancing guidelines than our assumptions listed above, then we will likely see a lower infections and death rate than the current projections. Conversely, if regions impose looser guidelines, then we will likely see a higher infections and death rate. For example, if California reopens before June 1, there will be an increased chance of an earlier resurgence. Or if a state required all residents to wear masks, the likelihood of a steep increase in infections will decrease, according to some recent studies ([[1]](https://www.nature.com/articles/s41591-020-0843-2), [[2]](https://www.preprints.org/manuscript/202004.0203/v1), [[3]](https://www.sciencetimes.com/articles/25410/20200421/austria-90-drop-coronavirus-cases-requiring-people-wear-face-masks.htm)).
 
+[Back to Top](#top)
+
 #### Second wave
 
 In regions where the outbreak has not yet been fully contained, it is possible that reopening will cause a second wave of infections if states fail to maintain sufficient social distancing. We assume that regions that have reopened will take actions to reduce transmission, such as increased contact tracing, mandatory mask wearing, improved treatments, capacity limits, etc. As a result, we cap the post-reopening R_t value to be `max(1.15, post-mitigation R_t)`. Over time, the aforementioned actions will also lead to a fall in the transmission rate.
 
 As of June 1, our model no longer assumes a second lockdown.
 
+[Back to Top](#top)
+
 #### Post-reopening
 
 After a reopening, we assume that the spread will decrease over time due to improvements in contact testing and greater awareness within the population. In the initial stages of the reopening, this phenomenon will likely be dwarfed by the act of the reopening itself, hence leading to a plateau or increase in cases. But after the rate of reopening for a region has plateaued 1-2 months later, we expect to see a gradual decline in transmission and hence a decline in infections and deaths. Of course, this assumption is highly subject to change based on the data.
 
+[Back to Top](#top)
+
 ### Infections Estimate
 
 The current and total infections estimates in our projections are at the core of our SEIR model. We use those estimates to make forecasts regarding future deaths according to the specifications of the SEIR model. The total infections estimate includes **all** individuals who have ever been infected by the virus, including asymptomatic individuals as well as those who were never tested. The current infections estimate is based on how many people are currently infected at that time point (total - recovered). To compute current infections, we assume that individuals are infected for an average of 15 days. We estimate that the true number of total infections is likely 5-15x higher than reported cases for most regions.
+
+[Back to Top](#top)
 
 ### Infection Fatality Rate (IFR)
 
@@ -303,6 +319,8 @@ We want to be as clear as possible regarding what our model can and cannot do. W
 
 A model is only as good as the data we feed it. If the data is not accurate, then it would be difficult to make accurate projections downstream.
 
+[Back to Top](#top)
+
 ### Confirmed vs Probable Deaths
 
 Some countries report probable deaths while others only report laboratory-confirmed deaths. This difference explains why countries with comprehensive reporting like Belgium have the [highest death rates](https://www.npr.org/sections/coronavirus-live-updates/2020/04/22/841005901/why-belgiums-death-rate-is-so-high-it-counts-lots-of-suspected-covid-19-cases).
@@ -313,9 +331,13 @@ Differences in how countries/states report deaths can lead to unfair comparisons
 
 Because the accuracy of our projections rely on consistent reporting of deaths, any inconsistencies may skew our projections.
 
+[Back to Top](#top)
+
 ### Testing Data
 
 Recently, there have been various reports regarding the accuracy and integrity of data that some US states have been reporting (e.g. see [The Atlantic](https://www.theatlantic.com/health/archive/2020/05/cdc-and-states-are-misreporting-covid-19-test-data-pennsylvania-georgia-texas/611935/) and [Associated Press](https://apnews.com/6dbd9ad370add2ba299c7da46c25004f)). We express similar concerns, and hope that states will do their best to report accurate data.
+
+[Back to Top](#top)
 
 ### Additional Limitations
 
