@@ -14,7 +14,7 @@ On this page:
 
 ## Recent Updates
 
-* **June 9:** We have narrowed our confidence intervals for US projections to account for increased certainty. See how we compute confidence intervals [here](/model-details/#confidence-intervals).
+* **June 10:** We have narrowed our confidence intervals for US country-level projections to account for increased certainty. See how we compute confidence intervals [here](/model-details/#confidence-intervals).
 * **June 8:** We added a map that shows how cases are changing in each state/country. Scroll down below to see it, or click [here](#covid-19-dashboard)
 * **June 6:** We launched a new [Maps](/maps) page to better visualize our projections for both US states, Europe, and global countries
 
