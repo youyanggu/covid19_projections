@@ -402,7 +402,8 @@ While we attempt our best to ensure accuracy and precision, no model is perfect,
 * [Bustle](https://www.bustle.com/p/is-it-safe-to-go-to-bars-restaurants-as-coronavirus-restrictions-ease-heres-what-experts-say-22904245) - May 22
 * [Courthouse News](https://www.courthousenews.com/atlanta-businesses-navigate-uncharted-waters-as-georgia-reopens/) - May 6
 * [KUOW-FM](https://www.kuow.org/stories/updates-on-the-coronavirus-pandemic-in-washington-state) - May 18
-* [ABC15 Arizona](https://www.abc15.com/news/state/arizona-sees-21-deaths-reported-in-24-hours) - April 21
+* [Arizona Republic](https://www.azcentral.com/story/news/local/arizona-health/2020/06/09/number-covid-19-going-up-arizona-increased-hospitalization/5328560002/) - Jun 9
+* [ABC15 Arizona](https://www.abc15.com/news/state/arizona-sees-21-deaths-reported-in-24-hours) - Apr 21
 
 * [Reforma](https://refor.ma/5T-caimff)
 * [Alto Nivel](https://www.altonivel.com.mx/tecnologia/este-cientifico-del-mit-calcula-cuantos-moriran-por-covid-19-en-eu-y-en-mexico/) - May 21
