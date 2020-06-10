@@ -255,7 +255,9 @@ The future is not set in stone: a single policy change or a small change in the 
 
 In addition to the 95% confidence interval, we present the mean estimate. This value is usually higher than the median/most likely estimate because it is accounting for a longer tail on the higher end of the estimates. So for example, if our mean estimate for September 2020 US deaths is 180k, our median/most likely estimate may be 170k. This is because the upper bound of the deaths is technically unbounded, while the lower bound is bounded by the current death total. This causes a skew in the distribution of death projections, leading to a mean estimate that is higher than the median estimate.
 
-We want to caution against focusing on one particular number as the outcome of this model. We are in fact projecting a range which includes a most likely outcome. If the true results fall within the range, that is within the expected outcome of this model. When citing our projections, we highly recommend including our range when referencing our projections (i.e. 21,342 (15-34k) deaths).
+Our daily deaths confidence intervals are meant to be looked at from a rolling mean basis, rather than a daily incident basis. For example, if a state reports deaths every other day (e.g. 0, 200, 0, 100), a confidence interval that covers daily incident deaths can only use [0, 200], which is not very informative. A confidence interval such as [55, 95] would be more informative, despite not overlapping with any of the four daily incident deaths. Hence, we recommend using a 7-day rolling mean when evaluating our confidence intervals.
+
+We want to caution against focusing on one particular number as the outcome of this model. We are in fact projecting a range which includes a mean outcome. If the true results fall within the range, that is within the expected outcome of this model. When citing our projections, we highly recommend including our confidence intervals when referencing our projections (i.e. 21,342 (15-34k) deaths).
 
 [Back to Top](#top)
 
