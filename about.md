@@ -16,6 +16,8 @@ permalink: /about/
   * [State Reopening Timeline *(Updated May 11)*](#state-reopening-timeline)
 * [Data and Output](#data-and-output)
 * [Assumptions](#assumptions)
+  * [Confidence Intervals](#confidence-intervals)
+  * [Social Distancing](#social-distancing)
 * [Limitations](#limitations)
 * [Government/Media Coverage](#online-coverage)
 * [Who We Are](#who-we-are)
@@ -243,6 +245,14 @@ Every day, raw daily projections for all 50 US states and select international c
 
 ## Assumptions
 
+### Confidence Intervals
+
+The future is not set in stone: a single policy change or a small change in the assumptions can cause a large impact in how the epidemic progresses. That's why in addition to our mean estimate, we also provide a 95% confidence interval to reflect this uncertainty. For example, if we predict 150,760 deaths with a range of 88-294k, it means that we are 95% confident that the true deaths will be between 88-294k. Note that these confidence intervals are generated given that our above assumptions hold true. There are many real-world variables that can cause our assumptions to be inaccurate and affect the true outcome. We will try our best to address any inaccurate assumptions as time goes on.
+
+In addition to the 95% confidence interval, we present the mean estimate. This value is usually higher than the median/most likely estimate because it is accounting for a longer tail on the higher end of the estimates. So for example, if our mean estimate for September 2020 US deaths is 180k, our median/most likely estimate may be 170k. This is because the upper bound of the deaths is technically unbounded, while the lower bound is bounded by the current death total. This causes a skew in the distribution of death projections, leading to a mean estimate that is higher than the median estimate.
+
+We want to caution against focusing on one particular number as the outcome of this model. We are in fact projecting a range which includes a most likely outcome. If the true results fall within the range, that is within the expected outcome of this model. When citing our projections, we highly recommend including our range when referencing our projections (i.e. 21,342 (15-34k) deaths).
+
 ### Social Distancing
 
 * US states: We assume heavy social distancing until the reopening date and moderate social distancing afterwards. We use the reopening date as outlined by [the New York Times](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html). For states with a staggered reopening, we use the date for which restaurants are allowed to reopen. For states where there is no concrete reopening date (states highlighted in yellow on the NYT map), we assume a reopening date of June 1. Reopening will likely cause a second wave of infections in states where the outbreak has not yet been fully contained.
@@ -287,21 +297,13 @@ Note that our IFR is based on infectious individuals only. There is growing evid
 
 ## Limitations
 
-We want to be as clear as possible regarding what our model can and cannot do. While we try our best to make accurate projections, no model is perfect. The future is not set in stone: a single policy change or a small change in the assumptions can cause a large impact in how the epidemic progresses. 
-
-### Confidence Interval
-
-That's why in addition to our most likely estimate, we also provide a 95% confidence interval to reflect this uncertainty. For example, if we predict 150,760 deaths with a range of 88-294k, it means that we are 95% confident that the true deaths will be between 88-294k. Note that these confidence intervals are generated given that our above assumptions hold true. There are many real-world variables that can cause our assumptions to be inaccurate and affect the true outcome. We will try our best to address any inaccurate assumptions as time goes on.
-
-In addition to the 95% confidence interval, we present the mean estimate. This value is usually higher than the median/most likely estimate because it is accounting for a longer tail on the higher end of the estimates. So for example, if our mean estimate for September 2020 US deaths is 180k, our median/most likely estimate may be 170k. This is because the upper bound of the deaths is technically unbounded, while the lower bound is bounded by the current death total. This causes a skew in the distribution of death projections, leading to a mean estimate that is higher than the median estimate.
-
-We want to caution against focusing on one particular number as the outcome of this model. We are in fact projecting a range which includes a most likely outcome. If the true results fall within the range, that is within the expected outcome of this model. When citing our projections, we highly recommend including our range when referencing our projections (i.e. 21,342 (15-34k) deaths).
+We want to be as clear as possible regarding what our model can and cannot do. While we try our best to make accurate projections, no model is perfect. Here we present some of the known limitations of our model.
 
 ### Data Accuracy
 
 A model is only as good as the data we feed it. If the data is not accurate, then it would be difficult to make accurate projections downstream.
 
-#### Confirmed vs Probable Deaths
+### Confirmed vs Probable Deaths
 
 Some countries report probable deaths while others only report laboratory-confirmed deaths. This difference explains why countries with comprehensive reporting like Belgium have the [highest death rates](https://www.npr.org/sections/coronavirus-live-updates/2020/04/22/841005901/why-belgiums-death-rate-is-so-high-it-counts-lots-of-suspected-covid-19-cases).
 
@@ -311,11 +313,11 @@ Differences in how countries/states report deaths can lead to unfair comparisons
 
 Because the accuracy of our projections rely on consistent reporting of deaths, any inconsistencies may skew our projections.
 
-#### Testing Data
+### Testing Data
 
 Recently, there have been various reports regarding the accuracy and integrity of data that some US states have been reporting (e.g. see [The Atlantic](https://www.theatlantic.com/health/archive/2020/05/cdc-and-states-are-misreporting-covid-19-test-data-pennsylvania-georgia-texas/611935/) and [Associated Press](https://apnews.com/6dbd9ad370add2ba299c7da46c25004f)). We express similar concerns, and hope that states will do their best to report accurate data.
 
-### Additional limitations
+### Additional Limitations
 
 * *Asymtomatic individuals* : Our model is based on infectious individuals only, which are more likely to be symptomatic. There is [growing evidence](https://www.forbes.com/sites/mattperez/2020/06/08/who-says-asymptomatic-spread-of-coronavirus-very-rare-but-experts-raise-questions/#69a15d0143d0) that asymptomatic individuals are unlikely to be infectious. As a result, we do not account for those individuals in our model, since they do not contribute to the spread of the virus.
 
