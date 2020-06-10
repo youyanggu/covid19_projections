@@ -39,7 +39,9 @@ See an [analysis of our model](https://twitter.com/CT_Bergstrom/status/125534384
 
 * *No public funding*: We are the only model [used by the CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html) that receives no public funding, making us a completely independent entity.
 
-* *Accounts for reopenings*: We are also one of the only models used by the CDC that factors in individual state-by-state or country-by-country reopenings, allowing us to make more realistic projections.
+* *No conflicts of interest*: Similar to the previous point, we are truly an independent entity that operates without outside influence. Other groups may have collaborations with industry and government entities, or developed their work for the purpose of publication. We only have one purpose: to create the most accurate projections.
+
+* *Accounts for reopenings*: We are also one of the only models used by the CDC that factors in individual state-by-state or country-by-country reopenings, allowing us to make more realistic projections. Rather than pre-setting the type of reopening (e.g. full vs partial reopening), we allow our model to learn the effects based on the data.
 
 * *Daily updates*: Because our model is purely data-driven, it is quick to run and easy to regenerate. Unlike other models that are only updated once every few days, our model is updated on a daily basis, leading to more accurate projections.
 
@@ -262,6 +264,10 @@ If regions impose stricter social distancing guidelines than our assumptions lis
 In regions where the outbreak has not yet been fully contained, it is possible that reopening will cause a second wave of infections if states fail to maintain sufficient social distancing. We assume that regions that have reopened will take actions to reduce transmission, such as increased contact tracing, mandatory mask wearing, improved treatments, capacity limits, etc. As a result, we cap the post-reopening R_t value to be `max(1.15, post-mitigation R_t)`. Over time, the aforementioned actions will also lead to a fall in the transmission rate.
 
 As of June 1, our model no longer assumes a second lockdown.
+
+#### Post-reopening
+
+After a reopening, we assume that the spread will decrease over time due to improvements in contact testing and greater awareness within the population. In the initial stages of the reopening, this phenomenon will likely be dwarfed by the act of the reopening itself, hence leading to a plateau or increase in cases. But after the rate of reopening for a region has plateaued 1-2 months later, we expect to see a gradual decline in transmission and hence a decline in infections and deaths. Of course, this assumption is highly subject to change based on the data.
 
 ### Infections Estimate
 
