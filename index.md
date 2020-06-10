@@ -14,7 +14,7 @@ On this page:
 
 ## Recent Updates
 
-* **June 10:** We have narrowed our confidence intervals for US country-level projections to account for increased certainty. See how we compute confidence intervals [here](/model-details/#confidence-intervals).
+* **June 10:** We have narrowed our confidence intervals for US country-level projections to account for increased certainty regarding reopenings. See how we compute confidence intervals [here](/model-details/#confidence-intervals).
 * **June 8:** We added a map that shows how cases are changing in each state/country. Scroll down below to see it, or click [here](#covid-19-dashboard)
 * **June 6:** We launched a new [Maps](/maps) page to better visualize our projections for both US states, Europe, and global countries
 
@@ -35,7 +35,7 @@ To see more maps or for more details, visit our [Maps](/maps) page.
 
 ## US Deaths Likelihoods
 
-Below, we present the most likely dates that the US will surpass certain deaths milestones, as well as the probabilities of the US surpassing those milestones by different time horizons. For example, we estimate a 72% chance that the US surpasses 125,000 deaths by July 1, with June 27 being the most likely date.
+Below, we present the most likely dates that the US will surpass certain deaths milestones, as well as the probabilities of the US surpassing those milestones by different time horizons. For example, we estimate a 79% chance that the US surpasses 125,000 deaths by July 1, with June 27 being the most likely date.
 
 Last updated: Jun 10, 2020
 
@@ -51,12 +51,11 @@ Last updated: Jun 10, 2020
 
 |   US deaths surpass: |   By Jun 15 |   By Jul 1 |   By Jul 15 |   By Aug 1 |   By Aug 15 |   By Sep 1 |
 |----------------------|-------------|------------|-------------|------------|-------------|------------|
-|              125,000 |         <1% |        72% |         95% |        99% |         99% |        99% |
-|              150,000 |         <1% |        <1% |         18% |        53% |         66% |        73% |
-|              175,000 |         <1% |        <1% |         <1% |        17% |         36% |        48% |
-|              200,000 |         <1% |        <1% |         <1% |         1% |         15% |        31% |
-|              250,000 |         <1% |        <1% |         <1% |        <1% |         <1% |         7% |
-|              300,000 |         <1% |        <1% |         <1% |        <1% |         <1% |        <1% |
+|              125,000 |         <1% |        79% |         99% |        99% |         99% |       >99% |
+|              150,000 |         <1% |        <1% |         11% |        54% |         73% |        86% |
+|              175,000 |         <1% |        <1% |         <1% |        10% |         32% |        48% |
+|              200,000 |         <1% |        <1% |         <1% |        <1% |          8% |        25% |
+|              250,000 |         <1% |        <1% |         <1% |        <1% |         <1% |        <1% |
 
 [Back to Top](#top)
 
