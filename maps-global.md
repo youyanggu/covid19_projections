@@ -20,7 +20,9 @@ Note that our future projections have a high degree of uncertainty which is not 
 - *Total infected:* Percentage of the population that are currently infected or have been infected at some point, by a given date.
 - *Total deaths:* Total deaths per 1 million people by a given date.
 - *Additional deaths:* Additional deaths per 1 million people from today until the projected date.
-- *Cases score:* `mean(scaled(Δcases * |cases_%_change|), scaled(Δcases_per_1_mil * |cases_%_change|))`, where `Δcases` is the change in cases (7-day moving average) from 7 days ago and `scaled()` is a function that maps all values to -100 to 100.
+- *Cases score:* This score tries to encapsulate three important factors into a single number: absolute new daily cases (sheer number of cases), rate of change in cases (how fast cases are changing), cases per capita (prevalence relative to population). It is defined as follows:
+    - `score = scaled(-avg_daily_cases_per_1mil * mean(Δcases * |cases_%_change|, Δcases_per_1_mil))`,
+    - where `Δcases` is the change in cases (7-day moving average) from 7 days ago and `scaled()` is a function that maps all values to -100 to 100. A negative value means that cases are increasing.
 
 [Back to Top](#top)
 {% include iframe_global_maps.html %}
