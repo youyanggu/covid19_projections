@@ -1,57 +1,57 @@
 country,region,subregion,tests_needed_per_day
-US,,,1132709
+US,,,971743
 US,Alaska,,17
-US,Alabama,,23843
-US,Arkansas,,4752
-US,Arizona,,45648
-US,California,,111639
-US,Colorado,,35046
-US,Connecticut,,15461
-US,District of Columbia,,3812
-US,Delaware,,7211
-US,Florida,,62857
-US,Georgia,,56043
+US,Alabama,,24222
+US,Arkansas,,6072
+US,Arizona,,33586
+US,California,,116028
+US,Colorado,,18117
+US,Connecticut,,12681
+US,District of Columbia,,2781
+US,Delaware,,4703
+US,Florida,,64235
+US,Georgia,,31755
 US,Guam,,17
 US,Hawaii,,42
-US,Iowa,,23637
-US,Idaho,,240
-US,Illinois,,62049
-US,Indiana,,36746
-US,Kansas,,1923
-US,Kentucky,,9059
-US,Louisiana,,18109
-US,Massachusetts,,26161
-US,Maryland,,49946
-US,Maine,,561
-US,Michigan,,15700
-US,Minnesota,,45384
-US,Missouri,,27333
+US,Iowa,,12516
+US,Idaho,,223
+US,Illinois,,64656
+US,Indiana,,34560
+US,Kansas,,2096
+US,Kentucky,,9339
+US,Louisiana,,17705
+US,Massachusetts,,24990
+US,Maryland,,46737
+US,Maine,,751
+US,Michigan,,14925
+US,Minnesota,,34725
+US,Missouri,,21178
 US,Northern Mariana Islands,,17
-US,Mississippi,,30501
+US,Mississippi,,20081
 US,Montana,,33
-US,North Carolina,,36375
-US,North Dakota,,2500
-US,Nebraska,,8316
-US,New Hampshire,,11872
-US,New Jersey,,31309
-US,New Mexico,,9711
-US,Nevada,,7054
-US,New York,,31812
-US,Ohio,,60572
-US,Oklahoma,,3160
-US,Oregon,,1032
-US,Pennsylvania,,44839
-US,Puerto Rico,,702
-US,Rhode Island,,13679
-US,South Carolina,,20345
-US,South Dakota,,3061
-US,Tennessee,,7962
-US,Texas,,53188
-US,Utah,,5693
-US,Virginia,,42150
+US,North Carolina,,33322
+US,North Dakota,,1238
+US,Nebraska,,3309
+US,New Hampshire,,7714
+US,New Jersey,,25105
+US,New Mexico,,9216
+US,Nevada,,6320
+US,New York,,33017
+US,Ohio,,55473
+US,Oklahoma,,2088
+US,Oregon,,1205
+US,Pennsylvania,,41547
+US,Puerto Rico,,693
+US,Rhode Island,,9397
+US,South Carolina,,18472
+US,South Dakota,,1543
+US,Tennessee,,10651
+US,Texas,,35352
+US,Utah,,4282
+US,Virginia,,27250
 US,Virgin Islands,,17
-US,Vermont,,116
-US,Washington,,7425
-US,Wisconsin,,14958
-US,West Virginia,,487
-US,Wyoming,,611
+US,Vermont,,108
+US,Washington,,9661
+US,Wisconsin,,15255
+US,West Virginia,,603
+US,Wyoming,,149
