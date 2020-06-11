@@ -15,9 +15,8 @@ On this page:
 ## Recent Updates
 
 * **June 11:** We have extended our projections to October 1, 2020.
-* **June 10:** We have narrowed our confidence intervals for US country-level projections to account for increased certainty regarding reopenings. See how we compute confidence intervals [here](/model-details/#confidence-intervals).
+* **June 10:** We launched the C19Pro Score for both cases and deaths to show where weekly cases and deaths are changing the most. They are shown in the first two maps on our new [Maps](/maps) page.
 * **June 8:** We added a map that shows how cases are changing in each state/country. Scroll down below to see it, or click [here](#covid-19-dashboard)
-* **June 6:** We launched a new [Maps](/maps) page to better visualize our projections for both US states, Europe, and global countries
 
 ## Current US Projections
 ### Updated Daily - Last Updated: June 11 (3am ET):
