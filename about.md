@@ -428,6 +428,9 @@ While we attempt our best to ensure accuracy and precision, no model is perfect,
 
 ## Updates
 
+2020-06-11
+* Extended projection end date from September 1 to October 1
+
 2020-06-06
 * We launched a new [Maps](/maps) page that contains visualizations of our projections for both US states and global countries
 
@@ -435,7 +438,7 @@ While we attempt our best to ensure accuracy and precision, no model is perfect,
 * Add 7 new countries (Australia, Belarus, Bolivia, Cuba, Honduras, Kuwait, UAE), 2 Canadian provinces (Alberta, British Columbia), and 20 US counties
 
 2020-05-25
-* Increase projected end date from August 4 to September 1
+* Extended projection end date from August 4 to September 1
 
 2020-05-19
 * Add 2 Canadian provinces (Ontario, Quebec) and 14 US counties
