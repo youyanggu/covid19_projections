@@ -405,6 +405,7 @@ While we attempt our best to ensure accuracy and precision, no model is perfect,
 * [Reason](https://reason.com/2020/05/28/as-lockdowns-are-lifted-is-the-covid-19-reproductive-number-rising-or-falling/) - May 28
 * [Reason](https://reason.com/2020/05/01/covid-19-modeling-how-many-coronavirus-deaths-by-the-end-of-summer/) - May 1
 * [GeekWire](https://www.geekwire.com/2020/coronavirus-projections-converge-amid-concerns-pandemic-resurgence/) - Jun 9
+* [IEEE Spectrum](https://spectrum.ieee.org/the-human-os/biomedical/ethics/will-protests-increase-spread-covid19-coronavirus) - Jun 11
 * [Boston 25 News](https://www.boston25news.com/news/health/model-shows-key-covid-19-statistic-rising-mass/NKYYFT7KD5F2XL6DFVT4GH4AZY/) - Jun 4
 - [Newsday](https://www.newsday.com/news/health/coronavirus/infectious-coronavirus-model-pandemic-1.45185224) - Jun 4
 * [The Bulwark](https://thebulwark.com/what-winning-the-war-on-covid-19-looks-like/) - May 21
