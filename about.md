@@ -414,6 +414,7 @@ While we attempt our best to ensure accuracy and precision, no model is perfect,
 * [KUOW-FM](https://www.kuow.org/stories/updates-on-the-coronavirus-pandemic-in-washington-state) - May 18
 * [Arizona Republic](https://www.azcentral.com/story/news/local/arizona-health/2020/06/09/number-covid-19-going-up-arizona-increased-hospitalization/5328560002/) - Jun 9
 * [ABC15 Arizona](https://www.abc15.com/news/state/arizona-sees-21-deaths-reported-in-24-hours) - Apr 21
+* [The Center Square](https://www.thecentersquare.com/florida/dueling-models-one-says-florida-s-covid-19-peak-has-passed-another-says-worst-to/article_2037bd12-a12d-11ea-b293-6fe15cef2ecb.html) - May 28
 
 * [Reforma](https://refor.ma/5T-caimff)
 * [Alto Nivel](https://www.altonivel.com.mx/tecnologia/este-cientifico-del-mit-calcula-cuantos-moriran-por-covid-19-en-eu-y-en-mexico/) - May 21
