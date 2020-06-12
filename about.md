@@ -278,7 +278,7 @@ Every day, raw daily projections for all 50 US states and select international c
 
 ## Assumptions
 
-### Epidemiologic Assumptions
+### Epidemiological Assumptions
 
 We use a considation of resources provided [by Models of Infectious Disease Agent Study (MIDAS)](https://midasnetwork.us/covid-19/#resources) to set standard parameters such as incubation and infectious period. Most of these parameters have a wide consensus among experts. For example, we assume a 5-day incubation period (on average) and a 7-day infectious period (on average). These assumptions are probabilistic and roughly normally distributed. This means that an infected individual would be infectious between Day 3 to Day 9 after exposure, with Day 5-7 being the most infectious. For the purpose of calculating current infections, we assume an average individual is infected for 15 days. The exact values of the above parameters do not significantly change our projections.
 
