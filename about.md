@@ -10,7 +10,7 @@ permalink: /about/
 * [Historical Performance *(Updated Jun 7)*](#historical-performance)
 * [CDC Projections Over Time *(New Jun 6)*](#cdc-projections-over-time)
 * [Historical US Projections *(Updated Daily)*](#historical-us-projections)
-* [Concerns with the IHME model *(Updated Daily)*](#concerns-with-the-ihme-model)
+* [Concerns with the IHME model **(Updated Jun 12)**](#concerns-with-the-ihme-model)
   * [Comparison of Data Sources **(New Jun 12)**](#comparison-of-data-sources)
   * [May 4 Revision *(Updated May 14)*](#may-4-revision)
   * [June 8 Revision *(New Jun 8)*](#june-8-revision)
