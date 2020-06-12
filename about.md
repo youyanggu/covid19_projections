@@ -189,7 +189,7 @@ On June 8, IHME again revised their model to show a more realistic August projec
 
 ### June 10 Revision
 
-In their June 10 update, they have deaths increasing from 400 deaths per day on September 1 to 1,000 deaths per day on October 1. Their [press release](http://www.healthdata.org/news-release/ihme-models-show-second-wave-covid-19-beginning-september-15-us) headline is titled: "IHME models show second wave of COVID-19 beginning September 15 in US". The cite back to school and "pneumonia seasonality" as reasons for this fall spike.
+In their June 10 update, IHME is projecting deaths to increase from 400 deaths per day on September 1 to 1,000 deaths per day on October 1. Their [press release](http://www.healthdata.org/news-release/ihme-models-show-second-wave-covid-19-beginning-september-15-us) headline is titled: "IHME models show second wave of COVID-19 beginning September 15 in US". The cite back to school and "pneumonia seasonality" as reasons for this fall spike.
 
 Unfortunately, is no scientific data that supports this claim. In reality, pneumonia/influenza deaths are actually the lowest in August and September, [according to the CDC](https://www.cdc.gov/flu/weekly/index.htm). The same pattern [holds true](https://wwwnc.cdc.gov/eid/article/9/5/02-0556_article) for bacterial pneumonia. Furthermore, schools in Europe have managed to successfully reopen with [no rise in cases](https://www.politico.com/news/2020/06/10/european-school-reopeningsreduce-virus-concerns-for-most-312595). Lastly, it makes little sense for deaths to increase when schools reopen, but for deaths to decrease when the entire US reopens.
 
