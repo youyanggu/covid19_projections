@@ -39,9 +39,9 @@ See an [analysis of our model](https://twitter.com/CT_Bergstrom/status/125534384
 
 ## How Our Model is Different
 
-* *No public funding*: We are the only model [used by the CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html) that receives no public funding, making us a completely independent entity.
+* *No public funding*: We are one of the few model [used by the CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html) that receives no public funding, making us a completely independent entity.
 
-* *No conflicts of interest*: Similar to the previous point, we are truly an independent entity that operates without outside influence. Other groups may have collaborations with industry and government entities, or developed their work for the purpose of publication. We only have one purpose: to create the most accurate projections.
+* *No conflicts of interest*: Similar to the previous point, we are truly an independent entity that operates without outside influence or outside investors. Other groups may have collaborations with industry and government entities, or are developing their work for the purpose of publication. We only have one purpose: to create the most accurate projections.
 
 * *Accounts for reopenings*: We are also one of the only models used by the CDC that factors in individual state-by-state or country-by-country reopenings, allowing us to make more realistic projections. Rather than pre-setting the type of reopening (e.g. full vs partial reopening), we allow our model to learn the effects based on the data.
 
