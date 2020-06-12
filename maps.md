@@ -29,7 +29,8 @@ Note that our future projections have a high degree of uncertainty which is not 
     - where `Δcases` is the change in cases (7-day moving average) from 7 days ago and `scaled()` is a function that maps all values to -100 to 100. A negative value means that cases are increasing.
     - We also apply the same formula for deaths to show where deaths are changing the most.
 
-[Back to Top](#top){% include iframe_us_maps.html %}[Back to Top](#top)
+[Back to Top](#top)
+{% include iframe_us_maps.html %}[Back to Top](#top)
 
 ## Global Maps
 
