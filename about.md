@@ -148,7 +148,7 @@ In the words of Ruth Etzioni, an epidemiologist at Seattle’s Fred Hutchinson C
 
 ### Comparison of Data Sources
 
-Here is a comparison of the data sources we use in our model versus what IHME uses (from their [June 11 press release](http://www.healthdata.org/news-release/ihme-models-show-second-wave-covid-19-beginning-september-15-us)).
+Here is a comparison of the data sources we use in our model versus what IHME uses (from their [June 11 press release](http://www.healthdata.org/news-release/ihme-models-show-second-wave-covid-19-beginning-september-15-us)). More is not always better.
 
 | covid19-projections.com | IHME
 | --- | --- |
