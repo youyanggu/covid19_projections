@@ -138,9 +138,9 @@ Also note that while we update our projections daily, IHME only updates their pr
 
 In this section we will compare our projections with a popular model developed by the [Institute for Health Metrics and Evaluation (IHME)](https://covid19.healthdata.org/) and commonly referred to by the White House and media. 
 
-Below, you can find a comparison of our past projections (C19Pro) with IHME for the US, New York, Michigan, New Jersey, California and Italy, some of the most heavily impacted regions. [Click here](/model-comparison-ihme) to view plots with more comparisons.
+Below, you can find a comparison of our past projections (C19Pro) with IHME for the US, New York, New Jersey, and California, some of the most heavily impacted regions. [Click here](/model-comparison-ihme) to view more comparison plots.
 
-{% include iframe_ihme_comparison_daily.html %}
+{% include iframe_ihme_comparison_daily_filt.html %}
 
 As you can see from the graphs above, IHME's projections have historically failed to accurately capture the true trajectory for these regions. Below, we will go into further details as to why IHME has been and still is a flawed model.
 
