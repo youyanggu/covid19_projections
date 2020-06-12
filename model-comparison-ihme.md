@@ -1,5 +1,25 @@
 ## Model Comparison with IHME
 
+On this page, we show several plots comparing our projections with the [IHME](https://covid19.healthdata.org/projections) model.
+
+# Daily Deaths
+
+{% include iframe_ihme_comparison_daily.html %}
+
+# Total Deaths
+
+{% include iframe_ihme_comparison_total.html %}
+
+# CDC Projections
+
+{% include iframe_cdc_comparison.html %}
+
+# Historical Projections
+
+{% include iframe_historical.html %}
+
+## Old Comparisons of Projections for August 4
+
 **As of May 4, we are no longer updating this page. Please see our [About](/about/#concerns-with-the-ihme-model) to see most recent comparisons with the IHME model.**
 
 We will compare our daily projections with the [IHME projections](https://covid19.healthdata.org/projections) for five of the most heavily-impacted regions: US, New York, Michigan, Italy, and France. Note that while we update our projections daily, IHME only updates their projections 2-3 times a week.
