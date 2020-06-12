@@ -138,7 +138,11 @@ Also note that while we update our projections daily, IHME only updates their pr
 
 In this section we will compare our projections with a popular model developed by the [Institute for Health Metrics and Evaluation (IHME)](https://covid19.healthdata.org/) and commonly referred to by the White House and media. 
 
-[Click here](/model-comparison-ihme) to view a comparison of our past projections (C19Pro) with IHME for the US, New York, Michigan, New Jersey, California and Italy, some of the most heavily impacted regions. IHME's projections have historically failed to accurately capture the true trajectory for these regions. Below, we will go into further details as to why IHME has been and still is a flawed model.
+Below, you can find a comparison of our past projections (C19Pro) with IHME for the US, New York, Michigan, New Jersey, California and Italy, some of the most heavily impacted regions. [Click here](/model-comparison-ihme) to view plots with more comparisons.
+
+{% include iframe_ihme_comparison_daily.html %}
+
+As you can see from the graphs above, IHME's projections have historically failed to accurately capture the true trajectory for these regions. Below, we will go into further details as to why IHME has been and still is a flawed model.
 
 There are existing news articles such as [Vox](https://www.vox.com/future-perfect/2020/5/2/21241261/coronavirus-modeling-us-deaths-ihme-pandemic), [STAT News](https://www.statnews.com/2020/04/17/influential-covid-19-model-uses-flawed-methods-shouldnt-guide-policies-critics-say/), [CNN](https://www.cnn.com/2020/04/13/health/ihme-model-death-predictions/index.html), and [Quartz](https://qz.com/1840186/what-the-ihme-covid-19-model-can-and-cant-tell-the-us/) that agree with our concerns.
 
