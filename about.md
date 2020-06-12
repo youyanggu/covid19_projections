@@ -410,13 +410,9 @@ While we attempt our best to ensure accuracy and precision, no model is perfect,
 
 ## Online Coverage
 
-### Government
-
-* [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)
-* [Washington State COVID-19 Dashboard](https://coronavirus.wa.gov/what-you-need-know/covid-19-risk-assessment-dashboard)
-
 ### Media
 
+National
 * [CNN](https://www.cnn.com/2020/05/05/health/states-early-reopening-impact/index.html) - May 5
 * [StatNews](https://www.statnews.com/2020/04/30/coronavirus-death-projections-compare-causes-of-death) - Apr 30
 * [MarketWatch](https://www.marketwatch.com/story/will-some-people-be-affected-badly-yes-trump-says-us-must-reopen-coronavirus-deaths-projected-to-hit-100000-in-weeks-2020-05-06) - May 6
@@ -425,30 +421,39 @@ While we attempt our best to ensure accuracy and precision, no model is perfect,
 * [The Economist](https://www.economist.com/graphic-detail/2020/05/23/early-projections-of-covid-19-in-america-underestimated-its-severity) - May 21
 * [CNN](https://www.cnn.com/2020/06/08/health/florida-coronavirus-cases-update/index.html) - Jun 8
 * [CNN](https://www.cnn.com/2020/04/28/health/georgia-coronavirus-death-projections/index.html) - Apr 28
-* [TheHill](https://thehill.com/changing-america/well-being/prevention-cures/495459-reopening-georgia-could-lead-to-a-doubling-of) - Apr 30
-* [The Mercury News](https://www.mercurynews.com/2020/05/26/graph-number-of-coronavirus-deaths-projected-in-santa-clara-county-by-sept-1/) - May 26
-* [The Mercury News](https://www.mercurynews.com/2020/05/04/california-prediction-artificial-intelligence-driven-model-tracks-coronavirus-infections-deaths/) - May 4
-* [Star Tribune](https://www.startribune.com/health-experts-reopening-businesses-in-minnesota-will-spread-covid-19-but-how-much/570443112/) - May 13
-* [New York Times](https://www.nytimes.com/2020/05/05/us/coronavirus-deaths-cases-united-states.html) - May 5
+* [NPR](https://www.npr.org/transcripts/875311157) - Jun 11
 * [NPR](https://www.npr.org/sections/health-shots/2020/05/07/851610771/u-s-coronavirus-testing-still-falls-short-hows-your-state-doing) - May 7
+* [TheHill](https://thehill.com/changing-america/well-being/prevention-cures/495459-reopening-georgia-could-lead-to-a-doubling-of) - Apr 30
+* [New York Times](https://www.nytimes.com/2020/05/05/us/coronavirus-deaths-cases-united-states.html) - May 5
 * [USA Today](https://www.usatoday.com/story/news/nation/2020/05/01/coronavirus-us-may-hit-10000-deaths-record-cases-may/3062216001/) - May 1
 * [New York Post](https://nypost.com/2020/04/29/georgia-coronavirus-death-rate-could-double-as-lockdown-eases/) - Apr 29
 * [Reason](https://reason.com/2020/05/28/as-lockdowns-are-lifted-is-the-covid-19-reproductive-number-rising-or-falling/) - May 28
 * [Reason](https://reason.com/2020/05/01/covid-19-modeling-how-many-coronavirus-deaths-by-the-end-of-summer/) - May 1
 * [GeekWire](https://www.geekwire.com/2020/coronavirus-projections-converge-amid-concerns-pandemic-resurgence/) - Jun 9
 * [IEEE Spectrum](https://spectrum.ieee.org/the-human-os/biomedical/ethics/will-protests-increase-spread-covid19-coronavirus) - Jun 11
-* [Boston 25 News](https://www.boston25news.com/news/health/model-shows-key-covid-19-statistic-rising-mass/NKYYFT7KD5F2XL6DFVT4GH4AZY/) - Jun 4
 - [Newsday](https://www.newsday.com/news/health/coronavirus/infectious-coronavirus-model-pandemic-1.45185224) - Jun 4
 * [The Bulwark](https://thebulwark.com/what-winning-the-war-on-covid-19-looks-like/) - May 21
 * [Bustle](https://www.bustle.com/p/is-it-safe-to-go-to-bars-restaurants-as-coronavirus-restrictions-ease-heres-what-experts-say-22904245) - May 22
+
+Local
+* [The Mercury News](https://www.mercurynews.com/2020/05/26/graph-number-of-coronavirus-deaths-projected-in-santa-clara-county-by-sept-1/) - May 26
+* [The Mercury News](https://www.mercurynews.com/2020/05/04/california-prediction-artificial-intelligence-driven-model-tracks-coronavirus-infections-deaths/) - May 4
+* [Seattle Times](https://www.seattletimes.com/seattle-news/health/a-second-wave-of-coronavirus-infections-could-begin-in-september-uw-model-suggests/) - Jun 11
+* [Seattle Times](https://www.seattletimes.com/seattle-news/health/mathematical-models-help-predict-the-trajectory-of-the-coronavirus-outbreak-but-can-they-be-believed/) - May 3
+* [Star Tribune](https://www.startribune.com/health-experts-reopening-businesses-in-minnesota-will-spread-covid-19-but-how-much/570443112/) - May 13
+* [Boston 25 News](https://www.boston25news.com/news/health/model-shows-key-covid-19-statistic-rising-mass/NKYYFT7KD5F2XL6DFVT4GH4AZY/) - Jun 4
 * [Courthouse News](https://www.courthousenews.com/atlanta-businesses-navigate-uncharted-waters-as-georgia-reopens/) - May 6
 * [KUOW-FM](https://www.kuow.org/stories/updates-on-the-coronavirus-pandemic-in-washington-state) - May 18
 * [Arizona Republic](https://www.azcentral.com/story/news/local/arizona-health/2020/06/09/number-covid-19-going-up-arizona-increased-hospitalization/5328560002/) - Jun 9
 * [ABC15 Arizona](https://www.abc15.com/news/state/arizona-sees-21-deaths-reported-in-24-hours) - Apr 21
 * [The Center Square](https://www.thecentersquare.com/florida/dueling-models-one-says-florida-s-covid-19-peak-has-passed-another-says-worst-to/article_2037bd12-a12d-11ea-b293-6fe15cef2ecb.html) - May 28
 
+International
 * [Reforma](https://refor.ma/5T-caimff)
 * [Alto Nivel](https://www.altonivel.com.mx/tecnologia/este-cientifico-del-mit-calcula-cuantos-moriran-por-covid-19-en-eu-y-en-mexico/) - May 21
+* [Univision](https://www.univision.com/local/arizona-ktvw/encienden-alarmas-en-arizona-por-incremento-de-contagios-por-coronavirus) - Jun 9
+* [Mexico Desconcido](https://www.mexicodesconocido.com.mx/un-cientifico-del-mit-calcula-cuantos-moriran-por-covid-19-en-mexico-y-eu.html) - May 24
+* [Paris Match](https://www.parismatch.com/Actu/International/Coronavirus-dans-19-Etats-americains-les-contaminations-augmentent-toujours-1689046) - Jun 10
 
 [Back to Top](#top)
 
