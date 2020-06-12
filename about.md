@@ -129,6 +129,7 @@ Note that for the entire month of April, IHME projected between 60,000-73,000 de
 Also note that while we update our projections daily, IHME only updates their projections once or twice a week.
 
 {% include iframe_historical.html %}
+{% include iframe_current.html %}
 
 [Back to Top](#top)
 
