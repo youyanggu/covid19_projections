@@ -21,6 +21,7 @@ permalink: /about/
   * [Confidence Intervals](#confidence-intervals)
   * [Social Distancing](#social-distancing)
   * [Infections Estimate](#infections-estimate)
+  * [Effective Reproduction Number (R)](#effective-reproduction-number-r)
   * [Infection Fatality Rate (IFR)](#infection-fatality-rate-ifr)
 * [Limitations](#limitations)
 * [Government/Media Coverage](#online-coverage)
@@ -69,7 +70,7 @@ See an [analysis of our model](https://twitter.com/CT_Bergstrom/status/125534384
 
 * *Estimating testing targets*: Because our model keeps an estimate of the number of newly infected individuals each day, we can use this estimate to determine a how many tests each region should ideally perform each day. We base our estimates on Harvard Global Health Institute’s [study](https://globalepidemics.org/2020/05/07/hghi-projected-tests-needed-may15/) that assumes 10 contacts per infected individual. You can download our estimates [here](https://github.com/youyanggu/covid19_projections/tree/master/tests_target).
 
-* *Learning the reproduction number (R)*: One of the most important properties for any infectious disease is the [basic reproduction number](https://en.wikipedia.org/wiki/Basic_reproduction_number), known as R<sub>0</sub>. Rather than pre-setting this value based on assumptions, our model is able to learn the value that most closely matches the data. For Italy, the R<sub>0</sub> is found to be around 2-2.2, while for New York state, the R<sub>0</sub> is 3.4-3.8. This means that on average, an infected person in New York will infect 3.4 to 3.8 additional people. For most regions, the R<sub>0</sub> is found to be around 2, which matches [the WHO findings](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf). We are able to generate a plot of how the R value changes over time for all of our projections. To see our estimates of R values for every state and country, see our [Infections Tracker](/infections-tracker/) page.
+* *Learning the reproduction number (R)*: One of the most important properties for any infectious disease is the [basic reproduction number](https://en.wikipedia.org/wiki/Basic_reproduction_number), known as R. We are able learn the effective reproduction number over time and generate a plot of how the R value changes across all of our projections. Learn more about our R estimates [below](#effective-reproduction-number).
 
 * *Learning the infection fatality rate (IFR)*: Rather than rely on various non-consensus studies on the infection fatality rate (IFR), our model can also learn the best value for the IFR in each region. Learn more about our IFR estimates [below](#infection-fatality-rate-ifr).
 
@@ -344,6 +345,12 @@ We assume a very small daily decay in the transmission rate (R) starting from ro
 The current and total infections estimates in our projections are at the core of our SEIR model. We use those estimates to make forecasts regarding future deaths according to the specifications of the SEIR model. The total infections estimate includes **all** individuals who have ever been infected by the virus, including asymptomatic individuals as well as those who were never tested. The current infections estimate is based on how many people are currently infected at that time point (total - recovered). To compute current infections, we assume that individuals are infected for an average of 15 days. We estimate that the true number of total infections is likely 5-15x higher than reported cases for most regions.
 
 [Back to Top](#top)
+
+### Effective Reproduction Number (R)
+
+One of the most important properties for any infectious disease is the [basic reproduction number](https://en.wikipedia.org/wiki/Basic_reproduction_number), known as R<sub>0</sub>. Rather than pre-setting this value based on assumptions, our model is able to learn the value that most closely matches the data. For Italy, the R<sub>0</sub> is found to be around 2.4-2.8, while for New York City, the R<sub>0</sub> is 5.4-5.8. This means that on average, an infected person in New York City will infect 5.4 to 5.8 additional people. For most regions, the R<sub>0</sub> is found to be around 2, which matches [the WHO findings](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf). We are able to generate a plot of how the R value changes over time for all of our projections. To see our estimates of R values for every state and country, see our [Infections Tracker](/infections-tracker/) page.
+
+Our R estimates are merely estimates rather than precise values. We correct for reporting lags, so how deaths are changing today is a reflection of how the R value was changing 3-4 weeks ago. We then apply additional assumptions explained in this section to interpolate the R value since then. As a result, the current R value estimates are more of a byproduct of our assumptions than a result of any measurable data. As we receive more data in the future, we then update our R estimates to most closely reflect the observed data.
 
 ### Infection Fatality Rate (IFR)
 
