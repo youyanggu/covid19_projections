@@ -1,57 +1,57 @@
 country,region,subregion,tests_needed_per_day
-US,,,971743
+US,,,976215
 US,Alaska,,17
-US,Alabama,,24222
-US,Arkansas,,6072
-US,Arizona,,33586
-US,California,,116028
-US,Colorado,,18117
-US,Connecticut,,12681
+US,Alabama,,23488
+US,Arkansas,,6559
+US,Arizona,,36498
+US,California,,118116
+US,Colorado,,17721
+US,Connecticut,,13060
 US,District of Columbia,,2781
-US,Delaware,,4703
-US,Florida,,64235
-US,Georgia,,31755
+US,Delaware,,4389
+US,Florida,,65868
+US,Georgia,,33108
 US,Guam,,17
 US,Hawaii,,42
-US,Iowa,,12516
+US,Iowa,,12219
 US,Idaho,,223
-US,Illinois,,64656
-US,Indiana,,34560
+US,Illinois,,65019
+US,Indiana,,34106
 US,Kansas,,2096
-US,Kentucky,,9339
-US,Louisiana,,17705
-US,Massachusetts,,24990
-US,Maryland,,46737
-US,Maine,,751
-US,Michigan,,14925
-US,Minnesota,,34725
-US,Missouri,,21178
+US,Kentucky,,10065
+US,Louisiana,,17581
+US,Massachusetts,,24866
+US,Maryland,,45986
+US,Maine,,718
+US,Michigan,,15543
+US,Minnesota,,33207
+US,Missouri,,20947
 US,Northern Mariana Islands,,17
-US,Mississippi,,20081
-US,Montana,,33
-US,North Carolina,,33322
-US,North Dakota,,1238
-US,Nebraska,,3309
-US,New Hampshire,,7714
-US,New Jersey,,25105
-US,New Mexico,,9216
-US,Nevada,,6320
-US,New York,,33017
-US,Ohio,,55473
-US,Oklahoma,,2088
-US,Oregon,,1205
-US,Pennsylvania,,41547
-US,Puerto Rico,,693
-US,Rhode Island,,9397
-US,South Carolina,,18472
-US,South Dakota,,1543
-US,Tennessee,,10651
-US,Texas,,35352
-US,Utah,,4282
-US,Virginia,,27250
+US,Mississippi,,17952
+US,Montana,,50
+US,North Carolina,,33050
+US,North Dakota,,1197
+US,Nebraska,,5767
+US,New Hampshire,,7887
+US,New Jersey,,25410
+US,New Mexico,,9513
+US,Nevada,,6708
+US,New York,,32555
+US,Ohio,,55572
+US,Oklahoma,,2022
+US,Oregon,,1246
+US,Pennsylvania,,42009
+US,Puerto Rico,,702
+US,Rhode Island,,9438
+US,South Carolina,,19132
+US,South Dakota,,1683
+US,Tennessee,,9587
+US,Texas,,33768
+US,Utah,,4356
+US,Virginia,,25237
 US,Virgin Islands,,17
-US,Vermont,,108
-US,Washington,,9661
-US,Wisconsin,,15255
-US,West Virginia,,603
-US,Wyoming,,149
+US,Vermont,,132
+US,Washington,,10494
+US,Wisconsin,,15741
+US,West Virginia,,594
+US,Wyoming,,132
