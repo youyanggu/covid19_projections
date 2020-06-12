@@ -2,19 +2,19 @@
 
 On this page, we show several plots comparing our projections with the [IHME](https://covid19.healthdata.org/projections) model.
 
-* [Daily Deaths](#daily-deaths)
 * [Total Deaths](#total-deaths)
+* [Daily Deaths](#daily-deaths)
 * [CDC Projections](#cdc-projections)
 * [Historical Projections](#historical-projections)
 * [Current Projections](#current-projections)
 
-### Daily Deaths
-
-{% include iframe_ihme_comparison_daily.html %}
-
 ### Total Deaths
 
 {% include iframe_ihme_comparison_total.html %}
+
+### Daily Deaths
+
+{% include iframe_ihme_comparison_daily.html %}
 
 ### CDC Projections
 
