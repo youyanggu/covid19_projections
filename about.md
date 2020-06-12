@@ -20,6 +20,8 @@ permalink: /about/
 * [Assumptions](#assumptions)
   * [Confidence Intervals](#confidence-intervals)
   * [Social Distancing](#social-distancing)
+  * [Infections Estimate](#infections-estimate)
+  * [Infection Fatality Rate (IFR)](#infection-fatality-rate-ifr)
 * [Limitations](#limitations)
 * [Government/Media Coverage](#online-coverage)
 * [Who We Are](#who-we-are)
