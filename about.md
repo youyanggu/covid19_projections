@@ -134,11 +134,9 @@ Also note that while we update our projections daily, IHME only updates their pr
 
 ## Concerns with the IHME model
 
-In this section we will compare our projections with a popular model developed by the [Institute for Health Metrics and Evaluation (IHME)](https://covid19.healthdata.org/) and commonly referred to by the White House and media. Below, we compare a sample of our past projections (C19Pro) with IHME for US, New York, Michigan, New Jersey, California and Italy, some of the most heavily impacted regions.
+In this section we will compare our projections with a popular model developed by the [Institute for Health Metrics and Evaluation (IHME)](https://covid19.healthdata.org/) and commonly referred to by the White House and media. 
 
-{% include iframe_ihme_comparison_total.html %}
-
-As you can see from the plots above, IHME's projections failed to accurately capture the true trajectory for these regions. Our projections, meanwhile, have been significantly more accurate. Below, we will go into further details as to why IHME is a flawed model.
+[Click here](/model-comparison-ihme) to view a comparison of our past projections (C19Pro) with IHME for the US, New York, Michigan, New Jersey, California and Italy, some of the most heavily impacted regions. IHME's projections have historically failed to accurately capture the true trajectory for these regions. Below, we will go into further details as to why IHME has been and still is a flawed model.
 
 There are existing news articles such as [Vox](https://www.vox.com/future-perfect/2020/5/2/21241261/coronavirus-modeling-us-deaths-ihme-pandemic), [STAT News](https://www.statnews.com/2020/04/17/influential-covid-19-model-uses-flawed-methods-shouldnt-guide-policies-critics-say/), [CNN](https://www.cnn.com/2020/04/13/health/ihme-model-death-predictions/index.html), and [Quartz](https://qz.com/1840186/what-the-ihme-covid-19-model-can-and-cant-tell-the-us/) that agree with our concerns.
 
@@ -201,7 +199,7 @@ Unfortunately, by the time IHME revised their projections in May, millions of Am
 
 ### US June-August
 
-As of April 11, IHME projected 225 (0 - 1,180) deaths in the US from June 1 to August 4. While we hope the US only has 225 total deaths from June to August (an average of 3 deaths per day), we believe this is an underestimate.
+As recently as May 3, IHME projected 304 (0-1644) **total** deaths in the US from June 1 to August 4, a span of two months. The US reported 768 deaths on June 1. So a single day's death total exceeded IHME's estimate for two months.
 
 ### Update time
 
