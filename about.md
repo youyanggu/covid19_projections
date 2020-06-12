@@ -8,11 +8,12 @@ permalink: /about/
 * [About the Model](#about-the-model)
 * [How Our Model is Different](#how-our-model-is-different)
 * [Historical Performance *(Updated Jun 7)*](#historical-performance)
-* [CDC Projections Over Time **(New Jun 6)**](#cdc-projections-over-time)
+* [CDC Projections Over Time *(New Jun 6)*](#cdc-projections-over-time)
 * [Historical US Projections *(Updated Daily)*](#historical-us-projections)
 * [Concerns with the IHME model *(Updated Daily)*](#concerns-with-the-ihme-model)
+  * [Comparison of Data Sources **(New Jun 12)**](#comparison-of-data-sources)
   * [May 4 Revision *(Updated May 14)*](#may-4-revision)
-  * [June 8 Revision **(New Jun 8)**](#june-8-revision)
+  * [June 8 Revision *(New Jun 8)*](#june-8-revision)
   * [State Reopening Timeline *(Updated May 11)*](#state-reopening-timeline)
 * [Data and Output](#data-and-output)
 * [Assumptions](#assumptions)
@@ -144,6 +145,25 @@ There are existing news articles such as [Vox](https://www.vox.com/future-perfec
 In the words of Ruth Etzioni, an epidemiologist at Seattle’s Fred Hutchinson Cancer Research Center, “that \[the IHME model\] is being used for policy decisions and its results interpreted wrongly is a travesty unfolding before our eyes.”
 
 [Back to Top](#top)
+
+### Comparison of Data Sources
+
+Here is a comparison of the data sources we use in our model versus what IHME uses (from their [June 11 press release](http://www.healthdata.org/news-release/ihme-models-show-second-wave-covid-19-beginning-september-15-us)).
+
+| covid19-projections.com | IHME
+| --- | --- |
+| Daily deaths | Daily deaths
+| | Case data
+| | Testing data
+| | Mobility data
+| | Pneumonia seasonality
+| | Mask use
+| | Population density
+| | Air pollution
+| | Low altitude
+| | Annual pneumonia death rate
+| | Smoking data
+| | Self-reported contacts
 
 ### May 4 Revision
 
