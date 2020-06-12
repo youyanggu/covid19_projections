@@ -14,6 +14,7 @@ permalink: /about/
   * [Comparison of Data Sources **(New Jun 12)**](#comparison-of-data-sources)
   * [May 4 Revision *(Updated May 14)*](#may-4-revision)
   * [June 8 Revision *(New Jun 8)*](#june-8-revision)
+  * [June 10 Revision **(New Jun 10)**](#june-8-revision)
   * [State Reopening Timeline *(Updated May 11)*](#state-reopening-timeline)
 * [Data and Output](#data-and-output)
 * [Assumptions](#assumptions)
@@ -185,6 +186,12 @@ On June 8, IHME again revised their model to show a more realistic August projec
 
 ![IHME May 10 projections](/assets/images/ihme_may10.png)
 ![IHME June 8 projections](/assets/images/ihme_jun8.png)
+
+### June 10 Revision
+
+In their June 10 update, they have deaths increasing from 400 deaths per day on September 1 to 1,000 deaths per day on October 1. Their [press release](http://www.healthdata.org/news-release/ihme-models-show-second-wave-covid-19-beginning-september-15-us) headline is titled: "IHME models show second wave of COVID-19 beginning September 15 in US". The cite back to school and "pneumonia seasonality" as reasons for this fall spike.
+
+Unfortunately is no scientific data that supports this claim. In reality, pneumonia/influenza deaths are actually the lowest in August and September, [according to the CDC](https://www.cdc.gov/flu/weekly/index.htm). [The same pattern](https://wwwnc.cdc.gov/eid/article/9/5/02-0556_article) holds true for bacterial pneumonia. Furthermore, schools in Europe have managed to successfully reopen with [no rise in cases](https://www.politico.com/news/2020/06/10/european-school-reopeningsreduce-virus-concerns-for-most-312595). Lastly, it makes little sense for deaths to increase when schools reopen, but for deaths to decrease when the entire US reopens.
 
 [Back to Top](#top)
 
