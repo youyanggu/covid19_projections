@@ -39,6 +39,8 @@ See an [analysis of our model](https://twitter.com/CT_Bergstrom/status/125534384
 
 ## How Our Model is Different
 
+* *Deaths data only*: Our model only uses daily deaths data as reported by [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19). Unlike other models, we do not use additional data sources such as cases, testing, mobility, temperature, age distribution, etc. While supplementary data sources may be helpful, they can also introduce additional noise and complexity which can [notably skew results](#mobility-data).
+
 * *No public funding*: We are one of the few model [used by the CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html) that receives no public funding, making us a completely independent entity.
 
 * *No conflicts of interest*: Similar to the previous point, we are truly an independent entity that operates without outside influence or outside investors. Other groups may have collaborations with industry and government entities, or are developing their work for the purpose of publication. We only have one purpose: to create the most accurate projections.
@@ -55,7 +57,7 @@ See an [analysis of our model](https://twitter.com/CT_Bergstrom/status/125534384
 
 * *Minimal assumptions*: Because our model uses machine learning to learn the inputs and parameters, we minimize the number of assumptions we have to introduce. This allows us to avoid certain biases that can be present when incorporating various assumptions.
 
-* *Region-agnostic*: Our model is agnostic to the region, enabling us to make projections for all 50 US states (plus DC, PR, VI, Guam), 30+ US counties, and 70+ countries. To our best knowledge, this is the most comprehensive model in terms of coverage. Furthermore, unlike other models, we do not require accessory data such as mobile phone data, case data, or temperature data. The only input data we require is the daily death reports from Johns Hopkins. Due to our machine learning layer, we also do not require manual tuning for each region, allowing us to focus our time on improving our projections.
+* *Region-agnostic*: Our model is agnostic to the region, enabling us to make projections for all 50 US states (plus DC, PR, VI, Guam), 30+ US counties, and 70+ countries. To our best knowledge, this is the most comprehensive public model in terms of coverage. Due to our machine learning layer, we also do not require manual tuning for each region, allowing us to focus our time on improving our projections.
 
 * *No differential equations*: Unlike traditional SEIR models, our model does not use differential equations. As a result, we can skip the significant computations required to solve systems of ordinary differential equations. Instead, we follow a more traditional discrete mathematics approach by using a discrete state machine with probabilistic transitions. All of the math in our model can be understood by a motivated high school student.
 
