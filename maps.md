@@ -27,6 +27,7 @@ Note that our future projections have a high degree of uncertainty which is not 
 - *C19Pro Score:* We created this score to try to encapsulate three important factors into a single number: absolute new daily cases (sheer number of cases), rate of change in cases (how fast cases are changing), cases per capita (prevalence relative to population). It is defined as follows:
     - `score = scaled(-avg_daily_cases_per_1mil * mean(Δcases * |cases_%_change|, Δcases_per_1_mil))`,
     - where `Δcases` is the change in cases (7-day moving average) from 7 days ago and `scaled()` is a function that maps all values to -100 to 100. A negative value means that cases are increasing.
+    - For US cases, we also incorporating changes in testing. If states report increasing cases, we increase their C19Pro Score if they also report increasing tests. Conversely, if states report decreasing cases, we decrease their C19Pro Score if they report decreasing tests.
     - We also apply the same formula for deaths to show where deaths are changing the most.
 
 [Back to Top](#top)
