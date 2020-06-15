@@ -8,6 +8,14 @@ permalink: /historical-performance/
 
 Click [here](/about/#historical-performance) for an explanation of these evaluations.
 
+* [June 13](#june-13)
+* [June 6](#june-6)
+* [May 30](#may-30)
+* [May 23](#may-23)
+* [May 16](#may-16)
+* [May 9](#may-9)
+* [May 2](#may-2)
+
 ## June 13
 
 ### State-by-state projections
