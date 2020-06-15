@@ -250,7 +250,7 @@ Most transmissions do not happen with strangers, but rather close contacts. Even
 
 We posted [a Tweet](https://twitter.com/youyanggu/status/1248844841733128192) on April 11 about MTA (NYC) and BART (Bay Area) subway ridership being down 90% in March. However, the deaths have only dropped around 25% in NY, while CA has yet to see sharp decrease in deaths in April, more than a month after the drop in ridership.
 
-Interestingly, after IHME suddenly revised their projections from 72k to 130k on May 4, the director of IHME offered this explanation for why they raised their estimates: *"...we're seeing just explosive increases in mobility in a number of states that we expect will translate into more cases and deaths."* This is directly contradictory to their press release just 2 weeks earlier stating that mobility has been lower than predicted. Any 2-week differences in mobility should not explain this sudden jump in projections - only a flawed methodology would.
+Interestingly, after IHME suddenly revised their projections from 72k to 130k on May 4, the director of IHME offered this explanation for why they raised their estimates: *"...we're seeing just explosive increases in mobility in a number of states that we expect will translate into more cases and deaths."* This is directly contradictory to their press release just [2 weeks earlier](http://www.healthdata.org/news-release/ihme-hold-media-briefing-4-pm-eastern-today-details-below) stating that mobility has been lower than predicted. Any 2-week differences in mobility should not explain this sudden jump in projections - only a flawed methodology would.
 
 [Back to Top](#top)
 
