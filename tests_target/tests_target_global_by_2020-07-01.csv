@@ -1,71 +1,71 @@
 country,region,subregion,tests_needed_per_day
-Algeria,,,7665
-Argentina,,,38074
+Algeria,,,10404
+Argentina,,,37101
 Australia,,,42
 Austria,,,1106
-Bangladesh,,,82451
-Belarus,,,5553
-Belgium,,,9150
-Bolivia,,,47116
-Brazil,,,1039146
-Bulgaria,,,6749
-Canada,,,71924
-Chile,,,254876
+Bangladesh,,,82236
+Belarus,,,5561
+Belgium,,,7392
+Bolivia,,,46860
+Brazil,,,968237
+Bulgaria,,,6807
+Canada,,,42620
+Chile,,,249942
 China,,,91
-Colombia,,,121614
+Colombia,,,119716
 Croatia,,,586
 Cuba,,,141
 Cyprus,,,42
-Czechia,,,479
-Denmark,,,1716
-Dominican Republic,,,4035
-Ecuador,,,27423
-Egypt,,,61859
+Czechia,,,487
+Denmark,,,1692
+Dominican Republic,,,5949
+Ecuador,,,27044
+Egypt,,,62717
 Estonia,,,165
-Finland,,,957
-France,,,29453
-Germany,,,30723
+Finland,,,974
+France,,,23505
+Germany,,,30443
 Greece,,,636
-Honduras,,,11460
+Honduras,,,11006
 Hungary,,,4703
 Iceland,,,17
-India,,,996411
-Indonesia,,,53922
-Iran,,,71000
-Ireland,,,2541
+India,,,909390
+Indonesia,,,54096
+Iran,,,77064
+Ireland,,,2533
 Israel,,,809
-Italy,,,27885
-Japan,,,4497
-Kuwait,,,4010
+Italy,,,27935
+Japan,,,4488
+Kuwait,,,4043
 Latvia,,,91
-Lithuania,,,792
-Luxembourg,,,215
+Lithuania,,,685
+Luxembourg,,,223
 Malaysia,,,240
 Malta,,,42
-Mexico,,,973566
-Moldova,,,20139
+Mexico,,,699848
+Moldova,,,19776
 Morocco,,,256
-Netherlands,,,14652
-Nigeria,,,16789
+Netherlands,,,11790
+Nigeria,,,17243
 Norway,,,454
-Pakistan,,,204493
-Panama,,,9356
-Peru,,,213345
-Philippines,,,9166
-Poland,,,27811
-Portugal,,,9133
-Romania,,,12978
-Russia,,,184116
-Saudi Arabia,,,55275
-Serbia,,,809
+Pakistan,,,240744
+Panama,,,9554
+Peru,,,259380
+Philippines,,,9183
+Poland,,,27547
+Portugal,,,9001
+Romania,,,13679
+Russia,,,180807
+Saudi Arabia,,,55655
+Serbia,,,834
 Slovakia,,,50
 Slovenia,,,215
-South Africa,,,198124
-South Korea,,,784
-Spain,,,16715
-Sweden,,,36243
-Switzerland,,,2203
-Turkey,,,8663
-Ukraine,,,33561
-United Arab Emirates,,,1692
-United Kingdom,,,97020
+South Africa,,,195583
+South Korea,,,776
+Spain,,,16748
+Sweden,,,22168
+Switzerland,,,2211
+Turkey,,,8770
+Ukraine,,,32142
+United Arab Emirates,,,1667
+United Kingdom,,,90750
