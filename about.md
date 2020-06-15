@@ -7,7 +7,7 @@ permalink: /about/
 ## Table of contents
 * [About the Model](#about-the-model)
 * [How Our Model is Different](#how-our-model-is-different)
-* [Historical Performance *(Updated Jun 7)*](#historical-performance)
+* [Historical Performance **(Updated Jun 15)**](#historical-performance)
 * [CDC Projections Over Time *(New Jun 6)*](#cdc-projections-over-time)
 * [Historical US Projections *(Updated Daily)*](#historical-us-projections)
 * [Concerns with the IHME model **(Updated Jun 12)**](#concerns-with-the-ihme-model)
@@ -90,13 +90,13 @@ A model isn't very useful if it's not accurate. Below is our analysis on how var
 
 [Click here](/historical-performance) to see performance evaluations for past dates.
 
-### June 6 evaluation of state-by-state projections
+### June 13 evaluation of state-by-state projections
 
-![States comparison](/assets/images/2020-06-06_comparison_states.png)
+![States comparison](/assets/images/2020-06-13_comparison_states.png)
 
-### June 6 evaluation of US projections
+### June 13 evaluation of US projections
 
-![US comparison](/assets/images/2020-06-06_comparison_us.png)
+![US comparison](/assets/images/2020-06-13_comparison_us.png)
 
 [Back to Top](#top)
 
