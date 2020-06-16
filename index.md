@@ -14,7 +14,7 @@ On this page:
 
 ## Recent Updates
 
-* **June 16:** We incorporated the concept of undetected deaths, a phenomenon where deaths are underreported early on in an epidemic. As a result of this update, our estimate of the number of true infections in each region have increased slightly (e.g. US prevalence increased from 4.4% to 5.1%). Read more [here](/about/#undetected-deaths).
+* **June 16:** We incorporated the concept of undetected deaths, a phenomenon where deaths are underreported early on in an epidemic. As a result of this update, our estimate of the number of true infections in each region have increased slightly (e.g. US prevalence increased from 4.4% to 5.1%), while our estimate of future reported deaths have decreased (due to a higher proportion of immune individuals). Read more [here](/about/#undetected-deaths).
 * **June 11:** We have extended our projections to October 1, 2020.
 * **June 10:** We launched the C19Pro Score for both cases and deaths to show where weekly cases and deaths are changing the most. They are shown in the first two maps on our new [Maps](/maps) page.
 
