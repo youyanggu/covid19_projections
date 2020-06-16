@@ -23,6 +23,7 @@ permalink: /about/
   * [Infections Estimate](#infections-estimate)
   * [Effective Reproduction Number (R)](#effective-reproduction-number-r)
   * [Infection Fatality Rate (IFR)](#infection-fatality-rate-ifr)
+  * [Undetected Deaths](#undetected-deaths)
 * [Limitations](#limitations)
 * [Government/Media Coverage](#online-coverage)
 * [Who We Are](#who-we-are)
@@ -365,6 +366,16 @@ Since June 1, 2020, we use a variable IFR that decreases over time to reflect im
 Recent [global](https://www.medrxiv.org/content/10.1101/2020.05.11.20098780v1), [Europe](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31357-X/fulltext), and [US](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-23-united-states/) studies point to a 0.5-1% IFR to be a reasonable estimate. One of the largest antibody studies thus far estimated a [1.2% IFR](https://www.mscbs.gob.es/gabinetePrensa/notaPrensa/pdf/ENE-C140520115618104.pdf) for Spain.
 
 Note that our IFR is based on infectious individuals only. There is [growing evidence](https://www.forbes.com/sites/mattperez/2020/06/08/who-says-asymptomatic-spread-of-coronavirus-very-rare-but-experts-raise-questions/#69a15d0143d0) that asymptomatic individuals are unlikely to be infectious. As a result, we do not account for those individuals in our model, since they do not contribute to the spread of the virus. Note that asymptomatic individuals are different than pre-symptomatic individuals.
+
+[Back to Top](#top)
+
+### Undetected Deaths
+
+In our June 15 model update, we incorporated the concept of undetected deaths to better estimate the number of true infections in the early stages of the pandemic. In the first weeks of the pandemic for each region, we assume a significant percentage of deaths will be undetected/unreported due to a lack of testing. We assume that this percentage will decrease over time until it reaches a negligible amount. So if there are 100 true deaths and 20% are undetected, then only 80 deaths will be reported/projected. While it is possible that the undetected deaths ratio may be higher, the exact value does not signficantly affect our projections.
+
+As a result of this update, the number of true infected individuals in our projections have increased.
+
+For more reporting of the concept of "excess deaths", consult the [New York Times](https://www.nytimes.com/interactive/2020/05/05/us/coronavirus-death-toll-us.html), [Financial Times](https://www.ft.com/content/6bd88b7d-3386-4543-b2e9-0d5c6fac846c), or [The Economist](https://www.economist.com/graphic-detail/2020/04/16/tracking-covid-19-excess-deaths-across-countries).
 
 [Back to Top](#top)
 
