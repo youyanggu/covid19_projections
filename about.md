@@ -44,7 +44,7 @@ See an [analysis of our model](https://twitter.com/CT_Bergstrom/status/125534384
 
 ## How Our Model is Different
 
-* *Deaths data only*: Our model only uses daily deaths data as reported by [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19). Unlike other models, we do not use additional data sources such as cases, testing, mobility, temperature, age distribution, etc. While supplementary data sources may be helpful, they can also introduce additional noise and complexity which can [notably skew results](#mobility-data).
+* *Deaths data only*: Our model only uses daily deaths data as reported by [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series). Unlike other models, we do not use additional data sources such as cases, testing, mobility, temperature, age distribution, etc. While supplementary data sources may be helpful, they can also introduce additional noise and complexity which can [notably skew results](#mobility-data).
 
 * *No public funding*: We are one of the few model [used by the CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html) that receives no public funding, making us a completely independent entity.
 
@@ -113,7 +113,7 @@ A model isn't very useful if it's not accurate. Below is our analysis on how var
 
 Projections taken from: [https://github.com/reichlab/covid19-forecast-hub](https://github.com/reichlab/covid19-forecast-hub)
 
-Truth data from Johns Hopkins: [https://github.com/CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19)
+Truth data from Johns Hopkins: [https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series](https://github.com/CSSEGISandData/COVID-19)
 
 [Back to Top](#top)
 
@@ -278,7 +278,7 @@ To conclude, we believe that a successful model must be able to quickly determin
 
 ## Data and Output
 
-To make our projections, we use the daily death total provided by [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports), what is considered by experts to be the "gold standard" reference data. We do not use case-related data in our modeling due to reasoning alluded to [here](https://fivethirtyeight.com/features/coronavirus-case-counts-are-meaningless/).
+To make our projections, we use the daily death total provided by [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series), what is considered by experts to be the "gold standard" reference data. We do not use case-related data in our modeling due to reasoning alluded to [here](https://fivethirtyeight.com/features/coronavirus-case-counts-are-meaningless/).
 
 While we do not use testing data in our model, we sometimes use US testing data from [The COVID Tracking Project](https://covidtracking.com/) in our research and graphs.
 
@@ -480,6 +480,9 @@ International
 [Back to Top](#top)
 
 ## Updates
+
+2020-06-15
+* Switch main data source from Johns Hopkins [Daily Reports](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports) to Johns Hopkins [Time Series Summary](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series).
 
 2020-06-11
 * Extended projection end date from September 1 to October 1
