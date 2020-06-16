@@ -1,57 +1,57 @@
 country,region,subregion,tests_needed_per_day
-US,,,859188
-US,Alaska,,25
-US,Alabama,,19074
-US,Arkansas,,6254
-US,Arizona,,35244
-US,California,,115236
-US,Colorado,,15849
-US,Connecticut,,13192
-US,District of Columbia,,2847
-US,Delaware,,3969
-US,Florida,,63030
-US,Georgia,,40475
+US,,,866919
+US,Alaska,,33
+US,Alabama,,18777
+US,Arkansas,,6510
+US,Arizona,,36366
+US,California,,120450
+US,Colorado,,16657
+US,Connecticut,,13134
+US,District of Columbia,,2781
+US,Delaware,,4101
+US,Florida,,64664
+US,Georgia,,44443
 US,Guam,,17
 US,Hawaii,,42
-US,Iowa,,6452
-US,Idaho,,240
-US,Illinois,,64276
-US,Indiana,,21450
-US,Kansas,,1890
-US,Kentucky,,8853
-US,Louisiana,,16525
-US,Massachusetts,,25526
-US,Maryland,,28908
-US,Maine,,669
-US,Michigan,,11707
-US,Minnesota,,23769
-US,Missouri,,19066
+US,Iowa,,6510
+US,Idaho,,322
+US,Illinois,,66330
+US,Indiana,,21855
+US,Kansas,,1881
+US,Kentucky,,8622
+US,Louisiana,,16195
+US,Massachusetts,,25988
+US,Maryland,,29643
+US,Maine,,660
+US,Michigan,,12177
+US,Minnesota,,24107
+US,Missouri,,9999
 US,Northern Mariana Islands,,17
-US,Mississippi,,16632
-US,Montana,,58
-US,North Carolina,,30187
-US,North Dakota,,1007
-US,Nebraska,,4678
-US,New Hampshire,,7846
-US,New Jersey,,26648
-US,New Mexico,,7599
-US,Nevada,,6287
-US,New York,,23851
-US,Ohio,,33528
-US,Oklahoma,,1650
-US,Oregon,,1502
-US,Pennsylvania,,36441
-US,Puerto Rico,,726
-US,Rhode Island,,9216
-US,South Carolina,,16624
-US,South Dakota,,1304
-US,Tennessee,,8127
-US,Texas,,28991
-US,Utah,,4538
-US,Virginia,,22539
+US,Mississippi,,17193
+US,Montana,,50
+US,North Carolina,,29131
+US,North Dakota,,908
+US,Nebraska,,4637
+US,New Hampshire,,8094
+US,New Jersey,,27333
+US,New Mexico,,7797
+US,Nevada,,5899
+US,New York,,20460
+US,Ohio,,34246
+US,Oklahoma,,2022
+US,Oregon,,1469
+US,Pennsylvania,,38454
+US,Puerto Rico,,784
+US,Rhode Island,,9224
+US,South Carolina,,16426
+US,South Dakota,,1403
+US,Tennessee,,8663
+US,Texas,,28413
+US,Utah,,5082
+US,Virginia,,22325
 US,Virgin Islands,,17
-US,Vermont,,132
-US,Washington,,10511
-US,Wisconsin,,13291
-US,West Virginia,,578
-US,Wyoming,,108
+US,Vermont,,149
+US,Washington,,10651
+US,Wisconsin,,13101
+US,West Virginia,,586
+US,Wyoming,,141
