@@ -14,10 +14,9 @@ On this page:
 
 ## Recent Updates
 
-* **June 12:** We changed how we display our R_t values. Previously, we displayed the R value before factoring in recovered/immune individuals. Now we are displaying the R values after factoring in immunity, which is what our model uses internally. This R value is lower than our previous displayed values. Note that this is merely a cosmetic change, and that our underlying model has not changed.
+* **June 16:** We incorporated the concept of undetected deaths, a phenomenon where deaths are underreported early on in an epidemic. As a result of this update, our estimate of the number of true infections in each region have increased slightly (e.g. US prevalence increased from 4.4% to 5.1%). Read more [here](/about/#undetected-deaths).
 * **June 11:** We have extended our projections to October 1, 2020.
 * **June 10:** We launched the C19Pro Score for both cases and deaths to show where weekly cases and deaths are changing the most. They are shown in the first two maps on our new [Maps](/maps) page.
-* **June 8:** We added a map that shows how cases are changing in each state/country. Scroll down below to see it, or click [here](#covid-19-dashboard)
 
 ## Current US Projections
 ### Updated Daily - Last Updated: June 16 (6am ET):
