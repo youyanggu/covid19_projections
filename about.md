@@ -10,12 +10,6 @@ permalink: /about/
 * [Historical Performance **(Updated Jun 15)**](#historical-performance)
 * [CDC Projections Over Time](#cdc-projections-over-time)
 * [Historical US Projections *(Updated Daily)*](#historical-us-projections)
-* [Concerns with the IHME model **(Updated Jun 12)**](#concerns-with-the-ihme-model)
-  * [Comparison of Data Sources **(New Jun 12)**](#comparison-of-data-sources)
-  * [May 4 Revision](#may-4-revision)
-  * [June 8 Revision](#june-8-revision)
-  * [June 10 Revision **(New Jun 10)**](#june-8-revision)
-  * [State Reopening Timeline](#state-reopening-timeline)
 * [Data and Output](#data-and-output)
 * [Assumptions](#assumptions)
   * [Confidence Intervals](#confidence-intervals)
@@ -25,6 +19,12 @@ permalink: /about/
   * [Infection Fatality Rate (IFR)](#infection-fatality-rate-ifr)
   * [Undetected Deaths](#undetected-deaths)
 * [Limitations](#limitations)
+* [Concerns with the IHME model **(Updated Jun 12)**](#concerns-with-the-ihme-model)
+  * [Comparison of Data Sources **(New Jun 12)**](#comparison-of-data-sources)
+  * [May 4 Revision](#may-4-revision)
+  * [June 8 Revision](#june-8-revision)
+  * [June 10 Revision **(New Jun 10)**](#june-8-revision)
+  * [State Reopening Timeline](#state-reopening-timeline)
 * [Government/Media Coverage](#online-coverage)
 * [Who We Are](#who-we-are)
 * [Updates](#updates)
@@ -130,150 +130,8 @@ Below, we show our CDC projections over time.
 
 Below, we show how our (C19Pro) August 4 projections for the US has changed over time, compared to IHME. We also show a comparison of the latest projections.
 
-Note that for the entire month of April, IHME projected between 60,000-73,000 deaths by August, all while deaths increased by an average of 2,000 per day. All of their August projections from April were surpassed by May 6.
-
-Also note that while we update our projections daily, IHME only updates their projections once or twice a week.
-
 {% include iframe_historical.html %}
 {% include iframe_current.html %}
-
-[Back to Top](#top)
-
-## Concerns with the IHME model
-
-In this section we will compare our projections with a popular model developed by the [Institute for Health Metrics and Evaluation (IHME)](https://covid19.healthdata.org/) and commonly referred to by the White House and media. 
-
-Below, you can find a comparison of our past projections (C19Pro) with IHME for the US, New York, New Jersey, and California, some of the most heavily impacted regions. [Click here](/model-comparison-ihme) to view more comparison plots.
-
-{% include iframe_ihme_comparison_daily_filt.html %}
-
-As you can see from the graphs above, IHME's projections have historically failed to accurately capture the true trajectory for these regions. Below, we will go into further details as to why IHME has been and still is a flawed model.
-
-There are existing news articles such as [Vox](https://www.vox.com/future-perfect/2020/5/2/21241261/coronavirus-modeling-us-deaths-ihme-pandemic), [STAT News](https://www.statnews.com/2020/04/17/influential-covid-19-model-uses-flawed-methods-shouldnt-guide-policies-critics-say/), [CNN](https://www.cnn.com/2020/04/13/health/ihme-model-death-predictions/index.html), and [Quartz](https://qz.com/1840186/what-the-ihme-covid-19-model-can-and-cant-tell-the-us/) that agree with our concerns.
-
-In the words of Ruth Etzioni, an epidemiologist at Seattle’s Fred Hutchinson Cancer Research Center, “that \[the IHME model\] is being used for policy decisions and its results interpreted wrongly is a travesty unfolding before our eyes.”
-
-[Back to Top](#top)
-
-### Comparison of Data Sources
-
-Here is a comparison of the data sources we use in our model versus what IHME uses (from their [June 11 press release](http://www.healthdata.org/news-release/ihme-models-show-second-wave-covid-19-beginning-september-15-us)). More is not always better.
-
-| covid19-projections.com | IHME
-| --- | --- |
-| Daily deaths | Daily deaths
-| | Case data
-| | Testing data
-| | Mobility data
-| | Pneumonia seasonality
-| | Mask use
-| | Population density
-| | Air pollution
-| | Low altitude
-| | Annual pneumonia death rate
-| | Smoking data
-| | Self-reported contacts
-
-### May 4 Revision
-
-On May 4, IHME completely overhauled their previous model and increased their projections from 72k to 132k US deaths by August. Whereas they were previously underprojecting, they are now overprojecting the month of May. At the time of their new update on May 4, there were 68,919 deaths in the US. They projected that there will be 17,201 deaths in the week ending on May 11. In fact, there were only 11,757 deaths. IHME overshot their 1-week projections by 43%. Meanwhile, we projected 10,676 deaths from May 4 through May 11, an error of less than 10%.
-
-IHME went from severely underprojecting their estimates to now overprojecting their estimates, as you can see in the below comparison of May 4 projections. Furthermore, as recently as May 12, they were still projecting 0 deaths by August 4. Their model should not be relied on for accurate projections.
-
-{% include iframe_ihme_may10.html %}
-
-[Back to Top](#top)
-
-### June 8 Revision
-
-On June 8, IHME again revised their model to show a more realistic August projection. Their August 4 projections has now increased from 0 (0-0) deaths in their May 10 projections to 550 (264-1203) deaths in their revised June 8 projections. As the saying goes, better late than never.
-
-![IHME May 10 projections](/assets/images/ihme_may10.png)
-![IHME June 8 projections](/assets/images/ihme_jun8.png)
-
-### June 10 Revision
-
-In their June 10 update, IHME is projecting deaths to decrease from June through August, and then increase from 400 deaths per day on September 1 to 1,000 deaths per day on October 1. Their [press release](http://www.healthdata.org/news-release/ihme-models-show-second-wave-covid-19-beginning-september-15-us) headline is titled: "IHME models show second wave of COVID-19 beginning September 15 in US". The cite back-to-school and "pneumonia seasonality" as reasons for this fall spike.
-
-Unfortunately, is no scientific data that supports this claim. In reality, pneumonia/influenza deaths are actually the lowest in August and September, [according to the CDC](https://www.cdc.gov/flu/weekly/index.htm). The same pattern [holds true](https://wwwnc.cdc.gov/eid/article/9/5/02-0556_article) for bacterial pneumonia. Regarding back-to-school, schools in Europe have managed to successfully reopen with [no rise in cases](https://www.politico.com/news/2020/06/10/european-school-reopeningsreduce-virus-concerns-for-most-312595). Furthermore, children (age <18) account for [less than 2%](https://www.cdc.gov/mmwr/volumes/69/wr/mm6914e4.htm) of all reported COVID-19 cases. Hence, it makes little sense for deaths to decrease when all of America goes back to work, but for deaths to increase when children go back to school.
-
-[Back to Top](#top)
-
-### Sample Summary of IHME Inaccurate Predictions
-
-In their April 15 projections, the death total that IHME projected will take *four months* to reach was in fact exceeded in *six days*:
-
-|  | April 21 Total Deaths | IHME Aug proj. deaths from Apr 15 | Our Aug proj. deaths from Apr 15
-| --- | --- | --- | --- |
-| New York | 19,104 | 14,542 | 33,384
-| New Jersey | 4,753 | 4,407 | 12,056
-| Michigan | 2,575 | 2,373 | 8,196
-| Illinois | 1,468 | 1,248 | 4,163
-| Italy | 24,648 | 21,130 | 40,216
-| Spain | 21,282 | 18,713 | 31,854
-| France | 20,829 | 17,448 | 41,643
-
-As you can see above, their models made misguided projections for almost all of the worst impacted regions in the world. The most alarming thing is that they continue to make low projections. Below is their projections from April 21. All of the below projections were exceeded by May 2, just a mere 11 days later:
-
-|  | May 2 Total Deaths | IHME Aug proj. deaths from Apr 21 | Our Aug proj. deaths from Apr 21
-| --- | --- | --- | --- |
-| New York | 24,198 | 23,741 | 35,238
-| New Jersey | 7,742 | 7,116 | 13,651
-| Michigan | 4,021 | 3,361 | 6,798
-| Illinois | 2,559 | 2,093 | 6,653
-| Italy | 28,710 | 26,600 | 44,683
-| Spain | 25,100 | 24,624 | 31,854
-| France | 24,763 | 23,104 | 41,643
-
-As scientists, we update our models as new data becomes available. Models are going to make wrong predictions, but it's important that we correct them as soon as new data shows otherwise. The problem with IHME is that they refused to recognize and update their wrong assumptions for many weeks. Throughout April, millions of Americans were falsely led to believe that the epidemic would be over by June because of IHME's projections.
-
-On April 30, the director of the IHME, Dr. Chris Murray, [appeared on CNN](https://www.cnn.com/videos/health/2020/05/01/entire-april-30-coronavirus-town-hall-part-3-sot-vpx.cnn) and continued to advocate their model's 72,000 deaths projection by August. On that day, the US reported 63,000 deaths, with 13,000 deaths coming from the previous week alone. Four days later, IHME nearly doubled their projections to 135,000 deaths by August. One week after Dr. Murray's CNN appearance, the US surpassed his 72,000 deaths by August estimate. It seems like an ill-advised decision to go on national television and proclaim 72,000 deaths by August only to double the projections a mere four days later.
-
-Unfortunately, by the time IHME revised their projections in May, millions of Americans have heard their 60,000-70,000 estimate. It may take a while to undo that misconception and undo the policies that were put in place as a result of this misleading estimate.
-
-[Back to Top](#top)
-
-### US June-August
-
-As recently as May 3, IHME projected 304 (0-1644) **total** deaths in the US from June 1 to August 4, a span of two months. The US reported 768 deaths on June 1. So a single day's death total exceeded IHME's estimate for two months.
-
-### Update time
-
-New data is extremely important when making projections such as these. That's why we update our model daily based on the new data we receive. Projections using today's data is much more valuable than projections from 2-3 days ago. However, due to certain constraints, IHME is only able to update their model 1-2 times a week: *"Our ambition to produce daily updates has proven to be unrealistic given the relative size of our team and the effort required to fully process, review, and vet large amounts of data alongside implementing model updates."* 
-
-[Back to Top](#top)
-
-### Mobility Data
-
-On [April 17](http://www.healthdata.org/news-release/ihme-hold-media-briefing-4-pm-eastern-today-details-below), IHME stated that they are incorporating new cell phone mobility data which indicate that people have been properly practicing social distancing: *"These data suggest that mobility and presumably social contact have declined in certain states earlier than the organization’s modeling predicted, especially in the South."* As a result, IHME lowered their projections from 68k deaths to 60k deaths by August. Their critical flaw is that they assume a linear relationship between lower mobility and lower infection - this is not the case.
-
-Most transmissions do not happen with strangers, but rather close contacts. Even if you reduce your mobility by 90%, you do not reduce your transmission by 90%. The data from Italy shows that it only reduces by around 60%. That's the difference between 20k and 40k+ deaths. IHME was likely making the wrong assumption that a 90% reduction in mobility will decrease transmission by 90%. [Here](https://twitter.com/mugecevik/status/1257392347010215947) is a compilation from infectious disease expert Dr. Muge Cevik showing that household contacts were the most likely to be infected.
-
-We posted [a Tweet](https://twitter.com/youyanggu/status/1248844841733128192) on April 11 about MTA (NYC) and BART (Bay Area) subway ridership being down 90% in March. However, the deaths have only dropped around 25% in NY, while CA has yet to see sharp decrease in deaths in April, more than a month after the drop in ridership.
-
-Interestingly, after IHME suddenly revised their projections from 72k to 130k on May 4, the director of IHME offered this explanation for why they raised their estimates: *"...we're seeing just explosive increases in mobility in a number of states that we expect will translate into more cases and deaths."* This is directly contradictory to their press release just [2 weeks earlier](http://www.healthdata.org/news-release/ihme-hold-media-briefing-4-pm-eastern-today-details-below) stating that mobility has been lower than predicted. Any 2-week differences in mobility should not explain this sudden jump in projections - only a flawed methodology would.
-
-[Back to Top](#top)
-
-### State Reopening Timeline
-
-In their [April 17](http://www.healthdata.org/sites/default/files/files/Projects/COVID/Estimation_update_041720.pdf) press release, IHME released estimates of when they believe each state will have a prevalence of fewer than 1 case per 1 million. They noted that 35 states will reach under 1 prevalent infection per 1 million before June 8, and that *"states such as Louisiana, Michigan, and Washington, may fall below the 1 prevalent infection per 1,000,000 threshold around mid-May."*
-
-As of May 15, Louisiana, Michigan, and Washington are reporting 30-90 confirmed cases per million *each day*. Furthermore, prevalent infections are 5-15x higher than reported cases since most cases are mild and thus not tested/reported. As a result, we estimate [Louisiana](/us-la) and [Michigan](/us-mi) to have around 7,000 prevalent infections per million, which is **7,000 times higher** than IHME's April 17 estimates. An analysis for many of the remaining states show a similar high degree of error. Hence, IHME's estimates have been off by a factor of more than *3 orders of magnitude*.
-
-Unfortunately, it is likely that many individuals and policy-makers used IHME's misguided reopening timelines to shape decisions with regards to reopening. Their reopening timelines were picked up and widely disseminated by [many media outlets](http://www.google.com/search?q=ihme+reopening+timeline), both local and national. Any policies guided by these estimates can have repercussions weeks and months down the road.
-
-[Back to Top](#top)
-
-### Technical Flaw
-
-*May 4 Update: IHME completely overhauled their previous model to now use an SEIR model. Our model is based in SEIR and that has not changed since we first began making projections on April 1.*
-
-On top of everything we mentioned above, their model is also inherently flawed from a mathematical perspective. They try to model COVID-19 infections using a [Gaussian error function](https://en.wikipedia.org/wiki/Error_function). The problem is that the Gaussian error function is by design *symmetric*, meaning that the curve comes down from the peak at the same rate as it goes up. Unfortunately, this has not been the case for COVID-19: we come down from the peak at a much slower pace. This leads to a significant under-projection in IHME's model, which we have thoroughly highlighted. University of Washington biology professor Dr. Carl T. Bergostrom discussed this in more detail in this highly informative [series of Tweets](https://twitter.com/CT_Bergstrom/status/1250304069119275009).
-
-[Click here](#historical-us-projections) to see how our projections have changed over time, compared with the IHME model. For a comparison of April projections for several heavily-impacted states and countries, [click here](/model-comparison-ihme).
-
-To conclude, we believe that a successful model must be able to quickly determine what is realistic and what is not, and the above examples highlights our main concerns with the IHME model.
 
 [Back to Top](#top)
 
@@ -432,6 +290,145 @@ Recently, there have been various reports regarding the accuracy and integrity o
 * *Affecting the future*: Our projections are not set in stone and do not exist in a vacuum. If everyone saw our projections and heeded the advice of experts to continuously practice social distancing, the infections and deaths will decrease over time, leading to a final tally that is lower than our projection. That does not mean that our projection were "wrong". In fact, our greatest hope is the scenario described above where we can help prevent future infections and deaths, causing our projections to be an overestimate. For example, a early March [Imperical College study](https://www.nytimes.com/2020/03/17/world/europe/coronavirus-imperial-college-johnson.html) estimated that 2.2 million people would die in the US if mitigations were not implemented. This helped lead to a wave of lockdowns and stay-at-home orders, thereby significantly reducing deaths. That does not mean that the Imperial College study was "wrong" - their study helped shape the outcome of the future.
 
 While we attempt our best to ensure accuracy and precision, no model is perfect, so we urge everyone to use caution when interpreting these projections. This is just one particular model, so we encourage everyone to evaluate and be open to multiple sources. At the end of the day, the decision-making rests in the hands of people, not machines.
+
+[Back to Top](#top)
+
+
+## Concerns with the IHME model
+
+In this section we will compare our projections with a popular model developed by the [Institute for Health Metrics and Evaluation (IHME)](https://covid19.healthdata.org/) and commonly referred to by the White House and media. 
+
+Below, you can find a comparison of our past projections (C19Pro) with IHME for the US, New York, New Jersey, and California, some of the most heavily impacted regions. [Click here](/model-comparison-ihme) to view more comparison plots.
+
+{% include iframe_ihme_comparison_daily_filt.html %}
+
+As you can see from the graphs above, IHME's projections have historically failed to accurately capture the true trajectory for these regions. Below, we will go into further details as to why IHME has been and still is a flawed model.
+
+There are existing news articles such as [Vox](https://www.vox.com/future-perfect/2020/5/2/21241261/coronavirus-modeling-us-deaths-ihme-pandemic), [STAT News](https://www.statnews.com/2020/04/17/influential-covid-19-model-uses-flawed-methods-shouldnt-guide-policies-critics-say/), [CNN](https://www.cnn.com/2020/04/13/health/ihme-model-death-predictions/index.html), and [Quartz](https://qz.com/1840186/what-the-ihme-covid-19-model-can-and-cant-tell-the-us/) that agree with our concerns.
+
+In the words of Ruth Etzioni, an epidemiologist at Seattle’s Fred Hutchinson Cancer Research Center, “that \[the IHME model\] is being used for policy decisions and its results interpreted wrongly is a travesty unfolding before our eyes.”
+
+[Back to Top](#top)
+
+### Comparison of Data Sources
+
+Here is a comparison of the data sources we use in our model versus what IHME uses (from their [June 11 press release](http://www.healthdata.org/news-release/ihme-models-show-second-wave-covid-19-beginning-september-15-us)). More is not always better.
+
+| covid19-projections.com | IHME
+| --- | --- |
+| Daily deaths | Daily deaths
+| | Case data
+| | Testing data
+| | Mobility data
+| | Pneumonia seasonality
+| | Mask use
+| | Population density
+| | Air pollution
+| | Low altitude
+| | Annual pneumonia death rate
+| | Smoking data
+| | Self-reported contacts
+
+### May 4 Revision
+
+On May 4, IHME completely overhauled their previous model and increased their projections from 72k to 132k US deaths by August. Whereas they were previously underprojecting, they are now overprojecting the month of May. At the time of their new update on May 4, there were 68,919 deaths in the US. They projected that there will be 17,201 deaths in the week ending on May 11. In fact, there were only 11,757 deaths. IHME overshot their 1-week projections by 43%. Meanwhile, we projected 10,676 deaths from May 4 through May 11, an error of less than 10%.
+
+IHME went from severely underprojecting their estimates to now overprojecting their estimates, as you can see in the below comparison of May 4 projections. Furthermore, as recently as May 12, they were still projecting 0 deaths by August 4. Their model should not be relied on for accurate projections.
+
+{% include iframe_ihme_may10.html %}
+
+[Back to Top](#top)
+
+### June 8 Revision
+
+On June 8, IHME again revised their model to show a more realistic August projection. Their August 4 projections has now increased from 0 (0-0) deaths in their May 10 projections to 550 (264-1203) deaths in their revised June 8 projections. As the saying goes, better late than never.
+
+![IHME May 10 projections](/assets/images/ihme_may10.png)
+![IHME June 8 projections](/assets/images/ihme_jun8.png)
+
+### June 10 Revision
+
+In their June 10 update, IHME is projecting deaths to decrease from June through August, and then increase from 400 deaths per day on September 1 to 1,000 deaths per day on October 1. Their [press release](http://www.healthdata.org/news-release/ihme-models-show-second-wave-covid-19-beginning-september-15-us) headline is titled: "IHME models show second wave of COVID-19 beginning September 15 in US". The cite back-to-school and "pneumonia seasonality" as reasons for this fall spike.
+
+Unfortunately, is no scientific data that supports this claim. In reality, pneumonia/influenza deaths are actually the lowest in August and September, [according to the CDC](https://www.cdc.gov/flu/weekly/index.htm). The same pattern [holds true](https://wwwnc.cdc.gov/eid/article/9/5/02-0556_article) for bacterial pneumonia. Regarding back-to-school, schools in Europe have managed to successfully reopen with [no rise in cases](https://www.politico.com/news/2020/06/10/european-school-reopeningsreduce-virus-concerns-for-most-312595). Furthermore, children (age <18) account for [less than 2%](https://www.cdc.gov/mmwr/volumes/69/wr/mm6914e4.htm) of all reported COVID-19 cases. Hence, it makes little sense for deaths to decrease when all of America goes back to work, but for deaths to increase when children go back to school.
+
+[Back to Top](#top)
+
+### Sample Summary of IHME Inaccurate Predictions
+
+In their April 15 projections, the death total that IHME projected will take *four months* to reach was in fact exceeded in *six days*:
+
+|  | April 21 Total Deaths | IHME Aug proj. deaths from Apr 15 | Our Aug proj. deaths from Apr 15
+| --- | --- | --- | --- |
+| New York | 19,104 | 14,542 | 33,384
+| New Jersey | 4,753 | 4,407 | 12,056
+| Michigan | 2,575 | 2,373 | 8,196
+| Illinois | 1,468 | 1,248 | 4,163
+| Italy | 24,648 | 21,130 | 40,216
+| Spain | 21,282 | 18,713 | 31,854
+| France | 20,829 | 17,448 | 41,643
+
+As you can see above, their models made misguided projections for almost all of the worst impacted regions in the world. The most alarming thing is that they continue to make low projections. Below is their projections from April 21. All of the below projections were exceeded by May 2, just a mere 11 days later:
+
+|  | May 2 Total Deaths | IHME Aug proj. deaths from Apr 21 | Our Aug proj. deaths from Apr 21
+| --- | --- | --- | --- |
+| New York | 24,198 | 23,741 | 35,238
+| New Jersey | 7,742 | 7,116 | 13,651
+| Michigan | 4,021 | 3,361 | 6,798
+| Illinois | 2,559 | 2,093 | 6,653
+| Italy | 28,710 | 26,600 | 44,683
+| Spain | 25,100 | 24,624 | 31,854
+| France | 24,763 | 23,104 | 41,643
+
+As scientists, we update our models as new data becomes available. Models are going to make wrong predictions, but it's important that we correct them as soon as new data shows otherwise. The problem with IHME is that they refused to recognize and update their wrong assumptions for many weeks. Throughout April, millions of Americans were falsely led to believe that the epidemic would be over by June because of IHME's projections.
+
+On April 30, the director of the IHME, Dr. Chris Murray, [appeared on CNN](https://www.cnn.com/videos/health/2020/05/01/entire-april-30-coronavirus-town-hall-part-3-sot-vpx.cnn) and continued to advocate their model's 72,000 deaths projection by August. On that day, the US reported 63,000 deaths, with 13,000 deaths coming from the previous week alone. Four days later, IHME nearly doubled their projections to 135,000 deaths by August. One week after Dr. Murray's CNN appearance, the US surpassed his 72,000 deaths by August estimate. It seems like an ill-advised decision to go on national television and proclaim 72,000 deaths by August only to double the projections a mere four days later.
+
+Unfortunately, by the time IHME revised their projections in May, millions of Americans have heard their 60,000-70,000 estimate. It may take a while to undo that misconception and undo the policies that were put in place as a result of this misleading estimate.
+
+[Back to Top](#top)
+
+### US June-August
+
+As recently as May 3, IHME projected 304 (0-1644) **total** deaths in the US from June 1 to August 4, a span of two months. The US reported 768 deaths on June 1. So a single day's death total exceeded IHME's estimate for two months.
+
+### Update time
+
+New data is extremely important when making projections such as these. That's why we update our model daily based on the new data we receive. Projections using today's data is much more valuable than projections from 2-3 days ago. However, due to certain constraints, IHME is only able to update their model 1-2 times a week: *"Our ambition to produce daily updates has proven to be unrealistic given the relative size of our team and the effort required to fully process, review, and vet large amounts of data alongside implementing model updates."* 
+
+[Back to Top](#top)
+
+### Mobility Data
+
+On [April 17](http://www.healthdata.org/news-release/ihme-hold-media-briefing-4-pm-eastern-today-details-below), IHME stated that they are incorporating new cell phone mobility data which indicate that people have been properly practicing social distancing: *"These data suggest that mobility and presumably social contact have declined in certain states earlier than the organization’s modeling predicted, especially in the South."* As a result, IHME lowered their projections from 68k deaths to 60k deaths by August. Their critical flaw is that they assume a linear relationship between lower mobility and lower infection - this is not the case.
+
+Most transmissions do not happen with strangers, but rather close contacts. Even if you reduce your mobility by 90%, you do not reduce your transmission by 90%. The data from Italy shows that it only reduces by around 60%. That's the difference between 20k and 40k+ deaths. IHME was likely making the wrong assumption that a 90% reduction in mobility will decrease transmission by 90%. [Here](https://twitter.com/mugecevik/status/1257392347010215947) is a compilation from infectious disease expert Dr. Muge Cevik showing that household contacts were the most likely to be infected.
+
+We posted [a Tweet](https://twitter.com/youyanggu/status/1248844841733128192) on April 11 about MTA (NYC) and BART (Bay Area) subway ridership being down 90% in March. However, the deaths have only dropped around 25% in NY, while CA has yet to see sharp decrease in deaths in April, more than a month after the drop in ridership.
+
+Interestingly, after IHME suddenly revised their projections from 72k to 130k on May 4, the director of IHME offered this explanation for why they raised their estimates: *"...we're seeing just explosive increases in mobility in a number of states that we expect will translate into more cases and deaths."* This is directly contradictory to their press release just [2 weeks earlier](http://www.healthdata.org/news-release/ihme-hold-media-briefing-4-pm-eastern-today-details-below) stating that mobility has been lower than predicted. Any 2-week differences in mobility should not explain this sudden jump in projections - only a flawed methodology would.
+
+[Back to Top](#top)
+
+### State Reopening Timeline
+
+In their [April 17](http://www.healthdata.org/sites/default/files/files/Projects/COVID/Estimation_update_041720.pdf) press release, IHME released estimates of when they believe each state will have a prevalence of fewer than 1 case per 1 million. They noted that 35 states will reach under 1 prevalent infection per 1 million before June 8, and that *"states such as Louisiana, Michigan, and Washington, may fall below the 1 prevalent infection per 1,000,000 threshold around mid-May."*
+
+As of May 15, Louisiana, Michigan, and Washington are reporting 30-90 confirmed cases per million *each day*. Furthermore, prevalent infections are 5-15x higher than reported cases since most cases are mild and thus not tested/reported. As a result, we estimate [Louisiana](/us-la) and [Michigan](/us-mi) to have around 7,000 prevalent infections per million, which is **7,000 times higher** than IHME's April 17 estimates. An analysis for many of the remaining states show a similar high degree of error. Hence, IHME's estimates have been off by a factor of more than *3 orders of magnitude*.
+
+Unfortunately, it is likely that many individuals and policy-makers used IHME's misguided reopening timelines to shape decisions with regards to reopening. Their reopening timelines were picked up and widely disseminated by [many media outlets](http://www.google.com/search?q=ihme+reopening+timeline), both local and national. Any policies guided by these estimates can have repercussions weeks and months down the road.
+
+[Back to Top](#top)
+
+### Technical Flaw
+
+*May 4 Update: IHME completely overhauled their previous model to now use an SEIR model. Our model is based in SEIR and that has not changed since we first began making projections on April 1.*
+
+On top of everything we mentioned above, their model is also inherently flawed from a mathematical perspective. They try to model COVID-19 infections using a [Gaussian error function](https://en.wikipedia.org/wiki/Error_function). The problem is that the Gaussian error function is by design *symmetric*, meaning that the curve comes down from the peak at the same rate as it goes up. Unfortunately, this has not been the case for COVID-19: we come down from the peak at a much slower pace. This leads to a significant under-projection in IHME's model, which we have thoroughly highlighted. University of Washington biology professor Dr. Carl T. Bergostrom discussed this in more detail in this highly informative [series of Tweets](https://twitter.com/CT_Bergstrom/status/1250304069119275009).
+
+[Click here](#historical-us-projections) to see how our projections have changed over time, compared with the IHME model. For a comparison of April projections for several heavily-impacted states and countries, [click here](/model-comparison-ihme).
+
+To conclude, we believe that a successful model must be able to quickly determine what is realistic and what is not, and the above examples highlights our main concerns with the IHME model.
 
 [Back to Top](#top)
 
