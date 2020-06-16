@@ -14,15 +14,15 @@ On this page:
 
 ## Recent Updates
 
-* **June 16:** We incorporated the concept of undetected deaths, a phenomenon where deaths are underreported early on in an epidemic. As a result of this update, our estimate of the number of true infections in each region have increased slightly (e.g. US prevalence increased from 4.4% to 5.1%), while our estimate of future reported deaths have decreased (due to a higher proportion of immune individuals). Read more [here](/about/#undetected-deaths).
+* **June 16:** We incorporated the concept of undetected deaths, a phenomenon where deaths are underreported early on in an epidemic. As a result of this update, our estimate of the number of true infections in each region have increased slightly (e.g. US prevalence increased from 4.4% to 4.6%), while our estimate of future reported deaths have decreased (due to a higher proportion of immune individuals). Read more [here](/about/#undetected-deaths).
 * **June 11:** We have extended our projections to October 1, 2020.
 * **June 10:** We launched the C19Pro Score for both cases and deaths to show where weekly cases and deaths are changing the most. They are shown in the first two maps on our new [Maps](/maps) page.
 
 ## Current US Projections
-### Updated Daily - Last Updated: June 16 (6am ET):
+### Updated Daily - Last Updated: June 16 (6pm ET):
 <p align="center">
-  Current Total: <b>116,124</b> deaths | Projected Total: <b>188,838 deaths by Oct 1, 2020</b> (Range: 142-269k)<br>
-  Currently Infected: <b>0.5%</b> | Total Infected: <b>5.1%</b> {% include iframe.html %}
+  Current Total: <b>116,124</b> deaths | Projected Total: <b>191,191 deaths by Oct 1, 2020</b> (Range: 143-273k)<br>
+  Currently Infected: <b>0.5%</b> | Total Infected: <b>4.6%</b> {% include iframe.html %}
 </p>
 
 [Back to Top](#top)
