@@ -8,14 +8,14 @@ permalink: /about/
 * [About the Model](#about-the-model)
 * [How Our Model is Different](#how-our-model-is-different)
 * [Historical Performance **(Updated Jun 15)**](#historical-performance)
-* [CDC Projections Over Time *(New Jun 6)*](#cdc-projections-over-time)
+* [CDC Projections Over Time](#cdc-projections-over-time)
 * [Historical US Projections *(Updated Daily)*](#historical-us-projections)
 * [Concerns with the IHME model **(Updated Jun 12)**](#concerns-with-the-ihme-model)
   * [Comparison of Data Sources **(New Jun 12)**](#comparison-of-data-sources)
-  * [May 4 Revision *(Updated May 14)*](#may-4-revision)
-  * [June 8 Revision *(New Jun 8)*](#june-8-revision)
+  * [May 4 Revision](#may-4-revision)
+  * [June 8 Revision](#june-8-revision)
   * [June 10 Revision **(New Jun 10)**](#june-8-revision)
-  * [State Reopening Timeline *(Updated May 11)*](#state-reopening-timeline)
+  * [State Reopening Timeline](#state-reopening-timeline)
 * [Data and Output](#data-and-output)
 * [Assumptions](#assumptions)
   * [Confidence Intervals](#confidence-intervals)
@@ -120,7 +120,7 @@ Truth data from Johns Hopkins: [https://github.com/CSSEGISandData/COVID-19/tree/
 
 ## CDC Projections Over Time
 
-Below, we show our CDC projections over time, as well as the IHME CDC projections over time.
+Below, we show our CDC projections over time.
 
 {% include iframe_cdc_comparison.html %}
 
