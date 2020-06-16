@@ -17,7 +17,6 @@ On this page, we show several plots comparing our projections with the [IHME](ht
 [Back to Top](#top)
 
 ### CDC Projections
-{% include iframe_cdc_comparison.html %}
 {% include iframe_cdc_comparison_daily.html %}
 [Back to Top](#top)
 
