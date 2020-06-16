@@ -1,57 +1,57 @@
 country,region,subregion,tests_needed_per_day
-US,,,866919
-US,Alaska,,33
-US,Alabama,,18777
-US,Arkansas,,6510
-US,Arizona,,36366
-US,California,,120450
-US,Colorado,,16657
-US,Connecticut,,13134
-US,District of Columbia,,2781
-US,Delaware,,4101
-US,Florida,,64664
-US,Georgia,,44443
+US,,,882090
+US,Alaska,,25
+US,Alabama,,19743
+US,Arkansas,,6658
+US,Arizona,,36746
+US,California,,120813
+US,Colorado,,16971
+US,Connecticut,,13555
+US,District of Columbia,,2871
+US,Delaware,,4216
+US,Florida,,65217
+US,Georgia,,45037
 US,Guam,,17
 US,Hawaii,,42
-US,Iowa,,6510
-US,Idaho,,322
-US,Illinois,,66330
-US,Indiana,,21855
-US,Kansas,,1881
-US,Kentucky,,8622
-US,Louisiana,,16195
-US,Massachusetts,,25988
-US,Maryland,,29643
-US,Maine,,660
-US,Michigan,,12177
-US,Minnesota,,24107
-US,Missouri,,9999
+US,Iowa,,6543
+US,Idaho,,289
+US,Illinois,,66124
+US,Indiana,,22110
+US,Kansas,,1964
+US,Kentucky,,9562
+US,Louisiana,,17664
+US,Massachusetts,,26508
+US,Maryland,,29560
+US,Maine,,710
+US,Michigan,,12953
+US,Minnesota,,24000
+US,Missouri,,11286
 US,Northern Mariana Islands,,17
 US,Mississippi,,17193
-US,Montana,,50
-US,North Carolina,,29131
-US,North Dakota,,908
-US,Nebraska,,4637
-US,New Hampshire,,8094
-US,New Jersey,,27333
-US,New Mexico,,7797
-US,Nevada,,5899
-US,New York,,20460
-US,Ohio,,34246
-US,Oklahoma,,2022
-US,Oregon,,1469
-US,Pennsylvania,,38454
-US,Puerto Rico,,784
-US,Rhode Island,,9224
-US,South Carolina,,16426
-US,South Dakota,,1403
-US,Tennessee,,8663
-US,Texas,,28413
-US,Utah,,5082
-US,Virginia,,22325
+US,Montana,,58
+US,North Carolina,,31268
+US,North Dakota,,1032
+US,Nebraska,,4917
+US,New Hampshire,,8085
+US,New Jersey,,25707
+US,New Mexico,,7871
+US,Nevada,,6592
+US,New York,,19314
+US,Ohio,,34980
+US,Oklahoma,,1939
+US,Oregon,,1642
+US,Pennsylvania,,38016
+US,Puerto Rico,,768
+US,Rhode Island,,9438
+US,South Carolina,,17334
+US,South Dakota,,1436
+US,Tennessee,,9232
+US,Texas,,29882
+US,Utah,,5214
+US,Virginia,,22539
 US,Virgin Islands,,17
 US,Vermont,,149
-US,Washington,,10651
-US,Wisconsin,,13101
+US,Washington,,11179
+US,Wisconsin,,14372
 US,West Virginia,,586
-US,Wyoming,,141
+US,Wyoming,,124
