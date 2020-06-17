@@ -45,7 +45,7 @@ See an [analysis of our model](https://twitter.com/CT_Bergstrom/status/125534384
 
 ## How Our Model is Different
 
-* *Deaths data only*: Our model only uses daily deaths data as reported by [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series). Unlike other models, we do not use additional data sources such as cases, testing, mobility, temperature, age distribution, etc. While supplementary data sources may be helpful, they can also introduce additional noise and complexity which can [notably skew results](#mobility-data).
+* *Deaths data only*: Our model only uses daily deaths data as reported by [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series). Unlike other models, we do not use additional data sources such as cases, testing, mobility, temperature, age distribution, air traffic, etc. While supplementary data sources may be helpful, they can also introduce additional noise and complexity which can [notably skew results](#mobility-data).
 
 * *No public funding*: We are one of the few model [used by the CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html) that receives no public funding, making us a completely independent entity.
 
@@ -437,6 +437,7 @@ To conclude, we believe that a successful model must be able to quickly determin
 ### Media
 
 National
+* [NPR](https://www.npr.org/sections/health-shots/2020/06/12/876224115/coronavirus-second-wave-nope-were-still-stuck-in-the-first-one) - Jun 11
 * [CNN](https://www.cnn.com/2020/05/05/health/states-early-reopening-impact/index.html) - May 5
 * [StatNews](https://www.statnews.com/2020/04/30/coronavirus-death-projections-compare-causes-of-death) - Apr 30
 * [MarketWatch](https://www.marketwatch.com/story/will-some-people-be-affected-badly-yes-trump-says-us-must-reopen-coronavirus-deaths-projected-to-hit-100000-in-weeks-2020-05-06) - May 6
@@ -445,7 +446,6 @@ National
 * [The Economist](https://www.economist.com/graphic-detail/2020/05/23/early-projections-of-covid-19-in-america-underestimated-its-severity) - May 21
 * [CNN](https://www.cnn.com/2020/06/08/health/florida-coronavirus-cases-update/index.html) - Jun 8
 * [CNN](https://www.cnn.com/2020/04/28/health/georgia-coronavirus-death-projections/index.html) - Apr 28
-* [NPR](https://www.npr.org/transcripts/875311157) - Jun 11
 * [NPR](https://www.npr.org/sections/health-shots/2020/05/07/851610771/u-s-coronavirus-testing-still-falls-short-hows-your-state-doing) - May 7
 * [TheHill](https://thehill.com/changing-america/well-being/prevention-cures/495459-reopening-georgia-could-lead-to-a-doubling-of) - Apr 30
 * [New York Times](https://www.nytimes.com/2020/05/05/us/coronavirus-deaths-cases-united-states.html) - May 5
