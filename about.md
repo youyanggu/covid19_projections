@@ -7,7 +7,7 @@ permalink: /about/
 ## Table of contents
 * [About the Model](#about-the-model)
 * [How Our Model is Different](#how-our-model-is-different)
-* [Historical Performance **(Updated Jun 15)**](#historical-performance)
+* [Historical Performance **(Updated Jun 16)**](#historical-performance)
 * [CDC Projections Over Time](#cdc-projections-over-time)
 * [Historical US Projections *(Updated Daily)*](#historical-us-projections)
 * [Data and Output](#data-and-output)
@@ -84,6 +84,8 @@ See an [analysis of our model](https://twitter.com/CT_Bergstrom/status/125534384
 [Back to Top](#top)
 
 ## Historical Performance
+
+**June 16 Update:** We released the code to evaluate COVID-19 models: https://github.com/youyanggu/covid19-forecast-hub-evaluation
 
 A model isn't very useful if it's not accurate. Below is our analysis on how various models considered by the CDC have performed over the past few weeks. Because the CDC receives weekly projections from every Monday, we use projections from past Mondays to evaluate the models.
 
