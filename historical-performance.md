@@ -6,7 +6,9 @@ permalink: /historical-performance/
 
 # Historical Performance
 
-Learn more about how we evaluate the models [here](https://github.com/youyanggu/covid19-forecast-hub-evaluation/#methods). You can also find the code to run these evaluations independently.
+On this page, we present a weekly evaluation of our model's historical performance along with other models in the [COVID-19 Forecast Hub](https://github.com/reichlab/covid19-forecast-hub). The forecasts from these models are sent to the CDC weekly and presented on the [CDC COVID-19 Forecasting page](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html).
+
+We have open-sourced the code and output used to generate these evaluations [here](https://github.com/youyanggu/covid19-forecast-hub-evaluation/#methods). We believe in a fully transparent evaluation methodology, and publicly releasing all of our code and data is the best way to do so.
 
 * [June 13](#june-13)
 * [June 6](#june-6)
