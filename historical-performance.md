@@ -6,7 +6,7 @@ permalink: /historical-performance/
 
 # Historical Performance
 
-Click [here](/about/#historical-performance) for an explanation of these evaluations.
+Learn more about how we evaluate the models [here](https://github.com/youyanggu/covid19-forecast-hub-evaluation/#methods). You can also find the code to run these evaluations independently.
 
 * [June 13](#june-13)
 * [June 6](#june-6)
