@@ -14,9 +14,9 @@ On this page:
 
 ## Recent Updates
 
-* **NEW June 16:** We have open-sourced our code to [evaluate COVID-19 models](https://github.com/youyanggu/covid19-forecast-hub-evaluation). The goal of this project is to evaluate various models' historical forecasts in a transparent, rigorous, and non-biased manner.
-* June 11: We have extended our projections to October 1, 2020.
-* June 10: We launched the C19Pro Score for both cases and deaths to show where weekly cases and deaths are changing the most. They are shown in the first two maps on our new [Maps](/maps) page.
+* **June 16:** We have open-sourced our code to [evaluate COVID-19 models](https://github.com/youyanggu/covid19-forecast-hub-evaluation). The goal of this project is to evaluate various models' historical point forecasts in a transparent, rigorous, and non-biased manner.
+* **June 11**: We have extended our projections to October 1, 2020.
+* **June 10**: We launched the C19Pro Score for both cases and deaths to show where weekly cases and deaths are changing the most. They are shown in the first two maps on our new [Maps](/maps) page.
 
 ## Current US Projections
 ### Updated Daily - Last Updated: June 18 (2am ET):
