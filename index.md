@@ -30,6 +30,8 @@ On this page:
 ## COVID-19 Dashboard
 
 To see more maps or for more details, visit our [Maps](/maps) page.
+
+*June 18 note:* We moved the R_t Dashboard map to the [Maps](/maps) page and replaced it with our C19Pro Score for deaths.
 {% include iframe_r_map.html %}
 [Back to Top](#top)
 
