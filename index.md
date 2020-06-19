@@ -22,7 +22,7 @@ On this page:
 ## Current US Projections
 ### Updated Daily - Last Updated: June 19 (2am ET):
 <p align="center">
-  Current Total: <b>118,431</b> deaths | Projected Total: <b>184,283 deaths by Oct 1, 2020</b> (Range: 157-216k)<br>
+  Current Total: <b>118,431</b> deaths | Projected Total: <b>184,283 deaths by Oct 1, 2020</b> (Range: 154-220k)<br>
   Currently Infected: <b>0.4%</b> | Total Infected: <b>4.5%</b> {% include iframe.html %}
 </p>
 
@@ -38,9 +38,9 @@ To see more maps or for more details, visit our [Maps](/maps) page.
 
 ## US Deaths Likelihoods
 
-Below, we present the most likely dates that the US will surpass certain deaths milestones, as well as the probabilities of the US surpassing those milestones by different time horizons. For example, we estimate a 81% chance that the US surpasses 125,000 deaths by July 1, with June 29 being the most likely date.
+Below, we present the most likely dates that the US will surpass certain deaths milestones, as well as the probabilities of the US surpassing those milestones by different time horizons. For example, we estimate a 83% chance that the US surpasses 125,000 deaths by July 1, with June 29 being the most likely date.
 
-Last updated: Jun 18, 2020
+Last updated: Jun 19, 2020
 
 |   US deaths surpass: |   Most likely date: |
 |----------------------|---------------------|
@@ -54,10 +54,10 @@ Last updated: Jun 18, 2020
 
 |   US deaths surpass: |   By Jul 1 |   By Jul 15 |   By Aug 1 |   By Aug 15 |   By Sep 1 |   By Sep 15 |   By Oct 1 |
 |----------------------|------------|-------------|------------|-------------|------------|-------------|------------|
-|              125,000 |        85% |         99% |       >99% |        >99% |       >99% |        >99% |       >99% |
-|              150,000 |        <1% |         <1% |        16% |         69% |        94% |         99% |        99% |
-|              175,000 |        <1% |         <1% |        <1% |         <1% |        20% |         48% |        63% |
-|              200,000 |        <1% |         <1% |        <1% |         <1% |        <1% |          3% |        17% |
+|              125,000 |        83% |         99% |       >99% |        >99% |       >99% |        >99% |       >99% |
+|              150,000 |        <1% |         <1% |        18% |         67% |        91% |         98% |        99% |
+|              175,000 |        <1% |         <1% |        <1% |         <1% |        23% |         48% |        62% |
+|              200,000 |        <1% |         <1% |        <1% |         <1% |        <1% |          5% |        20% |
 |              250,000 |        <1% |         <1% |        <1% |         <1% |        <1% |         <1% |        <1% |
 
 [Back to Top](#top)
