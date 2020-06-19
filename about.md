@@ -219,7 +219,7 @@ Due to the reasons above, we use the following initial IFR in our projections:
 - 0.75% IFR: Japan, South Korea, Iceland, Norway, Switzerland, all EU countries except Spain
 - 1% IFR: US and all other countries
 
-Since June 1, 2020, we use a variable IFR that decreases over time to reflect improving treatments and the lower proportion of care home deaths. Hence, we decrease the initial IFR linearly over the span of 3 months until it is 75% of the original IFR. So for example, in July 2020, we estimate the IFR to be ~0.75% in the US and ~0.5% in most of Western Europe.
+Since June 1, 2020, we use a variable IFR that decreases over time to reflect improving treatments and the lower proportion of care home deaths. Hence, we decrease the initial IFR linearly over the span of 3 months until it is 50% of the original IFR. So for example, by August 2020, we estimate the IFR to be ~0.5% in the US and ~0.4% in most of Western Europe.
 
 Recent [global](https://www.medrxiv.org/content/10.1101/2020.05.11.20098780v1), [Europe](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31357-X/fulltext), and [US](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-23-united-states/) studies point to a 0.5-1% IFR to be a reasonable estimate. One of the largest antibody studies thus far estimated a [1.2% IFR](https://www.mscbs.gob.es/gabinetePrensa/notaPrensa/pdf/ENE-C140520115618104.pdf) for Spain.
 
