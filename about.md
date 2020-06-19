@@ -47,21 +47,21 @@ See an [analysis of our model](https://twitter.com/CT_Bergstrom/status/125534384
 
 * *Deaths data only*: Our model only uses daily deaths data as reported by [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series). Unlike other models, we do not use additional data sources such as cases, testing, mobility, temperature, age distribution, air traffic, etc. While supplementary data sources may be helpful, they can also introduce additional noise and complexity which can [notably skew results](#mobility-data).
 
-* *No public funding*: We are one of the few model [used by the CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html) that receives no public funding, making us a completely independent entity.
+* *No public funding*: We are one of the only models [used by the CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html) that receives no public funding, making us a completely independent entity.
 
 * *No conflicts of interest*: Similar to the previous point, we are truly an independent entity that operates without outside influence or outside investors. Other groups may have collaborations with industry and government entities, or are developing their work for the purpose of publication. We only have one purpose: to create the most accurate projections.
 
-* *Accounts for reopenings*: We are also one of the only models used by the CDC that factors in individual state-by-state or country-by-country reopenings, allowing us to make more realistic projections. Rather than pre-setting the type of reopening (e.g. full vs partial reopening), we allow our model to learn the effects based on the data.
-
 * *Daily updates*: Because our model is purely data-driven, it is quick to run and easy to regenerate. Unlike other models that are only updated once every few days, our model is updated on a daily basis, leading to more accurate projections.
+
+* *Minimal assumptions*: Because our model uses machine learning to learn the inputs and parameters, we minimize the number of assumptions we have to introduce. This allows us to avoid certain biases that can be present when incorporating various assumptions.
+
+* *Accounts for reopenings*: We were one of the first models used by the CDC that factors in individual state-by-state or country-by-country reopenings, allowing us to make more realistic projections. Rather than pre-setting the type of reopening (e.g. full vs partial reopening), we allow our model to learn the effects based on the data.
 
 * *Realistic simulations*: Unlike other models that try to create complex mathematical equations to "fit a curve" or estimate the growth rate, we try to simulate the disease exactly how they progress in reality: we start off with the entire population in a region, then on each day a certain proportion becomes infected, and those individuals spread the infections to others, and so forth. This makes our model easy to interpret and understand.
 
 * *Flexibility to create scenarios*: Because of model's realistic and flexible properties, we are able to generate varoius hypotheticals, such as what happens if everyone began social distancing [one week earlier](/us-1weekearlier) or [one week later](/us-1weeklater). We have also generated hypotheticals on what would happen in each region if there are [no reopenings](https://twitter.com/youyanggu/status/1260678487221796864). A model that simply uses a curve fitting function or tries to track the growth rate will not be able to generate such hypotheticals.
 
 * *Full disclosures of assumptions/limitations:* We describe our [assumptions](#assumptions) and [limitations](#limitations) in the sections below in order to be transparent about what our model can and cannot do. This is something we encourage all other models to provide in a clear manner.
-
-* *Minimal assumptions*: Because our model uses machine learning to learn the inputs and parameters, we minimize the number of assumptions we have to introduce. This allows us to avoid certain biases that can be present when incorporating various assumptions.
 
 * *Region-agnostic*: Our model is agnostic to the region, enabling us to make projections for all 50 US states (plus DC, PR, VI, Guam), 30+ US counties, and 70+ countries. To our best knowledge, this is the most comprehensive public model in terms of coverage. Due to our machine learning layer, we also do not require manual tuning for each region, allowing us to focus our time on improving our projections.
 
