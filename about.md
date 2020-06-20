@@ -451,21 +451,25 @@ National
 * [New York Times](https://www.nytimes.com/2020/05/05/us/coronavirus-deaths-cases-united-states.html) - May 5
 * [USA Today](https://www.usatoday.com/story/news/nation/2020/05/01/coronavirus-us-may-hit-10000-deaths-record-cases-may/3062216001/) - May 1
 * [New York Post](https://nypost.com/2020/04/29/georgia-coronavirus-death-rate-could-double-as-lockdown-eases/) - Apr 29
+
+Magazines/General News
 * [Reason](https://reason.com/2020/05/28/as-lockdowns-are-lifted-is-the-covid-19-reproductive-number-rising-or-falling/) - May 28
 * [Reason](https://reason.com/2020/05/01/covid-19-modeling-how-many-coronavirus-deaths-by-the-end-of-summer/) - May 1
 * [GeekWire](https://www.geekwire.com/2020/coronavirus-projections-converge-amid-concerns-pandemic-resurgence/) - Jun 9
 * [IEEE Spectrum](https://spectrum.ieee.org/the-human-os/biomedical/ethics/will-protests-increase-spread-covid19-coronavirus) - Jun 11
-- [Newsday](https://www.newsday.com/news/health/coronavirus/infectious-coronavirus-model-pandemic-1.45185224) - Jun 4
+* [GQ](https://www.gq.com/story/the-slowly-rising-tide-of-covid) - Jun 18
 * [The Bulwark](https://thebulwark.com/what-winning-the-war-on-covid-19-looks-like/) - May 21
 * [Bustle](https://www.bustle.com/p/is-it-safe-to-go-to-bars-restaurants-as-coronavirus-restrictions-ease-heres-what-experts-say-22904245) - May 22
 
 Local
+* [The Advocate (NOLA)](https://www.nola.com/news/coronavirus/article_b4ec117c-b020-11ea-a690-03d2e5a9e00e.html) - Jun 17
 * [The Mercury News](https://www.mercurynews.com/2020/05/26/graph-number-of-coronavirus-deaths-projected-in-santa-clara-county-by-sept-1/) - May 26
 * [The Mercury News](https://www.mercurynews.com/2020/05/04/california-prediction-artificial-intelligence-driven-model-tracks-coronavirus-infections-deaths/) - May 4
 * [Seattle Times](https://www.seattletimes.com/seattle-news/health/a-second-wave-of-coronavirus-infections-could-begin-in-september-uw-model-suggests/) - Jun 11
 * [Seattle Times](https://www.seattletimes.com/seattle-news/health/mathematical-models-help-predict-the-trajectory-of-the-coronavirus-outbreak-but-can-they-be-believed/) - May 3
 * [Star Tribune](https://www.startribune.com/health-experts-reopening-businesses-in-minnesota-will-spread-covid-19-but-how-much/570443112/) - May 13
 * [Boston 25 News](https://www.boston25news.com/news/health/model-shows-key-covid-19-statistic-rising-mass/NKYYFT7KD5F2XL6DFVT4GH4AZY/) - Jun 4
+* [Newsday](https://www.newsday.com/news/health/coronavirus/infectious-coronavirus-model-pandemic-1.45185224) - Jun 4
 * [Courthouse News](https://www.courthousenews.com/atlanta-businesses-navigate-uncharted-waters-as-georgia-reopens/) - May 6
 * [KUOW-FM](https://www.kuow.org/stories/updates-on-the-coronavirus-pandemic-in-washington-state) - May 18
 * [Arizona Republic](https://www.azcentral.com/story/news/local/arizona-health/2020/06/09/number-covid-19-going-up-arizona-increased-hospitalization/5328560002/) - Jun 9
