@@ -1,71 +1,71 @@
 country,region,subregion,tests_needed_per_day
-Algeria,,,9843
-Argentina,,,49393
+Algeria,,,7376
+Argentina,,,48057
 Australia,,,66
-Austria,,,1122
-Bangladesh,,,89199
+Austria,,,1007
+Bangladesh,,,86510
 Belarus,,,6361
-Belgium,,,5272
-Bolivia,,,45128
-Brazil,,,958073
-Bulgaria,,,7953
-Canada,,,51802
-Chile,,,257293
-China,,,256
-Colombia,,,140382
-Croatia,,,504
+Belgium,,,5792
+Bolivia,,,45227
+Brazil,,,936763
+Bulgaria,,,8902
+Canada,,,50870
+Chile,,,257095
+China,,,215
+Colombia,,,143748
+Croatia,,,438
 Cuba,,,165
-Cyprus,,,66
-Czechia,,,495
-Denmark,,,1469
-Dominican Republic,,,5198
-Ecuador,,,21492
-Egypt,,,81585
+Cyprus,,,58
+Czechia,,,479
+Denmark,,,1378
+Dominican Republic,,,5363
+Ecuador,,,20782
+Egypt,,,82806
 Estonia,,,165
-Finland,,,817
-France,,,20856
-Germany,,,34485
-Greece,,,726
-Honduras,,,9686
-Hungary,,,3622
+Finland,,,759
+France,,,25328
+Germany,,,29544
+Greece,,,710
+Honduras,,,10032
+Hungary,,,3465
 Iceland,,,17
-India,,,1066206
-Indonesia,,,49335
-Iran,,,147997
-Ireland,,,2022
-Israel,,,1593
-Italy,,,26095
-Japan,,,4554
-Kuwait,,,3589
+India,,,992797
+Indonesia,,,53617
+Iran,,,155595
+Ireland,,,1931
+Israel,,,1568
+Italy,,,59095
+Japan,,,4893
+Kuwait,,,3061
 Latvia,,,116
-Lithuania,,,619
+Lithuania,,,603
 Luxembourg,,,198
 Malaysia,,,314
-Malta,,,50
-Mexico,,,728046
-Moldova,,,17581
-Morocco,,,264
-Netherlands,,,9183
-Nigeria,,,17804
-Norway,,,561
-Pakistan,,,279065
-Panama,,,8828
-Peru,,,186978
-Philippines,,,11806
-Poland,,,30921
-Portugal,,,6567
-Romania,,,16583
-Russia,,,185535
-Saudi Arabia,,,76123
-Serbia,,,1131
+Malta,,,42
+Mexico,,,740628
+Moldova,,,18365
+Morocco,,,256
+Netherlands,,,7475
+Nigeria,,,19025
+Norway,,,495
+Pakistan,,,278867
+Panama,,,9001
+Peru,,,217347
+Philippines,,,12004
+Poland,,,30633
+Portugal,,,6246
+Romania,,,16938
+Russia,,,182688
+Saudi Arabia,,,77253
+Serbia,,,1056
 Slovakia,,,33
-Slovenia,,,223
-South Africa,,,146710
-South Korea,,,941
-Spain,,,16781
-Sweden,,,32604
-Switzerland,,,2310
-Turkey,,,7706
-Ukraine,,,35376
-United Arab Emirates,,,1436
-United Kingdom,,,72039
+Slovenia,,,198
+South Africa,,,143699
+South Korea,,,1403
+Spain,,,18744
+Sweden,,,31045
+Switzerland,,,1906
+Turkey,,,7029
+Ukraine,,,34345
+United Arab Emirates,,,1395
+United Kingdom,,,68723
