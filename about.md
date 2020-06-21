@@ -477,11 +477,12 @@ Local
 * [The Center Square](https://www.thecentersquare.com/florida/dueling-models-one-says-florida-s-covid-19-peak-has-passed-another-says-worst-to/article_2037bd12-a12d-11ea-b293-6fe15cef2ecb.html) - May 28
 
 International
-* [Reforma](https://refor.ma/5T-caimff)
+* [Reforma](https://refor.ma/5T-caimff) - May 28
 * [Alto Nivel](https://www.altonivel.com.mx/tecnologia/este-cientifico-del-mit-calcula-cuantos-moriran-por-covid-19-en-eu-y-en-mexico/) - May 21
 * [Univision](https://www.univision.com/local/arizona-ktvw/encienden-alarmas-en-arizona-por-incremento-de-contagios-por-coronavirus) - Jun 9
 * [Mexico Desconcido](https://www.mexicodesconocido.com.mx/un-cientifico-del-mit-calcula-cuantos-moriran-por-covid-19-en-mexico-y-eu.html) - May 24
 * [Paris Match](https://www.parismatch.com/Actu/International/Coronavirus-dans-19-Etats-americains-les-contaminations-augmentent-toujours-1689046) - Jun 10
+* [Outlook India](https://www.outlookindia.com/newsscroll/concerned-over-how-quickly-covid19-cases-are-rising-in-india-indianorigin-expert/1872706) - Jun 21
 
 [Back to Top](#top)
 
