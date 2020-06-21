@@ -22,7 +22,7 @@ On this page:
 ### Updated Daily - Last Updated: June 21 (4am ET):
 <p align="center">
   Current Total: <b>119,716</b> deaths | Projected Total: <b>183,005 deaths by Oct 1, 2020</b> (Range: 153-219k)<br>
-  Currently Infected: <b>0.4%</b> | Total Infected: <b>4.7%</b> {% include iframe.html %}
+  Currently Infected: <b>0.4%</b> | Total Infected: <b>4.8%</b> {% include iframe.html %}
 </p>
 
 [Back to Top](#top)
