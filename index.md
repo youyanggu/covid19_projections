@@ -19,7 +19,7 @@ On this page:
 * **June 11**: We have extended our projections to October 1, 2020.
 
 ## Current US Projections
-### Updated Daily - Last Updated: June 20 (4am ET):
+### Updated Daily - Last Updated: June 21 (4am ET):
 <p align="center">
   Current Total: <b>119,716</b> deaths | Projected Total: <b>183,005 deaths by Oct 1, 2020</b> (Range: 153-219k)<br>
   Currently Infected: <b>0.4%</b> | Total Infected: <b>4.7%</b> {% include iframe.html %}
@@ -37,9 +37,9 @@ To see more maps or for more details, visit our [Maps](/maps) page.
 
 ## US Deaths Likelihoods
 
-Below, we present the most likely dates that the US will surpass certain deaths milestones, as well as the probabilities of the US surpassing those milestones by different time horizons. For example, we estimate a 87% chance that the US surpasses 125,000 deaths by July 1, with June 29 being the most likely date.
+Below, we present the most likely dates that the US will surpass certain deaths milestones, as well as the probabilities of the US surpassing those milestones by different time horizons. For example, we estimate a 88% chance that the US surpasses 125,000 deaths by July 1, with June 29 being the most likely date.
 
-Last updated: Jun 20, 2020
+Last updated: Jun 21, 2020
 
 |   US deaths surpass: |   Most likely date: |
 |----------------------|---------------------|
