@@ -7,7 +7,7 @@ permalink: /about/
 ## Table of contents
 * [About the Model](#about-the-model)
 * [How Our Model is Different](#how-our-model-is-different)
-* [Historical Performance **(Updated Jun 16)**](#historical-performance)
+* [Historical Performance **(Updated Jun 22)**](#historical-performance)
 * [CDC Projections Over Time](#cdc-projections-over-time)
 * [Historical US Projections *(Updated Daily)*](#historical-us-projections)
 * [Data and Output](#data-and-output)
@@ -85,36 +85,33 @@ See an [analysis of our model](https://twitter.com/CT_Bergstrom/status/125534384
 
 ## Historical Performance
 
-**June 16 Update:** We released the code to evaluate COVID-19 models: https://github.com/youyanggu/covid19-forecast-hub-evaluation
+**June 16 Update:** We released the code and data to evaluate COVID-19 models: https://github.com/youyanggu/covid19-forecast-hub-evaluation
 
 A model isn't very useful if it's not accurate. Below is our analysis on how various models considered by the CDC have performed over the past few weeks. Because the CDC receives weekly projections from every Monday, we use projections from past Mondays to evaluate the models.
 
-[Click here](/historical-performance) to see performance evaluations for past dates.
+[Click here](/historical-performance) to see our past weekly performance evaluations. We believe it's important to look at multiple evaluations to get a more comprehensive idea of model consistency/accuracy.
 
-### June 13 evaluation of state-by-state projections
+### Evaluation of past state-by-state projections on cumulative deaths as of June 20
 
-![States comparison](/assets/images/2020-06-13_comparison_states.png)
+![States comparison](/assets/images/2020-06-20_comparison_states.png)
 
-### June 13 evaluation of US projections
+### Evaluation of past US projections on cumulative deaths as of June 20
 
-![US comparison](/assets/images/2020-06-13_comparison_us.png)
+![US comparison](/assets/images/2020-06-20_comparison_us.png)
 
 [Back to Top](#top)
 
 ### Observations
 
 * A baseline model that simply uses the previous week's average deaths to make future projections outperforms many models for short-term forecasts.
+* Because US country-wide projections only contains a single forecast per week, there is much higher variance week-to-week compared to state-by-state projections, where there are 51 forecasts each week. As a result, we recommend focusing on the state-by-state evaluations.
 * We are the only model that beats the baseline model every week for every past projection.
 * A handful of models consistently outperform the remainder of the models.
-* The IHME model, a model frequently cited by the White House and media, consistently performs in the bottom half of all models for both its US projections and state-by-state projections. The model also frequently fails to beat the baseline model.
 * The [COVIDhub ensemble model](https://github.com/reichlab/covid19-forecast-hub/#ensemble-model) is created by taking a combination of all eligible models that submit projections to the CDC. Our projections are included in this ensemble.
+* The IHME model, a model frequently cited by the White House and media, consistently performs in the bottom half of all models for its state-by-state projections. The model also frequently fails to beat the baseline model.
 * For state-by-state projections, we evaluate all models that have 4+ week projections for more than 40 states. For models with missing state projections, we use the mean projection for that state (among all the models).
 * While past performance is not necessarily indicative of future performance, we believe it's important to consider a model's historical accuracy and not just a model's future forecasts and/or the creator's name recognition. It is also important to make sure that a model can perform better than the baseline.
 * We welcome and encourage independent model evaluations. See [here](https://twitter.com/FelixHoenikker_/status/1262517002507182080) for an evaluation from a PhD data scientist at NASA Ames.
-
-Projections taken from: [https://github.com/reichlab/covid19-forecast-hub](https://github.com/reichlab/covid19-forecast-hub)
-
-Truth data from Johns Hopkins: [https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series](https://github.com/CSSEGISandData/COVID-19)
 
 [Back to Top](#top)
 
