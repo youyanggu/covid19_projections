@@ -1,5 +1,5 @@
 country,region,subregion,daily_deaths,daily_deaths_lower,daily_deaths_upper
-US,CA,Los Angeles,35,22,50
+US,CA,Los Angeles,35,15,52
 Canada,,Quebec,32,16,46
 US,IL,Cook,31,19,40
 US,NY,New York City,17,3,33
