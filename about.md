@@ -85,11 +85,11 @@ See an [analysis of our model](https://twitter.com/CT_Bergstrom/status/125534384
 
 ## Historical Performance
 
-**June 16 Update:** We released the code and data to evaluate COVID-19 models: https://github.com/youyanggu/covid19-forecast-hub-evaluation
-
 A model isn't very useful if it's not accurate. Below is our analysis on how various models considered by the CDC have performed over the past few weeks. Because the CDC receives weekly projections from every Monday, we use projections from past Mondays to evaluate the models.
 
-[Click here](/historical-performance) to see our past weekly performance evaluations. We believe it's important to look at multiple evaluations to get a more comprehensive idea of model consistency/accuracy.
+We have open-sourced the code and data used to evaluate COVID-19 models: [https://github.com/youyanggu/covid19-forecast-hub-evaluation](https://github.com/youyanggu/covid19-forecast-hub-evaluation). We believe in a fully transparent evaluation methodology, and publicly releasing all of our code and data is the best way to do so.
+
+[Click here](/historical-performance) to see our past weekly performance evaluations. We believe it's important to look at past evaluations to get a more comprehensive idea of model consistency/accuracy.
 
 ### Evaluation of past state-by-state projections on cumulative deaths as of June 20
 
