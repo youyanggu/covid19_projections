@@ -10,6 +10,9 @@ On this page, we present a weekly evaluation of our model's historical performan
 
 We have open-sourced the code and output used to generate these evaluations [here](https://github.com/youyanggu/covid19-forecast-hub-evaluation/#methods). We believe in a fully transparent evaluation methodology, and publicly releasing all of our code and data is the best way to do so.
 
+The charts below represent past state-by-state and US projections evaluated on cumulative deaths on the specified evaluation date (June 20, June 13, etc).
+
+* [June 20](#june-20)
 * [June 13](#june-13)
 * [June 6](#june-6)
 * [May 30](#may-30)
@@ -17,6 +20,16 @@ We have open-sourced the code and output used to generate these evaluations [her
 * [May 16](#may-16)
 * [May 9](#may-9)
 * [May 2](#may-2)
+
+## June 20
+
+### State-by-state projections
+
+![States comparison](/assets/images/2020-06-20_comparison_states.png)
+
+### US projections
+
+![US comparison](/assets/images/2020-06-20_comparison_us.png)
 
 ## June 13
 
