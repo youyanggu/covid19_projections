@@ -480,6 +480,7 @@ Local
 * [The Center Square](https://www.thecentersquare.com/florida/dueling-models-one-says-florida-s-covid-19-peak-has-passed-another-says-worst-to/article_2037bd12-a12d-11ea-b293-6fe15cef2ecb.html) - May 28
 
 International
+* [La Tercera](https://www.latercera.com/la-tercera-pm/noticia/youyang-gu-creador-de-la-plataforma-covid19-projections-creemos-que-el-peak-para-chile-sera-en-los-proximos-30-dias-con-200-a-300-muertes-diarias/JYVJDO5WFZE6LKDODQMSKW2YHY/) - Jun 22
 * [Reforma](https://refor.ma/5T-caimff) - May 28
 * [Alto Nivel](https://www.altonivel.com.mx/tecnologia/este-cientifico-del-mit-calcula-cuantos-moriran-por-covid-19-en-eu-y-en-mexico/) - May 21
 * [Univision](https://www.univision.com/local/arizona-ktvw/encienden-alarmas-en-arizona-por-incremento-de-contagios-por-coronavirus) - Jun 9
@@ -497,8 +498,14 @@ International
 
 ## Updates
 
+2020-06-23
+* We have open-sourced the underlying [SEIR simulator](https://github.com/youyanggu/yyg-seir-simulator) behind our model
+
+2020-06-16
+* We have open-sourced our code to [evaluate COVID-19 models](https://github.com/youyanggu/covid19-forecast-hub-evaluation). The goal of this project is to evaluate various models’ historical point forecasts in a transparent, rigorous, and non-biased manner
+
 2020-06-15
-* Switch main data source from Johns Hopkins [Daily Reports](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports) to Johns Hopkins [Time Series Summary](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series).
+* Switch main data source from Johns Hopkins [Daily Reports](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports) to Johns Hopkins [Time Series Summary](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series)
 
 2020-06-11
 * Extended projection end date from September 1 to October 1
