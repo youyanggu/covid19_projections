@@ -202,6 +202,12 @@ The current and total infections estimates in our projections are at the core of
 
 [Back to Top](#top)
 
+### Fall Wave
+
+The future is uncertain, and many things can happen between now and Fall that will change the trajectory of this epidemic. While we believe a September/October increase in deaths is [unlikely](https://twitter.com/youyanggu/status/1271395005219745792), we do think it is possible that the rate of transmission may increase as we head towards winter. We currently assume a 0-0.2% daily increase in the transmission rate (R_t) starting in the fall (end of September). This assumption is subject to change as we get closer to the date.
+
+[Back to Top](#top)
+
 ### Effective Reproduction Number (R)
 
 One of the most important properties for any infectious disease is the [basic reproduction number](https://en.wikipedia.org/wiki/Basic_reproduction_number), known as R<sub>0</sub>. Rather than pre-setting this value based on assumptions, our model is able to learn the value that most closely matches the data. For Italy, the R<sub>0</sub> is found to be around 2.4-2.8, while for New York City, the R<sub>0</sub> is 5.4-5.8. This means that on average, an infected person in New York City will infect 5.4 to 5.8 additional people. For most regions, the R<sub>0</sub> is found to be around 2, which matches [the WHO findings](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf). We are able to generate a plot of how the R value changes over time for all of our projections. To see our estimates of R values for every state and country, see our [Infections Tracker](/infections-tracker/) page.
