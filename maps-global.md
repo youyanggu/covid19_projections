@@ -21,7 +21,9 @@ We created the *C19Pro Score* for both cases and deaths to show where weekly cas
 You can download historical C19Pro Scores [here](https://github.com/youyanggu/covid19_projections/tree/master/c19pro_score).
 
 We created this score to try to encapsulate three important factors into a single number: absolute new daily cases (sheer number of cases), rate of change in cases (how fast cases are changing), cases per capita (prevalence relative to population). It is defined as follows:
+
 ```score = scaled(-avg_daily_cases_per_1mil * mean(Δcases * |cases_%_change|, Δcases_per_1_mil))```
+
 - where `Δcases` is the change in cases (7-day moving average) from 7 days ago and `scaled()` is a function that maps all values to -100 to 100. A negative value means that cases are increasing.
 - We also apply the same formula for deaths to show where deaths are changing the most.
 
