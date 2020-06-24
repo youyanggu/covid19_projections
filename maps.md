@@ -16,6 +16,8 @@ Note that our future projections have a high degree of uncertainty which is not 
 
 *Mobile users: We recommend using landscape mode for optimized viewing of this page.*
 
+[Back to Top](#top)
+
 ### C19Pro Score
 
 We created the *C19Pro Score* for both cases and deaths to show where weekly cases and deaths are changing the most. They are shown in the first two maps below.
@@ -36,6 +38,8 @@ We created this score to try to encapsulate three important factors into a singl
 
 - Cases and deaths: [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series)
 - Tests (US only): [The COVID Tracking Project](https://covidtracking.com/)
+
+[Back to Top](#top)
 
 ### Definitions
 - *Infections:* Number of all infected individuals of the SARS-CoV-2 virus, not just those that took a COVID-19 test and tested positive. The vast majority of infected individuals in our estimate do not get tested, and thus do not get reported as a positive case. As of June, we estimate the true number of infected individuals in the US is ~5x higher than the reported cases.
