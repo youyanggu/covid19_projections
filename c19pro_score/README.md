@@ -4,7 +4,7 @@ Here we present the raw data used to compute the C19Pro Score on our [Maps](http
 
 Read more about how we compute the C19Pro Score [here](https://covid19-projections.com/maps/#c19pro-score).
 
-## Sources:
+## Data Source
 
 - Cases and deaths: [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series)
 - Tests (US only): [The COVID Tracking Project](https://covidtracking.com/)
