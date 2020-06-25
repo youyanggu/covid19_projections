@@ -107,6 +107,8 @@ Having no model is better than having IHME's model.
 
 ![Baseline comparison](/assets/images/baseline_comparison_june20.png)
 
+The pattern is similar for other dates as well. See our [open source evaluation](https://github.com/youyanggu/covid19-forecast-hub-evaluation/tree/master/summary) for more.
+
 [Back to Top](#top)
 
 ### Observations
