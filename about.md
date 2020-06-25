@@ -190,7 +190,7 @@ As of June 1, our model no longer assumes a second lockdown.
 
 #### Post-reopening
 
-After a reopening, we assume that the spread will decrease over time due to improvements in contact testing and greater awareness within the population. In the initial stages of the reopening, this phenomenon will likely be dwarfed by the act of the reopening itself, hence leading to a plateau or increase in cases. But after the rate of reopening for a region has plateaued 1-2 months later, we expect to see a gradual decline in transmission and hence a decline in infections and deaths. Of course, this assumption is highly subject to change based on the data.
+After a reopening, we assume that the spread will decrease over time due to improvements in contact testing, increased mask wearing, and greater awareness within the population. In the initial stages of the reopening, this phenomenon will likely be dwarfed by the act of the reopening itself, hence leading to a plateau or increase in cases. But after the rate of reopening for a region has plateaued 1-2 months later, we expect to see a gradual decline in transmission and hence a decline in infections and deaths. Of course, this assumption is highly subject to change based on the data.
 
 We assume a very small daily decay in the transmission rate (R) starting from roughly 30 days after reopening (~0-0.5%). The decay is compoundly applied until the R drops below 1, at which point we stop applying further decays. As the exact value of the decay is unknown ahead of time, we initially sample this decay from a random distribution. As time goes on and we obtain more data regarding the post-reopening effects, our model will learn this decay.
 
