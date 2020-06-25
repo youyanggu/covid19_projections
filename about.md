@@ -101,7 +101,7 @@ We have open-sourced the code and data used to evaluate COVID-19 models: [https:
 
 ### Baseline Comparison: C19Pro vs IHME
 
-If on June 1, you simply assume each state's average daily deaths from the week before will be unchanged for the next 3 weeks, you can make a better forecast than IHME for 30 out of 50 states.
+If on June 1, you simply assume each state's average daily deaths from the week before will be unchanged for the next 3 weeks, you can make a better forecast than IHME for 30 out of 50 states. This is equivalent to extending a straight line on the daily deaths plots.
 
 Having no model is better than having IHME's model.
 
