@@ -1,39 +1,39 @@
 country,region,subregion,tests_needed_per_day
 Canada,,Alberta,726
-Canada,,British Columbia,1007
-Canada,,Ontario,9042
-Canada,,Quebec,25353
-US,AZ,Maricopa,27712
-US,CA,Alameda,776
-US,CA,Los Angeles,68937
-US,CA,Orange,12788
-US,CA,Riverside,12111
-US,CA,Sacramento,322
-US,CA,San Bernardino,3713
-US,CA,San Diego,4992
-US,CA,Santa Clara,561
-US,FL,Broward,5388
+Canada,,British Columbia,1023
+Canada,,Ontario,9174
+Canada,,Quebec,25105
+US,AZ,Maricopa,29535
+US,CA,Alameda,1172
+US,CA,Los Angeles,68055
+US,CA,Orange,14273
+US,CA,Riverside,11484
+US,CA,Sacramento,363
+US,CA,San Bernardino,4604
+US,CA,San Diego,5330
+US,CA,Santa Clara,677
+US,FL,Broward,5280
 US,FL,Hillsborough,5099
-US,FL,Miami-Dade,16525
-US,FL,Orange,553
-US,FL,Palm Beach,11971
-US,IL,Cook,22638
-US,LA,Orleans,1444
-US,MA,Middlesex,4662
-US,MA,Suffolk,1807
-US,MI,Wayne,4175
-US,NJ,Bergen,2013
-US,NJ,Essex,1733
-US,NJ,Hudson,2533
-US,NV,Clark,4926
-US,NV,Washoe,1114
-US,NY,Nassau,1477
-US,NY,New York City,4373
-US,NY,Suffolk,3078
-US,NY,Westchester,1040
-US,PA,Philadelphia,6411
-US,TX,Bexar,2508
-US,TX,Dallas,12804
-US,TX,Harris,13374
-US,TX,Tarrant,7475
-US,WA,King,1873
+US,FL,Miami-Dade,18117
+US,FL,Orange,627
+US,FL,Palm Beach,12054
+US,IL,Cook,22729
+US,LA,Orleans,1362
+US,MA,Middlesex,6798
+US,MA,Suffolk,2838
+US,MI,Wayne,6378
+US,NJ,Bergen,5223
+US,NJ,Essex,3144
+US,NJ,Hudson,3045
+US,NV,Clark,4678
+US,NV,Washoe,1007
+US,NY,Nassau,3061
+US,NY,New York City,10470
+US,NY,Suffolk,6056
+US,NY,Westchester,2046
+US,PA,Philadelphia,11831
+US,TX,Bexar,3036
+US,TX,Dallas,12507
+US,TX,Harris,14322
+US,TX,Tarrant,6675
+US,WA,King,3012
