@@ -105,6 +105,8 @@ If on June 1, you simply assume each state's average daily deaths from the week 
 
 Having no model is better than having IHME's model.
 
+In addition, our forecasts not only outperform the baseline, but also outperforms the IHME model for 35 out of the 50 states (70%).
+
 ![Baseline comparison](/assets/images/baseline_comparison_june20.png)
 
 [Back to Top](#top)
