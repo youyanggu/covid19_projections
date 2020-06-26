@@ -1,71 +1,71 @@
 country,region,subregion,tests_needed_per_day
-Algeria,,,8292
-Argentina,,,47322
+Algeria,,,8283
+Argentina,,,48469
 Australia,,,83
-Austria,,,1254
-Bangladesh,,,84200
-Belarus,,,6204
-Belgium,,,6114
-Bolivia,,,52594
-Brazil,,,1093596
-Bulgaria,,,8415
-Canada,,,49030
-Chile,,,104280
+Austria,,,1345
+Bangladesh,,,82096
+Belarus,,,6147
+Belgium,,,6163
+Bolivia,,,54170
+Brazil,,,1090395
+Bulgaria,,,8160
+Canada,,,48609
+Chile,,,103876
 China,,,215
-Colombia,,,149796
+Colombia,,,146908
 Croatia,,,446
 Cuba,,,182
 Cyprus,,,132
-Czechia,,,1197
-Denmark,,,1436
-Dominican Republic,,,7368
-Ecuador,,,19998
-Egypt,,,97738
+Czechia,,,1246
+Denmark,,,1428
+Dominican Republic,,,7392
+Ecuador,,,20741
+Egypt,,,98365
 Estonia,,,388
 Finland,,,759
-France,,,27036
-Germany,,,32885
-Greece,,,636
-Honduras,,,13695
-Hungary,,,3482
+France,,,27184
+Germany,,,33174
+Greece,,,652
+Honduras,,,13514
+Hungary,,,3465
 Iceland,,,50
-India,,,883179
-Indonesia,,,44575
-Iran,,,185345
+India,,,870293
+Indonesia,,,45532
+Iran,,,199857
 Ireland,,,2104
-Israel,,,1617
-Italy,,,58443
-Japan,,,4950
-Kuwait,,,3243
+Israel,,,1626
+Italy,,,58848
+Japan,,,4983
+Kuwait,,,3127
 Latvia,,,289
-Lithuania,,,627
+Lithuania,,,611
 Luxembourg,,,198
 Malaysia,,,1056
 Malta,,,42
-Mexico,,,1027546
-Moldova,,,17647
+Mexico,,,1024626
+Moldova,,,17152
 Morocco,,,322
-Netherlands,,,11171
-Nigeria,,,18373
+Netherlands,,,11212
+Nigeria,,,17334
 Norway,,,561
-Pakistan,,,236759
-Panama,,,12466
-Peru,,,200442
-Philippines,,,12342
-Poland,,,32126
-Portugal,,,6312
-Romania,,,18711
-Russia,,,162674
-Saudi Arabia,,,61834
-Serbia,,,1073
+Pakistan,,,216695
+Panama,,,13596
+Peru,,,197835
+Philippines,,,12367
+Poland,,,32992
+Portugal,,,6493
+Romania,,,18819
+Russia,,,155348
+Saudi Arabia,,,62032
+Serbia,,,1098
 Slovakia,,,108
 Slovenia,,,198
-South Africa,,,157980
-South Korea,,,1461
-Spain,,,19157
-Sweden,,,32200
-Switzerland,,,1980
-Turkey,,,30938
-Ukraine,,,33165
+South Africa,,,157930
+South Korea,,,1452
+Spain,,,19272
+Sweden,,,31515
+Switzerland,,,1989
+Turkey,,,30897
+Ukraine,,,33446
 United Arab Emirates,,,1527
-United Kingdom,,,69606
+United Kingdom,,,72015
