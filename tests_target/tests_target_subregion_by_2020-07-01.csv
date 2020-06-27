@@ -1,39 +1,39 @@
 country,region,subregion,tests_needed_per_day
 Canada,,Alberta,735
-Canada,,British Columbia,1065
-Canada,,Ontario,9249
-Canada,,Quebec,24693
-US,AZ,Maricopa,28364
-US,CA,Alameda,1461
-US,CA,Los Angeles,68310
-US,CA,Orange,14405
-US,CA,Riverside,11245
+Canada,,British Columbia,1139
+Canada,,Ontario,9315
+Canada,,Quebec,24750
+US,AZ,Maricopa,33751
+US,CA,Alameda,1642
+US,CA,Los Angeles,70703
+US,CA,Orange,17037
+US,CA,Riverside,11872
 US,CA,Sacramento,363
-US,CA,San Bernardino,4719
-US,CA,San Diego,5462
+US,CA,San Bernardino,4596
+US,CA,San Diego,6048
 US,CA,Santa Clara,677
-US,FL,Broward,5206
-US,FL,Hillsborough,5858
-US,FL,Miami-Dade,18225
-US,FL,Orange,743
-US,FL,Palm Beach,12037
-US,IL,Cook,22704
-US,LA,Orleans,1337
-US,MA,Middlesex,6741
-US,MA,Suffolk,3036
-US,MI,Wayne,6559
-US,NJ,Bergen,5124
-US,NJ,Essex,3152
-US,NJ,Hudson,2946
-US,NV,Clark,4884
-US,NV,Washoe,1065
-US,NY,Nassau,3069
-US,NY,New York City,10577
-US,NY,Suffolk,6039
-US,NY,Westchester,2046
-US,PA,Philadelphia,11790
-US,TX,Bexar,3366
-US,TX,Dallas,12681
-US,TX,Harris,14578
-US,TX,Tarrant,7549
-US,WA,King,3053
+US,FL,Broward,7656
+US,FL,Hillsborough,9480
+US,FL,Miami-Dade,28611
+US,FL,Orange,1164
+US,FL,Palm Beach,15791
+US,IL,Cook,23067
+US,LA,Orleans,1155
+US,MA,Middlesex,6262
+US,MA,Suffolk,2690
+US,MI,Wayne,5264
+US,NJ,Bergen,4365
+US,NJ,Essex,2649
+US,NJ,Hudson,2269
+US,NV,Clark,5305
+US,NV,Washoe,1032
+US,NY,Nassau,2599
+US,NY,New York City,10857
+US,NY,Suffolk,5322
+US,NY,Westchester,1716
+US,PA,Philadelphia,11831
+US,TX,Bexar,7227
+US,TX,Dallas,28991
+US,TX,Harris,36193
+US,TX,Tarrant,15213
+US,WA,King,3193
