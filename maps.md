@@ -31,8 +31,8 @@ We created this score to try to encapsulate three important factors into a singl
 ```C19Pro_Score = scaled(-avg_daily_cases_per_1mil * mean(Δcases * |cases_%_change|, Δcases_per_1_mil))```
 
 - where `Δcases` is the change in cases (7-day moving average) from 7 days ago and `scaled()` is a function that maps all values to -100 to 100. A negative value means that cases are increasing.
-- For US cases, we also incorporating changes in testing. If states report increasing cases, we increase their C19Pro Score if they also report increasing tests. Conversely, if states report decreasing cases, we decrease their C19Pro Score if they report decreasing tests.
-- We also apply the same formula for deaths to show where deaths are changing the most.
+- For our US C19Pro Scores for cases, we also incorporating changes in testing. If a state report increasing cases, we increase (improve) their C19Pro Score if they also report increasing tests. Conversely, if states report decreasing cases, we decrease their C19Pro Score if they report decreasing tests.
+- We apply the same formula for deaths to show where deaths are changing the most.
 
 #### Data Source
 
