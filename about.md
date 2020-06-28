@@ -7,7 +7,7 @@ permalink: /about/
 ## Table of contents
 * [About the Model](#about-the-model)
 * [How Our Model is Different](#how-our-model-is-different)
-* [Historical Performance **(Updated Jun 25)**](#historical-performance)
+* [Historical Performance **(Updated Jun 28)**](#historical-performance)
 * [CDC Projections Over Time](#cdc-projections-over-time)
 * [Historical US Projections *(Updated Daily)*](#historical-us-projections)
 * [Data and Output](#data-and-output)
@@ -19,11 +19,11 @@ permalink: /about/
   * [Infection Fatality Rate (IFR)](#infection-fatality-rate-ifr)
   * [Undetected Deaths](#undetected-deaths)
 * [Limitations](#limitations)
-* [Concerns with the IHME model **(Updated Jun 12)**](#concerns-with-the-ihme-model)
-  * [Comparison of Data Sources **(New Jun 12)**](#comparison-of-data-sources)
+* [Concerns with the IHME model *(Updated Jun 12)*](#concerns-with-the-ihme-model)
+  * [Comparison of Data Sources *(New Jun 12)*](#comparison-of-data-sources)
   * [May 4 Revision](#may-4-revision)
   * [June 8 Revision](#june-8-revision)
-  * [June 10 Revision **(New Jun 10)**](#june-8-revision)
+  * [June 10 Revision *(New Jun 10)*](#june-8-revision)
   * [State Reopening Timeline](#state-reopening-timeline)
 * [Government/Media Coverage](#online-coverage)
 * [Who We Are](#who-we-are)
@@ -91,13 +91,13 @@ We have open-sourced the code and data used to evaluate COVID-19 models: [https:
 
 [Click here](/historical-performance) to see our past weekly performance evaluations. We believe it's important to look at past evaluations to get a more comprehensive idea of model consistency/accuracy.
 
-### Evaluation of past state-by-state projections on cumulative deaths as of June 20
+### Evaluation of past state-by-state projections on cumulative deaths as of June 27
 
-![States comparison](/assets/images/2020-06-20_comparison_states.png)
+![States comparison](/assets/images/2020-06-27_comparison_states.png)
 
-### Evaluation of past US projections on cumulative deaths as of June 20
+### Evaluation of past US projections on cumulative deaths as of June 27
 
-![US comparison](/assets/images/2020-06-20_comparison_us.png)
+![US comparison](/assets/images/2020-06-27_comparison_us.png)
 
 ### Baseline Comparison: C19Pro vs IHME
 
@@ -115,7 +115,6 @@ The pattern is similar for other dates as well. See our [open source evaluation]
 
 * A baseline model that simply uses the previous week's average deaths to make future projections outperforms many models for short-term forecasts.
 * Because US country-wide projections only contains a single forecast per week, there is much higher variance week-to-week compared to state-by-state projections, where there are 51 forecasts each week. As a result, we believe state-by-state evaluations is a better indicator of model performance. This same concept is why we play 7-game series for NBA/NHL/MLB playoffs.
-* We are the only model that beats the baseline model every week for every past projection.
 * A handful of models consistently outperform the remainder of the models. The top 3 best-performing models every week for state-by-state projections almost always comes from one of these 5 models: covid19-projections.com, UCLA, Los Alamos (LANL), UMass Amherst, COVIDhub Ensemble.
 * The [COVIDhub ensemble model](https://github.com/reichlab/covid19-forecast-hub/#ensemble-model) is created by taking a combination of all eligible models that submit projections to the CDC. Our projections are included in this ensemble.
 * The IHME model, a model frequently cited by the White House and media, consistently performs in the bottom half of all models for its state-by-state projections. The model also frequently fails to beat the baseline model.
