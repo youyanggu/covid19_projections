@@ -12,6 +12,7 @@ We have open-sourced the code and output used to generate these evaluations [her
 
 The charts below represent past state-by-state and US projections evaluated on cumulative deaths on the specified evaluation date (June 20, June 13, etc).
 
+* [June 20](#june-27)
 * [June 20](#june-20)
 * [June 13](#june-13)
 * [June 6](#june-6)
@@ -20,6 +21,16 @@ The charts below represent past state-by-state and US projections evaluated on c
 * [May 16](#may-16)
 * [May 9](#may-9)
 * [May 2](#may-2)
+
+## June 27
+
+### State-by-state projections
+
+![States comparison](/assets/images/2020-06-27_comparison_states.png)
+
+### US projections
+
+![US comparison](/assets/images/2020-06-27_comparison_us.png)
 
 ## June 20
 
