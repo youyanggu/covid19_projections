@@ -97,6 +97,8 @@ We have open-sourced the code and data used to evaluate COVID-19 models: [https:
 
 ### Evaluation of past US projections on cumulative deaths as of June 27
 
+Note: On June 25, New Jersey added 1,854 probable deaths, thereby significantly skewing US death reports. As a result, the below evaluation may not the best representative of model accuracy. Read more [here](#observations).
+
 ![US comparison](/assets/images/2020-06-27_comparison_us.png)
 
 ### Baseline Comparison: C19Pro vs IHME
