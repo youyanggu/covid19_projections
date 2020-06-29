@@ -1,57 +1,57 @@
 country,region,subregion,tests_needed_per_day
-US,,,1165296
-US,Alaska,,421
-US,Alabama,,33231
-US,Arkansas,,14578
-US,Arizona,,67164
-US,California,,190262
-US,Colorado,,13638
-US,Connecticut,,7260
-US,District of Columbia,,2690
-US,Delaware,,3350
-US,Florida,,125895
-US,Georgia,,56307
+US,,,1141025
+US,Alaska,,413
+US,Alabama,,35261
+US,Arkansas,,14413
+US,Arizona,,65563
+US,California,,189808
+US,Colorado,,10824
+US,Connecticut,,7269
+US,District of Columbia,,2706
+US,Delaware,,3317
+US,Florida,,125400
+US,Georgia,,55531
 US,Guam,,33
 US,Hawaii,,75
-US,Iowa,,8597
-US,Idaho,,999
-US,Illinois,,51134
-US,Indiana,,29890
-US,Kansas,,3276
-US,Kentucky,,7813
-US,Louisiana,,15477
-US,Massachusetts,,19941
-US,Maryland,,21970
-US,Maine,,743
-US,Michigan,,12945
-US,Minnesota,,20279
-US,Missouri,,11682
+US,Iowa,,8613
+US,Idaho,,990
+US,Illinois,,50812
+US,Indiana,,20848
+US,Kansas,,3218
+US,Kentucky,,7788
+US,Louisiana,,15642
+US,Massachusetts,,19528
+US,Maryland,,21945
+US,Maine,,735
+US,Michigan,,12961
+US,Minnesota,,14545
+US,Missouri,,11427
 US,Northern Mariana Islands,,33
-US,Mississippi,,20642
+US,Mississippi,,25377
 US,Montana,,405
-US,North Carolina,,39914
-US,North Dakota,,1040
-US,Nebraska,,9125
-US,New Hampshire,,5916
-US,New Jersey,,19561
-US,New Mexico,,5965
-US,Nevada,,6369
-US,New York,,25188
-US,Ohio,,35583
-US,Oklahoma,,4992
-US,Oregon,,5132
-US,Pennsylvania,,35286
-US,Puerto Rico,,966
-US,Rhode Island,,8003
-US,South Carolina,,28653
-US,South Dakota,,2937
-US,Tennessee,,24107
-US,Texas,,105716
-US,Utah,,10230
+US,North Carolina,,44575
+US,North Dakota,,1048
+US,Nebraska,,8778
+US,New Hampshire,,4167
+US,New Jersey,,19611
+US,New Mexico,,5924
+US,Nevada,,7830
+US,New York,,25468
+US,Ohio,,29346
+US,Oklahoma,,4876
+US,Oregon,,4917
+US,Pennsylvania,,34477
+US,Puerto Rico,,974
+US,Rhode Island,,7978
+US,South Carolina,,28438
+US,South Dakota,,2855
+US,Tennessee,,24041
+US,Texas,,101088
+US,Utah,,10074
 US,Virginia,,18728
 US,Virgin Islands,,33
 US,Vermont,,165
-US,Washington,,13101
-US,Wisconsin,,16748
-US,West Virginia,,768
+US,Washington,,12994
+US,Wisconsin,,16063
+US,West Virginia,,751
 US,Wyoming,,339
