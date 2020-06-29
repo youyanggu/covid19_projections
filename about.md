@@ -412,6 +412,8 @@ As recently as May 3, IHME projected 304 (0-1644) **total** deaths in the US fro
 
 New data is extremely important when making projections such as these. That's why we update our model daily based on the new data we receive. Projections using today's data is much more valuable than projections from 2-3 days ago. However, due to certain constraints, IHME is only able to update their model 1-2 times a week: *"Our ambition to produce daily updates has proven to be unrealistic given the relative size of our team and the effort required to fully process, review, and vet large amounts of data alongside implementing model updates."* 
 
+![IHME days before update](/assets/images/ihme_days_before_update.png)
+
 [Back to Top](#top)
 
 ### Mobility Data
