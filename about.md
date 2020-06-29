@@ -101,11 +101,11 @@ We have open-sourced the code and data used to evaluate COVID-19 models: [https:
 
 ### Baseline Comparison: C19Pro vs IHME
 
-If on June 1, you simply assume each state's average daily deaths from the week before will be unchanged for the next 3 weeks, you can make a better forecast than IHME for the majorit of the 50 states (+DC). This is equivalent to extending a straight line on the daily deaths plots.
+If on June 1, you simply assume each state/country's average daily deaths from the week before will be unchanged for the next 4 weeks, you can make a better forecasts than IHME. This is equivalent to extending a straight line on the daily deaths plots.
 
-![Baseline comparison US](/assets/images/baseline_comparison_june28.png)
+![Baseline comparison US](/assets/images/baseline_comparison_june27.png)
 
-![Baseline comparison Global](/assets/images/baseline_comparison_global_june28.png)
+![Baseline comparison Global](/assets/images/baseline_comparison_global_june27.png)
 
 The pattern is similar for other dates as well. See our [open source evaluation](https://github.com/youyanggu/covid19-forecast-hub-evaluation) for more.
 
