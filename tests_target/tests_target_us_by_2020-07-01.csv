@@ -1,57 +1,57 @@
 country,region,subregion,tests_needed_per_day
-US,,,1141025
+US,,,1140942
 US,Alaska,,413
-US,Alabama,,35261
-US,Arkansas,,14413
-US,Arizona,,65563
-US,California,,189808
-US,Colorado,,10824
-US,Connecticut,,7269
+US,Alabama,,36003
+US,Arkansas,,14166
+US,Arizona,,65068
+US,California,,189552
+US,Colorado,,10841
+US,Connecticut,,7302
 US,District of Columbia,,2706
 US,Delaware,,3317
-US,Florida,,125400
-US,Georgia,,55531
+US,Florida,,125186
+US,Georgia,,55498
 US,Guam,,33
 US,Hawaii,,75
-US,Iowa,,8613
+US,Iowa,,8704
 US,Idaho,,990
-US,Illinois,,50812
-US,Indiana,,20848
-US,Kansas,,3218
-US,Kentucky,,7788
-US,Louisiana,,15642
-US,Massachusetts,,19528
+US,Illinois,,50754
+US,Indiana,,20832
+US,Kansas,,3259
+US,Kentucky,,7772
+US,Louisiana,,15618
+US,Massachusetts,,19759
 US,Maryland,,21945
-US,Maine,,735
-US,Michigan,,12961
-US,Minnesota,,14545
-US,Missouri,,11427
+US,Maine,,743
+US,Michigan,,13002
+US,Minnesota,,14586
+US,Missouri,,11410
 US,Northern Mariana Islands,,33
-US,Mississippi,,25377
+US,Mississippi,,25641
 US,Montana,,405
-US,North Carolina,,44575
-US,North Dakota,,1048
+US,North Carolina,,44435
+US,North Dakota,,1056
 US,Nebraska,,8778
-US,New Hampshire,,4167
+US,New Hampshire,,4150
 US,New Jersey,,19611
 US,New Mexico,,5924
-US,Nevada,,7830
-US,New York,,25468
-US,Ohio,,29346
-US,Oklahoma,,4876
-US,Oregon,,4917
-US,Pennsylvania,,34477
+US,Nevada,,7887
+US,New York,,25567
+US,Ohio,,29271
+US,Oklahoma,,4810
+US,Oregon,,4926
+US,Pennsylvania,,34345
 US,Puerto Rico,,974
-US,Rhode Island,,7978
-US,South Carolina,,28438
-US,South Dakota,,2855
-US,Tennessee,,24041
-US,Texas,,101088
-US,Utah,,10074
-US,Virginia,,18728
+US,Rhode Island,,8168
+US,South Carolina,,28430
+US,South Dakota,,2830
+US,Tennessee,,24082
+US,Texas,,100733
+US,Utah,,9942
+US,Virginia,,18736
 US,Virgin Islands,,33
 US,Vermont,,165
-US,Washington,,12994
-US,Wisconsin,,16063
+US,Washington,,13110
+US,Wisconsin,,16327
 US,West Virginia,,751
 US,Wyoming,,339
