@@ -1,0 +1,57 @@
+country,region,subregion,tests_needed_per_day
+US,,,2123608
+US,Alaska,,941
+US,Alabama,,78969
+US,Arkansas,,28059
+US,Arizona,,121506
+US,California,,337920
+US,Colorado,,21846
+US,Connecticut,,9471
+US,District of Columbia,,4398
+US,Delaware,,5247
+US,Florida,,203833
+US,Georgia,,133098
+US,Guam,,83
+US,Hawaii,,273
+US,Iowa,,7549
+US,Idaho,,4183
+US,Illinois,,95337
+US,Indiana,,39444
+US,Kansas,,4530
+US,Kentucky,,16377
+US,Louisiana,,37398
+US,Massachusetts,,29907
+US,Maryland,,41490
+US,Maine,,1518
+US,Michigan,,33396
+US,Minnesota,,32349
+US,Missouri,,17367
+US,Northern Mariana Islands,,33
+US,Mississippi,,42158
+US,Montana,,1122
+US,North Carolina,,74787
+US,North Dakota,,933
+US,Nebraska,,8506
+US,New Hampshire,,8877
+US,New Jersey,,29420
+US,New Mexico,,11872
+US,Nevada,,25790
+US,New York,,33916
+US,Ohio,,64796
+US,Oklahoma,,8919
+US,Oregon,,13448
+US,Pennsylvania,,50969
+US,Puerto Rico,,2145
+US,Rhode Island,,12697
+US,South Carolina,,67040
+US,South Dakota,,2855
+US,Tennessee,,54327
+US,Texas,,190089
+US,Utah,,14223
+US,Virginia,,42331
+US,Virgin Islands,,141
+US,Vermont,,644
+US,Washington,,24783
+US,Wisconsin,,29073
+US,West Virginia,,776
+US,Wyoming,,495
