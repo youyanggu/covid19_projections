@@ -457,6 +457,7 @@ To conclude, we believe that a successful model must be able to quickly determin
 National
 * [NPR](https://www.npr.org/sections/health-shots/2020/06/12/876224115/coronavirus-second-wave-nope-were-still-stuck-in-the-first-one) - Jun 11
 * [CNN](https://www.cnn.com/2020/05/05/health/states-early-reopening-impact/index.html) - May 5
+* [Bloomberg](https://www.bloomberg.com/opinion/articles/2020-07-01/covid-19-cases-in-arizona-florida-texas-aren-t-on-same-scale) - Jul 1
 * [StatNews](https://www.statnews.com/2020/04/30/coronavirus-death-projections-compare-causes-of-death) - Apr 30
 * [MarketWatch](https://www.marketwatch.com/story/will-some-people-be-affected-badly-yes-trump-says-us-must-reopen-coronavirus-deaths-projected-to-hit-100000-in-weeks-2020-05-06) - May 6
 * [New York Times](https://www.nytimes.com/interactive/2020/05/12/upshot/coronavirus-models.html) - May 12
@@ -481,6 +482,7 @@ Magazines/General News
 
 Local
 * [The Advocate (NOLA)](https://www.nola.com/news/coronavirus/article_b4ec117c-b020-11ea-a690-03d2e5a9e00e.html) - Jun 17
+* [The Mercury News](https://www.mercurynews.com/2020/06/25/graph-half-of-californias-coronavirus-deaths-by-oct-1-projected-in-los-angeles-county/) - Jun 25
 * [The Mercury News](https://www.mercurynews.com/2020/05/26/graph-number-of-coronavirus-deaths-projected-in-santa-clara-county-by-sept-1/) - May 26
 * [The Mercury News](https://www.mercurynews.com/2020/05/04/california-prediction-artificial-intelligence-driven-model-tracks-coronavirus-infections-deaths/) - May 4
 * [Seattle Times](https://www.seattletimes.com/seattle-news/health/a-second-wave-of-coronavirus-infections-could-begin-in-september-uw-model-suggests/) - Jun 11
