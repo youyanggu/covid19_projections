@@ -1,57 +1,57 @@
 country,region,subregion,tests_needed_per_day
-US,,,2123608
-US,Alaska,,941
-US,Alabama,,78969
-US,Arkansas,,28059
-US,Arizona,,121506
-US,California,,337920
-US,Colorado,,21846
-US,Connecticut,,9471
-US,District of Columbia,,4398
-US,Delaware,,5247
-US,Florida,,203833
-US,Georgia,,133098
-US,Guam,,83
-US,Hawaii,,273
-US,Iowa,,7549
-US,Idaho,,4183
-US,Illinois,,95337
-US,Indiana,,39444
-US,Kansas,,4530
-US,Kentucky,,16377
-US,Louisiana,,37398
-US,Massachusetts,,29907
-US,Maryland,,41490
-US,Maine,,1518
-US,Michigan,,33396
-US,Minnesota,,32349
-US,Missouri,,17367
-US,Northern Mariana Islands,,33
-US,Mississippi,,42158
-US,Montana,,1122
-US,North Carolina,,74787
-US,North Dakota,,933
-US,Nebraska,,8506
-US,New Hampshire,,8877
-US,New Jersey,,29420
-US,New Mexico,,11872
-US,Nevada,,25790
-US,New York,,33916
-US,Ohio,,64796
-US,Oklahoma,,8919
-US,Oregon,,13448
-US,Pennsylvania,,50969
-US,Puerto Rico,,2145
-US,Rhode Island,,12697
-US,South Carolina,,67040
-US,South Dakota,,2855
-US,Tennessee,,54327
-US,Texas,,190089
-US,Utah,,14223
-US,Virginia,,42331
-US,Virgin Islands,,141
-US,Vermont,,644
-US,Washington,,24783
-US,Wisconsin,,29073
-US,West Virginia,,776
-US,Wyoming,,495
+US,,,1750558
+US,Alaska,,647
+US,Alabama,,71815
+US,Arkansas,,25179
+US,Arizona,,113758
+US,California,,229482
+US,Colorado,,18923
+US,Connecticut,,7920
+US,District of Columbia,,3551
+US,Delaware,,4310
+US,Florida,,169224
+US,Georgia,,107105
+US,Guam,,66
+US,Hawaii,,218
+US,Iowa,,6336
+US,Idaho,,3531
+US,Illinois,,78257
+US,Indiana,,31337
+US,Kansas,,3967
+US,Kentucky,,14263
+US,Louisiana,,36716
+US,Massachusetts,,22955
+US,Maryland,,34452
+US,Maine,,1353
+US,Michigan,,26697
+US,Minnesota,,26889
+US,Missouri,,15398
+US,Northern Mariana Islands,,27
+US,Mississippi,,34551
+US,Montana,,872
+US,North Carolina,,57427
+US,North Dakota,,799
+US,Nebraska,,7023
+US,New Hampshire,,7498
+US,New Jersey,,22322
+US,New Mexico,,9881
+US,Nevada,,22117
+US,New York,,23213
+US,Ohio,,54048
+US,Oklahoma,,7854
+US,Oregon,,11795
+US,Pennsylvania,,44009
+US,Puerto Rico,,1881
+US,Rhode Island,,10171
+US,South Carolina,,61301
+US,South Dakota,,2436
+US,Tennessee,,48378
+US,Texas,,175626
+US,Utah,,10666
+US,Virginia,,36868
+US,Virgin Islands,,139
+US,Vermont,,568
+US,Washington,,20566
+US,Wisconsin,,23232
+US,West Virginia,,647
+US,Wyoming,,297
