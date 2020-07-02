@@ -193,7 +193,7 @@ If regions impose stricter social distancing guidelines than our assumptions lis
 
 #### Second wave
 
-In regions where the outbreak has not yet been fully contained, it is possible that reopening will cause a second wave of infections if states fail to maintain sufficient social distancing. We assume that regions that have reopened will take actions to reduce transmission, such as increased contact tracing, mandatory mask wearing, improved treatments, capacity limits, etc. As a result, we cap the post-reopening R_t value to be `max(1.15, post-mitigation R_t)`. Over time, the aforementioned actions will also lead to a fall in the transmission rate.
+In regions where the outbreak has not yet been fully contained, it is possible that reopening will cause a second wave of infections if states fail to maintain sufficient social distancing. We assume that regions that have reopened will take actions to reduce transmission, such as increased contact tracing, mandatory mask wearing, improved treatments, capacity limits, etc. As a result, we cap the post-reopening R_t value to be under 1.3. Over time, the aforementioned actions will also lead to a fall in the transmission rate.
 
 As of June 1, our model no longer assumes a second lockdown.
 
