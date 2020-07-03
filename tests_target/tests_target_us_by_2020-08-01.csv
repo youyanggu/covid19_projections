@@ -1,57 +1,57 @@
 country,region,subregion,tests_needed_per_day
-US,,,1750558
-US,Alaska,,647
-US,Alabama,,71815
-US,Arkansas,,25179
-US,Arizona,,113758
-US,California,,229482
-US,Colorado,,18923
+US,,,1760814
+US,Alaska,,641
+US,Alabama,,70700
+US,Arkansas,,24731
+US,Arizona,,113811
+US,California,,231423
+US,Colorado,,18969
 US,Connecticut,,7920
 US,District of Columbia,,3551
-US,Delaware,,4310
-US,Florida,,169224
-US,Georgia,,107105
+US,Delaware,,4323
+US,Florida,,174504
+US,Georgia,,106914
 US,Guam,,66
 US,Hawaii,,218
-US,Iowa,,6336
-US,Idaho,,3531
-US,Illinois,,78257
-US,Indiana,,31337
-US,Kansas,,3967
-US,Kentucky,,14263
-US,Louisiana,,36716
-US,Massachusetts,,22955
-US,Maryland,,34452
+US,Iowa,,6383
+US,Idaho,,3525
+US,Illinois,,77544
+US,Indiana,,31667
+US,Kansas,,3987
+US,Kentucky,,14534
+US,Louisiana,,36934
+US,Massachusetts,,25219
+US,Maryland,,34446
 US,Maine,,1353
-US,Michigan,,26697
-US,Minnesota,,26889
-US,Missouri,,15398
+US,Michigan,,26975
+US,Minnesota,,27074
+US,Missouri,,17385
 US,Northern Mariana Islands,,27
-US,Mississippi,,34551
+US,Mississippi,,34406
 US,Montana,,872
-US,North Carolina,,57427
-US,North Dakota,,799
-US,Nebraska,,7023
-US,New Hampshire,,7498
-US,New Jersey,,22322
+US,North Carolina,,56041
+US,North Dakota,,773
+US,Nebraska,,7280
+US,New Hampshire,,7491
+US,New Jersey,,22341
 US,New Mexico,,9881
-US,Nevada,,22117
-US,New York,,23213
-US,Ohio,,54048
-US,Oklahoma,,7854
-US,Oregon,,11795
-US,Pennsylvania,,44009
+US,Nevada,,22784
+US,New York,,23404
+US,Ohio,,52629
+US,Oklahoma,,8435
+US,Oregon,,11465
+US,Pennsylvania,,44333
 US,Puerto Rico,,1881
-US,Rhode Island,,10171
-US,South Carolina,,61301
-US,South Dakota,,2436
-US,Tennessee,,48378
-US,Texas,,175626
-US,Utah,,10666
-US,Virginia,,36868
-US,Virgin Islands,,139
+US,Rhode Island,,10184
+US,South Carolina,,60965
+US,South Dakota,,2515
+US,Tennessee,,50339
+US,Texas,,174504
+US,Utah,,10719
+US,Virginia,,37198
+US,Virgin Islands,,132
 US,Vermont,,568
-US,Washington,,20566
-US,Wisconsin,,23232
+US,Washington,,20295
+US,Wisconsin,,23615
 US,West Virginia,,647
-US,Wyoming,,297
+US,Wyoming,,291
