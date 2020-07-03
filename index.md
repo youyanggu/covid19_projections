@@ -23,7 +23,7 @@ On this page:
 ## Current US Projections
 ### Updated Daily - Last Updated: July 3 (2pm ET):
 <p align="center">
-  Current Total: <b>128,059</b> deaths | Projected Total: <b>186,115 deaths by Oct 1, 2020</b> (Range: 155-236k)<br>
+  Current Total: <b>128,737</b> deaths | Projected Total: <b>186,600 deaths by Oct 1, 2020</b> (Range: 156-236k)<br>
   Currently Infected: <b>0.8%</b> | Total Infected: <b>6.0%</b> {% include iframe.html %}
 </p>
 
@@ -270,7 +270,7 @@ Countries are ordered by descending projected deaths (by 2020-10-01).
 
 |                                           |   Current Deaths |   Projected Deaths - Mean |   Projected Deaths / 1M |   Additional Deaths - Mean |   Additional Deaths (% of Current Deaths) |   Projected Deaths - 2.5th Percentile |   Projected Deaths - 97.5th Percentile |
 |-------------------------------------------|------------------|---------------------------|-------------------------|----------------------------|-------------------------------------------|---------------------------------------|----------------------------------------|
-|                               *Rest of World* |          200,298 |                   535,791 |                     103 |                    335,493 |                                      167% |                               347,276 |                                854,770 |
+|                               *Rest of World* |          200,298 |                   533,415 |                     103 |                    333,117 |                                      166% |                               346,777 |                                847,509 |
 |                             [Brazil](/brazil) |           61,884 |                   132,131 |                     626 |                     70,247 |                                      114% |                               103,791 |                                196,987 |
 |                               [India](/india) |           18,213 |                    93,022 |                      68 |                     74,809 |                                      411% |                                38,788 |                                190,814 |
 |                             [Mexico](/mexico) |           29,189 |                    86,316 |                     677 |                     57,127 |                                      196% |                                60,552 |                                125,730 |
@@ -278,8 +278,8 @@ Countries are ordered by descending projected deaths (by 2020-10-01).
 |                         [Colombia](/colombia) |            3,650 |                    20,953 |                     416 |                     17,303 |                                      474% |                                12,503 |                                 28,378 |
 |                                 [Iran](/iran) |           11,106 |                    20,334 |                     245 |                      9,228 |                                       83% |                                16,518 |                                 26,127 |
 |                             [Russia](/russia) |            9,668 |                    19,137 |                     131 |                      9,469 |                                       98% |                                12,762 |                                 31,163 |
-|                         [Pakistan](/pakistan) |            4,551 |                    15,633 |                      72 |                     11,082 |                                      244% |                                 8,666 |                                 28,489 |
 |                 [South Africa](/south-africa) |            2,844 |                    14,383 |                     246 |                     11,539 |                                      406% |                                 7,397 |                                 20,613 |
+|                         [Pakistan](/pakistan) |            4,551 |                    13,257 |                      61 |                      8,706 |                                      191% |                                 8,167 |                                 21,228 |
 |                               [Egypt](/egypt) |            3,120 |                    13,225 |                     132 |                     10,105 |                                      324% |                                 7,693 |                                 20,849 |
 |                               [Chile](/chile) |            5,920 |                    13,014 |                     687 |                      7,094 |                                      120% |                                 7,952 |                                 18,946 |
 |                             [Canada](/canada) |            8,700 |                    10,195 |                     273 |                      1,495 |                                       17% |                                 8,942 |                                 13,046 |
