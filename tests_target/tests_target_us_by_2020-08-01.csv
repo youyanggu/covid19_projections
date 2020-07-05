@@ -1,57 +1,57 @@
 country,region,subregion,tests_needed_per_day
-US,,,1775440
-US,Alaska,,740
-US,Alabama,,71432
-US,Arkansas,,24434
-US,Arizona,,114108
-US,California,,231957
-US,Colorado,,18896
-US,Connecticut,,7980
-US,District of Columbia,,3545
-US,Delaware,,4389
-US,Florida,,179085
-US,Georgia,,105759
+US,,,1854838
+US,Alaska,,825
+US,Alabama,,70079
+US,Arkansas,,24222
+US,Arizona,,112755
+US,California,,286440
+US,Colorado,,18850
+US,Connecticut,,7993
+US,District of Columbia,,3558
+US,Delaware,,4383
+US,Florida,,214547
+US,Georgia,,103495
 US,Guam,,66
 US,Hawaii,,225
-US,Iowa,,6383
+US,Iowa,,6343
 US,Idaho,,3564
-US,Illinois,,79055
-US,Indiana,,31760
-US,Kansas,,4099
-US,Kentucky,,14626
-US,Louisiana,,37455
-US,Massachusetts,,25047
-US,Maryland,,34591
-US,Maine,,1353
-US,Michigan,,26717
-US,Minnesota,,27133
-US,Missouri,,17266
+US,Illinois,,78963
+US,Indiana,,31944
+US,Kansas,,4073
+US,Kentucky,,14448
+US,Louisiana,,37145
+US,Massachusetts,,25278
+US,Maryland,,34545
+US,Maine,,1426
+US,Michigan,,26631
+US,Minnesota,,27041
+US,Missouri,,17471
 US,Northern Mariana Islands,,27
-US,Mississippi,,34347
-US,Montana,,957
-US,North Carolina,,55137
-US,North Dakota,,766
-US,Nebraska,,7280
-US,New Hampshire,,7505
-US,New Jersey,,22671
-US,New Mexico,,9993
-US,Nevada,,23147
-US,New York,,23807
-US,Ohio,,53355
-US,Oklahoma,,8521
-US,Oregon,,11319
-US,Pennsylvania,,46055
-US,Puerto Rico,,1901
-US,Rhode Island,,10164
-US,South Carolina,,60595
-US,South Dakota,,2515
-US,Tennessee,,51243
-US,Texas,,178115
-US,Utah,,10976
-US,Virginia,,37660
+US,Mississippi,,34096
+US,Montana,,951
+US,North Carolina,,53355
+US,North Dakota,,759
+US,Nebraska,,7155
+US,New Hampshire,,7637
+US,New Jersey,,22698
+US,New Mexico,,9999
+US,Nevada,,23160
+US,New York,,23833
+US,Ohio,,53229
+US,Oklahoma,,8455
+US,Oregon,,11550
+US,Pennsylvania,,45349
+US,Puerto Rico,,1967
+US,Rhode Island,,10131
+US,South Carolina,,61116
+US,South Dakota,,2502
+US,Tennessee,,50603
+US,Texas,,175758
+US,Utah,,10996
+US,Virginia,,37832
 US,Virgin Islands,,132
 US,Vermont,,568
-US,Washington,,20513
-US,Wisconsin,,23576
-US,West Virginia,,647
+US,Washington,,20493
+US,Wisconsin,,23226
+US,West Virginia,,674
 US,Wyoming,,284
