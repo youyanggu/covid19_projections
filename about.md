@@ -7,7 +7,7 @@ permalink: /about/
 ## Table of contents
 * [About the Model](#about-the-model)
 * [How Our Model is Different](#how-our-model-is-different)
-* [Historical Performance **(Updated Jun 28)**](#historical-performance)
+* [Historical Performance **(Updated July 6)**](#historical-performance)
 * [CDC Projections Over Time](#cdc-projections-over-time)
 * [Historical US Projections *(Updated Daily)*](#historical-us-projections)
 * [Data and Output](#data-and-output)
@@ -91,15 +91,15 @@ We have open-sourced the code and data used to evaluate COVID-19 models: [https:
 
 [Click here](/historical-performance) to see our past weekly performance evaluations. We believe it's important to look at past evaluations to get a more comprehensive idea of model consistency/accuracy.
 
-### Evaluation of past state-by-state projections on cumulative deaths as of June 27
+### Evaluation of past state-by-state projections on cumulative deaths as of July 4
 
-![States comparison](/assets/images/2020-06-27_comparison_states.png)
+![States comparison](/assets/images/2020-07-04_comparison_states.png)
 
-### Evaluation of past US projections on cumulative deaths as of June 27
+### Evaluation of past US projections on cumulative deaths as of July 4
 
 Note: On June 25, New Jersey added 1,854 probable deaths, thereby significantly skewing US death reports. As a result, the below evaluation may not the best representative of model accuracy. Read more [here](#observations).
 
-![US comparison](/assets/images/2020-06-27_comparison_us.png)
+![US comparison](/assets/images/2020-07-04_comparison_us.png)
 
 ### Baseline Comparison: C19Pro vs IHME
 
