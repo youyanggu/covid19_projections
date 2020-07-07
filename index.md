@@ -20,10 +20,10 @@ On this page:
 * *June 16:* We have open-sourced our code to [evaluate COVID-19 models](https://github.com/youyanggu/covid19-forecast-hub-evaluation). The goal of this project is to evaluate various models' historical point forecasts in a transparent, rigorous, and non-biased manner.
 
 ## Current US Projections
-### Updated Daily - Last Updated: July 7 (3am ET):
+### Updated Daily - Last Updated: July 7 (7pm ET):
 <p align="center">
-  Current Total: <b>130,282</b> deaths | Projected Total: <b>185,400 deaths by Oct 1, 2020</b> (Range: 156-234k)<br>
-  Currently Infected: <b>0.9%</b> | Total Infected: <b>6.3%</b> {% include iframe.html %}
+  Current Total: <b>130,282</b> deaths | Projected Total: <b>200,200 deaths by Nov 1, 2020 | 185,400 deaths by Oct 1, 2020</b> (Range: 162-268k | 156-234k)<br>
+  Currently Infected: <b>0.8%</b> | Total Infected: <b>6.3%</b> {% include iframe.html %}
 </p>
 
 [Back to Top](#top)
