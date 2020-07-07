@@ -207,15 +207,15 @@ We assume a very small daily decay in the transmission rate (R) starting from ro
 
 [Back to Top](#top)
 
-### Infections Estimate
+#### Fall Wave
 
-The current and total infections estimates in our projections are at the core of our SEIR model. We use those estimates to make forecasts regarding future deaths according to the specifications of the SEIR model. The total infections estimate includes **all** individuals who have ever been infected by the virus, including asymptomatic individuals as well as those who were never tested. The current infections estimate is based on how many people are currently infected at that time point (total - recovered). To compute current infections, we assume that individuals are infected for an average of 15 days. We estimate that the true number of total infections is likely 5-15x higher than reported cases for most regions.
+The future is uncertain, and many things can happen between now and Fall that will change the trajectory of this epidemic. While we believe a September increase in deaths is [unlikely](https://twitter.com/youyanggu/status/1271395005219745792), we do think it is possible that the rate of transmission may increase as we head towards winter. We currently assume a 0-0.4% daily increase in the transmission rate (R_t) starting in the fall (September). This assumption is subject to change as we get closer to the date.
 
 [Back to Top](#top)
 
-### Fall Wave
+### Infections Estimate
 
-The future is uncertain, and many things can happen between now and Fall that will change the trajectory of this epidemic. While we believe a September/October increase in deaths is [unlikely](https://twitter.com/youyanggu/status/1271395005219745792), we do think it is possible that the rate of transmission may increase as we head towards winter. We currently assume a 0-0.2% daily increase in the transmission rate (R_t) starting in the fall (end of September). This assumption is subject to change as we get closer to the date.
+The current and total infections estimates in our projections are at the core of our SEIR model. We use those estimates to make forecasts regarding future deaths according to the specifications of the SEIR model. The total infections estimate includes **all** individuals who have ever been infected by the virus, including asymptomatic individuals as well as those who were never tested. The current infections estimate is based on how many people are currently infected at that time point (total - recovered). To compute current infections, we assume that individuals are infected for an average of 15 days. We estimate that the true number of total infections is likely 5-15x higher than reported cases for most regions.
 
 [Back to Top](#top)
 
