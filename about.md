@@ -312,7 +312,17 @@ While we attempt our best to ensure accuracy and precision, no model is perfect,
 
 ## Concerns with the IHME model
 
-In this section we will compare our projections with a popular model developed by the [Institute for Health Metrics and Evaluation (IHME)](https://covid19.healthdata.org/) and commonly referred to by the White House and media. 
+In this section we will compare our projections with a popular model developed by the [Institute for Health Metrics and Evaluation (IHME)](https://covid19.healthdata.org/) and commonly referred to by the White House and media.
+
+We present a series of Tweets highlighting the issues with the IHME model:
+
+[July 3](https://twitter.com/youyanggu/status/1279096904807256064)
+[June 29](https://twitter.com/youyanggu/status/1277679302797033475)
+[June 21](https://twitter.com/youyanggu/status/1274792488285462539)
+[June 12](https://twitter.com/youyanggu/status/1271329063634743306)
+[May 9](https://twitter.com/youyanggu/status/1259242623228719104)
+[April 20](https://twitter.com/youyanggu/status/1252104719549362176)
+[April 12](https://twitter.com/youyanggu/status/1249243436881829888)
 
 Below, you can find a comparison of our past projections (C19Pro) with IHME for the US, New York, New Jersey, and California, some of the most heavily impacted regions. [Click here](/model-comparison-ihme) to view more comparison plots.
 
