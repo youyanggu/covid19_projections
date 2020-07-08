@@ -516,6 +516,9 @@ International
 
 ## Updates
 
+2020-07-08
+* Extended projection end date from October 1 to November 1
+
 2020-06-23
 * We have open-sourced the underlying [SEIR simulator](https://github.com/youyanggu/yyg-seir-simulator) behind our model
 
