@@ -14,7 +14,7 @@ On this page:
 
 ## Recent Updates
 
-* **July 8:** We have extended our projections to November 1, 2020.
+* **July 8:** We have extended our projections through November 1, 2020.
 * **July 1:** We updated our infections estimate to closer match the observed data. We now estimate there to be around 200k new infections per day in the US, 4-5x higher than the number of reported cases. Because we use [only deaths](/about/#data-and-output) in our model, we believe this estimate may still be an underestimate of the true prevalence.
 * **June 24:** We have open-sourced our [SEIR simulator](https://github.com/youyanggu/yyg-seir-simulator). This is the underlying SEIR model without the machine learning layer to learn the parameters. If your system supports Python, you can generate your own simulations in under 5 minutes. No prior Python experience is needed.
 * *June 17:* Our latest model update features a tighter confidence interval and improved modeling of reopenings. We incorporated a slower reopening, a greater lag between cases and deaths, and a lower proportion of severe cases. As a result, we now expect deaths to continue to decrease until July 4th weekend.
@@ -23,8 +23,8 @@ On this page:
 ## Current US Projections
 ### Updated Daily - Last Updated: July 8 (3am ET):
 <p align="center">
-  Current Total: <b>131,477</b> deaths | Projected Total: <b>203,500 deaths by Nov 1, 2020</b> (Range: 164-270k) | 187,700 deaths by Oct 1, 2020 (Range: 158-235k)<br>
-  Currently Infected: <b>0.9%</b> | Total Infected: <b>6.3%</b> {% include iframe.html %}
+  Current Total: <b>131,477</b> deaths | Projected Total: <b>203,500 deaths by Nov 1, 2020</b> (Range: 164-270k) | 187,700 deaths by Oct 1, 2020<br>
+  Currently Infected: <b>0.9%</b> | Total Infected: <b>6.4%</b> {% include iframe.html %}
 </p>
 
 [Back to Top](#top)
