@@ -209,7 +209,7 @@ We assume a very small daily decay in the transmission rate (R) starting from ro
 
 #### Fall Wave
 
-The future is uncertain, and many things can happen between now and Fall that will change the trajectory of this epidemic. While we believe a September increase in deaths is [unlikely](https://twitter.com/youyanggu/status/1271395005219745792), we do think it is possible that the rate of transmission may increase as we head towards winter. We currently assume a 0-0.4% daily increase in the transmission rate (R_t) starting in the fall (September). This assumption is subject to change as we get closer to the date.
+The future is uncertain, and many things can happen between now and fall that will change the trajectory of this epidemic. While we believe a September increase in deaths is [unlikely](https://twitter.com/youyanggu/status/1271395005219745792), we do think it is possible that the rate of transmission may increase as we head towards winter. We currently assume a 0-0.4% daily increase in the transmission rate (R_t) starting in the fall (September). This results in a wider confidence interval to account for the increased uncertainty. This assumption is subject to change as we get closer to the date.
 
 [Back to Top](#top)
 
