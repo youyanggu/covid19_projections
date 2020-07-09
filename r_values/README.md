@@ -1,10 +1,10 @@
 # Reproduction Number (R) Estimates
 
-*May 15 Update:* For a time series of the effective reproduction number (R_t) over time for every region, use our [projections](https://github.com/youyanggu/covid19_projections/tree/master/projections) directory. This data available starting on May 15 projections.
+**May 15 Update:** For a time series of the effective reproduction number (R_t) over time for every region, use our [`projections`](/projections) directory. This data available starting on May 15 projections.
 
 Our data-driven model allows us to provide an estimate for the initial [basic reproduction number](https://en.wikipedia.org/wiki/Basic_reproduction_number) (R0) and post-mitigation R in each US state and 40 countries.
 
-For each date, we provide our best estimate of the initial R0 and post-mitigation R *from data generated on that date*. For example, file `2020-04-24_r_values_us.csv` simply means that our estimates were generated on April 24, not that these were the R values on April 24. We not have day-by-day R estimates available at this time.
+For each date, we provide our best estimate of the initial R0 and post-mitigation R *from data generated on that date*. For example, file `2020-04-24_r_values_us.csv` simply means that our estimates were generated on April 24, not that these were the R values on April 24.
 
 View our [Infections Tracker](https://covid19-projections.com/infections-tracker/) page to see histograms of our latest R estimates. See our [Model Details](https://covid19-projections.com/model-details/) page to learn more about how our model generates these estimates.
 
