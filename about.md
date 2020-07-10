@@ -340,7 +340,7 @@ We present a series of Tweets highlighting the issues with the IHME model:
 [April 20](https://twitter.com/youyanggu/status/1252104719549362176)<br>
 [April 12](https://twitter.com/youyanggu/status/1249243436881829888)
 
-Below, you can find a comparison of our past projections (C19Pro) with IHME for the US, New York, New Jersey, and California, some of the most heavily impacted regions. [Click here](/model-comparison-ihme) to view more comparison plots.
+Below, you can find a comparison of our past projections (C19Pro) with IHME for the US, New York, New Jersey, and California, some of the most heavily impacted regions. You can find comparisons of late May projections in the [Historical Performance](#late-may-projections) section. [Click here](/model-comparison-ihme) to view additional comparison plots.
 
 {% include iframe_ihme_comparison_daily_filt.html %}
 
