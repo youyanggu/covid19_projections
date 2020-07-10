@@ -7,7 +7,9 @@ permalink: /about/
 ## Table of contents
 * [About the Model](#about-the-model)
 * [How Our Model is Different](#how-our-model-is-different)
-* [Historical Performance **(Updated July 6)**](#historical-performance)
+* [Historical Performance **(Updated July 10)**](#historical-performance)
+  * [Late May Projections **(New July 10)**](#late-may-projections)
+  * [Baseline Comparison (New July 1)](#baseline-comparison-c19pro-vs-ihme)
 * [CDC Projections Over Time](#cdc-projections-over-time)
 * [Historical US Projections *(Updated Daily)*](#historical-us-projections)
 * [Data and Output](#data-and-output)
