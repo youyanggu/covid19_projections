@@ -101,6 +101,18 @@ Note: On June 25, New Jersey added 1,854 probable deaths, thereby significantly 
 
 ![US comparison](/assets/images/2020-07-04_comparison_us.png)
 
+[Back to Top](#top)
+
+### Late May Projections
+
+Below you can find some of our late May projections for 4 of the most heavily impacted states since reopening: Florida, California, Arizona, Texas.
+
+[Click here](/model-comparison-ihme) to view more plots of historical projections.
+
+{% include iframe_ihme_may28.html %}
+
+[Back to Top](#top)
+
 ### Baseline Comparison: C19Pro vs IHME
 
 If on June 1, you simply assume each state/country's average daily deaths from the week before will be unchanged for the next 4 weeks, you can make a better forecasts than IHME. This is equivalent to extending a straight line on the daily deaths plots.
