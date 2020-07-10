@@ -306,3 +306,5 @@ Countries are ordered by descending projected deaths (by 2020-11-01).
 |                       [Australia](/australia) |              106 |                       201 |                       8 |                         95 |                                       90% |                                   106 |                                    882 |
 |                         [Malaysia](/malaysia) |              121 |                       157 |                       5 |                         36 |                                       30% |                                   137 |                                    189 |
 |                                 [Cuba](/cuba) |               86 |                       106 |                       9 |                         20 |                                       23% |                                    91 |                                    146 |
+
+<a href="https://twitter.com/youyanggu" class="twitter-follow-button" data-show-count="false">Follow @youyanggu</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
