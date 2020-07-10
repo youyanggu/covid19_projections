@@ -20,6 +20,8 @@ On this page:
 * *June 17:* Our latest model update features a tighter confidence interval and improved modeling of reopenings. We incorporated a slower reopening, a greater lag between cases and deaths, and a lower proportion of severe cases. As a result, we now expect deaths to continue to decrease until July 4th weekend.
 * *June 16:* We have open-sourced our code to [evaluate COVID-19 models](https://github.com/youyanggu/covid19-forecast-hub-evaluation). The goal of this project is to evaluate various models' historical point forecasts in a transparent, rigorous, and non-biased manner.
 
+For more updates, following Youyang Gu on Twitter: <a href="https://twitter.com/youyanggu" class="twitter-follow-button" data-show-count="false">Follow @youyanggu</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Current US Projections
 ### Updated Daily - Last Updated: July 10 (11am ET):
 <p align="center">
@@ -306,5 +308,3 @@ Countries are ordered by descending projected deaths (by 2020-11-01).
 |                       [Australia](/australia) |              106 |                       201 |                       8 |                         95 |                                       90% |                                   106 |                                    882 |
 |                         [Malaysia](/malaysia) |              121 |                       157 |                       5 |                         36 |                                       30% |                                   137 |                                    189 |
 |                                 [Cuba](/cuba) |               86 |                       106 |                       9 |                         20 |                                       23% |                                    91 |                                    146 |
-
-<a href="https://twitter.com/youyanggu" class="twitter-follow-button" data-show-count="false">Follow @youyanggu</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
