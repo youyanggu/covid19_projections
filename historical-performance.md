@@ -10,7 +10,9 @@ On this page, we present a weekly evaluation of our model's historical performan
 
 We have open-sourced the code and output used to generate these evaluations [here](https://github.com/youyanggu/covid19-forecast-hub-evaluation/#methods). We believe in a fully transparent evaluation methodology, and publicly releasing all of our code and data is the best way to do so.
 
-The charts below represent past state-by-state and US projections evaluated on cumulative deaths on the specified evaluation date (June 20, June 13, etc).
+[Click here](/model-comparison-ihme) to see some sample plots of our past projections.
+
+The charts below represent past state-by-state and US projections evaluated on cumulative deaths on the specified evaluation date (June 20, June 13, etc). As the charts may be outdated, please consult our [evaluation page](https://github.com/youyanggu/covid19-forecast-hub-evaluation) for the latest data.
 
 * [July 4](#july-4)
 * [June 27](#june-27)
