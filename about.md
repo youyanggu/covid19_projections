@@ -7,7 +7,7 @@ permalink: /about/
 ## Table of contents
 * [About the Model](#about-the-model)
 * [How Our Model is Different](#how-our-model-is-different)
-* [Historical Performance **(Updated July 10)**](#historical-performance)
+* [Historical Performance *(Updated July 6)*](#historical-performance)
   * [Late June US Projection **(New July 11)**](#late-june-us-projection)
   * [Late May Projections **(New July 10)**](#late-may-projections)
   * [Baseline Comparison (New July 1)](#baseline-comparison-c19pro-vs-ihme)
@@ -111,6 +111,8 @@ Note: On June 25, New Jersey added 1,854 probable deaths, thereby significantly 
 Below you can find our June 26 US projections, compared to the IHME model.
 
 {% include iframe_ihme_june26.html %}
+
+[Back to Top](#top)
 
 ### Late May Projections
 
