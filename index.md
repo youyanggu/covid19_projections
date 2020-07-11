@@ -13,7 +13,7 @@ On this page:
 * [Summary of Rest of World projections](#rest-of-world-summary)
 
 ## Recent Updates
-
+* **July 11:** See how our [late May](/about/#late-may-projections) projections have done for Florida, California, Arizona, and Texas, four of the most heavily impacted states post-reopening.
 * **July 8:** We have extended our projections through November 1, 2020. As we predicted in our June 17 update, deaths decreased until the 4th of July weekend and are now gradually increasing. We are now incorporating a potential for a [fall wave](/about/#fall-wave) as a result of school reopenings and the beginning of influenza season, leading to a wider confidence interval.
 * **July 1:** We updated our infections estimate to closer match the observed data. We now estimate there to be around 200k new infections per day in the US, 4-5x higher than the number of reported cases. Because we use [only deaths](/about/#data-and-output) in our model, we believe this estimate may still be an underestimate of the true prevalence.
 * **June 24:** We have open-sourced our [SEIR simulator](https://github.com/youyanggu/yyg-seir-simulator). This is the underlying SEIR model without the machine learning layer to learn the parameters. If your system supports Python, you can generate your own simulations in under 5 minutes. No prior Python experience is needed.
@@ -47,17 +47,17 @@ Last updated: July 9, 2020
 |   US deaths surpass: |   Most likely date: |
 |----------------------|---------------------|
 |              140,000 |        Jul 20, 2020 |
-|              150,000 |         Aug 4, 2020 |
+|              150,000 |         Aug 3, 2020 |
 |              175,000 |         Sep 3, 2020 |
 
 <br>
 
 |   US deaths surpass: |   By Jul 15 |   By Aug 1 |   By Aug 15 |   By Sep 1 |   By Sep 15 |   By Oct 1 |   By Oct 15 |   By Nov 1 |
 |----------------------|-------------|------------|-------------|------------|-------------|------------|-------------|------------|
-|              150,000 |         <1% |        29% |         94% |        99% |         99% |        99% |        >99% |       >99% |
-|              175,000 |         <1% |        <1% |         <1% |        37% |         61% |        78% |         87% |        93% |
-|              200,000 |         <1% |        <1% |         <1% |         2% |         14% |        29% |         40% |        51% |
-|              225,000 |         <1% |        <1% |         <1% |        <1% |          1% |         8% |         14% |        21% |
+|              150,000 |         <1% |        33% |         96% |        99% |         99% |        99% |        >99% |       >99% |
+|              175,000 |         <1% |        <1% |         <1% |        39% |         63% |        79% |         88% |        94% |
+|              200,000 |         <1% |        <1% |         <1% |         2% |         14% |        30% |         41% |        52% |
+|              225,000 |         <1% |        <1% |         <1% |        <1% |          1% |         8% |         14% |        22% |
 |              250,000 |         <1% |        <1% |         <1% |        <1% |         <1% |         1% |          5% |         9% |
 |              300,000 |         <1% |        <1% |         <1% |        <1% |         <1% |        <1% |         <1% |        <1% |
 
