@@ -8,6 +8,7 @@ permalink: /about/
 * [About the Model](#about-the-model)
 * [How Our Model is Different](#how-our-model-is-different)
 * [Historical Performance **(Updated July 10)**](#historical-performance)
+  * [Late June US Projection **(New July 11)**](#late-june-us-projection)
   * [Late May Projections **(New July 10)**](#late-may-projections)
   * [Baseline Comparison (New July 1)](#baseline-comparison-c19pro-vs-ihme)
 * [CDC Projections Over Time](#cdc-projections-over-time)
@@ -104,6 +105,12 @@ Note: On June 25, New Jersey added 1,854 probable deaths, thereby significantly 
 ![US comparison](/assets/images/2020-07-04_comparison_us.png)
 
 [Back to Top](#top)
+
+### Late June US Projection
+
+Below you can find our June 26 US projections, compared to the IHME model.
+
+{% include iframe_ihme_june26.html %}
 
 ### Late May Projections
 
@@ -387,6 +394,8 @@ On June 8, IHME again revised their model to show a more realistic August projec
 
 ![IHME May 10 projections](/assets/images/ihme_may10.png)
 ![IHME June 8 projections](/assets/images/ihme_jun8.png)
+
+[Back to Top](#top)
 
 ### June 10 Revision
 
