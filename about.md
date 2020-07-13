@@ -7,7 +7,7 @@ permalink: /about/
 ## Table of contents
 * [About the Model](#about-the-model)
 * [How Our Model is Different](#how-our-model-is-different)
-* [Historical Performance *(Updated July 6)*](#historical-performance)
+* [Historical Performance **(Updated July 13)**](#historical-performance)
   * [Late June US Projection **(New July 11)**](#late-june-us-projection)
   * [Late May Projections **(New July 10)**](#late-may-projections)
   * [Baseline Comparison (New July 1)](#baseline-comparison-c19pro-vs-ihme)
@@ -94,15 +94,23 @@ We have open-sourced the code and data used to evaluate COVID-19 models: [https:
 
 [Click here](/historical-performance) to see our past weekly performance evaluations. We believe it's important to look at past evaluations to get a more comprehensive idea of model consistency/accuracy.
 
-### Evaluation of past state-by-state projections on cumulative deaths as of July 4
+### Evaluation of past state-by-state projections on cumulative deaths as of July 11
 
-![States comparison](/assets/images/2020-07-04_comparison_states.png)
+![States comparison](/assets/images/2020-07-11_comparison_states.png)
 
-### Evaluation of past US projections on cumulative deaths as of July 4
+### Evaluation of historical 4 week ahead state-by-state projections
+
+![4 week ahead states comparison](/assets/images/4_week_ahead_states.png)
+
+### Evaluation of past US projections on cumulative deaths as of July 11
 
 Note: On June 25, New Jersey added 1,854 probable deaths, thereby significantly skewing US death reports. As a result, the below evaluation may not the best representative of model accuracy. Read more [here](#observations).
 
-![US comparison](/assets/images/2020-07-04_comparison_us.png)
+![US comparison](/assets/images/2020-07-11_comparison_us.png)
+
+### Evaluation of historical 4 week ahead US projections
+
+![4 week ahead US comparison](/assets/images/4_week_ahead_us.png)
 
 [Back to Top](#top)
 
