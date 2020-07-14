@@ -16,6 +16,21 @@ When evaluating our projections, please keep in mind the following notes and upd
 
 # Updates
 
+2020-07-08
+* Extended projection end date from October 1 to November 1
+
+2020-06-23
+* We have open-sourced the underlying [SEIR simulator](https://github.com/youyanggu/yyg-seir-simulator) behind our model
+
+2020-06-16
+* We have open-sourced our code to [evaluate COVID-19 models](https://github.com/youyanggu/covid19-forecast-hub-evaluation). The goal of this project is to evaluate various models’ historical point forecasts in a transparent, rigorous, and non-biased manner
+
+2020-06-15
+* Switch main data source from Johns Hopkins [Daily Reports](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports) to Johns Hopkins [Time Series Summary](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series)
+
+2020-06-11
+* Extended projection end date from September 1 to October 1
+
 2020-05-26
 * Add 7 new countries (Australia, Belarus, Bolivia, Cuba, Honduras, Kuwait, UAE), 2 Canadian provinces (Alberta, British Columbia), and 20 US counties
 
