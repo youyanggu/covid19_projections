@@ -1,17 +1,8 @@
 country,region,daily_deaths,daily_deaths_lower,daily_deaths_upper
 US,,1557,1173,2073
-France,,983,643,1450
-Spain,,854,386,1362
-Italy,,700,510,912
 US,NY,662,535,849
-United Kingdom,,569,379,823
-Germany,,182,132,241
-Belgium,,179,141,227
-Netherlands,,176,134,220
 US,NJ,166,122,236
 US,MI,107,76,142
-Iran,,104,52,176
-Switzerland,,72,46,100
 US,LA,61,48,73
 US,MA,46,40,53
 US,WA,45,16,79
