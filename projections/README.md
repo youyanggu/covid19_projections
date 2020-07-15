@@ -4,11 +4,15 @@ Here, you will find all of our projections based on the date the projectoins wer
 
 # Evaluation
 
-When evaluating our projections, please keep in mind the following notes and update log:
+When evaluating our projections, please keep in mind the following notes, as well as the [Updates](#updates) log:
 
-* Our April 1 and April 2 projections do not have cumulative deaths. If evaluating cumulative deaths, we recommend using projections from April 3 onwards.
+* Our estimates from early April do not incorporate reopenings and probable deaths, two factors that significantly increases the estimates. Furthermore, our April 1-7 projections only go through June 30. Starting on April 8, our projections were extended to August 4.
 
-* Our estimates from early April do not incorporate reopenings and probable deaths, two factors that significantly increases the estimates. Furthermore, our early April projections only go through June.
+* Our first projections on April 1 do not have an upper/lower bound.
+
+* We added estimates of infected individuals starting on April 8.
+
+* We added estimates of the R_t value starting on May 15.
 
 * We send projections to the CDC every Monday using Sunday's data. For example, April 26, May 3, May 10, May 17, etc. As a result, we recommend using those projections for evaluation, since those have the highest impact and were the most carefully vetted.
 
@@ -91,6 +95,7 @@ When evaluating our projections, please keep in mind the following notes and upd
 
 2020-03-31
 * Add first projections for New York and California
+* Initial projection end date is June 30
 
 2020-03-30
 * Begin project
