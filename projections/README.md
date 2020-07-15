@@ -2,9 +2,18 @@
 
 Here, you will find all of our projections based on the date the projectoins were generated. Under each date directory, you will find a .csv file for each individual state/region/country. You can also look under our `combined` directory to see all of our daily projections combined in a single file.
 
-# Evaluation
+# Column Descriptions
 
-When evaluating our projections, please keep in mind the following notes, as well as the [Updates](#updates) log:
+* `actual_deaths` - Daily deaths as reported by Johns Hopkins University CSSE
+* `total_deaths` - Cumulative deaths as reported by Johns Hopkins University CSSE
+* `predicted_deaths_mean`, `predicted_deaths_lower`, `predicted_deaths_upper` - Mean, 2.5th, and 97.5th percentile of our daily deaths projections
+* `predicted_total_deaths_mean`, `predicted_total_deaths_lower`, `predicted_total_deaths_upper` (Since 2020-04-02) - Mean, 2.5th, and 97.5th percentile of our cumulative deaths projections
+* `predicted_new_infected_mean`, `predicted_new_infected_lower`, `predicted_new_infected_upper` (Since 2020-04-08) - Mean, 2.5th, and 97.5th percentile of our estimates for the total number of newly infected individuals on that day. Note that these estimates include all infections, not just those who tested positive
+* `predicted_current_infected_mean`, `predicted_current_infected_lower`, `predicted_current_infected_upper` (Since 2020-04-08) - Mean, 2.5th, and 97.5th percentile of our estimates for the total number of individuals that are infected on that day. This is the sum of the past 15 days of newly infected individuals
+* `predicted_total_infected_mean`, `predicted_total_infected_lower`, `predicted_total_infected_upper` (Since 2020-04-08) - Mean, 2.5th, and 97.5th percentile of our estimates for the total number of individuals that have ever been infected. This is the cumulative sum of the newly infected individuals
+* `r_values_mean` (since 2020-05-15) - Mean estimate of the Rt value on that day
+
+# Notes
 
 * Our estimates from early April do not incorporate reopenings and probable deaths, two factors that significantly increases the estimates. Furthermore, our April 1-7 projections only go through June 30. Starting on April 8, our projections were extended to August 4.
 
@@ -14,11 +23,7 @@ When evaluating our projections, please keep in mind the following notes, as wel
 
 * We added estimates of the R_t value starting on May 15.
 
-* We send projections to the CDC every Monday using Sunday's data. For example, April 26, May 3, May 10, May 17, etc. As a result, we recommend using those projections for evaluation, since those have the highest impact and were the most carefully vetted.
-
-* We did not submit our first projections to the CDC until April 20. While we welcome an evaluation of every projection we have ever made, we also want to point out that our projections have been constantly evolving/improving, and it wasn't until April 20 that we felt confident enough in our projections to submit to the CDC. With that said, we fully stand behind every projection we have sent to the CDC.
-
-* One way to think of this is to view our projections starting on April 20 as the "release" version, while projections prior to April 20 were "beta" versions.
+* We send projections to the CDC every Monday using Sunday's data. For example, April 26, May 3, May 10, May 17, etc. As a result, we recommend using those projections for evaluation, since those have the highest impact and were the most carefully vetted. See our [open source evaluation](https://github.com/youyanggu/covid19-forecast-hub-evaluation).
 
 # Updates
 
