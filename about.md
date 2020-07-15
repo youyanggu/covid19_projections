@@ -517,6 +517,7 @@ National
 * [New York Post](https://nypost.com/2020/04/29/georgia-coronavirus-death-rate-could-double-as-lockdown-eases/) - Apr 29
 
 Magazines/General News
+* [Harvard Global Health Institute](https://globalepidemics.org/2020/05/10/modeling-uncertainty-how-to-make-sense-of-changing-predictions/) - May 10
 * [Reason](https://reason.com/2020/05/28/as-lockdowns-are-lifted-is-the-covid-19-reproductive-number-rising-or-falling/) - May 28
 * [Reason](https://reason.com/2020/05/01/covid-19-modeling-how-many-coronavirus-deaths-by-the-end-of-summer/) - May 1
 * [GeekWire](https://www.geekwire.com/2020/coronavirus-projections-converge-amid-concerns-pandemic-resurgence/) - Jun 9
