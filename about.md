@@ -236,6 +236,8 @@ After the initial ramp-up period of a reopening (1-2 months), we assume that the
 
 We assume a very small daily decay in the transmission rate (R) starting from roughly 30 days after reopening (~0-0.5%). The decay is compoundly applied until the R drops below 1, at which point we stop applying further decays. As the exact value of the decay is unknown ahead of time, we initially sample this decay from a random distribution. As time goes on and we obtain more data regarding the post-reopening effects, our model will learn this decay.
 
+Another theory is that there is a certain subset of the population that are vulnerable to contracting the virus because they do not take the necessary precautions. Once that group is exhausted, it becomes harder for the virus to spread, leading to a decline in transmission despite no government intervention.
+
 [Back to Top](#top)
 
 #### Fall Wave
