@@ -515,6 +515,7 @@ National
 * [New York Times](https://www.nytimes.com/2020/05/05/us/coronavirus-deaths-cases-united-states.html) - May 5
 * [USA Today](https://www.usatoday.com/story/news/nation/2020/05/01/coronavirus-us-may-hit-10000-deaths-record-cases-may/3062216001/) - May 1
 * [New York Post](https://nypost.com/2020/04/29/georgia-coronavirus-death-rate-could-double-as-lockdown-eases/) - Apr 29
+* [Agence France-Presse](https://news.yahoo.com/us-presses-reopening-virus-first-wave-lingers-170209777.html) - Jun 12
 
 Magazines/General News
 * [Harvard Global Health Institute](https://globalepidemics.org/2020/05/10/modeling-uncertainty-how-to-make-sense-of-changing-predictions/) - May 10
