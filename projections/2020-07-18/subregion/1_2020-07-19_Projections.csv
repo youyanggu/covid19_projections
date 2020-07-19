@@ -1,0 +1,39 @@
+country,region,subregion,daily_deaths,daily_deaths_lower,daily_deaths_upper
+US,CA,Los Angeles,44,24,66
+US,AZ,Maricopa,39,30,53
+US,FL,Miami-Dade,22,15,28
+US,TX,Harris,12,8,17
+US,CA,Orange,11,6,17
+US,TX,Dallas,11,6,16
+US,FL,Palm Beach,10,8,13
+US,TX,Bexar,10,6,16
+US,IL,Cook,10,2,14
+Canada,,Quebec,9,2,13
+US,NY,New York City,9,1,33
+US,CA,San Diego,7,4,12
+US,NV,Clark,7,4,10
+US,CA,Riverside,7,3,12
+US,FL,Broward,6,2,9
+US,FL,Orange,5,3,8
+US,MA,Middlesex,5,1,10
+Canada,,Ontario,5,1,9
+US,CA,San Bernardino,4,2,7
+US,TX,Tarrant,4,2,7
+US,FL,Hillsborough,4,2,6
+US,PA,Philadelphia,4,1,7
+US,MI,Wayne,4,0,9
+US,NJ,Essex,3,0,7
+US,NY,Suffolk,2,0,6
+US,NJ,Bergen,2,0,4
+US,NJ,Hudson,2,0,4
+US,MA,Suffolk,2,0,3
+US,NY,Nassau,1,0,5
+US,CA,Alameda,1,0,3
+US,LA,Orleans,1,0,3
+US,NV,Washoe,1,0,3
+US,NY,Westchester,1,0,3
+US,WA,King,1,0,3
+Canada,,Alberta,1,0,2
+Canada,,British Columbia,1,0,2
+US,CA,Sacramento,1,0,2
+US,CA,Santa Clara,1,0,1
