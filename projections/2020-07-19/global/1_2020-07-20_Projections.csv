@@ -1,0 +1,71 @@
+country,region,subregion,daily_deaths,daily_deaths_lower,daily_deaths_upper
+Brazil,,,1019,724,1573
+India,,,623,398,860
+Mexico,,,608,373,822
+Colombia,,,203,147,248
+Iran,,,190,133,256
+Peru,,,190,119,265
+Russia,,,147,81,238
+South Africa,,,142,98,180
+Chile,,,83,37,147
+Indonesia,,,77,51,107
+Egypt,,,69,35,107
+Argentina,,,59,41,71
+United Kingdom,,,54,14,92
+Bolivia,,,53,33,69
+Pakistan,,,52,29,89
+Saudi Arabia,,,43,23,59
+Bangladesh,,,42,26,64
+Ecuador,,,39,12,84
+Philippines,,,32,9,63
+Panama,,,26,20,33
+Romania,,,21,14,28
+Honduras,,,20,13,25
+Turkey,,,19,2,51
+Ukraine,,,15,8,21
+Dominican Republic,,,14,7,22
+Sweden,,,11,4,15
+Canada,,,10,1,16
+Nigeria,,,9,4,15
+Italy,,,9,1,14
+France,,,9,0,46
+Moldova,,,7,4,10
+Poland,,,7,3,12
+Algeria,,,7,2,15
+Israel,,,7,2,14
+Serbia,,,6,2,12
+Spain,,,6,0,15
+Belarus,,,5,2,9
+Germany,,,5,0,11
+Bulgaria,,,4,2,6
+Portugal,,,4,1,9
+Belgium,,,2,0,6
+Australia,,,2,0,5
+Kuwait,,,2,0,5
+Morocco,,,2,0,5
+Japan,,,2,0,4
+Ireland,,,1,0,4
+Hungary,,,1,0,3
+Netherlands,,,1,0,3
+Switzerland,,,1,0,3
+United Arab Emirates,,,1,0,3
+Austria,,,1,0,2
+Czechia,,,1,0,2
+South Korea,,,1,0,2
+China,,,0,0,1
+Croatia,,,0,0,1
+Cuba,,,0,0,1
+Cyprus,,,0,0,1
+Denmark,,,0,0,1
+Estonia,,,0,0,1
+Finland,,,0,0,1
+Greece,,,0,0,1
+Iceland,,,0,0,1
+Latvia,,,0,0,1
+Lithuania,,,0,0,1
+Luxembourg,,,0,0,1
+Malaysia,,,0,0,1
+Malta,,,0,0,1
+Norway,,,0,0,1
+Slovakia,,,0,0,1
+Slovenia,,,0,0,1
