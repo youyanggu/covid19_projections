@@ -1,57 +1,57 @@
 country,region,subregion,tests_needed_per_day
-US,,,2259279
-US,Alaska,,449
-US,Alabama,,87543
-US,Arkansas,,16837
-US,Arizona,,103997
-US,California,,262416
-US,Colorado,,26268
-US,Connecticut,,4686
-US,District of Columbia,,3083
-US,Delaware,,3446
-US,Florida,,425456
-US,Georgia,,96585
+US,,,2247861
+US,Alaska,,891
+US,Alabama,,86969
+US,Arkansas,,15728
+US,Arizona,,102320
+US,California,,262119
+US,Colorado,,26295
+US,Connecticut,,4799
+US,District of Columbia,,3102
+US,Delaware,,3439
+US,Florida,,424697
+US,Georgia,,96222
 US,Guam,,119
 US,Hawaii,,957
-US,Iowa,,13260
-US,Idaho,,16692
+US,Iowa,,13537
+US,Idaho,,16936
 US,Illinois,,29489
-US,Indiana,,29199
-US,Kansas,,8917
-US,Kentucky,,29694
-US,Louisiana,,75465
-US,Massachusetts,,23820
-US,Maryland,,30875
-US,Maine,,1690
-US,Michigan,,27159
+US,Indiana,,29126
+US,Kansas,,9115
+US,Kentucky,,28704
+US,Louisiana,,76158
+US,Massachusetts,,23774
+US,Maryland,,30948
+US,Maine,,1677
+US,Michigan,,27291
 US,Minnesota,,23939
-US,Missouri,,22942
+US,Missouri,,23120
 US,Northern Mariana Islands,,27
-US,Mississippi,,33416
-US,Montana,,3736
-US,North Carolina,,49850
+US,Mississippi,,33066
+US,Montana,,3815
+US,North Carolina,,50200
 US,North Dakota,,2046
-US,Nebraska,,5379
+US,Nebraska,,5841
 US,New Hampshire,,1353
-US,New Jersey,,25754
-US,New Mexico,,15840
-US,Nevada,,40280
-US,New York,,26645
-US,Ohio,,72713
-US,Oklahoma,,13834
-US,Oregon,,15695
-US,Pennsylvania,,36452
-US,Puerto Rico,,5452
-US,Rhode Island,,3419
-US,South Carolina,,71300
-US,South Dakota,,2436
-US,Tennessee,,47514
-US,Texas,,318952
-US,Utah,,15596
-US,Virginia,,41231
+US,New Jersey,,25806
+US,New Mexico,,16289
+US,Nevada,,40003
+US,New York,,26671
+US,Ohio,,73346
+US,Oklahoma,,13068
+US,Oregon,,15504
+US,Pennsylvania,,36426
+US,Puerto Rico,,5465
+US,Rhode Island,,3426
+US,South Carolina,,68812
+US,South Dakota,,2416
+US,Tennessee,,46702
+US,Texas,,313804
+US,Utah,,15741
+US,Virginia,,41316
 US,Virgin Islands,,165
 US,Vermont,,449
-US,Washington,,21945
-US,Wisconsin,,20962
+US,Washington,,22005
+US,Wisconsin,,20810
 US,West Virginia,,1083
-US,Wyoming,,799
+US,Wyoming,,746
