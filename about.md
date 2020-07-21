@@ -326,7 +326,7 @@ Recently, there have been various reports regarding the accuracy and integrity o
 
 * *Data frequency*: Because our model uses only the daily death totals from each region to make projections, it will be more effective for regions where there are more available deaths data (such as New York) than regions where there are only a few reported deaths (such as Wyoming).
 
-* *Seasonality*: We currently do not explicitly factor in seasonality changes. A [May 8 study](https://www.cmaj.ca/content/cmaj/early/2020/05/08/cmaj.200920.full.pdf) of 144 geopolitical areas finds no significant correlation between temperature and transmission. However, if seasonality effects are reflected in the data, we will implicitly factor it in. It is possible that the effects of warmer temperatures may be partially offset by lockdown fatigue.
+* *Summer seasonality*: In the spring, we did not explicitly factor in seasonality changes. A [May 8 study](https://www.cmaj.ca/content/cmaj/early/2020/05/08/cmaj.200920.full.pdf) of 144 geopolitical areas finds no significant correlation between temperature and transmission. However, if seasonality effects are reflected in the data, we will implicitly factor it in. It is possible that the effects of warmer temperatures may be partially offset by lockdown fatigue.
 
 * *Lockdown fatigue / holidays*: As shown in various mobility data and [our analysis](https://twitter.com/youyanggu/status/1255034262006333440) of the NYC subway data, an increasing number of people have been moving around in the weeks following a lockdown. This may contribute to an increase in infections in the weeks following the lockdown/mitigation. Similarly, holidays may be a source of "superspreader" events, which we currently do not explicitly incorporate.
 
@@ -334,7 +334,7 @@ Recently, there have been various reports regarding the accuracy and integrity o
 
 * *Excess deaths*: While we attempt to predict the official death total, the true death total will be higher due to underreporting at various levels. [The New York Times](https://www.nytimes.com/interactive/2020/04/21/world/coronavirus-missing-deaths.html) and [Financial Times](https://www.ft.com/content/6bd88b7d-3386-4543-b2e9-0d5c6fac846c) are currently tracking these excess deaths.
 
-* *End date*: We are only making projections for 10-18 weeks ahead, but this does not mean that the epidemic will stop afterwards. Deaths will continue to rise even after we stop making projections. We are also currently not factoring in a fall wave, which was the [most deadly wave](https://www.cdc.gov/flu/pandemic-resources/1918-commemoration/three-waves.htm) in the 1918 Flu Pandemic.
+* *End date*: We are only making projections for 10-18 weeks ahead, but this does not mean that the epidemic will stop afterwards. Deaths will continue to rise even after we stop making projections.
 
 * *International projections*: Our model was created and optimized for the United States (and to a lesser extent, Europe). We include our projections for over 60 countries, but we want to caution that the model was not optimized for international countries. So if you plan on citing our model's international projections, please be sure to also consult each country's health experts first.
 
