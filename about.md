@@ -502,32 +502,36 @@ To conclude, we believe that a successful model must be able to quickly determin
 ### Media
 
 National
-* [NPR](https://www.npr.org/sections/health-shots/2020/06/12/876224115/coronavirus-second-wave-nope-were-still-stuck-in-the-first-one) - Jun 11
-* [CNN](https://www.cnn.com/2020/05/05/health/states-early-reopening-impact/index.html) - May 5
+* [StatNews](https://www.statnews.com/2020/07/20/trump-said-more-covid19-testing-creates-more-cases-we-did-the-math/) - Jul 21
+* [AFP](https://www.barrons.com/news/us-covid-19-epidemic-projected-to-worsen-01594826104) - Jul 15
 * [Bloomberg](https://www.bloomberg.com/opinion/articles/2020-07-01/covid-19-cases-in-arizona-florida-texas-aren-t-on-same-scale) - Jul 1
-* [StatNews](https://www.statnews.com/2020/04/30/coronavirus-death-projections-compare-causes-of-death) - Apr 30
-* [MarketWatch](https://www.marketwatch.com/story/will-some-people-be-affected-badly-yes-trump-says-us-must-reopen-coronavirus-deaths-projected-to-hit-100000-in-weeks-2020-05-06) - May 6
-* [New York Times](https://www.nytimes.com/interactive/2020/05/12/upshot/coronavirus-models.html) - May 12
-* [FiveThirtyEight](https://projects.fivethirtyeight.com/covid-forecasts/)
-* [The Economist](https://www.economist.com/graphic-detail/2020/05/23/early-projections-of-covid-19-in-america-underestimated-its-severity) - May 21
+* [AFP](https://news.yahoo.com/us-presses-reopening-virus-first-wave-lingers-170209777.html) - Jun 12
+* [NPR](https://www.npr.org/sections/health-shots/2020/06/12/876224115/coronavirus-second-wave-nope-were-still-stuck-in-the-first-one) - Jun 11
 * [CNN](https://www.cnn.com/2020/06/08/health/florida-coronavirus-cases-update/index.html) - Jun 8
-* [CNN](https://www.cnn.com/2020/04/28/health/georgia-coronavirus-death-projections/index.html) - Apr 28
+* [The Economist](https://www.economist.com/graphic-detail/2020/05/23/early-projections-of-covid-19-in-america-underestimated-its-severity) - May 21
+* [New York Times](https://www.nytimes.com/interactive/2020/05/12/upshot/coronavirus-models.html) - May 12
 * [NPR](https://www.npr.org/sections/health-shots/2020/05/07/851610771/u-s-coronavirus-testing-still-falls-short-hows-your-state-doing) - May 7
-* [TheHill](https://thehill.com/changing-america/well-being/prevention-cures/495459-reopening-georgia-could-lead-to-a-doubling-of) - Apr 30
+* [MarketWatch](https://www.marketwatch.com/story/will-some-people-be-affected-badly-yes-trump-says-us-must-reopen-coronavirus-deaths-projected-to-hit-100000-in-weeks-2020-05-06) - May 6
+* [CNN](https://www.cnn.com/2020/05/05/health/states-early-reopening-impact/index.html) - May 5
 * [New York Times](https://www.nytimes.com/2020/05/05/us/coronavirus-deaths-cases-united-states.html) - May 5
 * [USA Today](https://www.usatoday.com/story/news/nation/2020/05/01/coronavirus-us-may-hit-10000-deaths-record-cases-may/3062216001/) - May 1
+* [StatNews](https://www.statnews.com/2020/04/30/coronavirus-death-projections-compare-causes-of-death) - Apr 30
+* [TheHill](https://thehill.com/changing-america/well-being/prevention-cures/495459-reopening-georgia-could-lead-to-a-doubling-of) - Apr 30
 * [New York Post](https://nypost.com/2020/04/29/georgia-coronavirus-death-rate-could-double-as-lockdown-eases/) - Apr 29
-* [Agence France-Presse](https://news.yahoo.com/us-presses-reopening-virus-first-wave-lingers-170209777.html) - Jun 12
+* [CNN](https://www.cnn.com/2020/04/28/health/georgia-coronavirus-death-projections/index.html) - Apr 28
 
 Magazines/General News
-* [Harvard Global Health Institute](https://globalepidemics.org/2020/05/10/modeling-uncertainty-how-to-make-sense-of-changing-predictions/) - May 10
-* [Reason](https://reason.com/2020/05/28/as-lockdowns-are-lifted-is-the-covid-19-reproductive-number-rising-or-falling/) - May 28
-* [Reason](https://reason.com/2020/05/01/covid-19-modeling-how-many-coronavirus-deaths-by-the-end-of-summer/) - May 1
-* [GeekWire](https://www.geekwire.com/2020/coronavirus-projections-converge-amid-concerns-pandemic-resurgence/) - Jun 9
-* [IEEE Spectrum](https://spectrum.ieee.org/the-human-os/biomedical/ethics/will-protests-increase-spread-covid19-coronavirus) - Jun 11
+* [FiveThirtyEight](https://projects.fivethirtyeight.com/covid-forecasts/)
+* [Reason](https://reason.com/2020/07/20/daily-covid-19-deaths-in-the-u-s-continue-to-rise/) - Jul 20
+* [Vox](https://www.vox.com/2020/7/15/21317776/covid-19-coronavirus-florida-arizona-texas-california-hospitals) - Jul 16
 * [GQ](https://www.gq.com/story/the-slowly-rising-tide-of-covid) - Jun 18
-* [The Bulwark](https://thebulwark.com/what-winning-the-war-on-covid-19-looks-like/) - May 21
+* [IEEE Spectrum](https://spectrum.ieee.org/the-human-os/biomedical/ethics/will-protests-increase-spread-covid19-coronavirus) - Jun 11
+* [GeekWire](https://www.geekwire.com/2020/coronavirus-projections-converge-amid-concerns-pandemic-resurgence/) - Jun 9
+* [Reason](https://reason.com/2020/05/28/as-lockdowns-are-lifted-is-the-covid-19-reproductive-number-rising-or-falling/) - May 28
 * [Bustle](https://www.bustle.com/p/is-it-safe-to-go-to-bars-restaurants-as-coronavirus-restrictions-ease-heres-what-experts-say-22904245) - May 22
+* [The Bulwark](https://thebulwark.com/what-winning-the-war-on-covid-19-looks-like/) - May 21
+* [Harvard Global Health Institute](https://globalepidemics.org/2020/05/10/modeling-uncertainty-how-to-make-sense-of-changing-predictions/) - May 10
+* [Reason](https://reason.com/2020/05/01/covid-19-modeling-how-many-coronavirus-deaths-by-the-end-of-summer/) - May 1
 
 Local
 * [The Advocate (NOLA)](https://www.nola.com/news/coronavirus/article_b4ec117c-b020-11ea-a690-03d2e5a9e00e.html) - Jun 17
