@@ -7,10 +7,10 @@ permalink: /about/
 ## Table of contents
 * [About the Model](#about-the-model)
 * [How Our Model is Different](#how-our-model-is-different)
-* [Historical Performance **(Updated July 13)**](#historical-performance)
-  * [Late June US Projection **(New July 11)**](#late-june-us-projection)
-  * [Late May Projections **(New July 10)**](#late-may-projections)
-  * [Baseline Comparison (New July 1)](#baseline-comparison-c19pro-vs-ihme)
+* [Historical Performance **(Updated July 20)**](#historical-performance)
+  * [Baseline Comparison](#baseline-comparison-c19pro-vs-ihme)
+  * [Late June US Projection](#late-june-us-projection)
+  * [Late May Projections](#late-may-projections)
 * [CDC Projections Over Time](#cdc-projections-over-time)
 * [Historical US Projections *(Updated Daily)*](#historical-us-projections)
 * [Data and Output](#data-and-output)
@@ -102,15 +102,27 @@ We have open-sourced the code and data used to evaluate COVID-19 models: [https:
 
 ![4 week ahead US comparison](/assets/images/4_week_ahead_us.png)
 
-### Evaluation of past state-by-state projections on cumulative deaths as of July 11
+### Evaluation of past state-by-state projections on cumulative deaths as of July 18
 
-![States comparison](/assets/images/2020-07-11_comparison_states.png)
+![States comparison](/assets/images/2020-07-18_comparison_states.png)
 
-### Evaluation of past US projections on cumulative deaths as of July 11
+### Evaluation of past US projections on cumulative deaths as of July 18
 
 Note: On June 25, New Jersey added 1,854 probable deaths, thereby significantly skewing US death reports. As a result, the below evaluation may not the best representative of model accuracy. Read more [here](#observations).
 
-![US comparison](/assets/images/2020-07-11_comparison_us.png)
+![US comparison](/assets/images/2020-07-18_comparison_us.png)
+
+[Back to Top](#top)
+
+### Baseline Comparison: C19Pro vs IHME
+
+If on June 1, you simply assume each state/country's average daily deaths from the week before will be unchanged for the next 4 weeks, you can make a better forecasts than IHME. This is equivalent to extending a straight line on the daily deaths plots.
+
+![Baseline comparison US](/assets/images/baseline_comparison_june27.png)
+
+![Baseline comparison Global](/assets/images/baseline_comparison_global_june27.png)
+
+The pattern is similar for other dates as well. See our [open source evaluation](https://github.com/youyanggu/covid19-forecast-hub-evaluation) for more.
 
 [Back to Top](#top)
 
@@ -129,18 +141,6 @@ Below you can find some of our late May projections for 4 of the most heavily im
 [Click here](/model-comparison-ihme) to view more plots of historical projections.
 
 {% include iframe_ihme_may28.html %}
-
-[Back to Top](#top)
-
-### Baseline Comparison: C19Pro vs IHME
-
-If on June 1, you simply assume each state/country's average daily deaths from the week before will be unchanged for the next 4 weeks, you can make a better forecasts than IHME. This is equivalent to extending a straight line on the daily deaths plots.
-
-![Baseline comparison US](/assets/images/baseline_comparison_june27.png)
-
-![Baseline comparison Global](/assets/images/baseline_comparison_global_june27.png)
-
-The pattern is similar for other dates as well. See our [open source evaluation](https://github.com/youyanggu/covid19-forecast-hub-evaluation) for more.
 
 [Back to Top](#top)
 
