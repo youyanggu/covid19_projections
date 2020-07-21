@@ -15,6 +15,8 @@ Here, you will find all of our projections based on the date the projectoins wer
 
 # Notes
 
+* Projections in this repository are rounded to the nearest integer, and hence is missing decimal precision. To avoid rounding errors, we recommend using the cumulative deaths to perform computations on incident deaths (e.g. weekly incident deaths).
+
 * Our estimates from early April do not incorporate reopenings and probable deaths, two factors that significantly increases the estimates. Furthermore, our April 1-7 projections only go through June 30. Starting on April 8, our projections were extended to August 4.
 
 * Our first projections on April 1 do not have an upper/lower bound.
