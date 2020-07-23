@@ -1,57 +1,57 @@
 country,region,subregion,tests_needed_per_day
-US,,,2247861
-US,Alaska,,891
-US,Alabama,,86969
-US,Arkansas,,15728
-US,Arizona,,102320
-US,California,,262119
-US,Colorado,,26295
-US,Connecticut,,4799
-US,District of Columbia,,3102
-US,Delaware,,3439
-US,Florida,,424697
-US,Georgia,,96222
-US,Guam,,119
-US,Hawaii,,957
-US,Iowa,,13537
-US,Idaho,,16936
-US,Illinois,,29489
-US,Indiana,,29126
-US,Kansas,,9115
-US,Kentucky,,28704
-US,Louisiana,,76158
-US,Massachusetts,,23774
-US,Maryland,,30948
-US,Maine,,1677
-US,Michigan,,27291
-US,Minnesota,,23939
-US,Missouri,,23120
-US,Northern Mariana Islands,,27
-US,Mississippi,,33066
-US,Montana,,3815
-US,North Carolina,,50200
-US,North Dakota,,2046
-US,Nebraska,,5841
-US,New Hampshire,,1353
-US,New Jersey,,25806
-US,New Mexico,,16289
-US,Nevada,,40003
-US,New York,,26671
-US,Ohio,,73346
-US,Oklahoma,,13068
-US,Oregon,,15504
-US,Pennsylvania,,36426
-US,Puerto Rico,,5465
-US,Rhode Island,,3426
-US,South Carolina,,68812
-US,South Dakota,,2416
-US,Tennessee,,46702
-US,Texas,,313804
-US,Utah,,15741
-US,Virginia,,41316
-US,Virgin Islands,,165
-US,Vermont,,449
-US,Washington,,22005
-US,Wisconsin,,20810
-US,West Virginia,,1083
-US,Wyoming,,746
+US,,,2386600
+US,Alaska,,1221
+US,Alabama,,73531
+US,Arkansas,,22949
+US,Arizona,,105950
+US,California,,276138
+US,Colorado,,28651
+US,Connecticut,,5789
+US,District of Columbia,,1881
+US,Delaware,,3492
+US,Florida,,332449
+US,Georgia,,127889
+US,Guam,,146
+US,Hawaii,,1485
+US,Iowa,,27932
+US,Idaho,,32129
+US,Illinois,,46451
+US,Indiana,,47639
+US,Kansas,,9511
+US,Kentucky,,38228
+US,Louisiana,,70040
+US,Massachusetts,,13530
+US,Maryland,,19121
+US,Maine,,1525
+US,Michigan,,21134
+US,Minnesota,,25648
+US,Missouri,,23886
+US,Northern Mariana Islands,,40
+US,Mississippi,,34301
+US,Montana,,5967
+US,North Carolina,,62806
+US,North Dakota,,3459
+US,Nebraska,,7353
+US,New Hampshire,,3122
+US,New Jersey,,14567
+US,New Mexico,,16355
+US,Nevada,,65690
+US,New York,,10989
+US,Ohio,,77722
+US,Oklahoma,,13392
+US,Oregon,,25041
+US,Pennsylvania,,53130
+US,Puerto Rico,,12910
+US,Rhode Island,,4964
+US,South Carolina,,77861
+US,South Dakota,,3927
+US,Tennessee,,45752
+US,Texas,,344771
+US,Utah,,20632
+US,Virginia,,68746
+US,Virgin Islands,,304
+US,Vermont,,377
+US,Washington,,17365
+US,Wisconsin,,33482
+US,West Virginia,,2046
+US,Wyoming,,1221
