@@ -17,6 +17,9 @@ permalink: /about/
 * [Assumptions](#assumptions)
   * [Confidence Intervals](#confidence-intervals)
   * [Social Distancing](#social-distancing)
+  * [Second Wave](#second-wave)
+  * [Post Reopening](#post-reopening)
+  * [Fall Wave](#fall-wave)
   * [Infections Estimate](#infections-estimate)
   * [Effective Reproduction Number (R)](#effective-reproduction-number-r)
   * [Infection Fatality Rate (IFR)](#infection-fatality-rate-ifr)
@@ -224,7 +227,9 @@ If regions impose stricter social distancing guidelines than our assumptions lis
 
 #### Second wave
 
-In regions where the outbreak has not yet been fully contained, it is possible that reopening will cause a second wave of infections if states fail to maintain sufficient social distancing. We assume that regions that have reopened will take actions to reduce transmission, such as increased contact tracing, mandatory mask wearing, improved treatments, capacity limits, etc. As a result, we cap the post-reopening R_t value to be under 1.3. Over time, the aforementioned actions will also lead to a fall in the transmission rate.
+In regions where the outbreak has not yet been fully contained, it is possible that reopening will cause a second wave of infections if states fail to maintain sufficient social distancing. We assume that regions that have reopened will take actions to reduce transmission, such as increased contact tracing, mandatory mask wearing, improved treatments, capacity limits, etc. Over time, the aforementioned actions, as well as the natural progression of the virus, will lead to a reduction in the transmission rate.
+
+In states where a second wave is prevalent, infections appear to reach a peak before undergoing a decline, despite a lack of concrete mitigation measures. One theory is that there is a certain subset of the population that are more susceptible to contracting the virus (old age, co-morbidities, unwillingness to take precautions, etc). Once that group is exhausted, it becomes harder for the virus to spread, leading to a decline in transmission despite no government intervention. Note that this is merely a theory to explain the observed data.
 
 As of June 1, our model no longer assumes a second lockdown.
 
@@ -234,15 +239,15 @@ As of June 1, our model no longer assumes a second lockdown.
 
 After the initial ramp-up period of a reopening (1-2 months), we assume that the spread will decrease over time due to improvements in contact tracing, increased mask wearing, and greater awareness within the population. In the initial stages of the reopening, this phenomenon will likely be dwarfed by the act of the reopening itself, hence leading to a plateau or increase in cases. But after the rate of reopening for a region has plateaued 1-2 months later, we expect to see a gradual decline in transmission and hence a decline in infections and deaths. Of course, this assumption is highly subject to change based on the data.
 
-We assume a very small daily decay in the transmission rate (R) starting from roughly 30 days after reopening (~0-0.5%). The decay is compoundly applied until the R drops below 1, at which point we stop applying further decays. As the exact value of the decay is unknown ahead of time, we initially sample this decay from a random distribution. As time goes on and we obtain more data regarding the post-reopening effects, our model will learn this decay.
+Starting on July 22, we use two logistic (sigmoid) functions to approximate the R_t curve from the reopening. We use two parameters, the maximum reopen R_t and the inflection rate to determine the shape. These two parameters are then learned by our machine learning layer based on the data. You can learn more by looking at our [open-source code](https://github.com/youyanggu/yyg-seir-simulator/blob/master/README.md#REOPEN_INFLECTION).
 
-Another theory is that there is a certain subset of the population that are vulnerable to contracting the virus because they do not take the necessary precautions. Once that group is exhausted, it becomes harder for the virus to spread, leading to a decline in transmission despite no government intervention.
+Prior to July 22, we assume a very small daily decay in the transmission rate (R) starting from roughly 30 days after reopening (~0-0.5%). The decay is compoundly applied until the R drops below 1, at which point we stop applying further decays. As the exact value of the decay is unknown ahead of time, we initially sample this decay from a random distribution. As time goes on and we obtain more data regarding the post-reopening effects, our model will learn this decay.
 
 [Back to Top](#top)
 
 #### Fall Wave
 
-The future is uncertain, and many things can happen between now and fall that will change the trajectory of this epidemic. While we believe a September increase in deaths is [unlikely](https://twitter.com/youyanggu/status/1271395005219745792), we do think it is possible that the rate of transmission may increase as we head towards winter. We currently assume a 0-0.4% daily increase in the transmission rate (R_t) starting in the fall (September). This results in a wider confidence interval to account for the increased uncertainty. This assumption is subject to change as we get closer to the date.
+The future is uncertain, and many things can happen between now and fall that will change the trajectory of this epidemic. While we believe a September increase in deaths is [unlikely](https://twitter.com/youyanggu/status/1271395005219745792), we do think it is possible that the rate of transmission may increase as we head towards winter. We currently assume a 0-0.4% daily increase in the transmission rate (R_t) starting in the fall (September). Because this value is still too early to learn, we randomly sample this value from a triangle distribution in our simulations. This results in a wider confidence interval to account for the increased uncertainty. This assumption is subject to change as we get closer to the date.
 
 [Back to Top](#top)
 
@@ -262,7 +267,7 @@ Our R estimates are merely estimates rather than precise values, and *is only ba
 
 ### Infection Fatality Rate (IFR)
 
-**Note that our IFR estimates is subject to change based on new data.**
+**Note that our IFR estimates is subject to change based on new data. The exact IFR value does not significantly affect our death estimates.**
 
 We estimate that infection fatality rate (IFR) for COVID-19 in the US through April is between [0.9-1.2%](https://twitter.com/youyanggu/status/1256051255253757953). This matches a [May 7 study](https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2020.00455) that estimates the IFR to be slightly less than 1.3% after accounting for asymptomatic cases. We also found that most countries in Europe (with the the exceptions of United Kingdom, Spain, and Eastern Europe) have an IFR closer to 0.75%, which matches [this May 6 study](https://www.medrxiv.org/content/10.1101/2020.05.03.20089854v1).
 
@@ -270,7 +275,7 @@ Prior to June, we use the following initial IFR in our projections:
 - 0.75% IFR: Japan, South Korea, Iceland, Norway, Switzerland, all EU countries except Spain
 - 1% IFR: US and all other countries
 
-Since June 1, 2020, we use a variable IFR that decreases over time to reflect improving treatments and the lower age distribution of cases. Hence, we decrease the initial IFR linearly over the span of 3 months until it is 30% of the original IFR. The initial IFR for reach region is determined by looking at the case fatality ratio, and ranges from 0.5%-1.5%. Through the end of April, we estimate the IFR in the US to be around 0.7%, which is [corroborated by CDC's best estimate scenario](https://www.cdc.gov/coronavirus/2019-ncov/hcp/planning-scenarios.html), which cites a study from April. By August 2020, we estimate the IFR to be 0.3-0.5% in most of the US and Europe. For later-impacted regions like Latin America, we wait an additional 3 months before beginning to decrease the IFR.
+Since June 1, 2020, we use a variable IFR that decreases over time to reflect improving treatments and the lower age distribution of cases. Hence, we decrease the initial IFR linearly over the span of 3 months until it is 30% of the original IFR. The initial IFR for reach region is determined by looking at the case fatality ratio, and ranges from 0.5%-1.5%. Through the end of April, we estimate the IFR in the US to be around 0.7%, which is [corroborated by CDC's best estimate scenario](https://www.cdc.gov/coronavirus/2019-ncov/hcp/planning-scenarios.html), which cites a study from April. By August 2020, we estimate the IFR to be 0.2-0.4% in most of the US and Europe. For later-impacted regions like Latin America, we wait an additional 3 months before beginning to decrease the IFR.
 
 Recent [global](https://www.medrxiv.org/content/10.1101/2020.05.11.20098780v1), [Europe](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31357-X/fulltext), and [US](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-23-united-states/) studies point to a 0.5-1% IFR to be a reasonable estimate. One of the largest antibody studies thus far estimated a [1.2% IFR](https://www.mscbs.gob.es/gabinetePrensa/notaPrensa/pdf/ENE-C140520115618104.pdf) for Spain.
 
@@ -331,6 +336,8 @@ Recently, there have been various reports regarding the accuracy and integrity o
 * *Lockdown fatigue / holidays*: As shown in various mobility data and [our analysis](https://twitter.com/youyanggu/status/1255034262006333440) of the NYC subway data, an increasing number of people have been moving around in the weeks following a lockdown. This may contribute to an increase in infections in the weeks following the lockdown/mitigation. Similarly, holidays may be a source of "superspreader" events, which we currently do not explicitly incorporate.
 
 * *Reporting differences*: Different countries follow different guidelines on how they are reporting COVID-19 deaths. For example, Belgium is one of the most comprehensive countries when it comes to death reporting: they report all probable deaths as well as nursing home deaths. In contrast, United Kingdom only began including care home deaths starting on April 29, having only reported hospital deaths previously. Because we are projecting future reported deaths, our model assumes that the reporting guidelines remains constant for each country.
+
+* *Reporting delay*: There is a delay between when a death occurs and when it is reported to the local/state health department. This delay can range anywhere from 1 day to over 30 days, although the vast majority of deaths are reported within 10 days. Prior to July 22, we do not explicitly incorporate this reporting delay. But starting July 22, we began to include this delay in our modeling. We assume that ~50% of deaths are reported within 5 days and ~80% of deaths are reported within 10 days.
 
 * *Excess deaths*: While we attempt to predict the official death total, the true death total will be higher due to underreporting at various levels. [The New York Times](https://www.nytimes.com/interactive/2020/04/21/world/coronavirus-missing-deaths.html) and [Financial Times](https://www.ft.com/content/6bd88b7d-3386-4543-b2e9-0d5c6fac846c) are currently tracking these excess deaths.
 
