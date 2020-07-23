@@ -1,57 +1,57 @@
 country,region,subregion,tests_needed_per_day
-US,,,2386600
-US,Alaska,,1221
-US,Alabama,,73531
-US,Arkansas,,22949
-US,Arizona,,105950
-US,California,,276138
-US,Colorado,,28651
-US,Connecticut,,5789
-US,District of Columbia,,1881
-US,Delaware,,3492
-US,Florida,,332449
-US,Georgia,,127889
+US,,,2545521
+US,Alaska,,1743
+US,Alabama,,88566
+US,Arkansas,,22196
+US,Arizona,,103066
+US,California,,284975
+US,Colorado,,28625
+US,Connecticut,,5703
+US,District of Columbia,,1875
+US,Delaware,,3512
+US,Florida,,327110
+US,Georgia,,163568
 US,Guam,,146
-US,Hawaii,,1485
-US,Iowa,,27932
-US,Idaho,,32129
-US,Illinois,,46451
-US,Indiana,,47639
-US,Kansas,,9511
-US,Kentucky,,38228
-US,Louisiana,,70040
-US,Massachusetts,,13530
-US,Maryland,,19121
-US,Maine,,1525
-US,Michigan,,21134
-US,Minnesota,,25648
-US,Missouri,,23886
+US,Hawaii,,1650
+US,Iowa,,27793
+US,Idaho,,38148
+US,Illinois,,35548
+US,Indiana,,48378
+US,Kansas,,9894
+US,Kentucky,,34017
+US,Louisiana,,75947
+US,Massachusetts,,13768
+US,Maryland,,19035
+US,Maine,,1505
+US,Michigan,,20936
+US,Minnesota,,25113
+US,Missouri,,24255
 US,Northern Mariana Islands,,40
-US,Mississippi,,34301
-US,Montana,,5967
-US,North Carolina,,62806
-US,North Dakota,,3459
-US,Nebraska,,7353
-US,New Hampshire,,3122
-US,New Jersey,,14567
-US,New Mexico,,16355
-US,Nevada,,65690
-US,New York,,10989
-US,Ohio,,77722
-US,Oklahoma,,13392
-US,Oregon,,25041
-US,Pennsylvania,,53130
-US,Puerto Rico,,12910
+US,Mississippi,,36611
+US,Montana,,6165
+US,North Carolina,,65301
+US,North Dakota,,4185
+US,Nebraska,,7214
+US,New Hampshire,,3168
+US,New Jersey,,13847
+US,New Mexico,,16045
+US,Nevada,,75590
+US,New York,,27173
+US,Ohio,,77201
+US,Oklahoma,,15999
+US,Oregon,,21932
+US,Pennsylvania,,53619
+US,Puerto Rico,,16725
 US,Rhode Island,,4964
-US,South Carolina,,77861
-US,South Dakota,,3927
-US,Tennessee,,45752
-US,Texas,,344771
-US,Utah,,20632
-US,Virginia,,68746
-US,Virgin Islands,,304
+US,South Carolina,,91549
+US,South Dakota,,3776
+US,Tennessee,,45514
+US,Texas,,407795
+US,Utah,,22487
+US,Virginia,,67743
+US,Virgin Islands,,502
 US,Vermont,,377
 US,Washington,,17365
-US,Wisconsin,,33482
-US,West Virginia,,2046
-US,Wyoming,,1221
+US,Wisconsin,,32697
+US,West Virginia,,1769
+US,Wyoming,,1109
