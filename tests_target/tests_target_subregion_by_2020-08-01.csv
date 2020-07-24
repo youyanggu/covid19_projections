@@ -1,39 +1,39 @@
 country,region,subregion,tests_needed_per_day
-Canada,,Alberta,2733
-Canada,,British Columbia,1056
-Canada,,Ontario,4594
-Canada,,Quebec,8765
-US,AZ,Maricopa,96783
-US,CA,Alameda,8561
-US,CA,Los Angeles,142712
-US,CA,Orange,38696
-US,CA,Riverside,32050
-US,CA,Sacramento,6284
-US,CA,San Bernardino,17517
-US,CA,San Diego,38023
-US,CA,Santa Clara,3135
-US,FL,Broward,42260
-US,FL,Hillsborough,20876
-US,FL,Miami-Dade,62681
-US,FL,Orange,26486
-US,FL,Palm Beach,28202
-US,IL,Cook,16619
-US,LA,Orleans,1360
-US,MA,Middlesex,6528
-US,MA,Suffolk,1921
-US,MI,Wayne,6039
-US,NJ,Bergen,1248
-US,NJ,Essex,997
-US,NJ,Hudson,825
-US,NV,Clark,54332
-US,NV,Washoe,5168
-US,NY,Nassau,1070
-US,NY,New York City,19352
-US,NY,Suffolk,1954
-US,NY,Westchester,1142
-US,PA,Philadelphia,5531
-US,TX,Bexar,36096
-US,TX,Dallas,36373
-US,TX,Harris,44603
-US,TX,Tarrant,15174
-US,WA,King,5617
+Canada,,Alberta,3195
+Canada,,British Columbia,1149
+Canada,,Ontario,4785
+Canada,,Quebec,8567
+US,AZ,Maricopa,97001
+US,CA,Alameda,8897
+US,CA,Los Angeles,147847
+US,CA,Orange,40703
+US,CA,Riverside,36386
+US,CA,Sacramento,6515
+US,CA,San Bernardino,21305
+US,CA,San Diego,37693
+US,CA,Santa Clara,3261
+US,FL,Broward,40854
+US,FL,Hillsborough,26084
+US,FL,Miami-Dade,58417
+US,FL,Orange,29489
+US,FL,Palm Beach,29549
+US,IL,Cook,16995
+US,LA,Orleans,1287
+US,MA,Middlesex,6178
+US,MA,Suffolk,1769
+US,MI,Wayne,5109
+US,NJ,Bergen,1116
+US,NJ,Essex,845
+US,NJ,Hudson,872
+US,NV,Clark,51164
+US,NV,Washoe,5010
+US,NY,Nassau,1023
+US,NY,New York City,11557
+US,NY,Suffolk,1650
+US,NY,Westchester,964
+US,PA,Philadelphia,5195
+US,TX,Bexar,36842
+US,TX,Dallas,36175
+US,TX,Harris,47316
+US,TX,Tarrant,17253
+US,WA,King,5511
