@@ -1,39 +1,39 @@
 country,region,subregion,tests_needed_per_day
-Canada,,Alberta,3234
-Canada,,British Columbia,1142
+Canada,,Alberta,3241
+Canada,,British Columbia,1182
 Canada,,Ontario,4779
-Canada,,Quebec,8554
-US,AZ,Maricopa,101013
-US,CA,Alameda,9346
-US,CA,Los Angeles,148032
-US,CA,Orange,41495
-US,CA,Riverside,33291
-US,CA,Sacramento,7300
-US,CA,San Bernardino,24368
-US,CA,San Diego,40003
-US,CA,Santa Clara,3373
-US,FL,Broward,40247
-US,FL,Hillsborough,23180
-US,FL,Miami-Dade,56265
-US,FL,Orange,29304
-US,FL,Palm Beach,30816
-US,IL,Cook,17127
+Canada,,Quebec,8547
+US,AZ,Maricopa,106861
+US,CA,Alameda,9247
+US,CA,Los Angeles,153556
+US,CA,Orange,40861
+US,CA,Riverside,31456
+US,CA,Sacramento,7102
+US,CA,San Bernardino,22196
+US,CA,San Diego,37198
+US,CA,Santa Clara,3446
+US,FL,Broward,49626
+US,FL,Hillsborough,20698
+US,FL,Miami-Dade,53480
+US,FL,Orange,29331
+US,FL,Palm Beach,28202
+US,IL,Cook,29047
 US,LA,Orleans,1307
-US,MA,Middlesex,6198
-US,MA,Suffolk,1782
-US,MI,Wayne,5096
-US,NJ,Bergen,1155
-US,NJ,Essex,858
-US,NJ,Hudson,885
-US,NV,Clark,51012
-US,NV,Washoe,4719
+US,MA,Middlesex,6119
+US,MA,Suffolk,1789
+US,MI,Wayne,5036
+US,NJ,Bergen,1149
+US,NJ,Essex,865
+US,NJ,Hudson,865
+US,NV,Clark,48477
+US,NV,Washoe,4495
 US,NY,Nassau,1023
-US,NY,New York City,11484
+US,NY,New York City,11465
 US,NY,Suffolk,1657
-US,NY,Westchester,964
-US,PA,Philadelphia,5122
-US,TX,Bexar,37271
-US,TX,Dallas,33106
-US,TX,Harris,49012
-US,TX,Tarrant,18494
-US,WA,King,5610
+US,NY,Westchester,977
+US,PA,Philadelphia,5102
+US,TX,Bexar,36611
+US,TX,Dallas,36182
+US,TX,Harris,52668
+US,TX,Tarrant,21305
+US,WA,King,5597
