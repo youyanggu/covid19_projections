@@ -49,7 +49,7 @@ The charts below represent past state-by-state and US projections evaluated on c
 
 ![US comparison](/assets/images/2020-07-25_comparison_us.png)
 
-## July 25
+## July 18
 
 ### State-by-state projections
 
