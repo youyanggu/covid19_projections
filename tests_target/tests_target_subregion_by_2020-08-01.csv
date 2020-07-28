@@ -1,39 +1,39 @@
 country,region,subregion,tests_needed_per_day
-Canada,,Alberta,9689
-Canada,,British Columbia,1175
-Canada,,Ontario,4257
-Canada,,Quebec,4620
-US,AZ,Maricopa,110867
-US,CA,Alameda,9557
-US,CA,Los Angeles,150309
-US,CA,Orange,43237
-US,CA,Riverside,32545
-US,CA,Sacramento,7802
-US,CA,San Bernardino,24612
-US,CA,San Diego,39785
+Canada,,Alberta,13907
+Canada,,British Columbia,1235
+Canada,,Ontario,4277
+Canada,,Quebec,4634
+US,AZ,Maricopa,108887
+US,CA,Alameda,7716
+US,CA,Los Angeles,108009
+US,CA,Orange,37640
+US,CA,Riverside,23305
+US,CA,Sacramento,9234
+US,CA,San Bernardino,18824
+US,CA,San Diego,29390
 US,CA,Santa Clara,3505
-US,FL,Broward,43772
-US,FL,Hillsborough,23886
-US,FL,Miami-Dade,50787
-US,FL,Orange,26070
-US,FL,Palm Beach,26156
-US,IL,Cook,28968
+US,FL,Broward,43125
+US,FL,Hillsborough,23595
+US,FL,Miami-Dade,50847
+US,FL,Orange,25820
+US,FL,Palm Beach,25879
+US,IL,Cook,29192
 US,LA,Orleans,1307
-US,MA,Middlesex,6191
-US,MA,Suffolk,2937
+US,MA,Middlesex,6244
+US,MA,Suffolk,2904
 US,MI,Wayne,5016
-US,NJ,Bergen,1142
+US,NJ,Bergen,1129
 US,NJ,Essex,865
-US,NJ,Hudson,878
-US,NV,Clark,50048
-US,NV,Washoe,4977
-US,NY,Nassau,1023
-US,NY,New York City,11656
-US,NY,Suffolk,1697
+US,NJ,Hudson,872
+US,NV,Clark,28044
+US,NV,Washoe,4983
+US,NY,Nassau,1030
+US,NY,New York City,11676
+US,NY,Suffolk,1716
 US,NY,Westchester,977
-US,PA,Philadelphia,5102
-US,TX,Bexar,39878
-US,TX,Dallas,38650
-US,TX,Harris,54853
-US,TX,Tarrant,20929
+US,PA,Philadelphia,5168
+US,TX,Bexar,34109
+US,TX,Dallas,38492
+US,TX,Harris,53592
+US,TX,Tarrant,18751
 US,WA,King,5835
