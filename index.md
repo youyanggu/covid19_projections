@@ -22,9 +22,9 @@ On this page:
 <a href="https://twitter.com/youyanggu" class="twitter-follow-button" data-show-count="false">Follow for updates</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Current US Projections
-### Updated Daily - Last Updated: July 28 (3am ET):
+### Updated Daily - Last Updated: July 28 (2pm ET):
 <p align="center">
-  Current Total: <b>148,008</b> deaths | Projected Total: <b>221,600 deaths by Nov 1, 2020</b> (Range: 189-269k)<br>
+  Current Total: <b>148,008</b> deaths | Projected Total: <b>221,800 deaths by Nov 1, 2020</b> (Range: 189-270k)<br>
   Currently Infected: <b>1.9%</b> | Total Infected: <b>10.7%</b> {% include iframe.html %}
 </p>
 
@@ -54,10 +54,10 @@ Last updated: July 28, 2020
 |   US deaths surpass: |   By Aug 1 |   By Aug 15 |   By Sep 1 |   By Sep 15 |   By Oct 1 |   By Oct 15 |   By Nov 1 |
 |----------------------|------------|-------------|------------|-------------|------------|-------------|------------|
 |              150,000 |        99% |        >99% |       >99% |        >99% |       >99% |        >99% |       >99% |
-|              175,000 |        <1% |          3% |        74% |         98% |        99% |         99% |        99% |
-|              200,000 |        <1% |         <1% |         3% |         22% |        50% |         67% |        80% |
+|              175,000 |        <1% |          3% |        75% |         98% |        99% |         99% |        99% |
+|              200,000 |        <1% |         <1% |         4% |         23% |        50% |         67% |        80% |
 |              225,000 |        <1% |         <1% |        <1% |          1% |         9% |         19% |        33% |
-|              250,000 |        <1% |         <1% |        <1% |         <1% |        <1% |          3% |         9% |
+|              250,000 |        <1% |         <1% |        <1% |         <1% |        <1% |          4% |         9% |
 |              275,000 |        <1% |         <1% |        <1% |         <1% |        <1% |         <1% |         2% |
 |              300,000 |        <1% |         <1% |        <1% |         <1% |        <1% |         <1% |        <1% |
 
@@ -162,12 +162,12 @@ States are ordered by descending projected deaths (by November 1).
 
 |                                |   Current Deaths |   Projected Deaths - Mean |   Projected Deaths / 1M |   Additional Deaths - Mean |   Additional Deaths (% of Current Deaths) |   Projected Deaths - 2.5th Percentile |   Projected Deaths - 97.5th Percentile |
 |--------------------------------|------------------|---------------------------|-------------------------|----------------------------|-------------------------------------------|---------------------------------------|----------------------------------------|
-|             *[United States](/us)* |          148,008 |                   221,623 |                     668 |                     73,615 |                                       50% |                               189,381 |                                268,424 |
+|             *[United States](/us)* |          148,008 |                   221,818 |                     668 |                     73,810 |                                       50% |                               189,513 |                                269,041 |
 |                 [New York](/us-ny) |           32,645 |                    33,757 |                   1,735 |                      1,112 |                                        3% |                                32,693 |                                 38,508 |
 |               [California](/us-ca) |            8,494 |                    17,595 |                     445 |                      9,101 |                                      107% |                                11,520 |                                 26,624 |
 |                    [Texas](/us-tx) |            5,713 |                    16,809 |                     580 |                     11,096 |                                      194% |                                10,826 |                                 24,776 |
 |               [New Jersey](/us-nj) |           15,804 |                    16,637 |                   1,873 |                        833 |                                        5% |                                15,903 |                                 18,083 |
-|                  [Florida](/us-fl) |            5,931 |                    14,123 |                     658 |                      8,192 |                                      138% |                                 9,556 |                                 19,936 |
+|                  [Florida](/us-fl) |            5,931 |                    14,556 |                     678 |                      8,625 |                                      145% |                                 9,807 |                                 21,213 |
 |            [Massachusetts](/us-ma) |            8,536 |                     9,458 |                   1,361 |                        922 |                                       11% |                                 8,616 |                                 11,318 |
 |                 [Illinois](/us-il) |            7,608 |                     9,324 |                     736 |                      1,716 |                                       23% |                                 7,880 |                                 11,888 |
 |             [Pennsylvania](/us-pa) |            7,131 |                     9,140 |                     714 |                      2,009 |                                       28% |                                 7,287 |                                 13,526 |
@@ -189,8 +189,8 @@ States are ordered by descending projected deaths (by November 1).
 |                [Tennessee](/us-tn) |              978 |                     2,484 |                     363 |                      1,506 |                                      154% |                                 1,585 |                                  3,705 |
 |                [Minnesota](/us-mn) |            1,616 |                     2,279 |                     404 |                        663 |                                       41% |                                 1,728 |                                  3,498 |
 |               [Washington](/us-wa) |            1,518 |                     2,088 |                     274 |                        570 |                                       38% |                                 1,591 |                                  3,112 |
-|                   [Nevada](/us-nv) |              739 |                     1,955 |                     635 |                      1,216 |                                      165% |                                 1,239 |                                  3,117 |
 |                [Wisconsin](/us-wi) |              893 |                     1,860 |                     319 |                        967 |                                      108% |                                 1,086 |                                  3,773 |
+|                   [Nevada](/us-nv) |              739 |                     1,717 |                     557 |                        978 |                                      132% |                                 1,131 |                                  2,589 |
 |                 [Kentucky](/us-ky) |              709 |                     1,689 |                     378 |                        980 |                                      138% |                                   896 |                                  3,476 |
 |                     [Iowa](/us-ia) |              836 |                     1,476 |                     468 |                        640 |                                       77% |                                   982 |                                  2,511 |
 |             [Rhode Island](/us-ri) |            1,004 |                     1,171 |                   1,105 |                        167 |                                       17% |                                 1,032 |                                  1,393 |
