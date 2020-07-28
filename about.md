@@ -509,6 +509,8 @@ To conclude, we believe that a successful model must be able to quickly determin
 ### Media
 
 National
+* [Washington Post](https://www.washingtonpost.com/politics/2020/07/23/trumps-right-that-with-less-testing-we-record-fewer-cases-fact-thats-already-happening/) - Jul 23
+* [ProPublica](https://www.propublica.org/article/how-to-understand-covid-19-numbers) - Jul 21
 * [StatNews](https://www.statnews.com/2020/07/20/trump-said-more-covid19-testing-creates-more-cases-we-did-the-math/) - Jul 21
 * [AFP](https://www.barrons.com/news/us-covid-19-epidemic-projected-to-worsen-01594826104) - Jul 15
 * [Bloomberg](https://www.bloomberg.com/opinion/articles/2020-07-01/covid-19-cases-in-arizona-florida-texas-aren-t-on-same-scale) - Jul 1
