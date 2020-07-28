@@ -99,21 +99,25 @@ We have open-sourced the code and data used to evaluate COVID-19 models: [https:
 
 ### Evaluation of historical 4 week ahead state-by-state projections
 
+This is a metric that shows the *consistency* of model projections over the period of several months.
+
 ![4 week ahead states comparison](/assets/images/4_week_ahead_states.png)
 
 ### Evaluation of historical 4 week ahead US projections
 
 ![4 week ahead US comparison](/assets/images/4_week_ahead_us.png)
 
-### Evaluation of past state-by-state projections on cumulative deaths as of July 18
+### Evaluation of past state-by-state projections on cumulative deaths as of July 25
 
-![States comparison](/assets/images/2020-07-18_comparison_states.png)
+This is a metric that shows the *recent accuracy* of model projections.
 
-### Evaluation of past US projections on cumulative deaths as of July 18
+![States comparison](/assets/images/2020-07-25_comparison_states.png)
+
+### Evaluation of past US projections on cumulative deaths as of July 25
 
 Note: On June 25, New Jersey added 1,854 probable deaths, thereby significantly skewing US death reports. As a result, the below evaluation may not the best representative of model accuracy. Read more [here](#observations).
 
-![US comparison](/assets/images/2020-07-18_comparison_us.png)
+![US comparison](/assets/images/2020-07-25_comparison_us.png)
 
 [Back to Top](#top)
 
