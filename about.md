@@ -151,19 +151,6 @@ Below you can find some of our late May projections for 4 of the most heavily im
 
 [Back to Top](#top)
 
-### Observations
-
-* A baseline model that simply uses the previous week's average deaths to make future projections outperforms many models for short-term forecasts.
-* Because US country-wide projections only contains a single forecast per week, there is much higher variance week-to-week compared to state-by-state projections, where there are 51 forecasts each week. As a result, we believe state-by-state evaluations is a better indicator of model performance. This same concept is why we play 7-game series for NBA/NHL/MLB playoffs.
-* A handful of models consistently outperform the remainder of the models. The top 3 best-performing models every week for state-by-state projections almost always comes from one of these 5 models: covid19-projections.com, UCLA, Los Alamos (LANL), UMass Amherst, COVIDhub Ensemble.
-* The [COVIDhub ensemble model](https://github.com/reichlab/covid19-forecast-hub/#ensemble-model) is created by taking a combination of all eligible models that submit projections to the CDC. Our projections are included in this ensemble.
-* The IHME model, a model frequently cited by the White House and media, consistently performs in the bottom half of all models for its state-by-state projections. The model also frequently fails to beat the baseline model.
-* For state-by-state projections, we evaluate all models that have 4+ week projections for more than 40 states. For models with missing state projections, we use the mean projection for that state (among all the models).
-* While past performance is not necessarily indicative of future performance, we believe it's important to consider a model's historical accuracy and not just a model's future forecasts and/or the creator's name recognition. It is also important to make sure that a model can perform better than the baseline.
-* We welcome and encourage independent model evaluations. See [here](https://twitter.com/FelixHoenikker_/status/1262517002507182080) for an evaluation from a PhD data scientist at NASA Ames.
-
-[Back to Top](#top)
-
 ## CDC Projections Over Time
 
 Below, we show our CDC projections over time.
@@ -196,6 +183,8 @@ Every day, raw daily projections for all 50 US states and select international c
 ### Epidemiological Assumptions
 
 We use a considation of resources provided [by Models of Infectious Disease Agent Study (MIDAS)](https://midasnetwork.us/covid-19/#resources) to set standard parameters such as incubation and infectious period. Most of these parameters have a wide consensus among experts. For example, we assume a 5-day incubation period (on average) and a 7-day infectious period (on average). These assumptions are probabilistic and roughly normally distributed. This means that an infected individual would be infectious between Day 2 to Day 8 after exposure, with Day 4-6 being the most infectious. For the purpose of calculating current infections, we assume an average individual is infected for 15 days. The exact values of the above parameters do not significantly change our projections.
+
+[Back to Top](#top)
 
 ### Confidence Intervals
 
@@ -268,6 +257,8 @@ One of the most important properties for any infectious disease is the [basic re
 Our R estimates are merely estimates rather than precise values, and *is only based on deaths data*. We correct for reporting lags, so how deaths are changing today is a reflection of how the R value was changing 3-4 weeks ago. We then apply additional assumptions explained in this section to interpolate the R value since then. As a result, the current R value estimates are more of a byproduct of our assumptions than a result of any measurable data. As we receive more data in the future, we then update our R estimates to most closely reflect the observed data.
 
 [Rt.live](https://rt.live) is a good resource for looking at R_t estimates using case data rather than deaths data.
+
+[Back to Top](#top)
 
 ### Infection Fatality Rate (IFR)
 
@@ -354,7 +345,6 @@ Recently, there have been various reports regarding the accuracy and integrity o
 While we attempt our best to ensure accuracy and precision, no model is perfect, so we urge everyone to use caution when interpreting these projections. This is just one particular model, so we encourage everyone to evaluate and be open to multiple sources. At the end of the day, the decision-making rests in the hands of people, not machines.
 
 [Back to Top](#top)
-
 
 ## Concerns with the IHME model
 
