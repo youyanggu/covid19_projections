@@ -29,6 +29,20 @@ The charts below represent past state-by-state and US projections evaluated on c
 * [May 9](#may-9)
 * [May 2](#may-2)
 
+[Back to Top](#top)
+
+### Observations
+
+* A baseline model that simply uses the previous week's average deaths to make future projections outperforms many models for short-term forecasts.
+* Because US country-wide projections only contains a single forecast per week, there is much higher variance week-to-week compared to state-by-state projections, where there are 51 forecasts each week. As a result, we believe state-by-state evaluations is a better indicator of model performance. This same concept is why we play 7-game series for NBA/NHL/MLB playoffs.
+* A handful of models consistently outperform the remainder of the models. The top 3 best-performing models every week for state-by-state projections almost always comes from one of these 5 models: covid19-projections.com, UCLA, Los Alamos (LANL), UMass Amherst, COVIDhub Ensemble.
+* The [COVIDhub ensemble model](https://github.com/reichlab/covid19-forecast-hub/#ensemble-model) is created by taking a combination of all eligible models that submit projections to the CDC. Our projections are included in this ensemble.
+* For state-by-state projections, we evaluate all models that have 4+ week projections for more than 40 states. For models with missing state projections, we use the mean projection for that state (among all the models).
+* While past performance is not necessarily indicative of future performance, we believe it's important to consider a model's historical accuracy and not just a model's future forecasts and/or the creator's name recognition. It is also important to make sure that a model can perform better than the baseline.
+* We welcome and encourage independent model evaluations. See [here](https://twitter.com/FelixHoenikker_/status/1262517002507182080) for an evaluation from a PhD data scientist at NASA Ames.
+
+[Back to Top](#top)
+
 ## 4 Week Ahead
 
 ### State-by-state projections
