@@ -22,7 +22,7 @@ On this page, We will introduce the *implied infection fatality rate (iIFR)*, wh
 1. Based on confirmed cases ([Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series)) and test positivity rate ([COVID Tracking Project](https://covidtracking.com/))
 2. Based on confirmed deaths ([Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series))
 
-Both methods yield a similar result: the true number of infections peaked at around 400-500k new infections per day in July, compared to 300k new infections per day in March.
+Both methods yield a similar result: the true number of new infections peaked at around 400-500k new infections per day in July, compared to 300k new infections per day in March. In total, as of July 2020, we estimate over 30 million Americans have been infected at some point by the SARS-CoV-2 virus.
 
 ![True Infections Plot 3](/assets/images/estimate_true_infections_3.png)
 
@@ -40,23 +40,29 @@ The core idea behind this method is that we can use the positivity rate to rough
 
 We believe that the relationship between positivity rate and ratio of true prevalence is monotonically increasing. Of course, the exact relationship varies from state to state and across time. But if one were to take the average across *all* of the data, one can generate a theoretical curve. We believe this relationship can be approximated by a root function, namely the square root function. We present our approximation function below.
 
-`prevalence-ratio(positivity-rate) = 16 * sqrt(positivity-rate) + 2.5`
+`prevalence-ratio = 16 * sqrt(positivity-rate) + 2.5`
 
 ![Root relationship](/assets/images/estimate_true_infections_root.png)
 
-The next step is to map all reported cases to true infections based on the true prevalence ratio. We can compute the true prevalence ratio simply by providing the positivity rate into the function above. For all computation purposes, we use the 7-day average of confirmed cases and positivty rates. Because reported cases lag true infections by roughly 2 weeks, we shift the result by two weeks to get an estimate of the true new infections on that day.
+To see if this relationship passes the "common sense test", we can take a look at the US positivity rate over time (below). In March/April, the US positivity is around 20%, which corresponds to a prevalence ratio of roughly 10x the number of reported cases when using the function above. This seems to be a reasonable estimate, and matches estimates provided [by the CDC](https://www.washingtonpost.com/health/2020/06/25/coronavirus-cases-10-times-larger/). In June, when US positivity is around 5%, the function estimates a prevalence of roughly 6x the number of reported cases, which seems reasoanble. We use a y-intercept of 2.5 to indicate minimum prevalence ratio of 2.5x to account for asymptomatic individuals.
+
+![US positivity rate](/assets/images/estimate_true_infections_us_positivity_rate.png)
+
+The next step is to map all reported cases to true new infections based on the true prevalence ratio. We can compute the true prevalence ratio simply by inserting the positivity rate into the function above. For all computation purposes, we use the 7-day average of confirmed cases and positivity rates.
+
+As an example, let's say that the US reported 67,000 new cases with a 8.5% positivity rate on July 22. This would result in a true prevalence ratio of `16*sqrt(0.085)+2.5 = 7.16`. We can then multiply this ratio by the confirmed cases to get the true new infections. In this example, we estimate there to be 7.16 * 67,000 = ~480,000 true new infections. Because reported cases lag infections by roughly 2 weeks, we must shift the result back by two weeks. So the 480,000 true infections actually took place approximately 14 days before July 22, on July 8.
 
 [Back to Top](#top)
 
 ### Using US Nationwide Cases + Positivity Rates
 
-For US nationwide data, we can compute the true prevalence ratio by passing in the daily positivity rate to our approximation function above. We then multiple the true prevalence ratio by the number of confirmed cases each day to get the number of true prevalent infections. Note that all daily numbers used are 7-day moving averages rather than the raw numbers. Finally, we shift the true prevalent infections back by 14 days to account for reporting delays. We can now plot the results as a function of the date:
+For US nationwide data, we can compute the true prevalence ratio by passing in the daily positivity rate to our approximation function above. We then multiple the true prevalence ratio by the number of confirmed cases each day to get the number of true new infections. Note that all daily numbers used are 7-day moving averages rather than the raw numbers. Finally, we shift the true new infections back by 14 days to account for reporting delays. We can now plot the results as a function of the date:
 
 ![True Infections Plot 3](/assets/images/estimate_true_infections_1.png)
 
 ### Using State-by-state Cases + Positivity Rate
 
-Rather than using the US nationwide cases and positivity rates, we can use the state-by-state cases and positivity rates to compute the true prevalent infections for each state using the same method described above. We then take the sum to get the true nationwide infections:
+Rather than using the US nationwide cases and positivity rates, we can use the state-by-state cases and positivity rates to compute the true new infections for each state using the same method described above. We then take the sum to get the true nationwide infections:
 
 ![True Infections Plot 3](/assets/images/estimate_true_infections_2.png)
 
