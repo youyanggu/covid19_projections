@@ -188,3 +188,4 @@ date,Province_State,Country_Region,Combined_Key,Confirmed,Deaths,daily_deaths,da
 2020-07-26,New Jersey,US,"Bergen, New Jersey, US",20226,2044,0.0,34.0,35.142857142857146,1.5714285714285714
 2020-07-27,New Jersey,US,"Bergen, New Jersey, US",20280,2045,1.0,54.0,35.142857142857146,1.7142857142857142
 2020-07-28,New Jersey,US,"Bergen, New Jersey, US",20341,2046,1.0,61.0,41.285714285714285,2.0
+2020-07-29,New Jersey,US,"Bergen, New Jersey, US",20391,2038,-8.0,50.0,41.714285714285715,1.0

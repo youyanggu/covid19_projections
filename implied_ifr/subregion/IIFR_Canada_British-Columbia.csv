@@ -188,3 +188,4 @@ date,Province_State,Country_Region,Combined_Key,Confirmed,Deaths,daily_deaths,da
 2020-07-26,British Columbia,Canada,"British Columbia, Canada",3419,191,0.0,0.0,31.571428571428573,0.2857142857142857
 2020-07-27,British Columbia,Canada,"British Columbia, Canada",3500,193,2.0,81.0,28.571428571428573,0.5714285714285714
 2020-07-28,British Columbia,Canada,"British Columbia, Canada",3523,194,1.0,23.0,27.857142857142858,0.7142857142857143
+2020-07-29,British Columbia,Canada,"British Columbia, Canada",3562,194,0.0,39.0,33.42857142857143,0.7142857142857143
