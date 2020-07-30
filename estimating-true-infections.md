@@ -48,7 +48,7 @@ We believe that the relationship between positivity rate and ratio of true preva
 
 To see if this relationship passes the "common sense test", we can take a look at the US positivity rate over time (below). In March/April, the US positivity is around 20%, which corresponds to a prevalence ratio of roughly 10x the number of reported cases when using the function above. This seems to be a reasonable estimate, and matches estimates provided [by the CDC](https://www.washingtonpost.com/health/2020/06/25/coronavirus-cases-10-times-larger/). In June, when US positivity is around 5%, the function estimates a prevalence of roughly 6x the number of reported cases, which seems reasoanble. We use a y-intercept of 2.5 to indicate minimum prevalence ratio of 2.5x to account for asymptomatic individuals.
 
-![US positivity rate](/assets/images/estimate_true_infections_us_positivity_rate.png)
+![US positivity rate](/assets/images/estimate_true_infections_us_prevalence_ratio.png)
 
 The next step is to map all reported cases to true new infections based on the true prevalence ratio. We can compute the true prevalence ratio simply by inserting the positivity rate into the function above. For all computation purposes, we use the 7-day average of confirmed cases and positivity rates.
 
