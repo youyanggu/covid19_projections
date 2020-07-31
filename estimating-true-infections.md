@@ -61,7 +61,7 @@ As an example, let's say that the US reported 67,000 new cases with a 8.5% posit
 
 ### Using US Nationwide Cases + Positivity Rates
 
-For US nationwide data, we can compute the true prevalence ratio by passing in the daily positivity rate to our approximation function above. We then multiple the true prevalence ratio by the number of confirmed cases each day to get the number of true new infections. Note that all daily numbers used are 7-day moving averages rather than the raw numbers. Finally, we shift the true new infections back by 14 days to account for reporting delays. We can now plot the results as a function of the date:
+For US nationwide data, we can compute the true prevalence ratio by passing in the daily positivity rate to our approximation function above. We then multiply the true prevalence ratio by the number of confirmed cases each day to get the number of true new infections. Note that all daily numbers used are 7-day moving averages. Finally, we shift the true new infections back by 14 days to account for reporting delays. We can now plot the results as a function of the date:
 
 ![True Infections Plot 1](/assets/images/estimate_true_infections_1.png)
 
