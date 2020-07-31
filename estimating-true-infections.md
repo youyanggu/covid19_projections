@@ -20,7 +20,7 @@ Youyang Gu
 
 Knowing the true number of people who are infected with COVID-19 in the US is an essential step towards understanding the disease. But estimating this number is not a simple task. The true number of infections is many times larger than the reported number of cases in the US, because the majority of people do not get tested due to several reasons: 1) they are asymptomatic, 2) they are only mildly symptomatic or 3) they do not have easy access to testing.
 
-On this page, We will introduce the *implied infection fatality rate (IIFR)*, which is a metric computed by taking a region's reported deaths and dividing it by the true infections estimate (after accounting for the lag). To estimate the number of true COVID-19 infections in a region, we will use two different, independent methods: 
+On this page, We will introduce the *implied infection fatality rate (IIFR)*, which is a metric we derived by taking a region's reported deaths and dividing it by the true infections estimate (after accounting for the lag). To estimate the number of true COVID-19 infections in a region, we will use two different, independent methods: 
 
 1. Based on confirmed cases ([Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series)) and test positivity rate ([COVID Tracking Project](https://covidtracking.com/))
 2. Based on confirmed deaths ([Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series))
@@ -71,7 +71,7 @@ Rather than using the US nationwide cases and positivity rates, we can use the s
 
 ![True Infections States](/assets/images/estimate_true_infections_states.png)
 
-We then take the sum of all 50 states and territories to get the true US nationwide daily new infections:
+We then take the sum of the infections estimates for all 50 states and territories to get the nationwide daily new infections (orange line):
 
 ![True Infections Plot 2](/assets/images/estimate_true_infections_2.png)
 
