@@ -1,0 +1,39 @@
+country,region,subregion,tests_needed_per_day
+Canada,,Alberta,19596
+Canada,,British Columbia,1677
+Canada,,Ontario,5472
+Canada,,Quebec,4092
+US,AZ,Maricopa,60225
+US,CA,Alameda,7102
+US,CA,Los Angeles,95984
+US,CA,Orange,33555
+US,CA,Riverside,24414
+US,CA,Sacramento,13992
+US,CA,San Bernardino,24691
+US,CA,San Diego,24526
+US,CA,Santa Clara,4792
+US,FL,Broward,36485
+US,FL,Hillsborough,20553
+US,FL,Miami-Dade,36703
+US,FL,Orange,23173
+US,FL,Palm Beach,19477
+US,IL,Cook,24790
+US,LA,Orleans,1043
+US,MA,Middlesex,5729
+US,MA,Suffolk,2779
+US,MI,Wayne,4779
+US,NJ,Bergen,971
+US,NJ,Essex,746
+US,NJ,Hudson,667
+US,NV,Clark,30611
+US,NV,Washoe,4449
+US,NY,Nassau,594
+US,NY,New York City,5452
+US,NY,Suffolk,1195
+US,NY,Westchester,713
+US,PA,Philadelphia,4647
+US,TX,Bexar,30611
+US,TX,Dallas,31641
+US,TX,Harris,54259
+US,TX,Tarrant,19074
+US,WA,King,6831
