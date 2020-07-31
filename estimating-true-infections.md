@@ -27,7 +27,7 @@ On this page, we will introduce a simple square root function to estimate the tr
 
 Using this method, we estimate that the true number of new infections peaked at around 500,000 new infections per day in July, compared to 300,000 new infections per day in March. This means that the peak of infections after reopening is over 60% higher than the initial peak in March. In total, by the end of July 2020, we estimate over 35 million (1 in 10) Americans have been infected at some point by the SARS-CoV-2 virus.
 
-Below, you can see a plot of our infection estimates for the US. We compare the results to [covid19-projections.com](https://covid19-projections.com), which uses only past reported deaths to estimate the number of true infections.
+Below, you can see a plot of our infection estimates for the US. We compare the results to the [covid19-projections.com](https://covid19-projections.com) model, which uses only past reported deaths to estimate the number of true infections.
 
 ![True Infections Plot 3](/assets/images/estimate_true_infections_3.png)
 
@@ -41,7 +41,7 @@ While we developed this method independently, this is not a novel approach. See 
 
 *Input*: We use reported cases and deaths data from [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series)) and testing data from [The COVID Tracking Project](https://covidtracking.com/).
 
-*Output*: We have uploaded the infections estimates and implied IFR calculations to [our GitHub](https://github.com/youyanggu/covid19_projections/tree/master/implied_ifr). We aim to update those files daily. Currently, we only have IIFR estimates for the US. We are working to expand this concept to other countries.
+*Output*: We have uploaded the infections estimates and implied IFR calculations to [our GitHub](https://github.com/youyanggu/covid19_projections/tree/master/implied_ifr). You can find the daily summary [here](https://github.com/youyanggu/covid19_projections/blob/master/implied_ifr/0_IIFR_Summary.csv). We aim to update those files daily. Currently, we only have IIFR estimates for the US. We are working to expand this concept to other countries.
 
 [Back to Top](#top)
 
