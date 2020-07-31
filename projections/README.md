@@ -11,7 +11,7 @@ Here, you will find all of our projections based on the date the projectoins wer
 * `predicted_new_infected_mean`, `predicted_new_infected_lower`, `predicted_new_infected_upper` (Since 2020-04-08) - Mean, 2.5th, and 97.5th percentile of our estimates for the total number of newly infected individuals on that day. Note that these estimates include all infections, not just those who tested positive
 * `predicted_current_infected_mean`, `predicted_current_infected_lower`, `predicted_current_infected_upper` (Since 2020-04-08) - Mean, 2.5th, and 97.5th percentile of our estimates for the total number of individuals that are infected on that day. This is the sum of the past 15 days of newly infected individuals
 * `predicted_total_infected_mean`, `predicted_total_infected_lower`, `predicted_total_infected_upper` (Since 2020-04-08) - Mean, 2.5th, and 97.5th percentile of our estimates for the total number of individuals that have ever been infected. This is the cumulative sum of the newly infected individuals
-* `r_values_mean` (since 2020-05-15) - Mean estimate of the Rt value on that day
+* `r_values_mean` (since 2020-05-15), `r_values_lower` (since 2020-07-30), `r_values_upper` (since 2020-07-30) - Mean, lower and upper bound estimates of the Rt value on that day. Our Rt lower and upper bounds tend to be on the narrow side.
 
 # Notes
 
