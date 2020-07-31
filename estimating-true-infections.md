@@ -4,6 +4,9 @@ title: Estimating True Infections
 permalink: /estimating-true-infections/
 ---
 
+Youyang Gu
+<br>*Last Updated*: July 31, 2020
+
 ## Table of Contents
 * [Estimating True Infections](#estimating-true-infections)
 * [Data](#data)
@@ -60,13 +63,17 @@ As an example, let's say that the US reported 67,000 new cases with a 8.5% posit
 
 For US nationwide data, we can compute the true prevalence ratio by passing in the daily positivity rate to our approximation function above. We then multiple the true prevalence ratio by the number of confirmed cases each day to get the number of true new infections. Note that all daily numbers used are 7-day moving averages rather than the raw numbers. Finally, we shift the true new infections back by 14 days to account for reporting delays. We can now plot the results as a function of the date:
 
-![True Infections Plot 3](/assets/images/estimate_true_infections_1.png)
+![True Infections Plot 1](/assets/images/estimate_true_infections_1.png)
 
 ### Using State-by-state Cases + Positivity Rate
 
-Rather than using the US nationwide cases and positivity rates, we can use the state-by-state cases and positivity rates to compute the true new infections for each state using the same method described above. We then take the sum to get the true nationwide infections:
+Rather than using the US nationwide cases and positivity rates, we can use the state-by-state cases and positivity rates to compute the true new infections for each state using the same method described above. Below is a plot of the estimated true daily new infections for a selection of states. Using this approach, you can see that Florida and Texas are nearing the maximum daily new infections set by New York back in March.
 
-![True Infections Plot 3](/assets/images/estimate_true_infections_2.png)
+![True Infections States](/assets/images/estimate_true_infections_states.png)
+
+We then take the sum of all 50 states and territories to get the true US nationwide daily new infections:
+
+![True Infections Plot 2](/assets/images/estimate_true_infections_2.png)
 
 [Back to Top](#top)
 
