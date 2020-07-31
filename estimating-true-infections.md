@@ -4,48 +4,58 @@ title: Estimating True Infections
 permalink: /estimating-true-infections/
 ---
 
+# Estimating True Infections: A Simple Heuristic to Measure Implied Infection Fatality Rate
+
 Youyang Gu
 <br>*Last Updated*: July 31, 2020
 
 ## Table of Contents
-* [Estimating True Infections](#estimating-true-infections)
+* [Introduction](#introduction)
 * [Data](#data)
-* [Method #1: Using Confirmed Cases + Positivity Rates](#method-1-using-confirmed-cases--positivity-rates)
-* [Method #2: Using Confirmed Deaths](#method-2-using-confirmed-deaths)
+* [Prevalence Ratio](#prevalence-ratio)
+* [Using Confirmed Deaths](#using-confirmed-deaths)
 * [Putting it Together](#putting-it-together)
 * [Implied Infection Fatality Rate (IIFR)](#implied-infection-fatality-rate-iifr)
 * [Discussion](#discussion)
+* [Conclusion](#conclusion)
 
-## Estimating True Infections
+## Introduction
 
-Knowing the true number of people who are infected with COVID-19 in the US is an essential step towards understanding the disease. But estimating this number is not a simple task. The true number of infections is many times larger than the reported number of cases in the US, because the majority of people do not get tested due to several reasons: 1) they are asymptomatic, 2) they are only mildly symptomatic or 3) they do not have easy access to testing.
+Knowing the true number of people who are infected with COVID-19 in the US is an essential step towards understanding the disease. But estimating this number is not a simple task. The true number of infections is many times greater than the reported number of cases in the US because the majority of infected individuals do not get tested due to several reasons: 1) they are asymptomatic, 2) they are only mildly symptomatic, 3) they do not have easy access to testing, or 4) they simply do not want to.
 
-On this page, We will introduce the *implied infection fatality rate (IIFR)*, which is a metric we derived by taking a region's reported deaths and dividing it by the true infections estimate (after accounting for the lag). To estimate the number of true COVID-19 infections in a region, we will use two different, independent methods: 
+On this page, We will introduce a simple square root function to estimate the true prevalence of COVID-19 in a region based on only the confirmed cases and test positivity ratio. We will also introduce the *implied infection fatality rate (IIFR)*, which is a metric derived by taking a region's reported deaths and dividing it by the true infections estimate (after accounting for lag).
 
-1. Based on confirmed cases ([Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series)) and test positivity rate ([COVID Tracking Project](https://covidtracking.com/))
-2. Based on confirmed deaths ([Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series))
+Using this method, we estimate that the true number of new infections peaked at around 500,000 new infections per day in July, compared to 300,000 new infections per day in March. In total, by the end of July 2020, we estimate over 30 million Americans have been infected at some point by the SARS-CoV-2 virus.
 
-Both methods yield a similar result: the true number of new infections peaked at around 400-500k new infections per day in July, compared to 300k new infections per day in March. In total, as of July 2020, we estimate over 30 million Americans have been infected at some point by the SARS-CoV-2 virus.
+Below, you can see a plot of our infection estimates for the US. We compare the results to [covid19-projections.com](https://covid19-projections.com), which uses only past reported deaths to estimate the number of true infections.
 
 ![True Infections Plot 3](/assets/images/estimate_true_infections_3.png)
 
-Once we have a reasonable estimate of the true number of newly infected individuals per day, we can take the reported deaths and imply the infection fatality rate. This is explained [below](implied-infection-fatality-rate-iifr).
+Once we have a reasonable estimate of the true number of newly infected individuals per day, we can use the reported deaths to compute the implied infection fatality rate (IFFR). The IIFR for the US was above 1% in March, stabilized at around 0.6% in April-May before decreasing to ~0.25% in July. This is further explained [below](implied-infection-fatality-rate-iifr).
+
+While we developed this method independently, this is not a novel approach. See prior work by [Peter Ellis](http://freerangestats.info/blog/2020/05/09/covid-population-incidence), [David Blake](https://medium.com/@dblake.mcg/making-the-o-zone-plots-2a83708f7d6a), and [Campbell et al](https://arxiv.org/pdf/2005.08459.pdf).
 
 ## Data
 
 *Input*: We use reported cases and deaths data from [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series)) and testing data from [The COVID Tracking Project](https://covidtracking.com/).
 
-*Output*: We have uploaded the infections estimates and implied IFR calculations to [our GitHub](https://github.com/youyanggu/covid19_projections/tree/master/implied_ifr). We aim to update those files daily.
+*Output*: We have uploaded the infections estimates and implied IFR calculations to [our GitHub](https://github.com/youyanggu/covid19_projections/tree/master/implied_ifr). We aim to update those files daily. Currently, we only have IIFR estimates for the US. We are working to expand this concept to other countries.
 
 [Back to Top](#top)
 
-## Method #1: Using Confirmed Cases + Positivity Rates
+## Prevalence Ratio
 
-The core idea behind this method is that we can use the positivity rate to roughly determine the ratio of true infections to reported cases. The hypothesis is that as positivity rate increases, the higher the true prevalence in a region relative to the reported cases. This also makes sense intuitively: if you test everyone, then the positvity rate will be very low, and you will catch every case. But if testing is not widely available, then you will catch only the severe cases, resulting in a high positivity rate.
+The core idea behind this method is that we can use the positivity rate to roughly determine the ratio of true infections to reported cases. The hypothesis is that as positivity rate increases, the higher the true prevalence in a region relative to the reported cases. This also makes sense intuitively: if you test everyone, then the positvity rate will be very low, and you will catch every case. But if testing is not widely available, then you will catch only the severe cases, resulting in a higher positivity rate. This phenomenon is sometimes referred to as *preferential testing*.
 
-We believe that the relationship between positivity rate and ratio of true prevalence is monotonically increasing. Of course, the exact relationship varies from state to state and across time. But if one were to take the average across *all* of the data, one can generate a theoretical curve. We believe this relationship can be approximated by a root function, namely the square root function. We present our approximation function below.
+We believe that the relationship between positivity rate and ratio of true prevalence is monotonically increasing. Of course, the exact relationship varies from state to state and across time. But if one were to take the average across *all* of the data, one can generate a theoretical curve. We believe this relationship can be approximated by a root function of the following form:
 
-`prevalence-ratio = 16 * sqrt(positivity-rate) + 2.5`
+`prevalence-ratio = a * (positivity-rate)^(b) + c`
+
+where `a`, `b`, `c` are unknown constants.
+
+Through some basic machine learning and trial & error, we found that the following square root approximation function works well:
+
+`prevalence-ratio = 16 * (positivity-rate)^(0.5) + 2.5`
 
 ![Root relationship](/assets/images/estimate_true_infections_root.png)
 
@@ -77,9 +87,9 @@ We then take the sum of the infections estimates for all 50 states and territori
 
 [Back to Top](#top)
 
-## Method #2: Using Confirmed Deaths
+## Using Confirmed Deaths
 
-The second method is the method used by *covid19-projections.com*. It uses only past reported deaths to predict future reported deaths. You can read more about our model on our [About](/about) page.
+We can compare the previous approach to a method used by [covid19-projections.com](https://covid19-projections.com). It uses only past reported deaths to predict future reported deaths. You can read more about our model [here](https://covid19-projections.com/about).
 
 One of the outputs generated by our model is the number of true infections in each region and country. We simply take that output from our model to get our estimate of true infections in the US.
 
@@ -110,17 +120,53 @@ We can also do this on a state-by-state basis. See below for IIFR plots for sele
 
 ## Discussion
 
-There are many explanations as to why there are more infections in June/July than in March/April. One reason is based on simple math regarding exponential growth. We started from 0 infections in February with an R0 of ~2.5. There was only a limited period of exponential growth before people began social distancing in March, which brought the Rt value under 1. The stay-at-home orders in most parts of the US were timely and effective in containing the spread and preventing further uncontained spread.
+### Relationship between Positivity Rate and Prevalence Ratio
 
-In contrast, when states reopened in May/June, there were already ~100k new infections per day. With an Rt of ~1.2 and limited intervention to mitigate the spread, new infections were able to climb to 400k+ per day in a period of 2 months.
+We developed the constants for the prevalence function (`prevalence-ratio = a * (positivity-rate)^(b) + c`) through a combination of trial & error and simple machine learning. We don't believe this function is perfect. There can be other constants `a`, `b`, and `c` that may be a closer approximation of the true relationship. Because there is no "truth" value to fit the function against, we decided it is not worth trying to perfectly fit this function. As a result, we settled on a simple square root function to describe the relationship.
+
+The exact relationship between positivity rate and prevalence ratio may be different from state to state and across time. Here is a partial list of possible factors that can cause these differences:
+
+- Differences and changes in reporting guidelines
+  - Counting multiple positive results
+  - Counting multiple negative results
+  - Only reporting positive results
+  - Only reporting negative results
+  - Only reporting Electronic Laboratory Reporting (ELR) results
+- Availability of testing - the greater the number of tests (as percentage of the population), the less important the role of positivity rate
+- Backlog of test results - positive tests receive priority for processing, which may skew the positivity rate upwards
+- Delay/lag in test results - if tests take 1-2 weeks to be reported, then it may no longer be an accurate representation of how new infections are changing
+
+For example, [here](https://www.tampabay.com/news/health/2020/07/28/what-is-the-positivity-rate-in-coronavirus-data-and-why-is-it-important/) is a story from the Tampa Bay Times that explores how positivity rate is reported in Florida. Meanwhile, [Georgia](https://www.covid-georgia.com/2020/07/14/georgia-elr-test-data/) has a different set of standards for test reporting. These guidelines are specific on a per-state level and may differ significantly between states, making comparison more difficult.
+
+### Higher Infections in July
+
+There are many explanations as to why there are more infections in June/July than in March/April. One reason is based on simple math regarding exponential growth. We started from 0 infections in February with an R0 of ~2.5. There was only a limited period of exponential growth before people began social distancing in March, which quickly brought the Rt value under 1. The stay-at-home orders in most parts of the US were timely and effective in containing the spread and preventing further uncontained spread.
+
+In contrast, when states reopened in May/June, there were already ~100k new infections per day. With an Rt of ~1.2 and limited intervention to mitigate the spread, new infections were able to climb to 400k+ per day in a period of two months. In layman terms, we started from a much higher point in May and had a longer period of time to reach the peak.
 
 [Back to Top](#top)
 
-### Lower Infection Fatality Rate (IFR)
+### Lower IIFR Over Time
 
-Below are a few reasons why we think the infection fatality rate (IFR) has gone down since March/April.
+The IIFR in the US decreased from over 1% in March to 0.25% in July. Below, we present a few explanations to why the IIFR in the US has decreased significantly since March/April.
 
 - Improved treatment (new drugs, better allocation of resources, more experience among staff, etc)
 - Better protection of vulnerable populations ([nearly half of COVID-19 deaths](https://www.wsj.com/articles/coronavirus-deaths-in-u-s-nursing-long-term-care-facilities-top-50-000-11592306919) in March/April were in care homes)
 - Lower median age of infection
 - Earlier detection
+
+The above are explanations that would explain a *true* decrease in IFR. Below are some reasons that could skew the IIFR lower, but not change the true IFR:
+
+- More comprehensive reporting of confirmed cases
+- Changes in the distribution of age groups tested (e.g. more younger people getting tested would skew IIFR down)
+- Inflation of the test positivity rate (e.g. double-counting positives, not reporting negatives, etc)
+- Longer lag in death reporting
+- Underreporting of deaths
+
+## Conclusion
+
+To conclude, we presented a simple heuristic that estimates the true prevalence of COVID-19 infections in a region. We also introduced the *implied infection fatality rate (IIFR)* that estimates the fatality rate as implied by the reported deaths and true prevalence.
+
+Using this methodology, we found that the prevalence is higher in the US during June/July (peak of ~500,000 infections/day) than in March/April (peak of ~300,000 new infections/day). However, the implied fatality rate is much lower in June/July (~0.25% IIFR) than in March/April (~1% IIFR).
+
+The data and results used on this page can be found [on GitHub](https://github.com/youyanggu/covid19_projections/tree/master/implied_ifr).
