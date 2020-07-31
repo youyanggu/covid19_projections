@@ -6,7 +6,7 @@ permalink: /estimating-true-infections/
 
 # Estimating True Infections: A Simple Heuristic to Measure Implied Infection Fatality Rate
 
-By: Youyang Gu
+By: [Youyang Gu](https://twitter.com/youyanggu)
 <br>*Last Updated*: July 31, 2020
 
 ## Table of Contents
@@ -55,7 +55,7 @@ We believe that the relationship between positivity rate and ratio of true preva
 
 where `a`, `b`, `c` are unknown constants.
 
-Through some basic machine learning and trial & error, we found that the following square root approximation function works well:
+Through some basic curve fitting and trial & error, we found that the following square root approximation function works well:
 
 `prevalence-ratio = 16 * (positivity-rate)^(0.5) + 2.5`
 
@@ -83,7 +83,7 @@ Rather than using the US nationwide cases and positivity rates, we can use the s
 
 ![True Infections States](/assets/images/estimate_true_infections_states.png)
 
-We then take the sum of the infections estimates for all 50 states and territories to get the nationwide daily new infections (orange line):
+We then take the sum of the infections estimates for all 50 states and territories to get the nationwide daily new infections (orange line). Note that it closely aligns with the graph generated using the US nationwide data.
 
 ![True Infections Plot 2](/assets/images/estimate_true_infections_2.png)
 
@@ -126,7 +126,7 @@ We can also do this on a state-by-state basis. See below for IIFR plots for sele
 
 ### Relationship between Positivity Rate and Prevalence Ratio
 
-We developed the constants for the prevalence function (`prevalence-ratio = a * (positivity-rate)^(b) + c`) through a combination of trial & error and simple machine learning. We don't believe this function is perfect. There can be other constants `a`, `b`, and `c` that may be a closer approximation of the true relationship. Because there is no "truth" value to fit the function against, we decided it is not worth trying to perfectly fit this function. As a result, we settled on a simple square root function to describe the relationship.
+We developed the constants for the prevalence function (`prevalence-ratio = a * (positivity-rate)^(b) + c`) through a combination of trial & error and curve fitting. We don't believe this function is perfect. There can be other constants `a`, `b`, and `c` that may be a closer approximation of the true relationship. Because there is no "truth" value to fit the function against, we decided it is not worth trying to perfectly fit this function. As a result, we settled on a simple square root function to describe the relationship.
 
 The exact relationship between positivity rate and prevalence ratio may be different from state to state and across time. Here is a partial list of possible factors that can cause these differences:
 
