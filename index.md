@@ -22,10 +22,10 @@ On this page:
 <a href="https://twitter.com/youyanggu" class="twitter-follow-button" data-show-count="false">Follow for updates</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Current US Projections
-### Updated Daily - Last Updated: July 31 (2am ET):
+### Updated Daily - Last Updated: July 31 (1pm ET):
 <p align="center">
-  Current Total: <b>152,052</b> deaths | Projected Total: <b>227,700 deaths by Nov 1, 2020</b> (Range: 197-272k)<br>
-  Currently Infected: <b>2.0%</b> | Total Infected: <b>11.6%</b> {% include iframe.html %}
+  Current Total: <b>152,052</b> deaths | Projected Total: <b>228,900 deaths by Nov 1, 2020</b> (Range: 197-275k)<br>
+  Currently Infected: <b>2.0%</b> | Total Infected: <b>11.7%</b> {% include iframe.html %}
 </p>
 
 [Back to Top](#top)
@@ -45,17 +45,17 @@ Last updated: July 31, 2020
 
 |   US deaths surpass: |   Most likely date: |
 |----------------------|---------------------|
-|              175,000 |        Aug 23, 2020 |
-|              200,000 |        Sep 22, 2020 |
+|              175,000 |        Aug 22, 2020 |
+|              200,000 |        Sep 21, 2020 |
 
 <br>
 
 |   US deaths surpass: |   By Aug 1 |   By Aug 15 |   By Sep 1 |   By Sep 15 |   By Oct 1 |   By Oct 15 |   By Nov 1 |
 |----------------------|------------|-------------|------------|-------------|------------|-------------|------------|
-|              175,000 |        <1% |          6% |        97% |         99% |        99% |         99% |        99% |
-|              200,000 |        <1% |         <1% |         5% |         33% |        68% |         85% |        94% |
-|              225,000 |        <1% |         <1% |        <1% |          2% |        12% |         27% |        44% |
-|              250,000 |        <1% |         <1% |        <1% |         <1% |        <1% |          5% |        11% |
+|              175,000 |        <1% |          7% |        98% |         99% |        99% |         99% |        99% |
+|              200,000 |        <1% |         <1% |         7% |         36% |        70% |         86% |        95% |
+|              225,000 |        <1% |         <1% |        <1% |          3% |        14% |         29% |        45% |
+|              250,000 |        <1% |         <1% |        <1% |         <1% |         1% |          6% |        13% |
 |              275,000 |        <1% |         <1% |        <1% |         <1% |        <1% |         <1% |         2% |
 |              300,000 |        <1% |         <1% |        <1% |         <1% |        <1% |         <1% |        <1% |
 
