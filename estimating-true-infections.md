@@ -7,7 +7,7 @@ permalink: /estimating-true-infections/
 # Estimating True Infections: A Simple Heuristic to Measure Implied Infection Fatality Rate
 
 By: [Youyang Gu](https://twitter.com/youyanggu)
-<br>*Last Updated*: July 31, 2020
+<br>*Created*: July 29, 2020 (*Last Updated*: August 1, 2020)
 
 ## Table of Contents
 * [Introduction](#introduction)
@@ -23,7 +23,7 @@ By: [Youyang Gu](https://twitter.com/youyanggu)
 
 Knowing the true number of people who are infected with COVID-19 in the US is an essential step towards understanding the disease. But estimating this number is not a simple task. The true number of infections is many times greater than the reported number of cases in the US because the majority of infected individuals do not get tested due to several reasons: 1) they are asymptomatic, 2) they are only mildly symptomatic, 3) they do not have easy access to testing, or 4) they simply do not want to.
 
-On this page, we will introduce a simple square root function to estimate the true prevalence of COVID-19 in a region based on only the confirmed cases and test positivity ratio. We will also introduce the *implied infection fatality rate (IIFR)*, which is a metric derived by taking a region's reported deaths and dividing it by the true infections estimate (after accounting for lag).
+On this page, we will introduce a simple square root function to estimate the true prevalence of COVID-19 in a region based on only the confirmed cases and test positivity rate: `true-new-daily-infections = (daily-confirmed-cases) * 16 * (positivity-rate)^(0.5) + 2.5`. We will also introduce the *implied infection fatality rate (IIFR)*, which is a metric derived by taking a region's reported deaths and dividing it by the true infections estimate (after accounting for lag).
 
 Using this method, we estimate that the true number of new infections peaked at around 500,000 new infections per day in July, compared to 300,000 new infections per day in March. This means that the peak of infections after reopening is over 60% higher than the initial peak in March. In total, by the end of July 2020, we estimate over 35 million (1 in 10) Americans have been infected at some point by the SARS-CoV-2 virus.
 
