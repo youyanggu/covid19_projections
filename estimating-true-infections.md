@@ -65,7 +65,9 @@ To see if this relationship passes the "common sense test", we can take a look a
 
 ![US positivity rate](/assets/images/estimate_true_infections_us_prevalence_ratio.png)
 
-The next step is to map all reported cases to true new infections based on the true prevalence ratio. We can compute the true prevalence ratio simply by inserting the positivity rate into the function above. For all computation purposes, we use the 7-day average of confirmed cases and positivity rates.
+The next step is to map all reported cases to true new infections based on the true prevalence ratio. We can compute the true prevalence ratio simply by inserting the positivity rate into the function above. We then multiple the ratio by the daily confirmed cases to get the true daily infections. For all computation purposes, we use the 7-day average of confirmed cases and positivity rates.
+
+`true-new-daily-infections = daily-confirmed-cases * prevalence-ratio`
 
 As an example, let's say that the US reported 67,000 new cases with a 8.5% positivity rate on July 22. This would result in a true prevalence ratio of `16*sqrt(0.085)+2.5 = 7.16`. We can then multiply this ratio by the confirmed cases to get the true new infections. In this example, we estimate there to be 7.16 * 67,000 = ~480,000 true new infections. Because reported cases lag infections by roughly 2 weeks, we must shift the result back by two weeks. So the 480,000 true infections actually took place approximately 14 days before July 22, on July 8.
 
@@ -158,7 +160,7 @@ The IIFR in the US decreased from over 1% in March to 0.25% in July. Below, we p
 
 - Improved treatment (new drugs, better allocation of resources, more experience among staff, etc)
 - Better protection of vulnerable populations ([nearly half of COVID-19 deaths](https://www.wsj.com/articles/coronavirus-deaths-in-u-s-nursing-long-term-care-facilities-top-50-000-11592306919) in March/April were in care homes)
-- Lower median age of infection
+- Lower median age of infection (e.g. [Florida](https://github.com/mbevand/florida-covid19-line-list-data#heatmap-of-age-over-time))
 - Earlier detection
 
 The above are explanations that would explain a *true* decrease in IFR. Below are some reasons that could skew the IIFR lower, but not change the true IFR:
