@@ -7,7 +7,7 @@ permalink: /estimating-true-infections/
 # Estimating True Infections: A Simple Heuristic to Measure Implied Infection Fatality Rate
 
 By: [Youyang Gu](https://twitter.com/youyanggu)
-<br>*Created*: July 29, 2020 (*Last Updated*: August 1, 2020)
+<br>July 29, 2020 (*Last Updated*: August 1, 2020)
 
 ## Table of Contents
 * [Introduction](#introduction)
@@ -23,7 +23,7 @@ By: [Youyang Gu](https://twitter.com/youyanggu)
 
 Knowing the true number of people who are infected with COVID-19 in the US is an essential step towards understanding the disease. But estimating this number is not a simple task. The true number of infections is many times greater than the reported number of cases in the US because the majority of infected individuals do not get tested due to several reasons: 1) they are asymptomatic, 2) they are only mildly symptomatic, 3) they do not have easy access to testing, or 4) they simply do not want to.
 
-On this page, we will introduce a simple square root function to estimate the true prevalence of COVID-19 in a region based on only the confirmed cases and test positivity rate: `true-new-daily-infections = daily-confirmed-cases * (16 * (positivity-rate)^(0.5) + 2.5)`. We will also introduce the *implied infection fatality rate (IIFR)*, which is a metric derived by taking a region's reported deaths and dividing it by the true infections estimate (after accounting for lag).
+On this page, we introduce a simple square root function to estimate the true prevalence of COVID-19 in a region based on only the confirmed cases and test positivity rate: `true-new-daily-infections = daily-confirmed-cases * (16 * (positivity-rate)^(0.5) + 2.5)`. We will also introduce the *implied infection fatality rate (IIFR)*, which is a metric derived by taking a region's reported deaths and dividing it by the true infections estimate (after accounting for lag).
 
 Using this method, we estimate that the true number of new infections peaked at around 500,000 new infections per day in July, compared to 300,000 new infections per day in March. This means that the peak of infections after reopening is over 60% higher than the initial peak in March. In total, by the end of July 2020, we estimate over 35 million (1 in 10) Americans have been infected at some point by the SARS-CoV-2 virus.
 
@@ -33,7 +33,7 @@ Below, you can see a plot of our infection estimates for the US. We compare the 
 
 Once we have a reasonable estimate of the true number of newly infected individuals per day, we can use the reported deaths to compute the implied infection fatality rate (IFFR). The IIFR for the US was above 1% in March, stabilized at around 0.6% in April-May before decreasing to ~0.25% in July. This is further explained [below](implied-infection-fatality-rate-iifr).
 
-While we developed this method independently, this is not a novel approach. See prior work by [Peter Ellis](http://freerangestats.info/blog/2020/05/09/covid-population-incidence), [David Blake](https://medium.com/@dblake.mcg/making-the-o-zone-plots-2a83708f7d6a), and [Campbell et al](https://arxiv.org/pdf/2005.08459.pdf).
+While all the methods on this page were developed independently, we want to note that this is not a novel approach. See prior work by [Peter Ellis](http://freerangestats.info/blog/2020/05/09/covid-population-incidence), [David Blake](https://medium.com/@dblake.mcg/making-the-o-zone-plots-2a83708f7d6a), and [Campbell et al](https://arxiv.org/pdf/2005.08459.pdf).
 
 [Back to Top](#top)
 
@@ -181,6 +181,8 @@ The above are explanations that would explain a *true* decrease in IFR. Below ar
 
 To conclude, we presented a simple heuristic that estimates the true prevalence of COVID-19 infections in a region. We also introduced the *implied infection fatality rate (IIFR)* that estimates the fatality rate as implied by the reported deaths and true prevalence.
 
-Using this methodology, we found that the prevalence is higher in the US during June/July (peak of ~500,000 infections/day) than in March/April (peak of ~300,000 new infections/day). However, the implied fatality rate is much lower in June/July (~0.25% IIFR) than in March/April (~1% IIFR).
+Using this methodology, we found that the prevalence is higher in the US during June/July (peak of ~500,000 infections/day) than in March/April (peak of ~300,000 new infections/day). However, the implied fatality rate is signifiantly lower in June/July (~0.25% IIFR) than in March/April (~1% IIFR).
+
+While this is by no means a comprehensive study, we hope this work can help other scientists and researchers better understand the changing dynamics of this disease over time.
 
 The data and results used on this page can be found [on GitHub](https://github.com/youyanggu/covid19_projections/tree/master/implied_ifr).
