@@ -22,9 +22,9 @@ On this page:
 <a href="https://twitter.com/youyanggu" class="twitter-follow-button" data-show-count="false">Follow for updates</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Current US Projections
-### Updated Daily - Last Updated: August 2 (1pm ET):
+### Updated Daily - Last Updated: August 2 (2pm ET):
 <p align="center">
-  Current Total: <b>154,444</b> deaths | Projected Total: <b>229,400 deaths by Nov 1, 2020</b> (Range: 199-272k)<br>
+  Current Total: <b>154,444</b> deaths | Projected Total: <b>228,800 deaths by Nov 1, 2020</b> (Range: 198-271k)<br>
   Currently Infected: <b>2.0%</b> (1 in 50) | Total Infected: <b>12.0%</b> (1 in 8) {% include iframe.html %}
 </p>
 
@@ -52,9 +52,9 @@ Last updated: August 2, 2020
 
 |   US deaths surpass: |   By Aug 15 |   By Sep 1 |   By Sep 15 |   By Oct 1 |   By Oct 15 |   By Nov 1 |
 |----------------------|-------------|------------|-------------|------------|-------------|------------|
-|              175,000 |          5% |        99% |         99% |        99% |         99% |       >99% |
-|              200,000 |         <1% |         5% |         37% |        74% |         89% |        96% |
-|              225,000 |         <1% |        <1% |          2% |        13% |         30% |        48% |
+|              175,000 |          4% |        99% |         99% |        99% |         99% |       >99% |
+|              200,000 |         <1% |         5% |         36% |        73% |         88% |        96% |
+|              225,000 |         <1% |        <1% |          2% |        13% |         29% |        47% |
 |              250,000 |         <1% |        <1% |         <1% |        <1% |          5% |        12% |
 |              275,000 |         <1% |        <1% |         <1% |        <1% |         <1% |         2% |
 |              300,000 |         <1% |        <1% |         <1% |        <1% |         <1% |        <1% |
@@ -160,7 +160,7 @@ States are ordered by descending projected deaths (by November 1).
 
 |                                |   Current Deaths |   Projected Deaths - Mean |   Projected Deaths / 1M |   Additional Deaths - Mean |   Additional Deaths (% of Current Deaths) |   Projected Deaths - 2.5th Percentile |   Projected Deaths - 97.5th Percentile |
 |--------------------------------|------------------|---------------------------|-------------------------|----------------------------|-------------------------------------------|---------------------------------------|----------------------------------------|
-|             *[United States](/us)* |          154,444 |                   229,377 |                     691 |                     74,933 |                                       49% |                               199,077 |                                271,903 |
+|             *[United States](/us)* |          154,444 |                   228,795 |                     690 |                     74,351 |                                       48% |                               198,722 |                                270,995 |
 |                 [New York](/us-ny) |           32,694 |                    33,644 |                   1,729 |                        950 |                                        3% |                                32,740 |                                 37,877 |
 |               [California](/us-ca) |            9,345 |                    18,751 |                     475 |                      9,406 |                                      101% |                                12,944 |                                 26,554 |
 |                    [Texas](/us-tx) |            6,865 |                    18,749 |                     647 |                     11,884 |                                      173% |                                12,723 |                                 25,500 |
@@ -169,15 +169,15 @@ States are ordered by descending projected deaths (by November 1).
 |            [Massachusetts](/us-ma) |            8,626 |                     9,536 |                   1,372 |                        910 |                                       11% |                                 8,695 |                                 11,384 |
 |                 [Illinois](/us-il) |            7,700 |                     9,325 |                     736 |                      1,625 |                                       21% |                                 7,956 |                                 11,859 |
 |             [Pennsylvania](/us-pa) |            7,219 |                     9,082 |                     709 |                      1,863 |                                       26% |                                 7,358 |                                 13,044 |
-|                  [Georgia](/us-ga) |            3,825 |                     7,313 |                     689 |                      3,488 |                                       91% |                                 5,284 |                                 10,392 |
 |                  [Arizona](/us-az) |            3,747 |                     7,204 |                     990 |                      3,457 |                                       92% |                                 5,517 |                                  9,293 |
+|                  [Georgia](/us-ga) |            3,825 |                     6,965 |                     656 |                      3,140 |                                       82% |                                 5,103 |                                  9,722 |
 |                 [Michigan](/us-mi) |            6,457 |                     6,937 |                     695 |                        480 |                                        7% |                                 6,500 |                                  7,926 |
-|                [Louisiana](/us-la) |            3,949 |                     5,659 |                   1,217 |                      1,710 |                                       43% |                                 4,506 |                                  7,556 |
 |                     [Ohio](/us-oh) |            3,515 |                     5,655 |                     484 |                      2,140 |                                       61% |                                 4,079 |                                  8,418 |
+|                [Louisiana](/us-la) |            3,949 |                     5,550 |                   1,194 |                      1,601 |                                       41% |                                 4,519 |                                  7,157 |
 |                 [Maryland](/us-md) |            3,506 |                     4,842 |                     801 |                      1,336 |                                       38% |                                 3,727 |                                  7,547 |
 |              [Connecticut](/us-ct) |            4,432 |                     4,658 |                   1,306 |                        226 |                                        5% |                                 4,464 |                                  5,110 |
-|           [South Carolina](/us-sc) |            1,751 |                     4,557 |                     885 |                      2,806 |                                      160% |                                 3,163 |                                  6,308 |
 |                  [Indiana](/us-in) |            2,971 |                     4,442 |                     660 |                      1,471 |                                       50% |                                 3,237 |                                  6,955 |
+|           [South Carolina](/us-sc) |            1,751 |                     4,432 |                     861 |                      2,681 |                                      153% |                                 3,076 |                                  6,118 |
 |           [North Carolina](/us-nc) |            1,979 |                     4,186 |                     399 |                      2,207 |                                      112% |                                 2,764 |                                  6,444 |
 |                 [Virginia](/us-va) |            2,215 |                     3,446 |                     404 |                      1,231 |                                       56% |                                 2,397 |                                  5,539 |
 |                  [Alabama](/us-al) |            1,603 |                     3,286 |                     670 |                      1,683 |                                      105% |                                 2,347 |                                  4,669 |
