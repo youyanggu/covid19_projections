@@ -150,6 +150,8 @@ The exact relationship between positivity rate and prevalence ratio may be diffe
 
 For example, [here](https://www.tampabay.com/news/health/2020/07/28/what-is-the-positivity-rate-in-coronavirus-data-and-why-is-it-important/) is a story from the Tampa Bay Times that explores how positivity rate is reported in Florida. Meanwhile, [Georgia](https://www.covid-georgia.com/2020/07/14/georgia-elr-test-data/) has a different set of standards for test reporting. These guidelines are specific on a per-state level and may differ significantly between states, making comparison more difficult.
 
+We believe that a high positivity rate in June/July implies a lower prevalence ratio than back in March/April, when testing was not as widely available. As a result, we believe that future extensions of this work could involve two separate prevalence ratio functions, one for March/April and the second for post-April. We think a lower exponent and coefficient may be a better approximation for post-April (e.g. `prevalence-ratio = 12 * (positivity-rate)^(0.4) + 2.5`).
+
 [Back to Top](#top)
 
 ### Higher Infections in July
