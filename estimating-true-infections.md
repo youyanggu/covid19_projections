@@ -32,13 +32,15 @@ Below, you can see a plot of our infection estimates for the US. We compare the 
 
 ![True Infections Plot 3](/assets/images/estimate_true_infections_3.png)
 
-Once we have a reasonable estimate of the true number of newly infected individuals per day, we can use the reported deaths to compute the implied infection fatality rate (IFFR). The IIFR for the US was above 1% in March, stabilized at around 0.6% in April-May before decreasing to ~0.25% in July. This is further explained [below](implied-infection-fatality-rate-iifr).
+Once we have a reasonable estimate of the true number of newly infected individuals per day, we can use the reported deaths to compute the implied infection fatality rate (IFFR). The IIFR for the US was above 1% in March, stabilized at around 0.6% in April-May before decreasing to ~0.25% in July. Note that our IIFR estimate does not take into account excess/unreported COVID-19 deaths, so it is likely a lower bound for the true IFR. This is further explained [below](implied-infection-fatality-rate-iifr).
 
 ## Disclaimers
 
 - All of the work presented on this page has not been peer-reviewed, and so we encourage reading this with a healthy dose of skepticism. We hope that the reader can make their own conclusions based on the evidence we present. This is just one possible take on the situation, and the results are subject to change based on new data.
 
 - Note that our use of the term *infection fatality rate (IFR)* refers to true deaths divided by true infections. **It is not age-adjusted**. As a result, if there is an increasing prevalence of the disease in a younger population, then the IFR will decrease, despite the deadliness of the virus remaining unchanged among a particular age group.
+
+- To compute our estimates of the infection fatality rate, we use only reported deaths. If a state is significantly underreporting COVID-19 deaths, then our estimates will likely underestimate the true IFR. To get a better understanding of the true deaths caused by COVID-19, we recommend looking into [excess deaths](https://www.cdc.gov/nchs/nvss/vsrr/covid19/excess_deaths.htm), something we do not do in this analysis.
 
 - As states expand their testing capacity and make testing more accessible for everyone, it is possible that the relationship we present on this page becomes less relevant. We provide possible explanations for this in the [Discussion](#discussion).
 
@@ -132,7 +134,7 @@ We offer explanations for some of the minor differences below:
 
 ## Implied Infection Fatality Rate (IIFR)
 
-We can use these estimates of true infections to compute the *implied infection fatality rate (IIFR)* for the US by taking the reported deaths from 28 days into the future (7-day moving average) and dividing it by the true infections (7-day moving average).
+We can use these estimates of true infections to compute the *implied infection fatality rate (IIFR)* for the US by taking the reported deaths from 28 days into the future (7-day moving average) and dividing it by the true infections (7-day moving average). Note that we assume that reported deaths is roughly equal to true deaths. If there is a significant amount of excess/unreported COVID-19 deaths, then our IIFR estimate will be an underestimate of the true IFR. See work from the [Weinberger Lab](https://weinbergerlab.github.io/excess_pi_covid/) for their analysis of excess deaths.
 
 ![IFR Estimate - US](/assets/images/estimate_true_infections_ifr_us.png)
 
