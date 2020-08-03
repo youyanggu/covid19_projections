@@ -15,6 +15,7 @@ We have open-sourced the code and output used to generate these evaluations [her
 The charts below represent past state-by-state and US projections evaluated on cumulative deaths on the specified evaluation date (June 20, June 13, etc). As the charts may be outdated, please consult our [evaluation page](https://github.com/youyanggu/covid19-forecast-hub-evaluation) for the latest data.
 
 * [4 Week Ahead](#4-week-ahead)
+* [August 1](#august-1)
 * [July 25](#july-25)
 * [July 18](#july-18)
 * [July 11](#july-11)
@@ -52,6 +53,16 @@ The charts below represent past state-by-state and US projections evaluated on c
 ### US projections
 
 ![US comparison](/assets/images/4_week_ahead_us.png)
+
+## August 1
+
+### State-by-state projections
+
+![States comparison](/assets/images/2020-08-01_comparison_states.png)
+
+### US projections
+
+![US comparison](/assets/images/2020-08-01_comparison_us.png)
 
 ## July 25
 
