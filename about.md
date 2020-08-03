@@ -7,7 +7,7 @@ permalink: /about/
 ## Table of contents
 * [About the Model](#about-the-model)
 * [How Our Model is Different](#how-our-model-is-different)
-* [Historical Performance **(Updated July 28)**](#historical-performance)
+* [Historical Performance **(Updated August 3)**](#historical-performance)
   * [Baseline Comparison](#baseline-comparison-c19pro-vs-ihme)
   * [Late June US Projection](#late-june-us-projection)
   * [Late May Projections](#late-may-projections)
@@ -95,7 +95,7 @@ A model isn't very useful if it's not accurate. Below is our analysis on how var
 
 We have open-sourced the code and data used to evaluate COVID-19 models: [https://github.com/youyanggu/covid19-forecast-hub-evaluation](https://github.com/youyanggu/covid19-forecast-hub-evaluation). We believe in a fully transparent evaluation methodology, and publicly releasing all of our code and data is the best way to do so. Learn more about our evaluation methodology [on GitHub](https://github.com/youyanggu/covid19-forecast-hub-evaluation#details).
 
-[Click here](/historical-performance) to see our past weekly performance evaluations. We believe it's important to look at past evaluations to get a more comprehensive idea of model consistency/accuracy.
+[Click here](/historical-performance) to see our past weekly performance evaluations and for more explanations behind the evaluations. We believe it's important to look at past evaluations to get a more comprehensive idea of model consistency/accuracy.
 
 ### Evaluation of historical 4 week ahead state-by-state projections
 
@@ -107,47 +107,15 @@ This is a metric that shows the *consistency* of model projections over the peri
 
 ![4 week ahead US comparison](/assets/images/4_week_ahead_us.png)
 
-### Evaluation of past state-by-state projections on cumulative deaths as of July 25
+### Evaluation of past state-by-state projections on cumulative deaths as of August 1
 
 This is a metric that shows the *recent accuracy* of model projections.
 
-![States comparison](/assets/images/2020-07-25_comparison_states.png)
+![States comparison](/assets/images/2020-08-01_comparison_states.png)
 
-### Evaluation of past US projections on cumulative deaths as of July 25
+### Evaluation of past US projections on cumulative deaths as of August 1
 
-Note: On June 25, New Jersey added 1,854 probable deaths, thereby significantly skewing US death reports. As a result, the below evaluation may not the best representative of model accuracy. Read more [here](#observations).
-
-![US comparison](/assets/images/2020-07-25_comparison_us.png)
-
-[Back to Top](#top)
-
-### Baseline Comparison: C19Pro vs IHME
-
-If on June 1, you simply assume each state/country's average daily deaths from the week before will be unchanged for the next 4 weeks, you can make a better forecasts than IHME. This is equivalent to extending a straight line on the daily deaths plots.
-
-![Baseline comparison US](/assets/images/baseline_comparison_june27.png)
-
-![Baseline comparison Global](/assets/images/baseline_comparison_global_june27.png)
-
-The pattern is similar for other dates as well. See our [open source evaluation](https://github.com/youyanggu/covid19-forecast-hub-evaluation) for more.
-
-[Back to Top](#top)
-
-### Late June US Projection
-
-Below you can find our June 26 US projections, compared to the IHME model.
-
-{% include iframe_ihme_june26.html %}
-
-[Back to Top](#top)
-
-### Late May Projections
-
-Below you can find some of our late May projections for 4 of the most heavily impacted states since reopening: Florida, California, Arizona, Texas.
-
-[Click here](/model-comparison-ihme) to view more plots of historical projections.
-
-{% include iframe_ihme_may28.html %}
+![US comparison](/assets/images/2020-08-01_comparison_us.png)
 
 [Back to Top](#top)
 
@@ -377,6 +345,28 @@ As you can see from the graphs above, IHME's projections have historically faile
 There are existing news articles such as [Vox](https://www.vox.com/future-perfect/2020/5/2/21241261/coronavirus-modeling-us-deaths-ihme-pandemic), [STAT News](https://www.statnews.com/2020/04/17/influential-covid-19-model-uses-flawed-methods-shouldnt-guide-policies-critics-say/), [CNN](https://www.cnn.com/2020/04/13/health/ihme-model-death-predictions/index.html), and [Quartz](https://qz.com/1840186/what-the-ihme-covid-19-model-can-and-cant-tell-the-us/) that agree with our concerns.
 
 In the words of Ruth Etzioni, an epidemiologist at Seattle’s Fred Hutchinson Cancer Research Center, “that \[the IHME model\] is being used for policy decisions and its results interpreted wrongly is a travesty unfolding before our eyes.”
+
+[Back to Top](#top)
+
+### Baseline Comparison: C19Pro vs IHME
+
+If on June 1, you simply assume each state/country's average daily deaths from the week before will be unchanged for the next 4 weeks, you can make a better forecasts than IHME. This is equivalent to extending a straight line on the daily deaths plots.
+
+![Baseline comparison US](/assets/images/baseline_comparison_june27.png)
+
+![Baseline comparison Global](/assets/images/baseline_comparison_global_june27.png)
+
+The pattern is similar for other dates as well. See our [open source evaluation](https://github.com/youyanggu/covid19-forecast-hub-evaluation) for more.
+
+[Back to Top](#top)
+
+### Late May Projections
+
+Below you can find some of our late May projections for 4 of the most heavily impacted states since reopening: Florida, California, Arizona, Texas.
+
+[Click here](/model-comparison-ihme) to view more plots of historical projections.
+
+{% include iframe_ihme_may28.html %}
 
 [Back to Top](#top)
 
