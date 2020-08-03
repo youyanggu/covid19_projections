@@ -7,7 +7,7 @@ permalink: /estimating-true-infections/
 # Estimating True Infections: A Simple Heuristic to Measure Implied Infection Fatality Rate
 
 By: [Youyang Gu](https://twitter.com/youyanggu)
-<br>July 29, 2020 (*Last Updated*: August 1, 2020)
+<br>July 29, 2020 (*Last Updated*: August 3, 2020)
 
 ## Table of Contents
 * [Introduction](#introduction)
@@ -36,7 +36,7 @@ Once we have a reasonable estimate of the true number of newly infected individu
 
 ## Disclaimer
 
-All of the work presented on this page has not been peer-reviewed, and so we encourage reading this with a healthy dose of skepticism. This is just one possible take on the situation, and the results are subject to change based on new data.
+All of the work presented on this page has not been peer-reviewed, and so we encourage reading this with a healthy dose of skepticism. We hope that the reader can make their own conclusions based on the evidence we present. This is just one possible take on the situation, and the results are subject to change based on new data.
 
 Note that our use of the term *infection fatality rate (IFR)* refers to true deaths divided by true infections. **It is not age-adjusted**. As a result, if there is an increasing prevalence of the disease in a younger population, then the IFR will decrease, despite the deadliness of the virus remaining unchanged among a particular age group.
 
@@ -173,12 +173,12 @@ In contrast, when states reopened in May/June, there were already ~100k new infe
 
 The IIFR in the US decreased from over 1% in March to 0.25% in July. Below, we present a few explanations to why the IIFR in the US has decreased significantly since March/April.
 
-- Improved treatment (new drugs, better allocation of resources, more experience among staff, etc)
-- Better protection of vulnerable populations ([nearly half of COVID-19 deaths](https://www.wsj.com/articles/coronavirus-deaths-in-u-s-nursing-long-term-care-facilities-top-50-000-11592306919) in March/April were in care homes)
 - Lower median age of infection (e.g. [Florida](https://github.com/mbevand/florida-covid19-line-list-data#heatmap-of-age-over-time))
+- Better protection of vulnerable populations ([nearly half of COVID-19 deaths](https://www.wsj.com/articles/coronavirus-deaths-in-u-s-nursing-long-term-care-facilities-top-50-000-11592306919) in March/April were in care homes)
+- Improved treatment (new drugs, better allocation of resources, more experience among staff, etc)
 - Earlier detection
 
-The above are explanations that would explain a *true* decrease in IFR. Below are some reasons that could skew the IIFR lower, but not change the true IFR:
+The above are explanations that would explain a *true* decrease in IFR. We believe the lower median age of infection and better protection of high-risk populations are the primary drivers behind the decrease in IIFR. Below are some reasons that could skew the IIFR lower, but not change the true IFR:
 
 - More comprehensive reporting of confirmed cases
 - Changes in the distribution of age groups tested (e.g. more younger people getting tested would skew IIFR down)
