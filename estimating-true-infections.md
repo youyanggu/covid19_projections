@@ -11,6 +11,7 @@ By: [Youyang Gu](https://twitter.com/youyanggu)
 
 ## Table of Contents
 * [Introduction](#introduction)
+* [Disclaimer](#disclaimer)
 * [Data](#data)
 * [Prevalence Ratio](#prevalence-ratio)
 * [Using Confirmed Deaths](#using-confirmed-deaths)
@@ -33,7 +34,13 @@ Below, you can see a plot of our infection estimates for the US. We compare the 
 
 Once we have a reasonable estimate of the true number of newly infected individuals per day, we can use the reported deaths to compute the implied infection fatality rate (IFFR). The IIFR for the US was above 1% in March, stabilized at around 0.6% in April-May before decreasing to ~0.25% in July. This is further explained [below](implied-infection-fatality-rate-iifr).
 
-While all the methods on this page were developed independently, we want to note that this is not a novel approach. See prior work by [Peter Ellis](http://freerangestats.info/blog/2020/05/09/covid-population-incidence), [David Blake](https://medium.com/@dblake.mcg/making-the-o-zone-plots-2a83708f7d6a), and [Campbell et al](https://arxiv.org/pdf/2005.08459.pdf).
+## Disclaimer
+
+All of the work presented on this page has not been peer-reviewed, and so we encourage reading this with a healthy dose of skepticism. This is just one possible take on the situation, and the results are subject to change based on new data.
+
+Note that our use of the term *infection fatality rate (IFR)* refers to true deaths divided by true infections. **It is not age-adjusted**. As a result, if there is an increasing prevalence of the disease in a younger population, then the IFR will decrease, despite the deadliness of the virus remaining unchanged among a particular age group.
+
+Furthermore, while all the methods on this page were developed independently, we want to note that this is not a novel approach. See prior work by [Peter Ellis](http://freerangestats.info/blog/2020/05/09/covid-population-incidence), [David Blake](https://medium.com/@dblake.mcg/making-the-o-zone-plots-2a83708f7d6a), and [Campbell et al](https://arxiv.org/pdf/2005.08459.pdf).
 
 [Back to Top](#top)
 
@@ -150,7 +157,7 @@ The exact relationship between positivity rate and prevalence ratio may be diffe
 
 For example, [here](https://www.tampabay.com/news/health/2020/07/28/what-is-the-positivity-rate-in-coronavirus-data-and-why-is-it-important/) is a story from the Tampa Bay Times that explores how positivity rate is reported in Florida. Meanwhile, [Georgia](https://www.covid-georgia.com/2020/07/14/georgia-elr-test-data/) has a different set of standards for test reporting. These guidelines are specific on a per-state level and may differ significantly between states, making comparison more difficult.
 
-We believe that a high positivity rate in June/July implies a lower prevalence ratio than back in March/April, when testing was not as widely available. As a result, we believe that future extensions of this work could involve two separate prevalence ratio functions, one for March/April and the second for post-April. We think a lower exponent and coefficient may be a better approximation for post-April (e.g. `prevalence-ratio = 12 * (positivity-rate)^(0.4) + 2.5`).
+We believe that a high positivity rate in June/July implies a lower prevalence ratio than back in March/April, when testing was not as widely available. As a result, we believe that future extensions of this work could involve time-dependent prevalence ratio functions, such as a separate functions for March/April and post-April. We think a lower exponent and coefficient may be a better approximation for post-April (e.g. `prevalence-ratio = 12 * (positivity-rate)^(0.4) + 2.5`).
 
 [Back to Top](#top)
 
