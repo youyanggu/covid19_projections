@@ -27,8 +27,8 @@ By: [Youyang Gu](https://twitter.com/youyanggu)
 
 ## Main Conclusions
 
-* Infections are more prevalent in June/July (peak of ~450,000 new infections per day) than in March/April (peak of ~300,000 new infections per day). This is likely driven by reopenings, a lack of policy intervention, and a more widespread prevalence of the virus. More discussion [below](#higher-infections-in-july).
-* Implied infection fatality rate dropped from 1% in March to 0.25% in July. This is likely mainly driven by a lower median age of infection. Improved treatments, better protection of vulnerable populations, and earlier detection also likely contribute to a lower fatality rate. More discussion [below](#lower-iifr-over-time).
+* Infections are more prevalent in June/July (peak of ~450,000 new infections per day) than in March/April (peak of ~300,000 new infections per day). This is likely driven by reopenings, a lack of policy intervention, and a more widespread prevalence of the virus. The rest of this page describes our methodology for deriving this estimate, with more discussion [below](#higher-infections-in-july).
+* Implied infection fatality rate (IIFR) dropped from 1% in March to 0.6% in May to 0.25% in July. This is likely primarily driven by a lower median age of infection. Improved treatments, better protection of vulnerable populations, and earlier detection also likely contribute to a lower fatality rate. See our section on IIFR [below](#implied-infection-fatality-rate-iifr), along with [further discussion](#lower-iifr-over-time).
 * Infections in high-impacted states began to slow down after reaching 10-30% population prevalence. It's likely that the herd immunity threshold (HIT) is lower than what it was in March/April, which is expected since the effective reproduction number, Rt, is now much lower. Reaching the herd immunity threshold does not stop transmission - it simply slows down further transmission. Changes in human behavior and policy interventions such as mask mandates also contribute to a slowing of the spread. More discussion [below](#herd-immunity-threshold).
 
 ## Introduction
