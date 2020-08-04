@@ -7,9 +7,10 @@ permalink: /estimating-true-infections/
 # Estimating True Infections: A Simple Heuristic to Measure Implied Infection Fatality Rate
 
 By: [Youyang Gu](https://twitter.com/youyanggu)
-<br>July 29, 2020 (*Last Updated*: August 3, 2020)
+<br>July 29, 2020 (*Last Updated*: August 4, 2020)
 
 ## Table of Contents
+* [Main Conclusions](#main-conclusions)
 * [Introduction](#introduction)
 * [Disclaimers](#disclaimers)
 * [Data](#data)
@@ -19,6 +20,12 @@ By: [Youyang Gu](https://twitter.com/youyanggu)
 * [Implied Infection Fatality Rate (IIFR)](#implied-infection-fatality-rate-iifr)
 * [Discussion](#discussion)
 * [Conclusion](#conclusion)
+
+## Main Conclusions
+
+* Infections are more prevalent in June/July (peak of ~450,000 new infections per day) than in March/April (peak of ~300,000 new infections per day). This is likely driven by reopenings, a lack of policy intervention, and a more widespread prevalence of the virus.
+* Implied infection fatality rate dropped from 1% in March to 0.25% in July. This is likely mainly driven by a lower median age of infection. Improved treatments, better protection of vulnerable populations, and earlier detection also likely contribute to a lower fatality rate.
+* Infections in high-impacted states began to slow down after reaching 10-30% population prevalence. It's likely that the herd immunity threshold (HIT) is lower than previously reported in March/April, which is expected since the reproduction number, Rt, is now much lower. Reaching the herd immunity threshold does not stop transmission - it simply slows down further transmission. Changes in human behavior and policy interventions such as mask mandates also contribute to a slowing of the spread.
 
 ## Introduction
 
@@ -36,9 +43,9 @@ Once we have a reasonable estimate of the true number of newly infected individu
 
 ## Disclaimers
 
-- All of the work presented on this page has not been peer-reviewed, and so we encourage reading this with a healthy dose of skepticism. We hope that the reader can make their own conclusions based on the evidence we present. This is just one possible take on the situation, and the results are subject to change based on new data.
+- All of the work presented on this page has not been peer-reviewed, and so we encourage reading this with a healthy dose of skepticism. We hope that the reader can make their own conclusions based on the evidence we present. This is just one possible take on the situation, and the results are subject to change based on new data/evidence.
 
-- Note that our use of the term *infection fatality rate (IFR)* refers to true deaths divided by true infections. **It is not age-adjusted**. As a result, if there is an increasing prevalence of the disease in a younger population, then the IFR will decrease, despite the deadliness of the virus remaining unchanged among a particular age group.
+- Note that our use of the term *infection fatality rate (IFR)* refers to true deaths divided by true infections. **It is not age-adjusted**. As a result, if there is an increasing prevalence of the disease in a younger population, then the IFR will decrease, despite the deadliness of the virus remaining unchanged among a particular age group. It is likely that the fatality rate for a given age group have not changed significantly.
 
 - To compute our estimates of the *implied infection fatality rate (IIFR)*, we use only reported deaths in the numerator. If a state is significantly underreporting COVID-19 deaths, then our estimates will likely underestimate the true IFR. Since most states are [underreporting](https://www.nytimes.com/interactive/2020/05/05/us/coronavirus-death-toll-us.html) COVID-19 deaths, our IIFR estimate is closer to a lower bound for the true infection fatality rate. For example, if true deaths is 50% higher than reported deaths, then the true IFR will be roughly 50% higher than the IIFR. To get a better understanding of the true deaths caused by COVID-19, we recommend looking into [excess deaths](https://www.cdc.gov/nchs/nvss/vsrr/covid19/excess_deaths.htm), something we do not do in this analysis.
 
@@ -192,6 +199,14 @@ The above are explanations that would explain a *true* decrease in IFR. We belie
 - Inflation of the test positivity rate (e.g. double-counting positives, not reporting negatives, etc)
 - Longer lag in death reporting
 - Underreporting of deaths
+
+[Back to Top](#top)
+
+### Herd Immunity Threshold
+
+Looking at the data, we see that transmissions in many severely-impacted states began to slow down in July, despite no clear policy interventions. This is especially notable in states like Arizona, Florida, and Texas. While we believe that changes in human behavior and changes in policy (such as mask mandates and closing of bars/nightclubs) certainly contributed to the decrease in transmission, it seems unlikely that these were the primary drivers behind the decrease. We believe that many regions obtained a certain degree of herd immunity after reaching 10-30% prevalence.
+
+A [widely-accepted method](https://academic.oup.com/cid/article/52/7/911/299077) to calculate the herd immunity threshold (HIT) is to use the Rt value: `HIT = 1 - 1/Rt`. Back in March/April, we estimate Rt in the US to be around 2.3. This corresponds to a HIT of `1-1/2.3 = ~0.6`, or 60%. But the Rt has decreased dramatically since then due to a variety of reasons such as greater population awareness, mask-wearing, reduced larger gatherings, and implementation of social distancing guidelines. The Rt in most regions around the US where there are outbreaks is now between 1.1-1.5. This corresponds to a HIT of 10-33%. As a result, it makes intuitive sense that we are seeing a decline in transmission after those regions reach a 10-33% prevalence.
 
 [Back to Top](#top)
 
