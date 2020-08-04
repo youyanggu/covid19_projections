@@ -97,25 +97,25 @@ We have open-sourced the code and data used to evaluate COVID-19 models: [https:
 
 [Click here](/historical-performance) to see our past weekly performance evaluations and for more explanations behind the evaluations. We believe it's important to look at past evaluations to get a more comprehensive idea of model consistency/accuracy.
 
-Because US country-wide projections only contains a single forecast per week, there is much higher variance week-to-week compared to state-by-state projections, where there are 50+ forecasts each week. As a result, we believe state-by-state evaluations is a better indicator of model performance. This same concept is why we play 7-game series for NBA/NHL/MLB playoffs.
-
-### Evaluation of historical 4 week ahead state-by-state projections
+### Evaluation of historical 4 week ahead US state-by-state projections
 
 This is a metric that shows the *consistency* of model projections over the period of several months.
 
 ![4 week ahead states comparison](/assets/images/4_week_ahead_states.png)
 
-### Evaluation of historical 4 week ahead US projections
+### Evaluation of historical 4 week ahead US nationwide projections
+
+Because US country-wide projections only contains a single forecast per week, there is much higher variance week-to-week compared to state-by-state projections, where there are 50+ forecasts each week. As a result, we believe state-by-state evaluations is a better indicator of model performance. This same concept is why we play 7-game series for NBA/NHL/MLB playoffs.
 
 ![4 week ahead US comparison](/assets/images/4_week_ahead_us.png)
 
-### Evaluation of past state-by-state projections on cumulative deaths as of August 1
+### Evaluation of past US state-by-state projections on cumulative deaths as of August 1
 
 This is a metric that shows the *recent accuracy* of model projections.
 
 ![States comparison](/assets/images/2020-08-01_comparison_states.png)
 
-### Evaluation of past US projections on cumulative deaths as of August 1
+### Evaluation of past US nationwide projections on cumulative deaths as of August 1
 
 ![US comparison](/assets/images/2020-08-01_comparison_us.png)
 
