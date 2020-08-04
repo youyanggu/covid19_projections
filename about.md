@@ -51,15 +51,21 @@ See an [analysis of our model](https://twitter.com/CT_Bergstrom/status/125534384
 
 ## How Our Model is Different
 
-* *Deaths data only*: Our model only uses daily deaths data as reported by [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series). Unlike other models, we do not use additional data sources such as cases, testing, mobility, temperature, age distribution, air traffic, etc. While supplementary data sources may be helpful, they can also introduce additional noise and complexity which can [notably skew results](#mobility-data).
+* *Daily updates*: Because our model is purely data-driven, it is quick to run and easy to regenerate. Unlike other models that are only updated only once every few days, our model is updated on a daily basis, leading to more accurate projections. We have generated daily projections since we began the project on April 1. No other model offers this level of update frequency.
 
 * *No public funding*: We are one of the only models [used by the CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html) that receives no public funding, making us a completely independent entity.
 
 * *No conflicts of interest*: Similar to the previous point, we are truly an independent entity that operates without outside influence or outside investors. Other groups may have collaborations with industry and government entities, or are developing their work for the purpose of publication. We only have one purpose: to create the most accurate projections.
 
-* *Daily updates*: Because our model is purely data-driven, it is quick to run and easy to regenerate. Unlike other models that are only updated once every few days, our model is updated on a daily basis, leading to more accurate projections.
+* *Deaths data only*: Our model only uses daily deaths data as reported by [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series). Unlike other models, we do not use additional data sources such as cases, testing, mobility, temperature, age distribution, air traffic, etc. While supplementary data sources may be helpful, they can also introduce additional noise and complexity which can [notably skew results](#mobility-data).
 
 * *Minimal assumptions*: Because our model uses machine learning to learn the inputs and parameters, we minimize the number of assumptions we have to introduce. This allows us to avoid certain biases that can be present when incorporating various assumptions.
+
+* *Open data:* We upload all of our raw data/projections daily onto [our GitHub page](https://github.com/youyanggu/covid19_projections). All of the data used on this website can be downloaded.
+
+* *Open source:* Our underlying SEIR model is [open source](https://github.com/youyanggu/yyg-seir-simulator).
+
+* *Strong historical performance:* We evaluate the performance of our model on a [weekly basis](#historical-performance). The code and data to evaluate models are also [open-source](https://github.com/youyanggu/covid19-forecast-hub-evaluation).
 
 * *Accounts for reopenings*: We were one of the first models used by the CDC that factors in individual state-by-state or country-by-country reopenings, allowing us to make more realistic projections. Rather than pre-setting the type of reopening (e.g. full vs partial reopening), we allow our model to learn the effects based on the data.
 
@@ -82,8 +88,6 @@ See an [analysis of our model](https://twitter.com/CT_Bergstrom/status/125534384
 * *Learning the infection fatality rate (IFR)*: Rather than rely on various non-consensus studies on the infection fatality rate (IFR), our model can also learn the best value for the IFR in each region. Learn more about our IFR estimates [below](#infection-fatality-rate-ifr).
 
 * *Learning when people started social distancing*: It turns out that many people began social distancing before a region's formal lockdown order is issued. Our model is able to learn the exact dates when people in a region started social distancing, which are often independent of the stay-at-home orders. For example, in New York, this inflection point is determined to be around March 14, which closely matches the [NYC subway ridership data](https://twitter.com/youyanggu/status/1248844841733128192). For the US as a whole, we estimate that date to be around March 18. You can see what happens if everyone in the US reacted [one week earlier](/us-1weekearlier) (March 11) or [one week later](/us-1weeklater) (March 25).
-
-* *Open data:* We upload all of our raw data/projections daily onto [our GitHub page](https://github.com/youyanggu/covid19_projections). All of the data used on this website can be downloaded.
 
 * *Strong validation system*: Many of the other models tend to overfit to the data. We have a strong validation system to make sure that all of our updates pass out-of-sample validation before they can be included in the model. This allows us to better differentiate the signal from the noise and be more resistant to outliers. Because all of our assumptions and projections are tested/verified on all 50 states as well as over 70 countries, we are able to create more robust projections.
 
