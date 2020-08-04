@@ -193,3 +193,4 @@ date,Province_State,Country_Region,Combined_Key,Confirmed,Deaths,daily_deaths,da
 2020-07-31,Florida,US,"Broward, Florida, US",55411,709,33.0,1099.0,1262.142857142857,23.285714285714285
 2020-08-01,Florida,US,"Broward, Florida, US",56797,742,33.0,1386.0,1230.0,23.142857142857142
 2020-08-02,Florida,US,"Broward, Florida, US",57975,745,3.0,1178.0,1232.142857142857,20.0
+2020-08-03,Florida,US,"Broward, Florida, US",58531,748,3.0,556.0,1106.7142857142858,20.142857142857142
