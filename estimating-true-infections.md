@@ -164,7 +164,7 @@ Of course, there can be selection bias on how different age groups are provided 
 
 We can use our prevalence ratio formula from above to estimate the proportion of true infections by age group given the number of confirmed cases and test positivity rates:
 
-![CDC - Infections by age](/assets/images/estimate_true_infections_cdc_infections.png)
+![CDC - Infections by age](/assets/images/estimate_true_infections_cdc_prevalence.png)
 
 You can see that the change in distribution from old to young is even more stark after accounting for test positivity. The ratio of prevalence in individuals ages 18-49 to prevalence in individuals ages 65+ went from roughly 2.5x in April to 10x in June. Since the infection fatality rate in those age 65+ is roughly 10-50x that of those ages 18-49, it's no surprise that the overall infection fatality rate in the US dropped significantly between March and July. The IFR is further lowered by improving treatments and earlier detection.
 
