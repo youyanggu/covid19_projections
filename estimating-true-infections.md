@@ -7,7 +7,7 @@ permalink: /estimating-true-infections/
 # Estimating True Infections: A Simple Heuristic to Measure Implied Infection Fatality Rate
 
 By: [Youyang Gu](https://twitter.com/youyanggu)
-<br>July 29, 2020 (*Last Updated*: August 4, 2020)
+<br>July 29, 2020 (*Last Updated*: August 5, 2020)
 
 ## Table of Contents
 * [Main Conclusions](#main-conclusions)
@@ -172,6 +172,7 @@ The exact relationship between positivity rate and prevalence ratio may be diffe
   - Only reporting Electronic Laboratory Reporting (ELR) results
 - Backlog of test results - positive tests receive priority for processing, which may skew the positivity rate upwards
 - Delay/lag in test results - if tests take 1-2 weeks to be reported, then it may no longer be an accurate representation of how new infections are changing
+- Shifting age demographics - Test positivity rates are [higher](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/covidview/07312020/commercial-labs.html) in younger age groups. So a lower median age of infection may also result in a higher positivity rate, causing a possible confounding factor. 
 
 For example, [here](https://www.tampabay.com/news/health/2020/07/28/what-is-the-positivity-rate-in-coronavirus-data-and-why-is-it-important/) is a story from the Tampa Bay Times that explores how positivity rate is reported in Florida. Meanwhile, [Georgia](https://www.covid-georgia.com/2020/07/14/georgia-elr-test-data/) has a different set of standards for test reporting. These guidelines are specific on a per-state level and may differ significantly between states, making comparison more difficult.
 
