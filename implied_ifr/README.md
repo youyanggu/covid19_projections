@@ -16,7 +16,7 @@ Note: Currently, we only support the computation of IIFR for the US on a state a
 * `daily_tests`, `daily_tests_7day_ma` - Daily reported tests and 7-day moving average
 * `net_hosp`, `net_hosp_7day_ma` - Daily reported net hospitalizations and 7-day moving average (positive number means more admissions, negative number means more discharges)
 * `pos_rate_7day_ma` - `daily_confirmed_7day_ma / daily_tests_7day_ma`
-* `rt_estimate` - Rough estimate of the effective reproduction number, taken by taking the `pos_rate_7day_ma` and dividing it by the `pos_rate_7day_ma` from 5 days ago (the serial interval)
+* `rt_estimate` - Rough estimate of the effective reproduction number, taken by taking the `pos_rate_7day_ma` and dividing it by the `pos_rate_7day_ma` from 5 days ago (the serial interval). Formula: `rt_estimate(n) = pos_rate_7day_ma(n) / pos_rate_7day_ma(n-5)`.
 * `prevalence_ratio_7day_ma` - Estimate of the ratio of true infections to confirmed cases. Formula explained [here](https://covid19-projections.com/estimating-true-infections/#prevalence-ratio).
 * `true_inf_est_7day_ma` - Estimate of the true number of newly infected individuals on that day, after accounting for a 14-day lag. Formula: `true_inf_est_7day_ma(n) = daily_confirmed_7day_ma(n+14) * prevalence_ratio_7day_ma(n+14)`.
 * `implied_ifr_7day_ma` - Implied infection fatality rate, after accounting for a 28-day lag. Formula: `implied_ifr_7day_ma(n) = daily_deaths_7day_ma(n+28) / true_inf_est_7day_ma(n)`.
