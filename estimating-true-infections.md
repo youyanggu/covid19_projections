@@ -160,9 +160,9 @@ Using CDC's [COVIDView Data](https://www.cdc.gov/coronavirus/2019-ncov/covid-dat
 
 ![CDC - Cases by age](/assets/images/estimate_true_infections_cdc_cases.png)
 
-Of course, there can be selection bias on how different age groups are getting tested. One can argue that the reason there is a higher proportion of older people in March/April relative to June/July is because testing was limited, and hence older individuals were prioritized for testing. So one would expect that older age groups have a lower positivity rate than the younger age groups. But if you look at the data, the opposite is true: in March/April, the older age groups actually had a higher positivity rate than the younger age groups. By our prevalence ratio calculation above, this indicates that the prevalence is actually even higher in the older age groups than the younger age groups.
+Of course, there can be selection bias on how different age groups are getting tested. One can argue that the reason there is a higher proportion of older people in March/April relative to June/July is because testing was limited, and hence older individuals were prioritized for testing. So one would expect that older age groups have a lower positivity rate than the younger age groups (since you are catching more cases). But if you look at the data, the opposite is true: in March/April, the older age groups actually had a *higher* positivity rate than the younger age groups. By our prevalence ratio calculation above, this indicates that the prevalence is actually even higher in the older age groups than the younger age groups. This trend was reversed starting in late April, and now younger age groups have a higher positivity rate than older age groups.
 
-We can use our prevalence ratio formula from above to estimate the proportion of true infections by age group given the number of confirmed cases and test positivity rates:
+We can use our prevalence ratio formula from [above](#prevalence-ratio) to estimate the proportion of true infections by age group given the number of confirmed cases and test positivity rates:
 
 ![CDC - Infections by age](/assets/images/estimate_true_infections_cdc_prevalence.png)
 
