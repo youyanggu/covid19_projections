@@ -168,7 +168,7 @@ We can use our prevalence ratio formula from above to estimate the proportion of
 
 You can see that the change in distribution from old to young is even more pronounced after accounting for test positivity. The ratio of prevalence in individuals ages 18-49 to prevalence in individuals ages 65+ went from roughly 2.5x in April to 10x in June. Since the infection fatality rate in those age 65+ is roughly 10-50x that of those ages 18-49, it's no surprise that the overall infection fatality rate in the US dropped significantly between March and July. The IFR is further lowered by improving treatments and earlier detection.
 
-Unfortunately, the pattern in July indicates that the age distribution of infections is reverting back towards a higher median age of infection. This could lead to an increase in the implied infection fatality rate in August and beyond, and is something that we will be monitoring.
+As an addenum, the above chart can also explain why reported deaths in the US continued to fall through June despite an increase in cases: the increase in cases is largely driven by younger people with a low infection fatality rate. Unfortunately, the pattern in July indicates that the age distribution of infections is reverting back towards a higher median age of infection, resulting in a sharp spike in deaths in late July/early August. This will likely lead to an increase in the implied infection fatality rate in August and beyond, and is something that we will be monitoring.
 
 [Back to Top](#top)
 
