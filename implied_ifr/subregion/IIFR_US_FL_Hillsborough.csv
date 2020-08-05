@@ -194,3 +194,4 @@ date,Province_State,Country_Region,Combined_Key,Confirmed,Deaths,daily_deaths,da
 2020-08-01,Florida,US,"Hillsborough, Florida, US",29589,341,6.0,473.0,423.2857142857143,8.714285714285714
 2020-08-02,Florida,US,"Hillsborough, Florida, US",30118,347,6.0,529.0,434.42857142857144,7.428571428571429
 2020-08-03,Florida,US,"Hillsborough, Florida, US",30450,348,1.0,332.0,423.85714285714283,7.142857142857143
+2020-08-04,Florida,US,"Hillsborough, Florida, US",30798,369,21.0,348.0,425.0,8.428571428571429
