@@ -18,6 +18,7 @@ By: [Youyang Gu](https://twitter.com/youyanggu)
 * [Using Confirmed Deaths](#using-confirmed-deaths)
 * [Putting it Together](#putting-it-together)
 * [Implied Infection Fatality Rate (IIFR)](#implied-infection-fatality-rate-iifr)
+* [Distribution of Infections by Age](#distribution-of-infections-by-age)
 * [Discussion](#discussion)
   * [Relationship between Positivity Rate and Prevalence Ratio](#relationship-between-positivity-rate-and-prevalence-ratio)
   * [Higher Infections in July](#higher-infections-in-july)
@@ -28,7 +29,7 @@ By: [Youyang Gu](https://twitter.com/youyanggu)
 ## Main Conclusions
 
 * Infections are more prevalent in June/July (peak of ~450,000 new infections per day) than in March/April (peak of ~300,000 new infections per day). This is likely driven by reopenings, a lack of policy intervention, and a more widespread prevalence of the virus. The rest of this page describes our methodology for deriving this estimate, with more discussion [below](#higher-infections-in-july).
-* Implied infection fatality rate (IIFR) dropped from 1% in March to 0.6% in May to 0.25% in July. This is likely primarily driven by a lower median age of infection. Improved treatments, better protection of vulnerable populations, and earlier detection also likely contribute to a lower fatality rate. See our section on IIFR [below](#implied-infection-fatality-rate-iifr), along with [further discussion](#lower-iifr-over-time).
+* Implied infection fatality rate (IIFR) dropped from 1% in March to 0.6% in May to 0.25% in July. This is likely primarily driven by a [lower median age of infection](#distribution-of-infections-by-age). Improved treatments, better protection of vulnerable populations, and earlier detection also likely contribute to a lower fatality rate. See our section on IIFR [below](#implied-infection-fatality-rate-iifr), along with [further discussion](#lower-iifr-over-time).
 * Infections in high-impacted states began to slow down after reaching 10-35% population prevalence. It's likely that the herd immunity threshold (HIT) is lower than what it was in March/April, which is expected since the effective reproduction number, Rt, is now much lower. Reaching the herd immunity threshold does not stop transmission - it simply slows down further transmission. Changes in human behavior and policy interventions such as mask mandates also contribute to a slowing of the spread. More discussion [below](#herd-immunity-threshold).
 
 ## Introduction
@@ -152,6 +153,22 @@ We can use these estimates of true infections to compute the *implied infection 
 We can also do this on a state-by-state basis. See below for IIFR plots for select states.
 
 ![IFR Estimate - States](/assets/images/estimate_true_infections_ifr_states.png)
+
+## Distribution of Infections by Age
+
+We use CDC's [COVIDView Data](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/covidview/07312020/commercial-labs.html) to show that the age of confirmed cases has decreased from March/April to June/July:
+
+![CDC - Cases by age](/assets/images/estimate_true_infections_cdc_cases.png)
+
+Of course, there can be selection bias on how different age groups are provided tests. One can argue that the reason there is a higher proportion of older people in March/April relative to June/July is because testing was limited, and hence older individuals were prioritized for testing. So one would expect that older age groups have a lower positivity rate than the younger age groups. But if you look at the data, the opposite is true: in March/April, the older age groups actually had a higher positivity rate than the younger age groups. By our prevalence ratio calculation above, this indicates that the prevalence is actually even higher in the older age groups than the younger age groups.
+
+We can use our prevalence ratio formula from above to estimate the proportion of true infections by age group given the number of confirmed cases and test positivity rates:
+
+![CDC - Infections by age](/assets/images/estimate_true_infections_cdc_infections.png)
+
+You can see that the change in distribution from old to young is even more stark after accounting for test positivity. The ratio of prevalence in individuals ages 18-49 to prevalence in individuals ages 65+ went from roughly 2.5x in April to 10x in June. Since the infection fatality rate in those age 65+ is roughly 10-50x that of those ages 18-49, it's no surprise that the overall infection fatality rate in the US dropped significantly between March and July. The IFR is further lowered by improving treatments and earlier detection.
+
+Unfortunately, the pattern in July indicates that the age distribution of infections is reverting back towards the older population. This could lead to an increase in the implied infection fatality rate in August and beyond, and is something that we will be monitoring.
 
 [Back to Top](#top)
 
