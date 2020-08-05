@@ -23,9 +23,9 @@ Note: Currently, we only support the computation of IIFR for the US on a state a
 
 For the summary files ([example](https://github.com/youyanggu/covid19_projections/blob/master/implied_ifr/0_IIFR_Summary.csv)), we have a few additional columns:
 
-* `cur_implied_cfr` - `cur_implied_ifr(n) = daily_deaths_7day_ma(n) / daily_confirmed_7day_ma(n-14)`
+* `cur_implied_cfr` - Current impleid CFR, calculating by taking deaths and dividing by true cases from 14 days ago: `cur_implied_ifr(n) = daily_deaths_7day_ma(n) / daily_confirmed_7day_ma(n-14)`
 * `total_implied_cfr` - `Deaths / Confirmed` (total deaths / total cases)
-* `cur_implied_ifr` - `cur_implied_ifr(n) = daily_deaths_7day_ma(n) / true_inf_est_7day_ma(n-28)`
+* `cur_implied_ifr` - Current implied IFR, calculated by taking deaths and dividing by true infections from 28 days ago: `cur_implied_ifr(n) = daily_deaths_7day_ma(n) / true_inf_est_7day_ma(n-28)`
 * `total_infections` - `sum(true_inf_est_7day_ma)` (Sum of new daily infections)
 * `total_implied_ifr` - `Deaths / total_infections` (total deaths / total infections)
 * `perc_infected` - `total_infections / population`
