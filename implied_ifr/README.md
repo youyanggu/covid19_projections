@@ -28,9 +28,9 @@ For the summary files ([example](https://github.com/youyanggu/covid19_projection
 * `cur_implied_ifr` - `cur_implied_ifr(n) = daily_deaths_7day_ma(n) / true_inf_est_7day_ma(n-28)`
 * `total_infections` - `sum(true_inf_est_7day_ma)` (Sum of new daily infections)
 * `total_implied_ifr` - `Deaths / total_infections` (total deaths / total infections)
-* `perc_infected` - `total_infections / population
+* `perc_infected` - `total_infections / population`
 
 ## Data Source
 
 - Cases and deaths: [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series)
-- Tests: [The COVID Tracking Project](https://covidtracking.com/)
+- Tests and hospitalizations: [The COVID Tracking Project](https://covidtracking.com/)
