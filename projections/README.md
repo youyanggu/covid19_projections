@@ -1,10 +1,10 @@
 # Projections Data
 
-Here, you will find all of our projections based on the date the projectoins were generated. Under each date directory, you will find a .csv file for each individual state/region/country. You can also look under our `combined` directory to see all of our daily projections combined in a single file.
+Here, you will find the raw data for our [covid19-projections.com](https://covid19-projections.com) projections, ordered by the date the projections were generated. Under each date directory, you will find a .csv file for each individual state/region/country. You can also look under our `combined` directory to see all of our daily projections combined in a single file. The directories are further subdivided by global countries and subregions (US counties and Canadian provinces).
 
 # Column Descriptions
 
-* `actual_deaths` - Daily deaths as reported by Johns Hopkins University CSSE
+* `actual_deaths` - Daily deaths as reported by [Johns Hopkins University CSSE](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series)
 * `total_deaths` - Cumulative deaths as reported by Johns Hopkins University CSSE
 * `predicted_deaths_mean`, `predicted_deaths_lower`, `predicted_deaths_upper` - Mean, 2.5th, and 97.5th percentile of our daily deaths projections
 * `predicted_total_deaths_mean`, `predicted_total_deaths_lower`, `predicted_total_deaths_upper` (Since 2020-04-02) - Mean, 2.5th, and 97.5th percentile of our cumulative deaths projections
@@ -28,6 +28,9 @@ Here, you will find all of our projections based on the date the projectoins wer
 * We send projections to the CDC every Monday using Sunday's data. For example, April 26, May 3, May 10, May 17, etc. As a result, we recommend using those projections for evaluation, since those have the highest impact and were the most carefully vetted. See our [open source evaluation](https://github.com/youyanggu/covid19-forecast-hub-evaluation).
 
 # Updates
+
+2020-07-22
+* We released a major update that tries to better account for increases in cases and deaths from the reopening. See [Update Notes on Twitter](https://twitter.com/youyanggu/status/1286421296474202115).
 
 2020-07-08
 * Extended projection end date from October 1 to November 1
