@@ -1,5 +1,71 @@
 country,region,subregion,tests_needed_per_day
-Brazil,,,1610895
-Mexico,,,685760
-South Africa,,,347405
-United Kingdom,,,76303
+Algeria,,,19952
+Argentina,,,212527
+Australia,,,23906
+Austria,,,4284
+Bangladesh,,,52352
+Belarus,,,5643
+Belgium,,,6825
+Bolivia,,,73379
+Brazil,,,1755204
+Bulgaria,,,34433
+Canada,,,11828
+Chile,,,69538
+China,,,10864
+Colombia,,,329624
+Croatia,,,8706
+Cuba,,,575
+Cyprus,,,304
+Czechia,,,8765
+Denmark,,,3215
+Dominican Republic,,,19919
+Ecuador,,,39501
+Egypt,,,25509
+Estonia,,,363
+Finland,,,1446
+France,,,19088
+Germany,,,28420
+Greece,,,4330
+Honduras,,,33172
+Hungary,,,3340
+Iceland,,,152
+India,,,4261284
+Indonesia,,,150751
+Iran,,,326733
+Ireland,,,2304
+Israel,,,36142
+Italy,,,9966
+Japan,,,26354
+Kuwait,,,14916
+Latvia,,,344
+Lithuania,,,733
+Luxembourg,,,3399
+Malaysia,,,495
+Malta,,,113
+Mexico,,,706841
+Moldova,,,23015
+Morocco,,,51223
+Netherlands,,,7313
+Nigeria,,,12752
+Norway,,,1281
+Pakistan,,,33852
+Panama,,,23912
+Peru,,,143458
+Philippines,,,69696
+Poland,,,38459
+Portugal,,,10395
+Romania,,,114972
+Russia,,,127935
+Saudi Arabia,,,58661
+Serbia,,,23186
+Slovakia,,,429
+Slovenia,,,2436
+South Africa,,,407491
+South Korea,,,3043
+Spain,,,43567
+Sweden,,,5122
+Switzerland,,,3135
+Turkey,,,20058
+Ukraine,,,70271
+United Arab Emirates,,,4046
+United Kingdom,,,72944
