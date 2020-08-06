@@ -13,6 +13,7 @@ On this page:
 * [Summary of Rest of World projections](#rest-of-world-summary)
 
 ## Recent Updates
+* **August 5:** We released a report, [Estimating True Infections: A Simple Heuristic to Measure Implied Infection Fatality Rate](https://covid19-projections.com/estimating-true-infections/#higher-infections-in-july) that explains our findings regarding the relationship between true infections, reported cases, test positivity rate, and infection fatality rate for COVID-19. You can view a summary on [our Twitter](https://twitter.com/youyanggu/status/1291092311045283841).
 * *August 3:* View our [updated historical performance](/about/#historical-performance).
 * *July 31:* We added lower and upper bounds to our reproduction number (Rt) estimates. You can now download these values for all of our projections [on GitHub](https://github.com/youyanggu/covid19_projections/tree/master/projections).
 * *July 23:* We made a major update that tries to better account for the recent increase in cases and deaths. Read our update notes [on Twitter](https://twitter.com/youyanggu/status/1286421296474202115).
