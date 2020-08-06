@@ -242,7 +242,7 @@ Our R estimates are merely estimates rather than precise values, and *is only ba
 
 **Note that our IFR estimates is subject to change based on new data. The exact IFR value does not significantly affect our death estimates.**
 
-**August 3 Update:** See our writeup, [Estimating True infections](https://covid19-projections.com/estimating-true-infections), for a more in-depth analysis on IFR.
+**August 5 Update:** See our writeup, [Estimating True infections](/estimating-true-infections), for our in-depth analysis on the infection fatality rate and its relationship with cases, deaths, and test positivity rates.
 
 We estimate that infection fatality rate (IFR) for COVID-19 in the US through April is between [0.9-1.2%](https://twitter.com/youyanggu/status/1256051255253757953). This matches a [May 7 study](https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2020.00455) that estimates the IFR to be slightly less than 1.3% after accounting for asymptomatic cases. We also found that most countries in Europe (with the the exceptions of United Kingdom, Spain, and Eastern Europe) have an IFR closer to 0.75%, which matches [this May 6 study](https://www.medrxiv.org/content/10.1101/2020.05.03.20089854v1).
 
