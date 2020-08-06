@@ -576,6 +576,9 @@ International
 
 ## Updates
 
+2020-07-22
+* We released a major update that tries to better account for increases in cases and deaths from the reopening. See [Update Notes on Twitter](https://twitter.com/youyanggu/status/1286421296474202115)
+
 2020-07-08
 * Extended projection end date from October 1 to November 1
 
