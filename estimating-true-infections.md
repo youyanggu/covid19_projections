@@ -180,7 +180,7 @@ We developed the constants for the prevalence function (`prevalence-ratio = a * 
 
 The exact relationship between positivity rate and prevalence ratio may be different from state to state and across time. Here is a partial list of possible factors that can cause these differences:
 
-- Availability of testing - the greater the number of tests (as percentage of the population), the less important the role of positivity rate
+- Availability of testing - the greater the number of tests performed (as a percentage of the population), the less the undetected prevalence ratio becomes, and the less the role of positivity rate becomes. See paper by [Burger & McLaren](http://www-personal.umich.edu/~zmclaren/mclaren_tbprevalence.pdf) for a more in-depth view.
 - Differences and changes in reporting guidelines
   - Counting multiple positive results
   - Counting multiple negative results
