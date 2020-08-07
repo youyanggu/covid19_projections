@@ -7,7 +7,7 @@ permalink: /estimating-true-infections/
 # Estimating True Infections: A Simple Heuristic to Measure Implied Infection Fatality Rate
 
 By: [Youyang Gu](https://twitter.com/youyanggu)
-<br>July 29, 2020 (*Last Updated*: August 5, 2020)
+<br>July 29, 2020 (*Last Updated*: August 7, 2020)
 
 ## Table of Contents
 * [Main Conclusions](#main-conclusions)
@@ -31,6 +31,8 @@ By: [Youyang Gu](https://twitter.com/youyanggu)
 * Infections are more prevalent in June/July (peak of ~450,000 new infections per day) than in March/April (peak of ~300,000 new infections per day). This is likely driven by reopenings, a lack of policy intervention, and a more widespread prevalence of the virus. The rest of this page describes our methodology for deriving this estimate, with more discussion [below](#higher-infections-in-july).
 * Implied infection fatality rate (IIFR) dropped from 1% in March to 0.6% in May to 0.25% in July. This is likely primarily driven by a [lower median age of infection](#distribution-of-infections-by-age). Improved treatments, better protection of vulnerable populations, and earlier detection also likely contribute to a lower fatality rate. See our section on IIFR [below](#implied-infection-fatality-rate-iifr), along with [further discussion](#lower-iifr-over-time).
 * Infections in high-impacted states began to slow down after reaching 10-35% population prevalence. It is likely that this is a result of regions reaching a certain level of temporary "herd immunity". This threshold may be lower in June/July than it was in March/April, which is expected since the effective reproduction number, Rt, is now much lower. Reaching this temporary "herd immunity threshold" does not stop transmission - it simply slows down further transmission. Changes in human behavior and policy interventions such as mask mandates also contribute to a slowing of the spread. If current interventions and social distancing are relaxed, or if immunity is lost over time, then it is possible that we will see another increase in the rate of transmission. More discussion and caveats [below](#herd-immunity-threshold).
+
+[Summary and discussion on Twitter](https://twitter.com/youyanggu/status/1291092311045283841)
 
 ## Introduction
 
