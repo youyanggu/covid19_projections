@@ -280,6 +280,12 @@ A model is only as good as the data we feed it. If the data is not accurate, the
 
 [Back to Top](#top)
 
+### School Reopening
+
+While we factor in a [fall wave](#fall-wave) in our projections that may result in an increase in transmission, we do not explicitly model school reopenings. As of August, it is still unclear what the effect of school reopenings will be, and how it will differ from district to district and from state to state. We want to wait until we have more data before incorporating this phenomenon into our model.
+
+[Back to Top](#top)
+
 ### Confirmed vs Probable Deaths
 
 Some countries report probable deaths while others only report laboratory-confirmed deaths. This difference explains why countries with comprehensive reporting like Belgium have the [highest death rates](https://www.npr.org/sections/coronavirus-live-updates/2020/04/22/841005901/why-belgiums-death-rate-is-so-high-it-counts-lots-of-suspected-covid-19-cases).
@@ -292,15 +298,7 @@ Because the accuracy of our projections rely on consistent reporting of deaths, 
 
 [Back to Top](#top)
 
-### Testing Data
-
-Recently, there have been various reports regarding the accuracy and integrity of data that some US states have been reporting (e.g. see [The Atlantic](https://www.theatlantic.com/health/archive/2020/05/cdc-and-states-are-misreporting-covid-19-test-data-pennsylvania-georgia-texas/611935/) and [Associated Press](https://apnews.com/6dbd9ad370add2ba299c7da46c25004f)). We express similar concerns, and hope that states will do their best to report accurate data.
-
-[Back to Top](#top)
-
 ### Additional Limitations
-
-* *Asymtomatic individuals* : Our model is based on infectious individuals only, which are more likely to be symptomatic. There is [growing evidence](https://www.forbes.com/sites/mattperez/2020/06/08/who-says-asymptomatic-spread-of-coronavirus-very-rare-but-experts-raise-questions/#69a15d0143d0) that asymptomatic individuals are unlikely to be infectious. As a result, we do not account for those individuals in our model, since they do not contribute to the spread of the virus. Not that asymptomatic individuals are different than pre-symptomatic individuals.
 
 * *Day-of-week factors*: We currently do not account for day-of-week factors in death reporting. According to [our analysis](https://twitter.com/youyanggu/status/1251779534422073344), deaths reported on Sunday/Monday are about 60% of that of Tuesday-Thursday. So we expect on average that our projections will be higher than Sunday/Monday reports and lower than our Tuesday-Thursday reports. 
 
@@ -312,15 +310,19 @@ Recently, there have been various reports regarding the accuracy and integrity o
 
 * *Lockdown fatigue / holidays*: As shown in various mobility data and [our analysis](https://twitter.com/youyanggu/status/1255034262006333440) of the NYC subway data, an increasing number of people have been moving around in the weeks following a lockdown. This may contribute to an increase in infections in the weeks following the lockdown/mitigation. Similarly, holidays may be a source of "superspreader" events, which we currently do not explicitly incorporate.
 
+* *Testing data*: In May, there were various reports regarding the accuracy and integrity of data that some US states have been reporting (e.g. see [The Atlantic](https://www.theatlantic.com/health/archive/2020/05/cdc-and-states-are-misreporting-covid-19-test-data-pennsylvania-georgia-texas/611935/) and [Associated Press](https://apnews.com/6dbd9ad370add2ba299c7da46c25004f)). We express similar concerns, and hope that states will do their best to report accurate data.
+
 * *Reporting differences*: Different countries follow different guidelines on how they are reporting COVID-19 deaths. For example, Belgium is one of the most comprehensive countries when it comes to death reporting: they report all probable deaths as well as nursing home deaths. In contrast, United Kingdom only began including care home deaths starting on April 29, having only reported hospital deaths previously. Because we are projecting future reported deaths, our model assumes that the reporting guidelines remains constant for each country.
 
 * *Reporting delay*: There is a delay between when a death occurs and when it is reported to the local/state health department. This delay can range anywhere from 1 day to over 30 days, although the vast majority of deaths are reported within 10 days. Prior to July 22, we do not explicitly incorporate this reporting delay. But starting July 22, we began to include this delay in our modeling. We assume that ~50% of deaths are reported within 5 days and ~80% of deaths are reported within 10 days.
 
 * *Excess deaths*: While we attempt to predict the official death total, the true death total will be higher due to underreporting at various levels. [The New York Times](https://www.nytimes.com/interactive/2020/04/21/world/coronavirus-missing-deaths.html) and [Financial Times](https://www.ft.com/content/6bd88b7d-3386-4543-b2e9-0d5c6fac846c) are currently tracking these excess deaths.
 
-* *End date*: We are only making projections for 10-18 weeks ahead, but this does not mean that the epidemic will stop afterwards. Deaths will continue to rise even after we stop making projections.
+* *End date*: We are only making projections for a few weeks to a few months ahead, but this does not mean that the epidemic will stop afterwards. Deaths will continue to rise even after we stop making projections.
 
-* *International projections*: Our model was created and optimized for the United States (and to a lesser extent, Europe). We include our projections for over 60 countries, but we want to caution that the model was not optimized for international countries. So if you plan on citing our model's international projections, please be sure to also consult each country's health experts first.
+* *Asymtomatic individuals* : Our model is based on infectious individuals only, which are more likely to be symptomatic. It's unclear to what degree asymptomatic individuals are infectious.
+
+* *International projections*: Our model was created and optimized for the United States. We include our projections for over 70 countries, but we want to caution that the model was not optimized for international countries. So if you plan on citing our model's international projections, please be sure to also consult each country's health experts.
 
 * *Affecting the future*: Our projections are not set in stone and do not exist in a vacuum. If everyone saw our projections and heeded the advice of experts to continuously practice social distancing, the infections and deaths will decrease over time, leading to a final tally that is lower than our projection. That does not mean that our projection were "wrong". In fact, our greatest hope is the scenario described above where we can help prevent future infections and deaths, causing our projections to be an overestimate. For example, a early March [Imperical College study](https://www.nytimes.com/2020/03/17/world/europe/coronavirus-imperial-college-johnson.html) estimated that 2.2 million people would die in the US if mitigations were not implemented. This helped lead to a wave of lockdowns and stay-at-home orders, thereby significantly reducing deaths. That does not mean that the Imperial College study was "wrong" - their study helped shape the outcome of the future.
 
