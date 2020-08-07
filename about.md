@@ -276,7 +276,7 @@ We want to be as clear as possible regarding what our model can and cannot do. W
 
 ### Data Accuracy
 
-A model is only as good as the data we feed it. If the data is not accurate, then it would be difficult to make accurate projections downstream.
+A model is only as good as the data we feed it. If the data is not accurate, then it would be difficult to make accurate projections downstream. We only use official reported deaths in our modeling.
 
 [Back to Top](#top)
 
@@ -286,7 +286,7 @@ While we factor in a [fall wave](#fall-wave) in our projections that may result 
 
 [Back to Top](#top)
 
-### Confirmed vs Probable Deaths
+### Death Reporting and Excess Deaths
 
 Some countries report probable deaths while others only report laboratory-confirmed deaths. This difference explains why countries with comprehensive reporting like Belgium have the [highest death rates](https://www.npr.org/sections/coronavirus-live-updates/2020/04/22/841005901/why-belgiums-death-rate-is-so-high-it-counts-lots-of-suspected-covid-19-cases).
 
@@ -295,6 +295,8 @@ On June 8, the Washington Post published [an investigation](https://www.washingt
 Differences in how countries/states report deaths can lead to unfair comparisons and also skew projections. For example, New York City reported close to 5,000 probable deaths between April 14-23, but have not reported any probable deaths since. This was an increase of 30% over the existing death total at the time. As a result, early April projections under-projected the number of deaths for New York, while our late April and early May projections over-projected the number of deaths for New York.
 
 Because the accuracy of our projections rely on consistent reporting of deaths, any inconsistencies may skew our projections.
+
+While we attempt to predict the official death total, the true death total will be higher due to underreporting at various levels. [The New York Times](https://www.nytimes.com/interactive/2020/04/21/world/coronavirus-missing-deaths.html), [The Economist](https://www.economist.com/graphic-detail/2020/07/15/tracking-covid-19-excess-deaths-across-countries), and the [Financial Times](https://www.ft.com/content/6bd88b7d-3386-4543-b2e9-0d5c6fac846c) are currently tracking these excess deaths. Also see work by the [Weinberger Lab](https://weinbergerlab.github.io/excess_pi_covid/) at Yale School of Medicine.
 
 [Back to Top](#top)
 
@@ -315,8 +317,6 @@ Because the accuracy of our projections rely on consistent reporting of deaths, 
 * *Reporting differences*: Different countries follow different guidelines on how they are reporting COVID-19 deaths. For example, Belgium is one of the most comprehensive countries when it comes to death reporting: they report all probable deaths as well as nursing home deaths. In contrast, United Kingdom only began including care home deaths starting on April 29, having only reported hospital deaths previously. Because we are projecting future reported deaths, our model assumes that the reporting guidelines remains constant for each country.
 
 * *Reporting delay*: There is a delay between when a death occurs and when it is reported to the local/state health department. This delay can range anywhere from 1 day to over 30 days, although the vast majority of deaths are reported within 10 days. Prior to July 22, we do not explicitly incorporate this reporting delay. But starting July 22, we began to include this delay in our modeling. We assume that ~50% of deaths are reported within 5 days and ~80% of deaths are reported within 10 days.
-
-* *Excess deaths*: While we attempt to predict the official death total, the true death total will be higher due to underreporting at various levels. [The New York Times](https://www.nytimes.com/interactive/2020/04/21/world/coronavirus-missing-deaths.html) and [Financial Times](https://www.ft.com/content/6bd88b7d-3386-4543-b2e9-0d5c6fac846c) are currently tracking these excess deaths.
 
 * *End date*: We are only making projections for a few weeks to a few months ahead, but this does not mean that the epidemic will stop afterwards. Deaths will continue to rise even after we stop making projections.
 
