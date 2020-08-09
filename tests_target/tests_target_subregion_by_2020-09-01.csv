@@ -1,39 +1,39 @@
 country,region,subregion,tests_needed_per_day
-Canada,,Alberta,12092
-Canada,,British Columbia,1413
-Canada,,Ontario,5782
-Canada,,Quebec,3947
-US,AZ,Maricopa,56450
-US,CA,Alameda,9095
-US,CA,Los Angeles,86889
-US,CA,Orange,34413
-US,CA,Riverside,30189
-US,CA,Sacramento,13768
-US,CA,San Bernardino,28427
-US,CA,San Diego,16038
-US,CA,Santa Clara,5703
-US,FL,Broward,28519
-US,FL,Hillsborough,17358
-US,FL,Miami-Dade,42630
-US,FL,Orange,23239
-US,FL,Palm Beach,18190
-US,IL,Cook,22830
-US,LA,Orleans,1281
-US,MA,Middlesex,4667
-US,MA,Suffolk,2819
-US,MI,Wayne,4277
+Canada,,Alberta,10046
+Canada,,British Columbia,1393
+Canada,,Ontario,5795
+Canada,,Quebec,3954
+US,AZ,Maricopa,56213
+US,CA,Alameda,8904
+US,CA,Los Angeles,87490
+US,CA,Orange,35304
+US,CA,Riverside,28704
+US,CA,Sacramento,14375
+US,CA,San Bernardino,27417
+US,CA,San Diego,15405
+US,CA,Santa Clara,7287
+US,FL,Broward,27371
+US,FL,Hillsborough,16236
+US,FL,Miami-Dade,42405
+US,FL,Orange,23087
+US,FL,Palm Beach,17781
+US,IL,Cook,22328
+US,LA,Orleans,1274
+US,MA,Middlesex,4700
+US,MA,Suffolk,2832
+US,MI,Wayne,4079
 US,NJ,Bergen,1076
-US,NJ,Essex,944
+US,NJ,Essex,938
 US,NJ,Hudson,740
-US,NV,Clark,29054
-US,NV,Washoe,4079
+US,NV,Clark,31746
+US,NV,Washoe,3756
 US,NY,Nassau,634
 US,NY,New York City,3578
 US,NY,Suffolk,1076
 US,NY,Westchester,674
-US,PA,Philadelphia,3782
-US,TX,Bexar,37073
-US,TX,Dallas,29199
-US,TX,Harris,45303
-US,TX,Tarrant,25556
-US,WA,King,5987
+US,PA,Philadelphia,3756
+US,TX,Bexar,37640
+US,TX,Dallas,27852
+US,TX,Harris,47494
+US,TX,Tarrant,25476
+US,WA,King,6059

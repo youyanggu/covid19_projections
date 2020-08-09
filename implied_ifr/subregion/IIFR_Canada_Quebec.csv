@@ -198,3 +198,4 @@ date,Province_State,Country_Region,Combined_Key,Confirmed,Deaths,daily_deaths,da
 2020-08-05,Quebec,Canada,"Quebec, Canada",60000,5687,2.0,155.0,132.42857142857142,2.4285714285714284
 2020-08-06,Quebec,Canada,"Quebec, Canada",60133,5687,0.0,133.0,143.14285714285714,2.0
 2020-08-07,Quebec,Canada,"Quebec, Canada",60241,5687,0.0,108.0,132.71428571428572,1.8571428571428572
+2020-08-08,Quebec,Canada,"Quebec, Canada",60367,5692,5.0,126.0,129.85714285714286,2.0
