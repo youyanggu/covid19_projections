@@ -23,14 +23,14 @@ By: [Youyang Gu](https://twitter.com/youyanggu)
   * [Relationship between Positivity Rate and Prevalence Ratio](#relationship-between-positivity-rate-and-prevalence-ratio)
   * [Higher Infections in July](#higher-infections-in-july)
   * [Lower IIFR Over Time](#lower-iifr-over-time)
-  * [Herd Immunity Threshold](#herd-immunity-threshold)
+  * [Effective Herd Immunity](#effective-herd-immunity)
 * [Conclusion](#conclusion)
 
 ## Main Conclusions
 
 * Infections are more prevalent in June/July (peak of ~450,000 new infections per day) than in March/April (peak of ~300,000 new infections per day). This is likely driven by reopenings, a lack of policy intervention, and a more widespread prevalence of the virus. The rest of this page describes our methodology for deriving this estimate, with more discussion [below](#higher-infections-in-july).
 * Implied infection fatality rate (IIFR) dropped from 1% in March to 0.6% in May to 0.25% in July. This is likely primarily driven by a [lower median age of infection](#distribution-of-infections-by-age). Improved treatments, better protection of vulnerable populations, and earlier detection also likely contribute to a lower fatality rate. See our section on IIFR [below](#implied-infection-fatality-rate-iifr), along with [further discussion](#lower-iifr-over-time).
-* Infections in high-impacted states began to slow down after reaching 10-35% population prevalence. It is likely that this is a result of regions reaching a certain level of temporary immunity that is suppressing further spread. This threshold may be lower in June/July than it was in March/April, which is expected since the effective reproduction number, Rt, is now much lower. Reaching this temporary "herd immunity threshold" does not stop transmission - it simply slows down further transmission. Changes in human behavior and policy interventions such as mask mandates also contribute to a slowing of the spread. If current interventions and social distancing are relaxed, or if immunity is lost over time, then it is possible that we will see another increase in the rate of transmission. More discussion and caveats [below](#herd-immunity-threshold).
+* Infections in high-impacted states began to slow down after reaching 10-35% population prevalence. It is likely that this is a result of regions reaching a certain degree of effective herd immunity that is suppressing further spread. This threshold may be lower in June/July than it was in March/April, which is expected since the effective reproduction number, Rt, is now much lower. Reaching this temporary effective herd immunity threshold does not stop transmission - it simply slows down further transmission. Changes in human behavior and policy interventions such as mask mandates also contribute to a slowing of the spread. If current interventions and social distancing are relaxed, or if immunity is lost over time, then it is possible that we will see another increase in the rate of transmission. More discussion and caveats [below](#effective-herd-immunity).
 
 [Summary and discussion on Twitter](https://twitter.com/youyanggu/status/1291092311045283841)
 
@@ -230,7 +230,7 @@ The above are explanations that would explain a *true* decrease in IFR. We belie
 
 [Back to Top](#top)
 
-### Herd Immunity Threshold
+### Effective Herd Immunity
 
 The term "herd immunity threshold" is traditionally used in the context of long-term immunity obtained by vaccination, but is now frequently being used in the context of COVID-19. We want to be clear that any references to "herd immunity thresholds" in the context of COVID-19 can potentially be misleading, because a removal of current social distancing measures and a loss of immunity over time may cause a resurgence in transmission, despite a region having reached some form of "herd immunity" in the past.
 
