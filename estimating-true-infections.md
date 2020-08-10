@@ -26,6 +26,8 @@ By: [Youyang Gu](https://twitter.com/youyanggu)
   * [Effective Herd Immunity](#effective-herd-immunity)
 * [Conclusion](#conclusion)
 
+*August 10 Update:* See our [new findings](https://twitter.com/youyanggu/status/1292898685173534722) for a case study regarding the role of immunity, behavior, and interventions in the spread of COVID-19.
+
 ## Main Conclusions
 
 * Infections are more prevalent in June/July (peak of ~450,000 new infections per day) than in March/April (peak of ~300,000 new infections per day). This is likely driven by reopenings, a lack of policy intervention, and a more widespread prevalence of the virus. The rest of this page describes our methodology for deriving this estimate, with more discussion [below](#higher-infections-in-july).
