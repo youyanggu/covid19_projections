@@ -7,7 +7,7 @@ permalink: /estimating-true-infections/
 # Estimating True Infections: A Simple Heuristic to Measure Implied Infection Fatality Rate
 
 By: [Youyang Gu](https://twitter.com/youyanggu)
-<br>July 29, 2020 (*Last Updated*: August 7, 2020)
+<br>July 29, 2020 (*Last Updated*: August 9, 2020)
 
 ## Table of Contents
 * [Main Conclusions](#main-conclusions)
@@ -236,7 +236,7 @@ The term "herd immunity threshold" is traditionally used in the context of long-
 
 Similar to how the term effective reproduction number measures the reproduction number, Rt, at a certain point in time, we are denoting the term *effective herd immunity threshold (eHIT)* to mean the herd immunity threshold under the social distancing standards and policy interventions at a given time. This is the minimum percentage of the population immune at a certain time such that transmission slows down under those conditions. If immunity is lost or restrictions are relaxed, then the eHIT may increase.
 
-Looking at the data, we see that transmissions in many severely-impacted states began to slow down in July, despite no clear policy interventions. This is especially notable in states like Arizona, Florida, and Texas. While we believe that changes in human behavior and changes in policy (such as mask mandates and closing of bars/nightclubs) certainly contributed to the decrease in transmission, it seems unlikely that these were the primary drivers behind the decrease. We believe that many regions obtained a certain degree of temporary herd immunity after reaching 10-35% prevalence under the current conditions. We call this 10-35% threshold the effective herd immunity threshold, eHIT.
+Looking at the data, we see that transmissions in many severely-impacted states began to slow down in July, despite limited policy interventions. This is especially notable in states like Arizona, Florida, and Texas. While we believe that changes in human behavior and changes in policy (such as mask mandates and closing of bars/nightclubs) certainly contributed to the decrease in transmission, it seems unlikely that these were the primary drivers behind the decrease. We believe that many regions obtained a certain degree of temporary herd immunity after reaching 10-35% prevalence under the current conditions. We call this 10-35% threshold the effective herd immunity threshold, eHIT.
 
 A [basic method](https://academic.oup.com/cid/article/52/7/911/299077) to calculate standard the herd immunity threshold (HIT) is to use the basic reproduction number, R0: `HIT = 1 - 1/R0`. Back in March/April, we estimate R0 in the US to be around 2.3. This corresponds to a HIT of `1-1/2.3 = ~0.6`, or 60%. But the effective reproduction number, Rt, has decreased dramatically since then due to a variety of reasons such as greater population awareness, mask-wearing, reduced larger gatherings, and implementation of social distancing guidelines. The Rt in most regions around the US where there are outbreaks is now between 1.1-1.6. This corresponds to an effective herd immunity threhsold (eHIT) of 10-35%. As a result, it makes intuitive sense that we are seeing a decline in transmission after those regions reach a 10-35% prevalence.
 
