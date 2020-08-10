@@ -7,7 +7,7 @@ permalink: /estimating-true-infections/
 # Estimating True Infections: A Simple Heuristic to Measure Implied Infection Fatality Rate
 
 By: [Youyang Gu](https://twitter.com/youyanggu)
-<br>July 29, 2020 (*Last Updated*: August 9, 2020)
+<br>July 29, 2020 (*Last Updated*: August 10, 2020)
 
 ## Table of Contents
 * [Main Conclusions](#main-conclusions)
@@ -70,7 +70,7 @@ Once we have a reasonable estimate of the true number of newly infected individu
 
 ## Data
 
-*Input*: We use reported cases and deaths data from [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series)) and testing data from [The COVID Tracking Project](https://covidtracking.com/).
+*Input*: We use reported cases and deaths data from [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series) and testing data from [The COVID Tracking Project](https://covidtracking.com/).
 
 *Output*: We have uploaded the infections estimates and implied IFR calculations to [our GitHub](https://github.com/youyanggu/covid19_projections/tree/master/implied_ifr). You can find the daily summary [here](https://github.com/youyanggu/covid19_projections/blob/master/implied_ifr/0_IIFR_Summary.csv). We aim to update those files daily. Currently, we only have IIFR estimates for the US. We are working to expand this concept to other countries.
 
