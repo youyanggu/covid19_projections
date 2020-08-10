@@ -31,7 +31,7 @@ permalink: /about/
   * [June 8 Revision](#june-8-revision)
   * [June 10 Revision *(New Jun 10)*](#june-8-revision)
   * [State Reopening Timeline](#state-reopening-timeline)
-* [Government/Media Coverage](#online-coverage)
+* [Media Coverage](#online-coverage)
 * [Who We Are](#who-we-are)
 * [Updates](#updates)
 
@@ -531,6 +531,7 @@ National
 
 Magazines/General News
 * [FiveThirtyEight](https://projects.fivethirtyeight.com/covid-forecasts/)
+* [New York Magazine](https://nymag.com/intelligencer/2020/08/reasons-for-covid-19-optimism-on-t-cells-and-herd-immunity.html)
 * [Reason](https://reason.com/2020/07/20/daily-covid-19-deaths-in-the-u-s-continue-to-rise/) - Jul 20
 * [Vox](https://www.vox.com/2020/7/15/21317776/covid-19-coronavirus-florida-arizona-texas-california-hospitals) - Jul 16
 * [GQ](https://www.gq.com/story/the-slowly-rising-tide-of-covid) - Jun 18
@@ -543,6 +544,7 @@ Magazines/General News
 * [Reason](https://reason.com/2020/05/01/covid-19-modeling-how-many-coronavirus-deaths-by-the-end-of-summer/) - May 1
 
 Local
+* [SF Gate](https://www.sfgate.com/news/editorspicks/article/California-coronavirus-COVID-19-herd-immunity-how-15469055.php) - Aug 10
 * [The Advocate (NOLA)](https://www.nola.com/news/coronavirus/article_b4ec117c-b020-11ea-a690-03d2e5a9e00e.html) - Jun 17
 * [The Mercury News](https://www.mercurynews.com/2020/06/25/graph-half-of-californias-coronavirus-deaths-by-oct-1-projected-in-los-angeles-county/) - Jun 25
 * [The Mercury News](https://www.mercurynews.com/2020/05/26/graph-number-of-coronavirus-deaths-projected-in-santa-clara-county-by-sept-1/) - May 26
