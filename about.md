@@ -531,7 +531,7 @@ National
 
 Magazines/General News
 * [FiveThirtyEight](https://projects.fivethirtyeight.com/covid-forecasts/)
-* [New York Magazine](https://nymag.com/intelligencer/2020/08/reasons-for-covid-19-optimism-on-t-cells-and-herd-immunity.html)
+* [New York Magazine](https://nymag.com/intelligencer/2020/08/reasons-for-covid-19-optimism-on-t-cells-and-herd-immunity.html) - Aug 9
 * [Reason](https://reason.com/2020/07/20/daily-covid-19-deaths-in-the-u-s-continue-to-rise/) - Jul 20
 * [Vox](https://www.vox.com/2020/7/15/21317776/covid-19-coronavirus-florida-arizona-texas-california-hospitals) - Jul 16
 * [GQ](https://www.gq.com/story/the-slowly-rising-tide-of-covid) - Jun 18
@@ -544,6 +544,7 @@ Magazines/General News
 * [Reason](https://reason.com/2020/05/01/covid-19-modeling-how-many-coronavirus-deaths-by-the-end-of-summer/) - May 1
 
 Local
+* [The Advocate (NOLA)](https://www.nola.com/news/coronavirus/article_1f5a0286-dbd6-11ea-b428-c3a872847e9b.html) - Aug 11
 * [SF Gate](https://www.sfgate.com/news/editorspicks/article/California-coronavirus-COVID-19-herd-immunity-how-15469055.php) - Aug 10
 * [The Advocate (NOLA)](https://www.nola.com/news/coronavirus/article_b4ec117c-b020-11ea-a690-03d2e5a9e00e.html) - Jun 17
 * [The Mercury News](https://www.mercurynews.com/2020/06/25/graph-half-of-californias-coronavirus-deaths-by-oct-1-projected-in-los-angeles-county/) - Jun 25
