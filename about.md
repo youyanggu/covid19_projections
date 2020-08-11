@@ -532,6 +532,7 @@ National
 Magazines/General News
 * [FiveThirtyEight](https://projects.fivethirtyeight.com/covid-forecasts/)
 * [New York Magazine](https://nymag.com/intelligencer/2020/08/reasons-for-covid-19-optimism-on-t-cells-and-herd-immunity.html) - Aug 9
+* [MIT Technology Review](https://www.technologyreview.com/2020/08/11/1006366/immunity-slowing-down-coronavirus-parts-us/) - Aug 11
 * [Reason](https://reason.com/2020/07/20/daily-covid-19-deaths-in-the-u-s-continue-to-rise/) - Jul 20
 * [Vox](https://www.vox.com/2020/7/15/21317776/covid-19-coronavirus-florida-arizona-texas-california-hospitals) - Jul 16
 * [GQ](https://www.gq.com/story/the-slowly-rising-tide-of-covid) - Jun 18
