@@ -7,7 +7,7 @@ permalink: /about/
 ## Table of contents
 * [About the Model](#about-the-model)
 * [How Our Model is Different](#how-our-model-is-different)
-* [Historical Performance **(Updated August 3)**](#historical-performance)
+* [Historical Performance **(Updated August 10)**](#historical-performance)
   * [Baseline Comparison](#baseline-comparison-c19pro-vs-ihme)
   * [Late June US Projection](#late-june-us-projection)
   * [Late May Projections](#late-may-projections)
