@@ -190,11 +190,12 @@ The exact relationship between positivity rate and prevalence ratio may be diffe
 
 - Availability of testing - the greater the number of tests performed (as a percentage of the population), the less the undetected prevalence ratio becomes, and the less the role of positivity rate becomes. See paper by [Burger & McLaren](http://www-personal.umich.edu/~zmclaren/mclaren_tbprevalence.pdf) for a more in-depth view.
 - Differences and changes in reporting guidelines
-  - Counting multiple positive results
-  - Counting multiple negative results
-  - Only reporting positive results
-  - Only reporting negative results
-  - Only reporting Electronic Laboratory Reporting (ELR) results
+  - Counting repeated positive tests (skews positivity up)
+  - Counting repeated negative tests (skews positivity down)
+  - Not reporting all positive tests (skews positivity down)
+  - Not reporting all negative tests (skews positivity up)
+  - Only reporting Electronic Laboratory Reporting (ELR) tests (skews positivity up)
+  - Mixing serology tests with PCR (skews positivity up)
 - Backlog of test results - positive tests receive priority for processing, which may skew the positivity rate upwards
 - Delay/lag in test results - if tests take 1-2 weeks to be reported, then it may no longer be an accurate representation of how new infections are changing
 - Shifting age demographics - Test positivity rates are [higher](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/covidview/07312020/commercial-labs.html) in younger age groups. So a lower median age of infection may also result in a higher positivity rate, causing a possible confounding factor. 
