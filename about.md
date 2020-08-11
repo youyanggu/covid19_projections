@@ -113,15 +113,15 @@ Because US country-wide projections only contains a single forecast per week, th
 
 ![4 week ahead US comparison](/assets/images/4_week_ahead_us.png)
 
-### Evaluation of past US state-by-state projections on cumulative deaths as of August 1
+### Evaluation of past US state-by-state projections on reported deaths as of August 1
 
 This is a metric that shows the *recent accuracy* of model projections.
 
-![States comparison](/assets/images/2020-08-01_comparison_states.png)
+![States comparison](/assets/images/2020-08-08_comparison_states.png)
 
-### Evaluation of past US nationwide projections on cumulative deaths as of August 1
+### Evaluation of past US nationwide projections on reported deaths as of August 1
 
-![US comparison](/assets/images/2020-08-01_comparison_us.png)
+![US comparison](/assets/images/2020-08-08_comparison_us.png)
 
 [Back to Top](#top)
 
