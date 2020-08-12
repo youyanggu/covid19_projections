@@ -95,6 +95,8 @@ See an [analysis of our model](https://twitter.com/CT_Bergstrom/status/125534384
 
 ## Historical Performance
 
+*Last Updated:* August 10
+
 A model isn't very useful if it's not accurate. Below is our analysis on how various models considered by the CDC have performed over the past few weeks. Because the CDC receives weekly projections from every Monday, we use projections from past Mondays to evaluate the models.
 
 We have open-sourced the code and data used to evaluate COVID-19 models: [https://github.com/youyanggu/covid19-forecast-hub-evaluation](https://github.com/youyanggu/covid19-forecast-hub-evaluation). We believe in a fully transparent evaluation methodology, and publicly releasing all of our code and data is the best way to do so. Learn more about our evaluation methodology [on GitHub](https://github.com/youyanggu/covid19-forecast-hub-evaluation#details).
@@ -113,13 +115,13 @@ Because US country-wide projections only contains a single forecast per week, th
 
 ![4 week ahead US comparison](/assets/images/4_week_ahead_us.png)
 
-### Evaluation of past US state-by-state projections on reported deaths as of August 1
+### Evaluation of past US state-by-state projections on reported deaths as of August 8
 
 This is a metric that shows the *recent accuracy* of model projections.
 
 ![States comparison](/assets/images/2020-08-08_comparison_states.png)
 
-### Evaluation of past US nationwide projections on reported deaths as of August 1
+### Evaluation of past US nationwide projections on reported deaths as of August 8
 
 ![US comparison](/assets/images/2020-08-08_comparison_us.png)
 
