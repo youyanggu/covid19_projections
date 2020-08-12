@@ -14,6 +14,8 @@ To quickly summarize how an SEIR model works, at each time period, an individual
 
 For our SEIR implementation, we use a discrete-time state machine where each step is a day in the simulation. For each day, we have a probability distribution for which individuals in each S/E/I/R state may transition to another S/E/I/R state. For example, we have a probability distribution for when a currently-infected individual will transmit the virus, and another probability distribution for when an infected individual will succumb to the disease. These distributions are then convolved with the total existing cases to determine the number of new infections and new deaths per day. For new infections, we multiple the convolution by R<sub>0</sub>, while for deaths, we multiple the convolution by the mortality rate.
 
+![Model Overview](/assets/images/model_overview.png)
+
 ## Assumptions
 
 Please see the [About](/about#assumptions) page to read about the assumptions in our model.
