@@ -201,3 +201,4 @@ date,Province_State,Country_Region,Combined_Key,Confirmed,Deaths,daily_deaths,da
 2020-08-08,Pennsylvania,US,"Philadelphia, Pennsylvania, US",31120,1698,0.0,0.0,109.42857142857143,1.1428571428571428
 2020-08-09,Pennsylvania,US,"Philadelphia, Pennsylvania, US",31120,1698,0.0,0.0,109.42857142857143,1.1428571428571428
 2020-08-10,Pennsylvania,US,"Philadelphia, Pennsylvania, US",31448,1699,1.0,328.0,111.85714285714286,1.0
+2020-08-11,Pennsylvania,US,"Philadelphia, Pennsylvania, US",31584,1700,1.0,136.0,116.14285714285714,0.7142857142857143

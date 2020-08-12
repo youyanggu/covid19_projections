@@ -201,3 +201,4 @@ date,Province_State,Country_Region,Combined_Key,Confirmed,Deaths,daily_deaths,da
 2020-08-08,Texas,US,"Dallas, Texas, US",53831,751,5.0,540.0,463.0,10.0
 2020-08-09,Texas,US,"Dallas, Texas, US",54674,755,4.0,843.0,509.42857142857144,9.571428571428571
 2020-08-10,Texas,US,"Dallas, Texas, US",55255,756,1.0,581.0,537.8571428571429,9.285714285714286
+2020-08-11,Texas,US,"Dallas, Texas, US",55553,785,29.0,298.0,488.85714285714283,9.0
