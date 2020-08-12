@@ -80,7 +80,7 @@ Here, you will find the raw data for our [covid19-projections.com](https://covid
 2020-04-12
 * Add Norway and Russia to projections
 
-2020-04-08
+2020-04-09
 * Increase projected end date from June 30 to August 4
 * Add plots for the number of infected individuals
 
