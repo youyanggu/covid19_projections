@@ -45,8 +45,6 @@ The goal of this project is to showcase the strengths of artificial intelligence
 
 ![World Map](/assets/images/world_map.png)
 
-See an [analysis of our model](https://twitter.com/CT_Bergstrom/status/1255343846445195266) by Dr. Carl T. Bergstrom, Professor of Biology at the University of Washington. 
-
 [Click here](/model-details/) to read a more in-depth description of how our model operates.
 
 [Back to Top](#top)
