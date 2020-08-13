@@ -202,3 +202,4 @@ date,Province_State,Country_Region,Combined_Key,Confirmed,Deaths,daily_deaths,da
 2020-08-09,Massachusetts,US,"Middlesex, Massachusetts, US",26420,2003,1.0,75.0,75.14285714285714,2.5714285714285716
 2020-08-10,Massachusetts,US,"Middlesex, Massachusetts, US",26470,2005,2.0,50.0,76.85714285714286,2.4285714285714284
 2020-08-11,Massachusetts,US,"Middlesex, Massachusetts, US",26565,2006,1.0,95.0,76.85714285714286,2.4285714285714284
+2020-08-12,Massachusetts,US,"Middlesex, Massachusetts, US",26565,2006,0.0,0.0,65.14285714285714,2.4285714285714284
