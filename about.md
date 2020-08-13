@@ -41,7 +41,9 @@ Our COVID-19 prediction model adds the power of artificial intelligence on top o
 
 Our SEIR model is [open source](https://github.com/youyanggu/yyg-seir-simulator). Our projections are uploaded daily [onto GitHub](https://github.com/youyanggu/covid19_projections/tree/master/projections).
 
-The goal of this project is to showcase the strengths of artificial intelligence to tackle one of the world's most difficult problems: predict the track of a pandemic. Here, we use a pure data-driven approach by letting the machine do the learning. We are currently making projections for: the United States, all 50 US states (plus DC, PR, VI, Guam) and 70 countries (including all 27 EU countries). Combined, these 71 countries account for >97% of all global COVID-19 deaths.
+The goal of this project is to showcase the strengths of artificial intelligence to tackle one of the world's most difficult problems: predict the track of a pandemic. Here, we use a pure data-driven approach by letting the machine do the learning. We are currently making projections for: the United States, all 50 US states (plus DC, PR, VI, Guam) and 70 countries (including all 27 EU countries). Combined, these 71 countries account for >97% of all global COVID-19 deaths. See a map below for a visualization of countries we have projections for.
+
+![World Map](/assets/images/world_map.png)
 
 See an [analysis of our model](https://twitter.com/CT_Bergstrom/status/1255343846445195266) by Dr. Carl T. Bergstrom, Professor of Biology at the University of Washington. 
 
