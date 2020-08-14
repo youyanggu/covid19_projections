@@ -203,3 +203,4 @@ date,Province_State,Country_Region,Combined_Key,Confirmed,Deaths,daily_deaths,da
 2020-08-10,California,US,"Orange, California, US",40527,726,0.0,886.0,387.7142857142857,10.714285714285714
 2020-08-11,California,US,"Orange, California, US",40527,724,-2.0,0.0,351.57142857142856,10.142857142857142
 2020-08-12,California,US,"Orange, California, US",41823,745,21.0,1296.0,527.4285714285714,11.428571428571429
+2020-08-13,California,US,"Orange, California, US",42171,769,24.0,348.0,494.2857142857143,10.285714285714286
