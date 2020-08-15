@@ -45,8 +45,9 @@ The goal of this project is to showcase the strengths of artificial intelligence
 
 ### Additional Links
 
-* [Model Details](/model-details/) - More in-depth description of how our model operates.
+* [Model Details](/model-details/) - More in-depth description of how our model works.
 * [Estimating True Infections](/estimating-true-infections) - Our findings regarding the relationship between true infections, reported cases, test positivity rate, and infection fatality rate for COVID-19.
+* [Youyang Gu August 13 Talk](https://www.youtube.com/watch?v=f88bYflJYEo) - Presentation from Youyang Gu about the model
 
 ![World Map](/assets/images/world_map.png)
 
