@@ -43,9 +43,12 @@ Our SEIR model is [open source](https://github.com/youyanggu/yyg-seir-simulator)
 
 The goal of this project is to showcase the strengths of artificial intelligence to tackle one of the world's most difficult problems: predict the track of a pandemic. Here, we use a pure data-driven approach by letting the machine do the learning. We are currently making projections for: the United States, all 50 US states (plus DC, PR, VI, GU, MP) and 70 countries (including all 27 EU countries). Combined, these 71 countries account for >95% of all global COVID-19 deaths. See map below for a visualization of countries we have projections for. You can also directly access our [US](/#view-projections) and [global](/#global-projections) projections.
 
-![World Map](/assets/images/world_map.png)
+### Additional Links
 
-[Click here](/model-details/) to read a more in-depth description of how our model operates.
+* [Model Details](/model-details/) - More in-depth description of how our model operates.
+* [Estimating True Infections](/estimating-true-infections) - Our findings regarding the relationship between true infections, reported cases, test positivity rate, and infection fatality rate for COVID-19.
+
+![World Map](/assets/images/world_map.png)
 
 [Back to Top](#top)
 
@@ -548,6 +551,7 @@ Magazines/General News
 * [Reason](https://reason.com/2020/05/01/covid-19-modeling-how-many-coronavirus-deaths-by-the-end-of-summer/) - May 1
 
 Local
+* [Miami Herald](https://www.miamiherald.com/news/coronavirus/article244930467.html) - Aug 14
 * [The Advocate (NOLA)](https://www.nola.com/news/coronavirus/article_1f5a0286-dbd6-11ea-b428-c3a872847e9b.html) - Aug 11
 * [SF Gate](https://www.sfgate.com/news/editorspicks/article/California-coronavirus-COVID-19-herd-immunity-how-15469055.php) - Aug 10
 * [The Advocate (NOLA)](https://www.nola.com/news/coronavirus/article_b4ec117c-b020-11ea-a690-03d2e5a9e00e.html) - Jun 17
