@@ -222,7 +222,7 @@ Prior to July 22, we assume a very small daily decay in the transmission rate (R
 
 #### Fall Wave
 
-*Note: We currently do not explicitly model school reopenings. This is a situation we will continue to monitor. We believe it is possible that we will see an increase in infections due to school reopenings, but it is unclear to what extent this will translate to deaths.*
+*Note: We currently do not explicitly model school reopenings. This is a situation we will continue to monitor. We believe it is possible that we will see an increase in infections due to school reopenings, but it is unclear to what extent this will translate to deaths. Furthermore, unlike state reopenings, schools have shown a willingness to shut down after the first instances of an outbreak. This limits the potential for exponential growth that are typically needed to sustain a large outbreak.*
 
 The future is uncertain, and many things can happen between now and fall that will change the trajectory of this epidemic. While we believe a September increase in deaths is [unlikely](https://twitter.com/youyanggu/status/1271395005219745792), we do think it is possible that the rate of transmission may increase as we head towards winter. We currently assume a 0-0.4% daily increase in the transmission rate (R_t) starting in the fall (September). Because this value is still too early to learn, we randomly sample this value from a triangle distribution in our simulations. This results in a wider confidence interval to account for the increased uncertainty. This assumption is subject to change as we get closer to the date.
 
