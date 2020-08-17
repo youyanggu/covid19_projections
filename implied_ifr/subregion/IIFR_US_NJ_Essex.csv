@@ -205,3 +205,4 @@ date,Province_State,Country_Region,Combined_Key,Confirmed,Deaths,daily_deaths,da
 2020-08-12,New Jersey,US,"Essex, New Jersey, US",19813,2110,-3.0,37.0,28.857142857142858,0.7142857142857143
 2020-08-13,New Jersey,US,"Essex, New Jersey, US",19840,2110,0.0,27.0,28.0,0.42857142857142855
 2020-08-14,New Jersey,US,"Essex, New Jersey, US",19870,2110,0.0,30.0,26.285714285714285,0.42857142857142855
+2020-08-15,New Jersey,US,"Essex, New Jersey, US",19911,2110,0.0,41.0,28.0,-0.14285714285714285
