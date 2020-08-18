@@ -552,6 +552,7 @@ Magazines/General News
 * [Reason](https://reason.com/2020/05/01/covid-19-modeling-how-many-coronavirus-deaths-by-the-end-of-summer/) - May 1
 
 Local
+* [Milwaukee Journal Sentinel](https://www.jsonline.com/story/news/2020/08/17/what-wisconsin-covid-19-data-deaths-cases-hospitalizations-means/3301480001/) - Aug 17
 * [Miami Herald](https://www.miamiherald.com/news/coronavirus/article244930467.html) - Aug 14
 * [The Advocate (NOLA)](https://www.nola.com/news/coronavirus/article_1f5a0286-dbd6-11ea-b428-c3a872847e9b.html) - Aug 11
 * [SF Gate](https://www.sfgate.com/news/editorspicks/article/California-coronavirus-COVID-19-herd-immunity-how-15469055.php) - Aug 10
@@ -571,6 +572,7 @@ Local
 * [The Center Square](https://www.thecentersquare.com/florida/dueling-models-one-says-florida-s-covid-19-peak-has-passed-another-says-worst-to/article_2037bd12-a12d-11ea-b293-6fe15cef2ecb.html) - May 28
 
 International
+* [El Universal (Mexico)](https://www.eluniversal.com.mx/opinion/carlos-m-urzua/mortandad-estimada-debido-al-coronavirus) - Aug 17
 * [La Tercera (Chile)](https://www.latercera.com/la-tercera-pm/noticia/youyang-gu-creador-de-la-plataforma-covid19-projections-creemos-que-el-peak-para-chile-sera-en-los-proximos-30-dias-con-200-a-300-muertes-diarias/JYVJDO5WFZE6LKDODQMSKW2YHY/) - Jun 22
 * [CNN Chile](https://www.cnnchile.com/coronavirus/creador-covid19-projections-estima-22-mil-muertes-chile_20200623/) - Jun 23
 * [Reforma (Mexico)](https://refor.ma/5T-caimff) - May 28
