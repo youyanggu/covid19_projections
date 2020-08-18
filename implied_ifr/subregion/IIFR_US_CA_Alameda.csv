@@ -207,3 +207,4 @@ date,Province_State,Country_Region,Combined_Key,Confirmed,Deaths,daily_deaths,da
 2020-08-14,California,US,"Alameda, California, US",14558,219,3.0,10.0,239.14285714285714,1.8571428571428572
 2020-08-15,California,US,"Alameda, California, US",14558,219,0.0,0.0,192.14285714285714,1.5714285714285714
 2020-08-16,California,US,"Alameda, California, US",14973,221,2.0,415.0,251.42857142857142,1.8571428571428572
+2020-08-17,California,US,"Alameda, California, US",15123,221,0.0,150.0,213.14285714285714,1.7142857142857142

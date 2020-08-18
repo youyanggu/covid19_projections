@@ -1,57 +1,57 @@
 country,region,subregion,tests_needed_per_day
-US,,,1805160
-US,Alaska,,1512
-US,Alabama,,35172
-US,Arkansas,,22968
-US,Arizona,,52325
-US,California,,279524
-US,Colorado,,12666
-US,Connecticut,,1809
+US,,,1792112
+US,Alaska,,1485
+US,Alabama,,35720
+US,Arkansas,,22876
+US,Arizona,,52127
+US,California,,277867
+US,Colorado,,12639
+US,Connecticut,,1815
 US,District of Columbia,,1974
 US,Delaware,,3373
-US,Florida,,220665
-US,Georgia,,102254
+US,Florida,,218243
+US,Georgia,,101990
 US,Guam,,126
-US,Hawaii,,5597
-US,Iowa,,17992
-US,Idaho,,14652
-US,Illinois,,41343
-US,Indiana,,30387
-US,Kansas,,11960
-US,Kentucky,,17094
-US,Louisiana,,30809
-US,Massachusetts,,13860
+US,Hawaii,,5538
+US,Iowa,,18263
+US,Idaho,,14507
+US,Illinois,,41389
+US,Indiana,,30374
+US,Kansas,,11953
+US,Kentucky,,17358
+US,Louisiana,,30888
+US,Massachusetts,,13636
 US,Maryland,,22434
 US,Maine,,1083
-US,Michigan,,16593
-US,Minnesota,,20474
-US,Missouri,,19503
+US,Michigan,,16098
+US,Minnesota,,20955
+US,Missouri,,20038
 US,Northern Mariana Islands,,33
-US,Mississippi,,27265
+US,Mississippi,,27219
 US,Montana,,4013
-US,North Carolina,,58430
-US,North Dakota,,4158
-US,Nebraska,,6831
+US,North Carolina,,58311
+US,North Dakota,,4145
+US,Nebraska,,6838
 US,New Hampshire,,1558
-US,New Jersey,,4106
-US,New Mexico,,9062
-US,Nevada,,30083
-US,New York,,4706
-US,Ohio,,46959
-US,Oklahoma,,22018
-US,Oregon,,15425
-US,Pennsylvania,,28948
-US,Puerto Rico,,28677
+US,New Jersey,,4119
+US,New Mexico,,9102
+US,Nevada,,29931
+US,New York,,4713
+US,Ohio,,46728
+US,Oklahoma,,21655
+US,Oregon,,15398
+US,Pennsylvania,,28776
+US,Puerto Rico,,26678
 US,Rhode Island,,2409
-US,South Carolina,,42841
-US,South Dakota,,3366
-US,Tennessee,,49256
-US,Texas,,288387
-US,Utah,,12600
-US,Virginia,,40452
+US,South Carolina,,42881
+US,South Dakota,,3360
+US,Tennessee,,49434
+US,Texas,,281906
+US,Utah,,12573
+US,Virginia,,40643
 US,Virgin Islands,,357
 US,Vermont,,476
-US,Washington,,41052
-US,Wisconsin,,21978
+US,Washington,,40722
+US,Wisconsin,,21827
 US,West Virginia,,10758
 US,Wyoming,,832
