@@ -208,3 +208,4 @@ date,Province_State,Country_Region,Combined_Key,Confirmed,Deaths,daily_deaths,da
 2020-08-15,Ontario,Canada,"Ontario, Canada",42501,2836,1.0,89.0,86.71428571428571,0.7142857142857143
 2020-08-16,Ontario,Canada,"Ontario, Canada",42563,2836,0.0,62.0,85.85714285714286,0.5714285714285714
 2020-08-17,Ontario,Canada,"Ontario, Canada",42686,2836,0.0,123.0,86.28571428571429,0.5714285714285714
+2020-08-18,Ontario,Canada,"Ontario, Canada",42800,2837,1.0,114.0,91.14285714285714,0.7142857142857143

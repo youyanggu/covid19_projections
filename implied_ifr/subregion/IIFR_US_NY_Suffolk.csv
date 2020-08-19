@@ -208,3 +208,4 @@ date,Province_State,Country_Region,Combined_Key,Confirmed,Deaths,daily_deaths,da
 2020-08-15,New York,US,"Suffolk, New York, US",44109,1998,0.0,64.0,51.42857142857143,0.0
 2020-08-16,New York,US,"Suffolk, New York, US",44159,1998,0.0,50.0,53.285714285714285,0.0
 2020-08-17,New York,US,"Suffolk, New York, US",44185,1998,0.0,26.0,48.714285714285715,0.0
+2020-08-18,New York,US,"Suffolk, New York, US",44235,2000,2.0,50.0,48.857142857142854,0.2857142857142857
