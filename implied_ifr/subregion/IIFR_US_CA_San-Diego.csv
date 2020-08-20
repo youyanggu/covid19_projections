@@ -209,3 +209,4 @@ date,Province_State,Country_Region,Combined_Key,Confirmed,Deaths,daily_deaths,da
 2020-08-16,California,US,"San Diego, California, US",34344,626,4.0,279.0,287.7142857142857,4.714285714285714
 2020-08-17,California,US,"San Diego, California, US",34678,626,0.0,334.0,243.28571428571428,4.571428571428571
 2020-08-18,California,US,"San Diego, California, US",34960,626,0.0,282.0,283.57142857142856,4.571428571428571
+2020-08-19,California,US,"San Diego, California, US",35376,638,12.0,416.0,317.0,5.142857142857143
