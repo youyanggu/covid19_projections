@@ -1,57 +1,57 @@
 country,region,subregion,tests_needed_per_day
-US,,,1832193
-US,Alaska,,1380
-US,Alabama,,34149
-US,Arkansas,,23298
-US,Arizona,,50794
-US,California,,280982
-US,Colorado,,11933
+US,,,1849281
+US,Alaska,,1518
+US,Alabama,,34446
+US,Arkansas,,25628
+US,Arizona,,49243
+US,California,,282210
+US,Colorado,,11696
 US,Connecticut,,1703
-US,District of Columbia,,1980
-US,Delaware,,3300
-US,Florida,,216401
-US,Georgia,,97694
-US,Guam,,416
-US,Hawaii,,5063
-US,Iowa,,18705
-US,Idaho,,15504
+US,District of Columbia,,1987
+US,Delaware,,3399
+US,Florida,,211893
+US,Georgia,,100710
+US,Guam,,390
+US,Hawaii,,4746
+US,Iowa,,19239
+US,Idaho,,16395
 US,Illinois,,41831
-US,Indiana,,30572
-US,Kansas,,11313
-US,Kentucky,,19932
-US,Louisiana,,30446
-US,Massachusetts,,13405
-US,Maryland,,21266
-US,Maine,,1096
-US,Michigan,,16157
-US,Minnesota,,21833
-US,Missouri,,21338
+US,Indiana,,30849
+US,Kansas,,11768
+US,Kentucky,,20104
+US,Louisiana,,30935
+US,Massachusetts,,13207
+US,Maryland,,20889
+US,Maine,,1122
+US,Michigan,,15134
+US,Minnesota,,21879
+US,Missouri,,20903
 US,Northern Mariana Islands,,33
-US,Mississippi,,27357
-US,Montana,,3921
-US,North Carolina,,59453
-US,North Dakota,,4092
-US,Nebraska,,6937
-US,New Hampshire,,1578
-US,New Jersey,,4871
-US,New Mexico,,9221
-US,Nevada,,33284
-US,New York,,12032
-US,Ohio,,48141
-US,Oklahoma,,24605
-US,Oregon,,15986
-US,Pennsylvania,,27925
-US,Puerto Rico,,26922
-US,Rhode Island,,2409
-US,South Carolina,,41396
-US,South Dakota,,3307
-US,Tennessee,,57024
-US,Texas,,303752
-US,Utah,,12435
-US,Virginia,,39099
-US,Virgin Islands,,462
-US,Vermont,,469
-US,Washington,,41237
-US,Wisconsin,,21530
-US,West Virginia,,8858
-US,Wyoming,,1367
+US,Mississippi,,27311
+US,Montana,,3670
+US,North Carolina,,59975
+US,North Dakota,,4185
+US,Nebraska,,6996
+US,New Hampshire,,1565
+US,New Jersey,,4865
+US,New Mexico,,9254
+US,Nevada,,33172
+US,New York,,11946
+US,Ohio,,48444
+US,Oklahoma,,24262
+US,Oregon,,15378
+US,Pennsylvania,,27833
+US,Puerto Rico,,26097
+US,Rhode Island,,2390
+US,South Carolina,,43871
+US,South Dakota,,3353
+US,Tennessee,,63275
+US,Texas,,313177
+US,Utah,,12098
+US,Virginia,,38683
+US,Virgin Islands,,436
+US,Vermont,,462
+US,Washington,,40973
+US,Wisconsin,,20744
+US,West Virginia,,9115
+US,Wyoming,,1921
