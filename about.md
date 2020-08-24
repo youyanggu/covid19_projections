@@ -538,6 +538,7 @@ National
 
 Magazines/General News
 * [FiveThirtyEight](https://projects.fivethirtyeight.com/covid-forecasts/)
+* [Our World in Data](https://ourworldindata.org/covid-models) - Aug 24
 * [New York Magazine](https://nymag.com/intelligencer/2020/08/reasons-for-covid-19-optimism-on-t-cells-and-herd-immunity.html) - Aug 9
 * [MIT Technology Review](https://www.technologyreview.com/2020/08/11/1006366/immunity-slowing-down-coronavirus-parts-us/) - Aug 11
 * [Reason](https://reason.com/2020/07/20/daily-covid-19-deaths-in-the-u-s-continue-to-rise/) - Jul 20
