@@ -214,3 +214,4 @@ date,Province_State,Country_Region,Combined_Key,Confirmed,Deaths,daily_deaths,da
 2020-08-21,Illinois,US,"Cook, Illinois, US",119644,4997,9.0,887.0,702.8571428571429,6.571428571428571
 2020-08-22,Illinois,US,"Cook, Illinois, US",120567,5008,11.0,923.0,746.1428571428571,7.857142857142857
 2020-08-23,Illinois,US,"Cook, Illinois, US",121308,5013,5.0,741.0,764.0,7.285714285714286
+2020-08-24,Illinois,US,"Cook, Illinois, US",121877,5015,2.0,569.0,751.0,7.285714285714286
