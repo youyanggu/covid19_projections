@@ -1,57 +1,57 @@
 country,region,subregion,tests_needed_per_day
-US,,,1560458
-US,Alaska,,1439
-US,Alabama,,29199
-US,Arkansas,,23503
-US,Arizona,,30275
-US,California,,264746
-US,Colorado,,7920
-US,Connecticut,,1710
-US,District of Columbia,,1895
-US,Delaware,,3234
-US,Florida,,122351
-US,Georgia,,90328
-US,Guam,,680
-US,Hawaii,,3960
-US,Iowa,,20097
-US,Idaho,,13266
-US,Illinois,,38181
-US,Indiana,,28420
-US,Kansas,,10191
-US,Kentucky,,19338
-US,Louisiana,,29753
-US,Massachusetts,,10884
-US,Maryland,,14718
-US,Maine,,1162
-US,Michigan,,14586
-US,Minnesota,,20955
-US,Missouri,,18599
+US,,,1525313
+US,Alaska,,2126
+US,Alabama,,28658
+US,Arkansas,,24189
+US,Arizona,,29641
+US,California,,259981
+US,Colorado,,7003
+US,Connecticut,,1565
+US,District of Columbia,,1829
+US,Delaware,,3129
+US,Florida,,122008
+US,Georgia,,92506
+US,Guam,,938
+US,Hawaii,,3465
+US,Iowa,,20342
+US,Idaho,,14190
+US,Illinois,,36987
+US,Indiana,,27753
+US,Kansas,,9947
+US,Kentucky,,19629
+US,Louisiana,,31509
+US,Massachusetts,,10481
+US,Maryland,,14679
+US,Maine,,858
+US,Michigan,,14309
+US,Minnesota,,20249
+US,Missouri,,18447
 US,Northern Mariana Islands,,33
-US,Mississippi,,24130
-US,Montana,,3023
-US,North Carolina,,53612
-US,North Dakota,,4449
-US,Nebraska,,6904
-US,New Hampshire,,1565
-US,New Jersey,,4865
-US,New Mexico,,8917
-US,Nevada,,28691
-US,New York,,7729
-US,Ohio,,43488
-US,Oklahoma,,21530
-US,Oregon,,12936
-US,Pennsylvania,,22718
-US,Puerto Rico,,22751
-US,Rhode Island,,2376
-US,South Carolina,,37455
-US,South Dakota,,3459
-US,Tennessee,,54714
-US,Texas,,273386
-US,Utah,,10653
-US,Virginia,,26942
-US,Virgin Islands,,383
-US,Vermont,,462
-US,Washington,,32149
-US,Wisconsin,,19873
-US,West Virginia,,8184
-US,Wyoming,,1710
+US,Mississippi,,24981
+US,Montana,,3650
+US,North Carolina,,54774
+US,North Dakota,,6356
+US,Nebraska,,6785
+US,New Hampshire,,1037
+US,New Jersey,,3221
+US,New Mexico,,8891
+US,Nevada,,28440
+US,New York,,5195
+US,Ohio,,27107
+US,Oklahoma,,21741
+US,Oregon,,12956
+US,Pennsylvania,,21635
+US,Puerto Rico,,20731
+US,Rhode Island,,2343
+US,South Carolina,,35456
+US,South Dakota,,3789
+US,Tennessee,,55388
+US,Texas,,263499
+US,Utah,,10877
+US,Virginia,,27258
+US,Virgin Islands,,608
+US,Vermont,,429
+US,Washington,,31496
+US,Wisconsin,,19847
+US,West Virginia,,8897
+US,Wyoming,,1525

@@ -215,3 +215,4 @@ date,Province_State,Country_Region,Combined_Key,Confirmed,Deaths,daily_deaths,da
 2020-08-22,California,US,"Riverside, California, US",49482,927,0.0,0.0,545.7142857142857,6.571428571428571
 2020-08-23,California,US,"Riverside, California, US",49944,927,0.0,462.0,611.7142857142857,6.571428571428571
 2020-08-24,California,US,"Riverside, California, US",50744,972,45.0,800.0,726.0,13.0
+2020-08-25,California,US,"Riverside, California, US",51200,978,6.0,456.0,530.0,9.428571428571429
