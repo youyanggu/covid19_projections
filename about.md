@@ -519,6 +519,7 @@ To conclude, we believe that a successful model must be able to quickly determin
 ### Media
 
 National
+* [Washington Post](https://www.washingtonpost.com/politics/2020/08/26/six-months-ago-trump-said-that-coronavirus-cases-would-soon-go-zero-they-didnt/) - Aug 26
 * [Bloomberg](https://www.bloomberg.com/opinion/articles/2020-08-13/covid-spread-is-forcing-scientists-to-rethink-herd-immunity) - Aug 13
 * [Washington Post](https://www.washingtonpost.com/politics/2020/07/23/trumps-right-that-with-less-testing-we-record-fewer-cases-fact-thats-already-happening/) - Jul 23
 * [ProPublica](https://www.propublica.org/article/how-to-understand-covid-19-numbers) - Jul 21
