@@ -216,3 +216,4 @@ date,Province_State,Country_Region,Combined_Key,Confirmed,Deaths,daily_deaths,da
 2020-08-23,Massachusetts,US,"Suffolk, Massachusetts, US",21588,1093,0.0,0.0,-61.285714285714285,2.4285714285714284
 2020-08-24,Massachusetts,US,"Suffolk, Massachusetts, US",21786,1095,2.0,198.0,-33.0,2.7142857142857144
 2020-08-25,Massachusetts,US,"Suffolk, Massachusetts, US",21855,1097,2.0,69.0,-23.142857142857142,3.0
+2020-08-26,Massachusetts,US,"Suffolk, Massachusetts, US",21946,1101,4.0,91.0,-10.142857142857142,3.5714285714285716
