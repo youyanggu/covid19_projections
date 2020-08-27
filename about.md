@@ -228,6 +228,8 @@ Prior to July 22, we assume a very small daily decay in the transmission rate (R
 
 The future is uncertain, and many things can happen between now and fall that will change the trajectory of this epidemic. While we believe a September increase in deaths is [unlikely](https://twitter.com/youyanggu/status/1271395005219745792), we do think it is possible that the rate of transmission may increase as we head towards winter. We currently assume a 0-0.5% daily increase in the transmission rate (R_t) starting in the fall (September). Because this value is still too early to learn, we randomly sample this value from a triangle distribution in our simulations. This results in a wider confidence interval to account for the increased uncertainty. It's important to recognize that a fall wave is only a possibility and is not guaranteed. This assumption is subject to change as we get closer to the date.
 
+We are currently not changing the infection fatality rate (IFR) from the summer. But there has been studies ([Kifer et al.](https://www.medrxiv.org/content/10.1101/2020.07.11.20147157v2.full.pdf)) showing that the fatality rate may increase during the winter months due to factors such as lower indoor humidity.
+
 *Note: We currently do not explicitly model school reopenings. This is a situation we will continue to monitor. We believe it is possible that we will see an increase in infections due to school reopenings, but it is unclear to what extent this will translate to deaths. Furthermore, unlike state reopenings, schools have shown a willingness to shut down after the initial instances of an outbreak. This limits the potential for exponential growth that are typically needed to sustain a large outbreak.*
 
 [Back to Top](#top)
