@@ -230,6 +230,8 @@ The future is uncertain, and many things can happen between now and fall that wi
 
 We are currently not changing the infection fatality rate (IFR) from the summer. But there has been studies ([Kifer et al.](https://www.medrxiv.org/content/10.1101/2020.07.11.20147157v2.full.pdf)) showing that the fatality rate may increase during the winter months due to factors such as lower indoor humidity.
 
+Because our point estimates are mean estimates rather than median estimates, it is possible for our Rt mean estimates to remain below 1 while the new infections mean estimates increase (due to the skewness of the distribution).
+
 *Note: We currently do not explicitly model school reopenings. This is a situation we will continue to monitor. We believe it is possible that we will see an increase in infections due to school reopenings, but it is unclear to what extent this will translate to deaths. Furthermore, unlike state reopenings, schools have shown a willingness to shut down after the initial instances of an outbreak. This limits the potential for exponential growth that are typically needed to sustain a large outbreak.*
 
 [Back to Top](#top)
