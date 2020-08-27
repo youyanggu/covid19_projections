@@ -25,7 +25,7 @@ permalink: /about/
   * [Infection Fatality Rate (IFR)](#infection-fatality-rate-ifr)
   * [Undetected Deaths](#undetected-deaths)
 * [Limitations](#limitations)
-* [Twitter Threads](#twitter-threads)
+* [Twitter Threads **(New Aug 27)**](#twitter-threads)
 * [Concerns with the IHME model *(Updated Jun 12)*](#concerns-with-the-ihme-model)
   * [Comparison of Data Sources *(New Jun 12)*](#comparison-of-data-sources)
   * [May 4 Revision](#may-4-revision)
@@ -347,7 +347,7 @@ While we attempt our best to ensure accuracy and precision, no model is perfect,
 
 ## Twitter Threads
 
-Due to the fast-paced environment of COVID-19 developments and our limited team (of one), Twitter is our preferred method of posting announcements, sharing results and fasciliating discussion. Below is a comprehensive list of our Tweets:
+Due to the fast-paced environment of COVID-19 developments and our limited team (of one), Twitter is our preferred method of posting announcements, sharing results and fasciliating discussion. Below is a comprehensive list of our Tweets since late April:
 
 ### Research
 
@@ -372,36 +372,7 @@ Due to the fast-paced environment of COVID-19 developments and our limited team 
 [May 27](https://twitter.com/youyanggu/status/1265752914011684865)<br>
 [May 20](https://twitter.com/youyanggu/status/1263208199756234753)<br>
 
-### Model evaluations
-
-[July 14](https://twitter.com/youyanggu/status/1283102532236181504)<br>
-[June 29](https://twitter.com/youyanggu/status/1277679302797033475) - Baseline comparison with IHME<br>
-[June 23](https://twitter.com/youyanggu/status/1275490419271512067)<br>
-[June 17](https://twitter.com/youyanggu/status/1273304784796176384) - Open source model evaluation<br>
-[May 18](https://twitter.com/youyanggu/status/1262477877435437056)<br>
-[May 17](https://twitter.com/youyanggu/status/1262149966249652224)<br>
-[May 9](https://twitter.com/youyanggu/status/1259242623228719104)<br>
-[May 4](https://twitter.com/youyanggu/status/1257434380856889346)<br>
-[April 27](https://twitter.com/youyanggu/status/1254866622646386689)<br>
-
-### Maps
-
-[June 27](https://twitter.com/youyanggu/status/1276765403281268736)<br>
-[June 24](https://twitter.com/youyanggu/status/1275683113109250048)<br>
-[June 15](https://twitter.com/youyanggu/status/1272499124739301376)<br>
-[June 8](https://twitter.com/youyanggu/status/1270091682826969088)<br>
-[June 12](https://twitter.com/youyanggu/status/1271531383265964033)<br>
-[June 6](https://twitter.com/youyanggu/status/1269379382352605184)<br>
-[June 5](https://twitter.com/youyanggu/status/1269017578682253312)<br>
-
-### Testing targets
-
-[June 7](https://twitter.com/youyanggu/status/1269536626591412232)<br>
-[May 30](https://twitter.com/youyanggu/status/1266843764649152512)<br>
-[May 24](https://twitter.com/youyanggu/status/1264666253974573056)<br>
-[May 17](https://twitter.com/youyanggu/status/1261882918839836672)<br>
-
-### Others
+### Miscellaneous
 
 [August 27](https://twitter.com/youyanggu/status/1299016969631531008) - Following the science<br>
 [August 13](https://twitter.com/youyanggu/status/1293944308110852099) - Talk announcement<br>
@@ -432,6 +403,37 @@ Due to the fast-paced environment of COVID-19 developments and our limited team 
 [April 29](https://twitter.com/youyanggu/status/1255663596387725314) - Model added to CDC website<br>
 [April 28](https://twitter.com/youyanggu/status/1255034262006333440) - NYC subway ridership analysis<br>
 [April 26](https://twitter.com/youyanggu/status/1254505012396343296) - Rt estimates<br>
+[April 25](https://twitter.com/youyanggu/status/1253964427801444353) - Death milestone probabilities<br>
+
+### Model evaluations
+
+[July 14](https://twitter.com/youyanggu/status/1283102532236181504)<br>
+[June 29](https://twitter.com/youyanggu/status/1277679302797033475) - Baseline comparison with IHME<br>
+[June 23](https://twitter.com/youyanggu/status/1275490419271512067)<br>
+[June 17](https://twitter.com/youyanggu/status/1273304784796176384) - Open source model evaluation<br>
+[May 18](https://twitter.com/youyanggu/status/1262477877435437056)<br>
+[May 17](https://twitter.com/youyanggu/status/1262149966249652224)<br>
+[May 9](https://twitter.com/youyanggu/status/1259242623228719104)<br>
+[May 4](https://twitter.com/youyanggu/status/1257434380856889346)<br>
+[April 27](https://twitter.com/youyanggu/status/1254866622646386689)<br>
+[April 24](https://twitter.com/youyanggu/status/1253611229689475075)<br>
+
+### Maps
+
+[June 27](https://twitter.com/youyanggu/status/1276765403281268736)<br>
+[June 24](https://twitter.com/youyanggu/status/1275683113109250048)<br>
+[June 15](https://twitter.com/youyanggu/status/1272499124739301376)<br>
+[June 8](https://twitter.com/youyanggu/status/1270091682826969088)<br>
+[June 12](https://twitter.com/youyanggu/status/1271531383265964033)<br>
+[June 6](https://twitter.com/youyanggu/status/1269379382352605184)<br>
+[June 5](https://twitter.com/youyanggu/status/1269017578682253312)<br>
+
+### Testing targets
+
+[June 7](https://twitter.com/youyanggu/status/1269536626591412232)<br>
+[May 30](https://twitter.com/youyanggu/status/1266843764649152512)<br>
+[May 24](https://twitter.com/youyanggu/status/1264666253974573056)<br>
+[May 17](https://twitter.com/youyanggu/status/1261882918839836672)<br>
 
 ## Concerns with the IHME model
 
