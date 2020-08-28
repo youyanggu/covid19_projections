@@ -11,6 +11,7 @@ permalink: /about/
   * [Baseline Comparison](#baseline-comparison-c19pro-vs-ihme)
   * [Late June US Projection](#late-june-us-projection)
   * [Late May Projections](#late-may-projections)
+* [Comparison of Current US Projections *(Updated Daily)*](#comparison-of-current-us-projections)
 * [CDC Projections Over Time](#cdc-projections-over-time)
 * [Historical US Projections *(Updated Daily)*](#historical-us-projections)
 * [Data and Output](#data-and-output)
@@ -136,6 +137,12 @@ This is a metric that shows the *recent accuracy* of model projections.
 
 [Back to Top](#top)
 
+## Comparison of Current US Projections
+
+We compare our current projections to that of the Institute for Health Metrics and Evaluation (IHME). To see our full US projections, click [here](/us).
+
+{% include iframe_current.html %}
+
 ## CDC Projections Over Time
 
 Below, we show our CDC projections over time.
@@ -146,10 +153,9 @@ Below, we show our CDC projections over time.
 
 ## Historical US Projections
 
-Below, we show how our (C19Pro) August 4 projections for the US has changed over time, compared to IHME. We also show a comparison of the latest projections.
+Below, we show how our (C19Pro) August 4 and November 1 projections for the US has changed over time, compared to IHME. To see our full current US projections, click [here](/us).
 
 {% include iframe_historical.html %}
-{% include iframe_current.html %}
 
 [Back to Top](#top)
 
