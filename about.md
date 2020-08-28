@@ -355,23 +355,6 @@ Due to the fast-paced environment of COVID-19 developments and our limited team 
 [August 5](https://twitter.com/youyanggu/status/1291092311045283841) - Estimating true infections<br>
 [July 24](https://twitter.com/youyanggu/status/1286795355561107457) - Implied infection fatality rate<br>
 
-### Projections updates
-
-[August 25](https://twitter.com/youyanggu/status/1298297201626685441)<br>
-[August 18](https://twitter.com/youyanggu/status/1295784724418514944)<br>
-[July 29](https://twitter.com/youyanggu/status/1288494932441944064)<br>
-[July 23](https://twitter.com/youyanggu/status/1286421296474202115)<br>
-[July 17](https://twitter.com/youyanggu/status/1284225315703791619)<br>
-[July 8](https://twitter.com/youyanggu/status/1280916457698836481)<br>
-[June 19](https://twitter.com/youyanggu/status/1274047713454297090)<br>
-[June 11](https://twitter.com/youyanggu/status/1271041545458692096)<br>
-[June 1](https://twitter.com/youyanggu/status/1267551592837832704)<br>
-[May 13](https://twitter.com/youyanggu/status/1260646026542641152)<br>
-[May 1](https://twitter.com/youyanggu/status/1256149242260807680)<br>
-[May 26](https://twitter.com/youyanggu/status/1265360604220362753)<br>
-[May 27](https://twitter.com/youyanggu/status/1265752914011684865)<br>
-[May 20](https://twitter.com/youyanggu/status/1263208199756234753)<br>
-
 ### Miscellaneous
 
 [August 27](https://twitter.com/youyanggu/status/1299016969631531008) - Following the science<br>
@@ -405,6 +388,23 @@ Due to the fast-paced environment of COVID-19 developments and our limited team 
 [April 26](https://twitter.com/youyanggu/status/1254505012396343296) - Rt estimates<br>
 [April 25](https://twitter.com/youyanggu/status/1253964427801444353) - Death milestone probabilities<br>
 
+### Projections updates
+
+[August 25](https://twitter.com/youyanggu/status/1298297201626685441)<br>
+[August 18](https://twitter.com/youyanggu/status/1295784724418514944)<br>
+[July 29](https://twitter.com/youyanggu/status/1288494932441944064)<br>
+[July 23](https://twitter.com/youyanggu/status/1286421296474202115)<br>
+[July 17](https://twitter.com/youyanggu/status/1284225315703791619)<br>
+[July 8](https://twitter.com/youyanggu/status/1280916457698836481)<br>
+[June 19](https://twitter.com/youyanggu/status/1274047713454297090)<br>
+[June 11](https://twitter.com/youyanggu/status/1271041545458692096)<br>
+[June 1](https://twitter.com/youyanggu/status/1267551592837832704)<br>
+[May 13](https://twitter.com/youyanggu/status/1260646026542641152)<br>
+[May 1](https://twitter.com/youyanggu/status/1256149242260807680)<br>
+[May 26](https://twitter.com/youyanggu/status/1265360604220362753)<br>
+[May 27](https://twitter.com/youyanggu/status/1265752914011684865)<br>
+[May 20](https://twitter.com/youyanggu/status/1263208199756234753)<br>
+
 ### Model evaluations
 
 [July 14](https://twitter.com/youyanggu/status/1283102532236181504)<br>
@@ -434,6 +434,8 @@ Due to the fast-paced environment of COVID-19 developments and our limited team 
 [May 30](https://twitter.com/youyanggu/status/1266843764649152512)<br>
 [May 24](https://twitter.com/youyanggu/status/1264666253974573056)<br>
 [May 17](https://twitter.com/youyanggu/status/1261882918839836672)<br>
+
+[Back to Top](#top)
 
 ## Concerns with the IHME model
 
