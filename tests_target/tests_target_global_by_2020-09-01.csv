@@ -1,71 +1,71 @@
 country,region,subregion,tests_needed_per_day
-Algeria,,,16507
-Argentina,,,326727
-Australia,,,13880
-Austria,,,3512
-Bangladesh,,,66423
-Belarus,,,6686
-Belgium,,,11643
-Bolivia,,,68053
-Brazil,,,1426505
-Bulgaria,,,32162
+Algeria,,,16401
+Argentina,,,291971
+Australia,,,13860
+Austria,,,3432
+Bangladesh,,,66528
+Belarus,,,6772
+Belgium,,,11412
+Bolivia,,,71043
+Brazil,,,1255281
+Bulgaria,,,26163
 Canada,,,12824
-Chile,,,60324
-China,,,4310
-Colombia,,,294968
-Croatia,,,4858
-Cuba,,,1083
+Chile,,,60456
+China,,,4317
+Colombia,,,296222
+Croatia,,,5511
+Cuba,,,1129
 Cyprus,,,324
-Czechia,,,5993
-Denmark,,,3069
-Dominican Republic,,,23371
-Ecuador,,,49903
-Egypt,,,11960
+Czechia,,,6079
+Denmark,,,2291
+Dominican Republic,,,24123
+Ecuador,,,49969
+Egypt,,,11979
 Estonia,,,363
-Finland,,,1439
-France,,,54450
-Germany,,,25041
-Greece,,,11418
-Honduras,,,22566
-Hungary,,,2779
+Finland,,,1169
+France,,,52728
+Germany,,,25160
+Greece,,,10494
+Honduras,,,22361
+Hungary,,,2733
 Iceland,,,119
-India,,,3534479
-Indonesia,,,150289
-Iran,,,305481
-Ireland,,,2904
-Israel,,,51243
-Italy,,,23140
-Japan,,,34195
-Kuwait,,,7445
-Latvia,,,489
-Lithuania,,,1228
-Luxembourg,,,1393
+India,,,3528499
+Indonesia,,,151833
+Iran,,,303554
+Ireland,,,2891
+Israel,,,50457
+Italy,,,22863
+Japan,,,36149
+Kuwait,,,7538
+Latvia,,,462
+Lithuania,,,1155
+Luxembourg,,,1380
 Malaysia,,,509
-Malta,,,238
-Mexico,,,663043
-Moldova,,,20084
-Morocco,,,61783
-Netherlands,,,14791
-Nigeria,,,8745
-Norway,,,1710
-Pakistan,,,35060
-Panama,,,15378
-Peru,,,169858
-Philippines,,,121355
-Poland,,,39647
-Portugal,,,9597
-Romania,,,127123
-Russia,,,129519
-Saudi Arabia,,,77682
-Serbia,,,10303
-Slovakia,,,641
-Slovenia,,,1307
-South Africa,,,285701
-South Korea,,,3452
-Spain,,,77953
+Malta,,,218
+Mexico,,,674494
+Moldova,,,20348
+Morocco,,,58945
+Netherlands,,,14725
+Nigeria,,,8580
+Norway,,,1690
+Pakistan,,,34888
+Panama,,,15398
+Peru,,,171442
+Philippines,,,130067
+Poland,,,40557
+Portugal,,,9511
+Romania,,,118101
+Russia,,,130555
+Saudi Arabia,,,77854
+Serbia,,,10079
+Slovakia,,,627
+Slovenia,,,1281
+South Africa,,,287015
+South Korea,,,3518
+Spain,,,75082
 Sweden,,,2984
-Switzerland,,,4779
-Turkey,,,30532
-Ukraine,,,141412
-United Arab Emirates,,,3848
-United Kingdom,,,19173
+Switzerland,,,4752
+Turkey,,,31172
+Ukraine,,,144138
+United Arab Emirates,,,3769
+United Kingdom,,,19134
