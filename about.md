@@ -648,6 +648,7 @@ National
 
 Magazines/General News
 * [FiveThirtyEight](https://projects.fivethirtyeight.com/covid-forecasts/)
+* [The Street](https://www.thestreet.com/lifestyle/health/u-s-covid-cases-quickly-approach-6-million) - Aug 30
 * [Our World in Data](https://ourworldindata.org/covid-models) - Aug 24
 * [New York Magazine](https://nymag.com/intelligencer/2020/08/reasons-for-covid-19-optimism-on-t-cells-and-herd-immunity.html) - Aug 9
 * [MIT Technology Review](https://www.technologyreview.com/2020/08/11/1006366/immunity-slowing-down-coronavirus-parts-us/) - Aug 11
