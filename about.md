@@ -175,6 +175,8 @@ Every day, raw daily projections for all 50 US states and select international c
 
 We use a considation of resources provided [by Models of Infectious Disease Agent Study (MIDAS)](https://midasnetwork.us/covid-19/#resources) to set standard parameters such as incubation and infectious period. Most of these parameters have a wide consensus among experts. For example, we assume a 5-day incubation period (on average) and a 7-day infectious period (on average). These assumptions are probabilistic and roughly normally distributed. This means that an infected individual would be infectious between Day 2 to Day 8 after exposure, with Day 4-6 being the most infectious. For the purpose of calculating current infections, we assume an average individual is infected for 15 days. The exact values of the above parameters do not significantly change our projections.
 
+Not everyone who are "currently infected" are infectious. To get a sense of the number of individuals that are *infectious*, we recommend dividing the "currently infected" number by half. To get the number of individuals who are at *peak infectiousness*, we recommend dividing the "currently infected" number by ~5.
+
 [Back to Top](#top)
 
 ### Confidence Intervals
