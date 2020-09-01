@@ -221,3 +221,4 @@ date,Province_State,Country_Region,Combined_Key,Confirmed,Deaths,daily_deaths,da
 2020-08-28,Louisiana,US,"Orleans, Louisiana, US",11326,576,2.0,47.0,27.428571428571427,1.0
 2020-08-29,Louisiana,US,"Orleans, Louisiana, US",11326,576,0.0,0.0,27.428571428571427,1.0
 2020-08-30,Louisiana,US,"Orleans, Louisiana, US",11494,577,1.0,168.0,43.285714285714285,1.0
+2020-08-31,Louisiana,US,"Orleans, Louisiana, US",11514,577,0.0,20.0,42.857142857142854,1.0
