@@ -1,57 +1,57 @@
 country,region,subregion,tests_needed_per_day
-US,,,1105104
-US,Alaska,,2858
-US,Alabama,,22229
-US,Arkansas,,20738
-US,Arizona,,13913
-US,California,,179705
-US,Colorado,,6792
-US,Connecticut,,2040
+US,,,1114958
+US,Alaska,,2515
+US,Alabama,,22619
+US,Arkansas,,22823
+US,Arizona,,13722
+US,California,,182992
+US,Colorado,,6785
+US,Connecticut,,2000
 US,District of Columbia,,1129
-US,Delaware,,2244
-US,Florida,,59374
-US,Georgia,,60833
-US,Guam,,1730
-US,Hawaii,,9425
-US,Iowa,,24863
-US,Idaho,,11412
-US,Illinois,,32565
-US,Indiana,,16606
-US,Kansas,,11319
-US,Kentucky,,21094
-US,Louisiana,,16190
-US,Massachusetts,,7472
-US,Maryland,,12844
-US,Maine,,931
-US,Michigan,,14520
-US,Minnesota,,18408
-US,Missouri,,23747
+US,Delaware,,2238
+US,Florida,,60186
+US,Georgia,,61334
+US,Guam,,1525
+US,Hawaii,,8290
+US,Iowa,,24394
+US,Idaho,,11042
+US,Illinois,,33185
+US,Indiana,,16639
+US,Kansas,,11445
+US,Kentucky,,22077
+US,Louisiana,,15986
+US,Massachusetts,,6831
+US,Maryland,,12824
+US,Maine,,938
+US,Michigan,,14817
+US,Minnesota,,18494
+US,Missouri,,24533
 US,Northern Mariana Islands,,47
-US,Mississippi,,13359
-US,Montana,,3505
-US,North Carolina,,49527
-US,North Dakota,,5036
-US,Nebraska,,7003
-US,New Hampshire,,746
-US,New Jersey,,3267
-US,New Mexico,,4957
-US,Nevada,,16844
-US,New York,,8732
-US,Ohio,,23246
-US,Oklahoma,,21417
-US,Oregon,,15081
-US,Pennsylvania,,19272
-US,Puerto Rico,,17682
-US,Rhode Island,,2337
-US,South Carolina,,21015
-US,South Dakota,,5287
-US,Tennessee,,44240
-US,Texas,,137175
-US,Utah,,9313
-US,Virginia,,28281
-US,Virgin Islands,,1188
-US,Vermont,,410
-US,Washington,,16613
-US,Wisconsin,,21681
-US,West Virginia,,11663
-US,Wyoming,,1221
+US,Mississippi,,13511
+US,Montana,,4026
+US,North Carolina,,50926
+US,North Dakota,,5168
+US,Nebraska,,6838
+US,New Hampshire,,740
+US,New Jersey,,3314
+US,New Mexico,,4970
+US,Nevada,,16929
+US,New York,,8699
+US,Ohio,,23120
+US,Oklahoma,,21642
+US,Oregon,,14864
+US,Pennsylvania,,19761
+US,Puerto Rico,,17497
+US,Rhode Island,,2330
+US,South Carolina,,21464
+US,South Dakota,,5340
+US,Tennessee,,42729
+US,Texas,,137439
+US,Utah,,8732
+US,Virginia,,29113
+US,Virgin Islands,,1076
+US,Vermont,,403
+US,Washington,,16388
+US,Wisconsin,,22064
+US,West Virginia,,12389
+US,Wyoming,,2119
