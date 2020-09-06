@@ -226,3 +226,4 @@ date,Province_State,Country_Region,Combined_Key,Confirmed,Deaths,daily_deaths,da
 2020-09-02,Nevada,US,"Washoe, Nevada, US",7326,139,0.0,67.0,60.285714285714285,0.8571428571428571
 2020-09-03,Nevada,US,"Washoe, Nevada, US",7371,140,1.0,45.0,60.0,1.0
 2020-09-04,Nevada,US,"Washoe, Nevada, US",7446,142,2.0,75.0,60.285714285714285,0.8571428571428571
+2020-09-05,Nevada,US,"Washoe, Nevada, US",7507,142,0.0,61.0,57.857142857142854,0.8571428571428571
