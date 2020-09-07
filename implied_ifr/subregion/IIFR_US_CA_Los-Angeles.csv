@@ -227,3 +227,4 @@ date,Province_State,Country_Region,Combined_Key,Confirmed,Deaths,daily_deaths,da
 2020-09-03,California,US,"Los Angeles, California, US",244999,5932,54.0,1064.0,1144.7142857142858,33.0
 2020-09-04,California,US,"Los Angeles, California, US",246407,5977,45.0,1408.0,1135.5714285714287,35.0
 2020-09-05,California,US,"Los Angeles, California, US",247542,6000,23.0,1135.0,1112.2857142857142,34.42857142857143
+2020-09-06,California,US,"Los Angeles, California, US",248334,6005,5.0,792.0,1083.5714285714287,33.714285714285715
