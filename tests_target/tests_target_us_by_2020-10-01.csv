@@ -1,57 +1,57 @@
 country,region,subregion,tests_needed_per_day
-US,,,1128072
-US,Alaska,,2687
-US,Alabama,,23318
-US,Arkansas,,23160
-US,Arizona,,14124
-US,California,,186299
-US,Colorado,,6911
-US,Connecticut,,1941
+US,,,1123030
+US,Alaska,,2607
+US,Alabama,,23246
+US,Arkansas,,23239
+US,Arizona,,14058
+US,California,,185718
+US,Colorado,,6864
+US,Connecticut,,1967
 US,District of Columbia,,1136
 US,Delaware,,2238
-US,Florida,,60417
-US,Georgia,,64443
-US,Guam,,1149
-US,Hawaii,,7254
-US,Iowa,,24189
-US,Idaho,,10191
-US,Illinois,,33984
-US,Indiana,,16586
-US,Kansas,,12283
-US,Kentucky,,22454
-US,Louisiana,,15933
-US,Massachusetts,,6330
-US,Maryland,,13082
-US,Maine,,938
-US,Michigan,,14138
-US,Minnesota,,18725
-US,Missouri,,28110
+US,Florida,,60212
+US,Georgia,,64093
+US,Guam,,1136
+US,Hawaii,,7161
+US,Iowa,,24143
+US,Idaho,,10085
+US,Illinois,,33759
+US,Indiana,,16599
+US,Kansas,,12270
+US,Kentucky,,22341
+US,Louisiana,,15926
+US,Massachusetts,,6290
+US,Maryland,,13101
+US,Maine,,931
+US,Michigan,,14111
+US,Minnesota,,18685
+US,Missouri,,27872
 US,Northern Mariana Islands,,47
-US,Mississippi,,13425
-US,Montana,,4277
-US,North Carolina,,54167
-US,North Dakota,,5261
-US,Nebraska,,6858
+US,Mississippi,,13385
+US,Montana,,4205
+US,North Carolina,,53427
+US,North Dakota,,5096
+US,Nebraska,,6845
 US,New Hampshire,,733
-US,New Jersey,,3413
-US,New Mexico,,4983
-US,Nevada,,17226
-US,New York,,8528
-US,Ohio,,23978
-US,Oklahoma,,21582
-US,Oregon,,8514
-US,Pennsylvania,,19180
-US,Puerto Rico,,18177
+US,New Jersey,,3419
+US,New Mexico,,4997
+US,Nevada,,17147
+US,New York,,8580
+US,Ohio,,24137
+US,Oklahoma,,21437
+US,Oregon,,8534
+US,Pennsylvania,,19655
+US,Puerto Rico,,17523
 US,Rhode Island,,2317
-US,South Carolina,,21345
-US,South Dakota,,5208
-US,Tennessee,,41567
-US,Texas,,138587
-US,Utah,,8917
-US,Virginia,,33482
-US,Virgin Islands,,1096
+US,South Carolina,,21325
+US,South Dakota,,5142
+US,Tennessee,,41316
+US,Texas,,137538
+US,Utah,,8884
+US,Virginia,,33522
+US,Virgin Islands,,1070
 US,Vermont,,403
-US,Washington,,16078
-US,Wisconsin,,22335
-US,West Virginia,,12415
-US,Wyoming,,1967
+US,Washington,,16065
+US,Wisconsin,,22203
+US,West Virginia,,12375
+US,Wyoming,,1954
