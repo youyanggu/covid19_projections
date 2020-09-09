@@ -229,3 +229,4 @@ date,Province_State,Country_Region,Combined_Key,Confirmed,Deaths,daily_deaths,da
 2020-09-05,California,US,"San Bernardino, California, US",49325,765,21.0,710.0,311.42857142857144,7.0
 2020-09-06,California,US,"San Bernardino, California, US",49558,765,0.0,233.0,312.14285714285717,7.0
 2020-09-07,California,US,"San Bernardino, California, US",49691,765,0.0,133.0,292.7142857142857,7.0
+2020-09-08,California,US,"San Bernardino, California, US",49691,765,0.0,0.0,258.85714285714283,4.142857142857143
