@@ -231,3 +231,4 @@ date,Province_State,Country_Region,Combined_Key,Confirmed,Deaths,daily_deaths,da
 2020-09-07,California,US,"Santa Clara, California, US",18611,260,0.0,0.0,180.28571428571428,2.2857142857142856
 2020-09-08,California,US,"Santa Clara, California, US",18717,260,0.0,106.0,195.42857142857142,1.7142857142857142
 2020-09-09,California,US,"Santa Clara, California, US",18854,263,3.0,137.0,150.28571428571428,1.8571428571428572
+2020-09-10,California,US,"Santa Clara, California, US",18854,263,0.0,0.0,123.0,1.4285714285714286
