@@ -230,3 +230,4 @@ date,Province_State,Country_Region,Combined_Key,Confirmed,Deaths,daily_deaths,da
 2020-09-06,New York,US,"Westchester, New York, US",37246,1452,0.0,41.0,42.42857142857143,0.14285714285714285
 2020-09-07,New York,US,"Westchester, New York, US",37277,1452,0.0,31.0,41.857142857142854,0.14285714285714285
 2020-09-08,New York,US,"Westchester, New York, US",37314,1452,0.0,37.0,41.857142857142854,0.0
+2020-09-09,New York,US,"Westchester, New York, US",37355,1452,0.0,41.0,42.57142857142857,0.0
