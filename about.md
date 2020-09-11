@@ -355,6 +355,8 @@ While we attempt our best to ensure accuracy and precision, no model is perfect,
 
 ## Twitter Threads
 
+Last Updated: September 11
+
 Due to the fast-paced environment of COVID-19 developments and our limited team (of one), Twitter is our preferred method of posting announcements, sharing results and fasciliating discussion. Below is a comprehensive list of our Tweets since late April:
 
 ### Research
@@ -365,6 +367,7 @@ Due to the fast-paced environment of COVID-19 developments and our limited team 
 
 ### Miscellaneous
 
+[September 4](https://twitter.com/youyanggu/status/1301915424456609793) - Forecasting uncertainty<br>
 [August 27](https://twitter.com/youyanggu/status/1299016969631531008) - Following the science<br>
 [August 13](https://twitter.com/youyanggu/status/1293944308110852099) - Talk announcement<br>
 [August 12](https://twitter.com/youyanggu/status/1293586474319912961) - Common pitfalls when estimating true infections<br>
@@ -398,6 +401,8 @@ Due to the fast-paced environment of COVID-19 developments and our limited team 
 
 ### Projections updates
 
+[September 9](https://twitter.com/youyanggu/status/1303784487030063110)<br>
+[September 1](https://twitter.com/youyanggu/status/1300881541468483586)<br>
 [August 25](https://twitter.com/youyanggu/status/1298297201626685441)<br>
 [August 18](https://twitter.com/youyanggu/status/1295784724418514944)<br>
 [July 29](https://twitter.com/youyanggu/status/1288494932441944064)<br>
@@ -451,6 +456,7 @@ In this section we will compare our projections with a popular model developed b
 
 We present a series of Tweets highlighting the issues with the IHME model:
 
+[Sep 11](https://twitter.com/youyanggu/status/1301915424456609793)<br>
 [July 3](https://twitter.com/youyanggu/status/1279096904807256064)<br>
 [June 29](https://twitter.com/youyanggu/status/1277679302797033475)<br>
 [June 21](https://twitter.com/youyanggu/status/1274792488285462539)<br>
@@ -624,6 +630,9 @@ To conclude, we believe that a successful model must be able to quickly determin
 ### Media
 
 National
+* [The Atlantic](https://www.theatlantic.com/health/archive/2020/09/pandemic-intuition-nightmare-spiral-winter/616204/) - Sep 9
+* [Yahoo News](https://news.yahoo.com/a-new-covid-19-forecast-predicts-more-than-400000-deaths-by-the-end-of-2020-will-the-fall-wave-really-be-that-big-215402962.html) - Sep 9
+* [CNBC](https://www.cnbc.com/2020/09/04/key-coronavirus-forecast-predicts-over-410000-total-us-deaths-by-jan-1.html) - Sep 4
 * [Washington Post](https://www.washingtonpost.com/politics/2020/08/26/six-months-ago-trump-said-that-coronavirus-cases-would-soon-go-zero-they-didnt/) - Aug 26
 * [Bloomberg](https://www.bloomberg.com/opinion/articles/2020-08-13/covid-spread-is-forcing-scientists-to-rethink-herd-immunity) - Aug 13
 * [Washington Post](https://www.washingtonpost.com/politics/2020/07/23/trumps-right-that-with-less-testing-we-record-fewer-cases-fact-thats-already-happening/) - Jul 23
@@ -647,11 +656,11 @@ National
 * [CNN](https://www.cnn.com/2020/04/28/health/georgia-coronavirus-death-projections/index.html) - Apr 28
 
 Magazines/General News
-* [FiveThirtyEight](https://projects.fivethirtyeight.com/covid-forecasts/)
 * [The Street](https://www.thestreet.com/lifestyle/health/u-s-covid-cases-quickly-approach-6-million) - Aug 30
 * [Our World in Data](https://ourworldindata.org/covid-models) - Aug 24
-* [New York Magazine](https://nymag.com/intelligencer/2020/08/reasons-for-covid-19-optimism-on-t-cells-and-herd-immunity.html) - Aug 9
+* [New York Magazine](https://nymag.com/intelligencer/2020/08/the-human-cost-of-the-pandemic-may-dwarf-its-death-toll.html) - Aug 17
 * [MIT Technology Review](https://www.technologyreview.com/2020/08/11/1006366/immunity-slowing-down-coronavirus-parts-us/) - Aug 11
+* [New York Magazine](https://nymag.com/intelligencer/2020/08/reasons-for-covid-19-optimism-on-t-cells-and-herd-immunity.html) - Aug 9
 * [Reason](https://reason.com/2020/07/20/daily-covid-19-deaths-in-the-u-s-continue-to-rise/) - Jul 20
 * [Vox](https://www.vox.com/2020/7/15/21317776/covid-19-coronavirus-florida-arizona-texas-california-hospitals) - Jul 16
 * [GQ](https://www.gq.com/story/the-slowly-rising-tide-of-covid) - Jun 18
@@ -669,8 +678,8 @@ Local
 * [Miami Herald](https://www.miamiherald.com/news/coronavirus/article244930467.html) - Aug 14
 * [The Advocate (NOLA)](https://www.nola.com/news/coronavirus/article_1f5a0286-dbd6-11ea-b428-c3a872847e9b.html) - Aug 11
 * [SF Gate](https://www.sfgate.com/news/editorspicks/article/California-coronavirus-COVID-19-herd-immunity-how-15469055.php) - Aug 10
-* [The Advocate (NOLA)](https://www.nola.com/news/coronavirus/article_b4ec117c-b020-11ea-a690-03d2e5a9e00e.html) - Jun 17
 * [The Mercury News](https://www.mercurynews.com/2020/06/25/graph-half-of-californias-coronavirus-deaths-by-oct-1-projected-in-los-angeles-county/) - Jun 25
+* [The Advocate (NOLA)](https://www.nola.com/news/coronavirus/article_b4ec117c-b020-11ea-a690-03d2e5a9e00e.html) - Jun 17
 * [The Mercury News](https://www.mercurynews.com/2020/05/26/graph-number-of-coronavirus-deaths-projected-in-santa-clara-county-by-sept-1/) - May 26
 * [The Mercury News](https://www.mercurynews.com/2020/05/04/california-prediction-artificial-intelligence-driven-model-tracks-coronavirus-infections-deaths/) - May 4
 * [Seattle Times](https://www.seattletimes.com/seattle-news/health/a-second-wave-of-coronavirus-infections-could-begin-in-september-uw-model-suggests/) - Jun 11
@@ -694,6 +703,11 @@ International
 * [Mexico Desconcido](https://www.mexicodesconocido.com.mx/un-cientifico-del-mit-calcula-cuantos-moriran-por-covid-19-en-mexico-y-eu.html) - May 24
 * [Paris Match (France)](https://www.parismatch.com/Actu/International/Coronavirus-dans-19-Etats-americains-les-contaminations-augmentent-toujours-1689046) - Jun 10
 * [Outlook India](https://www.outlookindia.com/newsscroll/concerned-over-how-quickly-covid19-cases-are-rising-in-india-indianorigin-expert/1872706) - Jun 21
+
+Others
+* [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)
+* [FiveThirtyEight](https://projects.fivethirtyeight.com/covid-forecasts/)
+* [California COVID Assessment Tool](https://calcat.covid19.ca.gov/cacovidmodels/)
 
 [Back to Top](#top)
 
