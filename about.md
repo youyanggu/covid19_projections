@@ -673,6 +673,7 @@ Magazines/General News
 * [Reason](https://reason.com/2020/05/01/covid-19-modeling-how-many-coronavirus-deaths-by-the-end-of-summer/) - May 1
 
 Local
+* [The Advocate (NOLA)](https://www.nola.com/news/coronavirus/article_ab2aaae8-f2f8-11ea-9dce-c71905235ea5.html) - Sep 10
 * [Washington Examiner](https://www.washingtonexaminer.com/news/the-six-states-at-risk-of-covid-19-surges) - Aug 19
 * [Milwaukee Journal Sentinel](https://www.jsonline.com/story/news/2020/08/17/what-wisconsin-covid-19-data-deaths-cases-hospitalizations-means/3301480001/) - Aug 17
 * [Miami Herald](https://www.miamiherald.com/news/coronavirus/article244930467.html) - Aug 14
