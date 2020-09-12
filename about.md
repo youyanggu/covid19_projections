@@ -7,7 +7,7 @@ permalink: /about/
 ## Table of contents
 * [About the Model](#about-the-model)
 * [How Our Model is Different](#how-our-model-is-different)
-* [Historical Performance **(Updated August 31)**](#historical-performance)
+* [Historical Performance **(Updated September 5)**](#historical-performance)
   * [Baseline Comparison](#baseline-comparison-c19pro-vs-ihme)
   * [Late June US Projection](#late-june-us-projection)
   * [Late May Projections](#late-may-projections)
@@ -125,15 +125,15 @@ Because US country-wide projections only contains a single forecast per week, th
 
 ![4 week ahead US comparison](/assets/images/4_week_ahead_us.png)
 
-### Evaluation of past US state-by-state projections on reported deaths as of August 29
+### Evaluation of past US state-by-state projections on reported deaths as of September 5
 
 This is a metric that shows the *recent accuracy* of model projections.
 
-![States comparison](/assets/images/2020-08-29_comparison_states.png)
+![States comparison](/assets/images/2020-09-05_comparison_states.png)
 
-### Evaluation of past US nationwide projections on reported deaths as of August 29
+### Evaluation of past US nationwide projections on reported deaths as of September 5
 
-![US comparison](/assets/images/2020-08-29_comparison_us.png)
+![US comparison](/assets/images/2020-09-05_comparison_us.png)
 
 [Back to Top](#top)
 
