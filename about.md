@@ -7,7 +7,7 @@ permalink: /about/
 ## Table of contents
 * [About the Model](#about-the-model)
 * [How Our Model is Different](#how-our-model-is-different)
-* [Historical Performance **(Updated September 5)**](#historical-performance)
+* [Historical Performance **(Updated September 14)**](#historical-performance)
   * [Baseline Comparison](#baseline-comparison-c19pro-vs-ihme)
   * [Late June US Projection](#late-june-us-projection)
   * [Late May Projections](#late-may-projections)
@@ -105,7 +105,7 @@ You can also directly access our [US](/#view-projections) and [global](/#global-
 
 ## Historical Performance
 
-*Last Updated:* August 31
+*Last Updated:* September 14
 
 A model isn't very useful if it's not accurate. Below is our analysis on how various models considered by the CDC have performed over the past few weeks. Because the CDC receives weekly projections from every Monday, we use projections from past Mondays to evaluate the models.
 
@@ -125,15 +125,15 @@ Because US country-wide projections only contains a single forecast per week, th
 
 ![4 week ahead US comparison](/assets/images/4_week_ahead_us.png)
 
-### Evaluation of past US state-by-state projections on reported deaths as of September 5
+### Evaluation of past US state-by-state projections on reported deaths as of September 12
 
 This is a metric that shows the *recent accuracy* of model projections.
 
-![States comparison](/assets/images/2020-09-05_comparison_states.png)
+![States comparison](/assets/images/2020-09-12_comparison_states.png)
 
-### Evaluation of past US nationwide projections on reported deaths as of September 5
+### Evaluation of past US nationwide projections on reported deaths as of September 12
 
-![US comparison](/assets/images/2020-09-05_comparison_us.png)
+![US comparison](/assets/images/2020-09-12_comparison_us.png)
 
 [Back to Top](#top)
 
