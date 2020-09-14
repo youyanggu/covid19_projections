@@ -638,6 +638,7 @@ To conclude, we believe that a successful model must be able to quickly determin
 ### Media
 
 National
+* [Business Insider](https://www.businessinsider.com/us-states-unintentional-herd-immunity-strategy-curbed-covid-spread-2020-8) - Sep 12
 * [The Atlantic](https://www.theatlantic.com/health/archive/2020/09/pandemic-intuition-nightmare-spiral-winter/616204/) - Sep 9
 * [Yahoo News](https://news.yahoo.com/a-new-covid-19-forecast-predicts-more-than-400000-deaths-by-the-end-of-2020-will-the-fall-wave-really-be-that-big-215402962.html) - Sep 9
 * [CNBC](https://www.cnbc.com/2020/09/04/key-coronavirus-forecast-predicts-over-410000-total-us-deaths-by-jan-1.html) - Sep 4
