@@ -48,6 +48,11 @@ The charts below represent past state-by-state and US projections evaluated on c
 * While past performance is not necessarily indicative of future performance, we believe it's important to consider a model's historical accuracy and not just a model's future forecasts and/or the creator's name recognition. It is also important to make sure that a model can perform better than the baseline.
 * We welcome and encourage independent model evaluations. See [here](https://twitter.com/FelixHoenikker_/status/1262517002507182080) for an evaluation from a PhD data scientist at NASA Ames.
 
+### Errata
+
+* Prior to September 15, our 2+ week target calculations for models with only incident deaths forecasts were incorrect. This included the following models: CMU, LNQ, STH. This has since been retroactively corrected on the GitHub repository, but are not reflected in the below charts (before Sep 15).
+* Prior to June 20, the YYG model was the top row by default.
+
 [Back to Top](#top)
 
 ## 4 Week Ahead
