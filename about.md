@@ -153,7 +153,7 @@ We compare our current projections to that of the Institute for Health Metrics a
 
 ## CDC Projections Over Time
 
-Below, we show our CDC projections over time.
+Below, we present our weekly CDC projections over time.
 
 {% include iframe_cdc_comparison.html %}
 
@@ -162,6 +162,8 @@ Below, we show our CDC projections over time.
 ## Historical US Projections
 
 Below, we show how our (C19Pro) August 4 and November 1 projections for the US has changed over time, compared to IHME. To see our full current US projections, click [here](/us).
+
+To view additional comparison plots with IHME, click [here](/model-comparison-ihme).
 
 {% include iframe_historical.html %}
 
