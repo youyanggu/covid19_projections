@@ -7,10 +7,11 @@ permalink: /about/
 ## Table of contents
 * [About the Model](#about-the-model)
 * [How Our Model is Different](#how-our-model-is-different)
-* [Historical Performance **(Updated September 14)**](#historical-performance)
+* [Historical Performance **(Updated Sep 14)**](#historical-performance)
+* [Comparison of Late August US Projections **(New Sep 15)**](#comparison-of-late-august-us-projections)
 * [Comparison of Current US Projections *(Updated Daily)*](#comparison-of-current-us-projections)
-* [CDC Projections Over Time](#cdc-projections-over-time)
 * [Historical US Projections *(Updated Daily)*](#historical-us-projections)
+* [CDC Projections Over Time](#cdc-projections-over-time)
 * [Data and Output](#data-and-output)
 * [Assumptions](#assumptions)
   * [Confidence Intervals](#confidence-intervals)
@@ -142,17 +143,19 @@ This is a metric that shows the *recent accuracy* of model projections.
 
 [Back to Top](#top)
 
+## Comparison of Late August US Projections
+
+Below, we show our August 27 forecasts compared with IHME's August 27 forecasts. To view additional comparison plots with IHME, click [here](/model-comparison-ihme).
+
+{% include iframe_ihme_comparison_aug27.html %}
+
+[Back to Top](#top)
+
 ## Comparison of Current US Projections
 
 We compare our current projections to that of the Institute for Health Metrics and Evaluation (IHME). To see our full US projections, click [here](/us).
 
 {% include iframe_current.html %}
-
-## CDC Projections Over Time
-
-Below, we present our weekly CDC projections over time.
-
-{% include iframe_cdc_comparison.html %}
 
 [Back to Top](#top)
 
@@ -162,8 +165,15 @@ Below, we show how our (C19Pro) August 4 and November 1 projections for the US h
 
 To view additional comparison plots with IHME, click [here](/model-comparison-ihme).
 
-{% include iframe_ihme_comparison_aug27.html %}
 {% include iframe_historical.html %}
+
+[Back to Top](#top)
+
+## CDC Projections Over Time
+
+Below, we present our weekly CDC projections over time.
+
+{% include iframe_cdc_comparison.html %}
 
 [Back to Top](#top)
 
