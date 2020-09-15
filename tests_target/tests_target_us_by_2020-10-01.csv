@@ -1,57 +1,57 @@
 country,region,subregion,tests_needed_per_day
-US,,,1071517
+US,,,1083793
 US,Alaska,,2304
-US,Alabama,,22454
+US,Alabama,,22163
 US,Arkansas,,23516
-US,Arizona,,7142
-US,California,,178346
-US,Colorado,,6647
-US,Connecticut,,2317
+US,Arizona,,7128
+US,California,,188371
+US,Colorado,,6686
+US,Connecticut,,2363
 US,District of Columbia,,1136
-US,Delaware,,2218
-US,Florida,,64581
-US,Georgia,,37799
-US,Guam,,1228
-US,Hawaii,,3294
+US,Delaware,,2238
+US,Florida,,64278
+US,Georgia,,37845
+US,Guam,,1340
+US,Hawaii,,3261
 US,Iowa,,20705
-US,Idaho,,9485
-US,Illinois,,34631
-US,Indiana,,19510
-US,Kansas,,14765
-US,Kentucky,,23985
-US,Louisiana,,15319
-US,Massachusetts,,7023
-US,Maryland,,13299
+US,Idaho,,9458
+US,Illinois,,34320
+US,Indiana,,19490
+US,Kansas,,15022
+US,Kentucky,,24057
+US,Louisiana,,15312
+US,Massachusetts,,7016
+US,Maryland,,13293
 US,Maine,,931
-US,Michigan,,17306
-US,Minnesota,,19668
-US,Missouri,,27423
+US,Michigan,,17431
+US,Minnesota,,19563
+US,Missouri,,27443
 US,Northern Mariana Islands,,47
-US,Mississippi,,8673
-US,Montana,,5518
-US,North Carolina,,55843
-US,North Dakota,,5089
-US,Nebraska,,8396
+US,Mississippi,,8666
+US,Montana,,5472
+US,North Carolina,,55784
+US,North Dakota,,5096
+US,Nebraska,,8409
 US,New Hampshire,,726
-US,New Jersey,,4805
+US,New Jersey,,4832
 US,New Mexico,,4792
-US,Nevada,,10026
-US,New York,,8270
-US,Ohio,,46115
-US,Oklahoma,,20658
-US,Oregon,,8844
-US,Pennsylvania,,18137
-US,Puerto Rico,,21576
-US,Rhode Island,,2297
-US,South Carolina,,21827
-US,South Dakota,,5591
-US,Tennessee,,50669
-US,Texas,,95410
-US,Utah,,8204
-US,Virginia,,32037
+US,Nevada,,10019
+US,New York,,8343
+US,Ohio,,46068
+US,Oklahoma,,20163
+US,Oregon,,8772
+US,Pennsylvania,,18632
+US,Puerto Rico,,21398
+US,Rhode Island,,2310
+US,South Carolina,,21609
+US,South Dakota,,5366
+US,Tennessee,,50471
+US,Texas,,95100
+US,Utah,,8303
+US,Virginia,,35429
 US,Virgin Islands,,383
 US,Vermont,,396
-US,Washington,,14375
-US,Wisconsin,,22843
-US,West Virginia,,11636
+US,Washington,,14448
+US,Wisconsin,,22777
+US,West Virginia,,12032
 US,Wyoming,,1320

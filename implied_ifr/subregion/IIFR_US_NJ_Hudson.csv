@@ -235,3 +235,4 @@ date,Province_State,Country_Region,Combined_Key,Confirmed,Deaths,daily_deaths,da
 2020-09-11,New Jersey,US,"Hudson, New Jersey, US",20344,1512,0.0,15.0,16.714285714285715,0.42857142857142855
 2020-09-12,New Jersey,US,"Hudson, New Jersey, US",20362,1512,0.0,18.0,17.0,0.14285714285714285
 2020-09-13,New Jersey,US,"Hudson, New Jersey, US",20371,1512,0.0,9.0,15.714285714285714,0.14285714285714285
+2020-09-14,New Jersey,US,"Hudson, New Jersey, US",20385,1512,0.0,14.0,14.142857142857142,0.0
