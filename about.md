@@ -162,6 +162,7 @@ Below, we show how our (C19Pro) August 4 and November 1 projections for the US h
 
 To view additional comparison plots with IHME, click [here](/model-comparison-ihme).
 
+{% include iframe_ihme_comparison_aug27.html %}
 {% include iframe_historical.html %}
 
 [Back to Top](#top)
