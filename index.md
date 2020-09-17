@@ -17,7 +17,7 @@ On this page:
 For regular updates and insights, follow us on Twitter:<br>
 <a href="https://twitter.com/youyanggu" class="twitter-follow-button" data-show-count="false">@youyanggu</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-* **September 15:** [Weekly Update on Twitter](https://twitter.com/youyanggu/status/1305937870075703296). See how well our US forecasts from late August [have performed](/about/#comparison-of-late-august-us-projections).
+* **September 15:** [Weekly Update on Twitter](https://twitter.com/youyanggu/status/1305937870075703296).
 * **September 14:** View our [updated historical performance](/about/#historical-performance).
 * *August 27*: See a comprehensive list of our past Twitter threads [here](/about/#twitter-threads).
 * *August 25:* In our update this week, we've lowered our projection for additional deaths in the US by ~10% due to the steady decrease in cases and hospitalizations nationally. See our [Twitter thread](https://twitter.com/youyanggu/status/1298297201626685441). We are now also displaying Rt estimates for the future, as well as daily deaths per 1M (on hover).
