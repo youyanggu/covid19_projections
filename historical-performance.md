@@ -50,7 +50,7 @@ The charts below represent past state-by-state and US projections evaluated on c
 
 ### Errata
 
-* Prior to September 15, our 2+ week target calculations for models with only incident deaths forecasts were incorrect. This included the following models: CMU, LNQ, STH. This has since been retroactively corrected on the GitHub repository, but are not reflected in the charts dated before September 15.
+* Prior to September 12, our 2+ week target calculations for models with only incident deaths forecasts were incorrect. This included the following models: CMU, LNQ, STH. This has since been retroactively corrected on the GitHub repository, but are not reflected in the charts dated before September 12.
 * Prior to June 20, the YYG model was the top row by default. Other than that, the ordering follows the mean weekly ranks.
 
 [Back to Top](#top)
