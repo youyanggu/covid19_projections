@@ -237,3 +237,4 @@ date,Province_State,Country_Region,Combined_Key,Confirmed,Deaths,daily_deaths,da
 2020-09-13,Florida,US,"Palm Beach, Florida, US",44025,1196,0.0,152.0,136.85714285714286,4.285714285714286
 2020-09-14,Florida,US,"Palm Beach, Florida, US",44139,1199,3.0,114.0,136.0,4.428571428571429
 2020-09-15,Florida,US,"Palm Beach, Florida, US",44305,1216,17.0,166.0,142.28571428571428,6.571428571428571
+2020-09-16,Florida,US,"Palm Beach, Florida, US",44459,1234,18.0,154.0,148.14285714285714,8.0
