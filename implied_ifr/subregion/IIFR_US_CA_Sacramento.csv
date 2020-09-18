@@ -238,3 +238,4 @@ date,Province_State,Country_Region,Combined_Key,Confirmed,Deaths,daily_deaths,da
 2020-09-14,California,US,"Sacramento, California, US",20435,356,6.0,251.0,186.71428571428572,4.142857142857143
 2020-09-15,California,US,"Sacramento, California, US",20545,358,2.0,110.0,155.0,3.4285714285714284
 2020-09-16,California,US,"Sacramento, California, US",20660,364,6.0,115.0,162.28571428571428,3.5714285714285716
+2020-09-17,California,US,"Sacramento, California, US",20961,371,7.0,301.0,184.57142857142858,3.5714285714285716
