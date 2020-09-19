@@ -239,3 +239,4 @@ date,Province_State,Country_Region,Combined_Key,Confirmed,Deaths,daily_deaths,da
 2020-09-15,Michigan,US,"Wayne, Michigan, US",33653,2946,4.0,142.0,182.42857142857142,7.0
 2020-09-16,Michigan,US,"Wayne, Michigan, US",33790,2949,3.0,137.0,167.0,2.857142857142857
 2020-09-17,Michigan,US,"Wayne, Michigan, US",33948,2951,2.0,158.0,156.57142857142858,1.7142857142857142
+2020-09-18,Michigan,US,"Wayne, Michigan, US",34034,2951,0.0,86.0,131.57142857142858,1.5714285714285714
