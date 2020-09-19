@@ -51,7 +51,7 @@ Last updated: September 19, 2020
 
 |   US deaths surpass: |   Most likely date: |
 |----------------------|---------------------|
-|              200,000 |        Sep 21, 2020 |
+|              200,000 |        Sep 22, 2020 |
 
 <br>
 
