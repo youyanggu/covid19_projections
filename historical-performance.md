@@ -15,6 +15,7 @@ We have open-sourced the code and output used to generate these evaluations [her
 The charts below represent past state-by-state and US projections evaluated on cumulative deaths on the specified evaluation date (June 20, June 13, etc). As the charts may be outdated, please consult our [evaluation page](https://github.com/youyanggu/covid19-forecast-hub-evaluation) for the latest data.
 
 * [4 Week Ahead](#4-week-ahead)
+* [September 19](#september-19)
 * [September 12](#september-12)
 * [September 5](#september-5)
 * [August 29](#august-29)
@@ -48,7 +49,7 @@ The charts below represent past state-by-state and US projections evaluated on c
 * While past performance is not necessarily indicative of future performance, we believe it's important to consider a model's historical accuracy and not just a model's future forecasts and/or the creator's name recognition. It is also important to make sure that a model can perform better than the baseline.
 * We welcome and encourage independent model evaluations. See [here](https://twitter.com/FelixHoenikker_/status/1262517002507182080) for an evaluation from a PhD data scientist at NASA Ames.
 
-### Errata
+### Additional Notes
 
 * Prior to September 12, our 2+ week target calculations for models with only incident deaths forecasts were incorrect. This included the following models: CMU, LNQ, STH. This has since been retroactively corrected on the GitHub repository, but are not reflected in the charts dated before September 12.
 * Prior to June 20, the YYG model was the top row by default. Other than that, the ordering follows the mean weekly ranks.
@@ -64,6 +65,16 @@ The charts below represent past state-by-state and US projections evaluated on c
 ### US projections
 
 ![US comparison](/assets/images/4_week_ahead_us.png)
+
+## September 19
+
+### State-by-state projections
+
+![States comparison](/assets/images/2020-09-19_comparison_states.png)
+
+### US projections
+
+![US comparison](/assets/images/2020-09-19_comparison_us.png)
 
 ## September 12
 
