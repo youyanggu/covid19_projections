@@ -133,7 +133,7 @@ This is a metric that shows the *recent accuracy* of model projections.
 
 [Raw data on GitHub](https://github.com/youyanggu/covid19-forecast-hub-evaluation/blob/master/summary/summary_states_2020-09-19.csv)
 
-![States comparison](/assets/images/2020-09-12_comparison_states.png)
+![States comparison](/assets/images/2020-09-19_comparison_states.png)
 
 ### Evaluation of past US nationwide projections on reported deaths as of September 19
 
