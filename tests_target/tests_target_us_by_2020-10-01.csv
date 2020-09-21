@@ -1,57 +1,57 @@
 country,region,subregion,tests_needed_per_day
-US,,,1347456
-US,Alaska,,1736
-US,Alabama,,23120
-US,Arkansas,,24249
-US,Arizona,,20111
-US,California,,196073
-US,Colorado,,9683
-US,Connecticut,,2541
-US,District of Columbia,,1221
+US,,,1342388
+US,Alaska,,1716
+US,Alabama,,22988
+US,Arkansas,,23952
+US,Arizona,,20269
+US,California,,192965
+US,Colorado,,10527
+US,Connecticut,,2555
+US,District of Columbia,,1215
 US,Delaware,,2376
-US,Florida,,107838
-US,Georgia,,63737
-US,Guam,,2449
-US,Hawaii,,9108
-US,Iowa,,20190
-US,Idaho,,9478
-US,Illinois,,36102
-US,Indiana,,20289
-US,Kansas,,18956
-US,Kentucky,,24704
-US,Louisiana,,18197
-US,Massachusetts,,7643
-US,Maryland,,13616
-US,Maine,,1551
-US,Michigan,,16454
-US,Minnesota,,20863
-US,Missouri,,29212
+US,Florida,,107052
+US,Georgia,,62403
+US,Guam,,2363
+US,Hawaii,,8752
+US,Iowa,,19609
+US,Idaho,,9425
+US,Illinois,,35581
+US,Indiana,,20229
+US,Kansas,,19239
+US,Kentucky,,24618
+US,Louisiana,,18309
+US,Massachusetts,,7617
+US,Maryland,,13596
+US,Maine,,1538
+US,Michigan,,16045
+US,Minnesota,,20731
+US,Missouri,,32162
 US,Northern Mariana Islands,,47
-US,Mississippi,,14738
-US,Montana,,6719
-US,North Carolina,,59909
-US,North Dakota,,8369
-US,Nebraska,,8250
+US,Mississippi,,14685
+US,Montana,,6356
+US,North Carolina,,59493
+US,North Dakota,,7940
+US,Nebraska,,8237
 US,New Hampshire,,1175
-US,New Jersey,,4990
+US,New Jersey,,5016
 US,New Mexico,,8046
-US,Nevada,,15623
-US,New York,,11260
-US,Ohio,,47666
-US,Oklahoma,,19992
-US,Oregon,,12897
-US,Pennsylvania,,20196
-US,Puerto Rico,,25945
-US,Rhode Island,,2396
-US,South Carolina,,34452
-US,South Dakota,,7518
-US,Tennessee,,52246
-US,Texas,,153391
-US,Utah,,7716
-US,Virginia,,48286
-US,Virgin Islands,,568
-US,Vermont,,542
-US,Washington,,23985
-US,Wisconsin,,33713
-US,West Virginia,,13689
-US,Wyoming,,1650
+US,Nevada,,15477
+US,New York,,11418
+US,Ohio,,47474
+US,Oklahoma,,21490
+US,Oregon,,13115
+US,Pennsylvania,,22374
+US,Puerto Rico,,25212
+US,Rhode Island,,3333
+US,South Carolina,,34459
+US,South Dakota,,7610
+US,Tennessee,,51335
+US,Texas,,152355
+US,Utah,,7663
+US,Virginia,,48504
+US,Virgin Islands,,561
+US,Vermont,,522
+US,Washington,,23886
+US,Wisconsin,,33779
+US,West Virginia,,11392
+US,Wyoming,,1624

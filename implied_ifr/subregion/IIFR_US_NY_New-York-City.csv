@@ -241,3 +241,4 @@ date,Province_State,Country_Region,Combined_Key,Confirmed,Deaths,daily_deaths,da
 2020-09-17,New York,US,"New York City, New York, US",238958,23750,5.0,333.0,282.14285714285717,3.857142857142857
 2020-09-18,New York,US,"New York City, New York, US",239306,23756,6.0,348.0,293.42857142857144,4.571428571428571
 2020-09-19,New York,US,"New York City, New York, US",239798,23755,-1.0,492.0,320.0,3.857142857142857
+2020-09-20,New York,US,"New York City, New York, US",240196,23761,6.0,398.0,342.0,4.714285714285714
