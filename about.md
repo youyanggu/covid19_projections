@@ -678,6 +678,7 @@ National
 * [CNN](https://www.cnn.com/2020/04/28/health/georgia-coronavirus-death-projections/index.html) - Apr 28
 
 Magazines/General News
+* [IEEE Spectrum](https://spectrum.ieee.org/artificial-intelligence/medical-ai/why-modeling-the-spread-of-covid19-is-so-damn-hard) - Sep 22
 * [The Street](https://www.thestreet.com/lifestyle/health/u-s-covid-cases-quickly-approach-6-million) - Aug 30
 * [Our World in Data](https://ourworldindata.org/covid-models) - Aug 24
 * [New York Magazine](https://nymag.com/intelligencer/2020/08/the-human-cost-of-the-pandemic-may-dwarf-its-death-toll.html) - Aug 17
