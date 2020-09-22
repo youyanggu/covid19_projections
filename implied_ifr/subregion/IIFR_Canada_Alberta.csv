@@ -242,3 +242,4 @@ date,Province_State,Country_Region,Combined_Key,Confirmed,Deaths,daily_deaths,da
 2020-09-18,Alberta,Canada,"Alberta, Canada",16381,255,1.0,107.0,138.0,0.2857142857142857
 2020-09-19,Alberta,Canada,"Alberta, Canada",16381,255,0.0,0.0,138.0,0.2857142857142857
 2020-09-20,Alberta,Canada,"Alberta, Canada",16381,255,0.0,0.0,138.0,0.2857142857142857
+2020-09-21,Alberta,Canada,"Alberta, Canada",16739,256,1.0,358.0,129.42857142857142,0.2857142857142857
