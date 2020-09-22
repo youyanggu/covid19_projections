@@ -730,6 +730,7 @@ International
 Others
 * [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)
 * [FiveThirtyEight](https://projects.fivethirtyeight.com/covid-forecasts/)
+* [Our World in Data](https://ourworldindata.org/covid-models)
 * [California COVID Assessment Tool](https://calcat.covid19.ca.gov/cacovidmodels/)
 
 [Back to Top](#top)
