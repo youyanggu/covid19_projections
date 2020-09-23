@@ -28,8 +28,8 @@ For regular updates and insights, follow us on Twitter:<br>
 ## Current US Projections
 ### Updated Daily - Last Updated: September 23 (4am ET):
 <p align="center">
-  Current Total: <b>199,862</b> deaths | Projected Total: <b>223,000 deaths by Nov 1, 2020</b> (Range: 213-238k)<br>
-  Currently Infected: <b>1.0%</b> (1 in 105) | Total Infected: <b>15.7%</b> (1 in 6) {% include iframe.html %}
+  Current Total: <b>200,783</b> deaths | Projected Total: <b>223,400 deaths by Nov 1, 2020</b> (Range: 214-238k)<br>
+  Currently Infected: <b>1.0%</b> (1 in 105) | Total Infected: <b>15.8%</b> (1 in 6) {% include iframe.html %}
 </p>
 
 [Back to Top](#top)
