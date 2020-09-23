@@ -732,6 +732,7 @@ Others
 * [FiveThirtyEight](https://projects.fivethirtyeight.com/covid-forecasts/)
 * [Our World in Data](https://ourworldindata.org/covid-models)
 * [California COVID Assessment Tool](https://calcat.covid19.ca.gov/cacovidmodels/)
+* [Wikipedia](https://en.wikipedia.org/wiki/Youyang_Gu_COVID_model)
 
 [Back to Top](#top)
 
