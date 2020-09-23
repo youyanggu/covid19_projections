@@ -666,11 +666,13 @@ National
 * [NPR](https://www.npr.org/sections/health-shots/2020/06/12/876224115/coronavirus-second-wave-nope-were-still-stuck-in-the-first-one) - Jun 11
 * [CNN](https://www.cnn.com/2020/06/08/health/florida-coronavirus-cases-update/index.html) - Jun 8
 * [The Economist](https://www.economist.com/graphic-detail/2020/05/23/early-projections-of-covid-19-in-america-underestimated-its-severity) - May 21
+* [The Wall Street Journal](https://www.wsj.com/articles/states-dont-agree-on-how-to-determine-when-it-is-safe-to-reopen-11590075635) - May 21
 * [New York Times](https://www.nytimes.com/interactive/2020/05/12/upshot/coronavirus-models.html) - May 12
 * [NPR](https://www.npr.org/sections/health-shots/2020/05/07/851610771/u-s-coronavirus-testing-still-falls-short-hows-your-state-doing) - May 7
 * [MarketWatch](https://www.marketwatch.com/story/will-some-people-be-affected-badly-yes-trump-says-us-must-reopen-coronavirus-deaths-projected-to-hit-100000-in-weeks-2020-05-06) - May 6
 * [CNN](https://www.cnn.com/2020/05/05/health/states-early-reopening-impact/index.html) - May 5
 * [New York Times](https://www.nytimes.com/2020/05/05/us/coronavirus-deaths-cases-united-states.html) - May 5
+* [The Wall Street Journal](https://www.wsj.com/articles/the-tricky-math-behind-coronavirus-death-predictions-11588719034) - May 5
 * [USA Today](https://www.usatoday.com/story/news/nation/2020/05/01/coronavirus-us-may-hit-10000-deaths-record-cases-may/3062216001/) - May 1
 * [StatNews](https://www.statnews.com/2020/04/30/coronavirus-death-projections-compare-causes-of-death) - Apr 30
 * [TheHill](https://thehill.com/changing-america/well-being/prevention-cures/495459-reopening-georgia-could-lead-to-a-doubling-of) - Apr 30
