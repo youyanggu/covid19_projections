@@ -421,6 +421,8 @@ Due to the fast-paced environment of COVID-19 developments and our limited team 
 
 ### Projections updates
 
+[September 22](https://twitter.com/youyanggu/status/1308498742451015680)<br>
+[September 15](https://twitter.com/youyanggu/status/1305937870075703296)<br>
 [September 9](https://twitter.com/youyanggu/status/1303784487030063110)<br>
 [September 1](https://twitter.com/youyanggu/status/1300881541468483586)<br>
 [August 25](https://twitter.com/youyanggu/status/1298297201626685441)<br>
@@ -476,6 +478,7 @@ In this section we will compare our projections with a popular model developed b
 
 We present a series of Tweets highlighting the issues with the IHME model:
 
+[Sep 15](https://twitter.com/youyanggu/status/1305937874194440192)<br>
 [Sep 11](https://twitter.com/youyanggu/status/1301915424456609793)<br>
 [July 3](https://twitter.com/youyanggu/status/1279096904807256064)<br>
 [June 29](https://twitter.com/youyanggu/status/1277679302797033475)<br>
