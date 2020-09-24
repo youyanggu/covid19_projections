@@ -33,6 +33,7 @@ permalink: /about/
   * [State Reopening Timeline](#state-reopening-timeline)
 * [Media Coverage](#online-coverage)
 * [Who We Are](#who-we-are)
+* [How to Cite](#how-to-cite)
 * [Updates](#updates)
 
 ## About the Model
@@ -744,6 +745,12 @@ Others
 ## Who We Are
 
 *[covid19-projections.com](/)* is made by Youyang Gu, an independent data scientist. Youyang completed his Bachelor's degree at the Massachusetts Institute of Technology (MIT), double majoring in Electrical Engineering & Computer Science and Mathematics. He also received his Master's degree at MIT, completing his thesis as part of the [Natural Language Processing group](http://nlp.csail.mit.edu/) at the [MIT Computer Science & Artificial Intelligence Laboratory](https://www.csail.mit.edu/). His expertise is in using machine learning to understand data and make accurate predictions. You can contact him [on Twitter](https://twitter.com/youyanggu) or by using the [Contact](/contact) page.
+
+[Back to Top](#top)
+
+## How to Cite
+
+`Gu, Y. COVID-19 projections using machine learning. https://covid19-projections.com. Accessed <ACCESS_DATE>.`
 
 [Back to Top](#top)
 
