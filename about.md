@@ -6,6 +6,7 @@ permalink: /about/
 
 ## Table of contents
 * [About the Model](#about-the-model)
+* [Who We Are](#who-we-are)
 * [How Our Model is Different](#how-our-model-is-different)
 * [Historical Performance **(Updated Sep 20)**](#historical-performance)
 * [Comparison of Late August US Projections *(Updated Daily)*](#comparison-of-late-august-us-projections)
@@ -32,7 +33,6 @@ permalink: /about/
   * [June 10 Revision *(New Jun 10)*](#june-8-revision)
   * [State Reopening Timeline](#state-reopening-timeline)
 * [Media Coverage](#online-coverage)
-* [Who We Are](#who-we-are)
 * [How to Cite](#how-to-cite)
 * [Updates](#updates)
 
@@ -45,6 +45,14 @@ Our SEIR model is [open source](https://github.com/youyanggu/yyg-seir-simulator)
 The goal of this project is to showcase the strengths of artificial intelligence to tackle one of the world's most difficult problems: predict the track of a pandemic. Here, we use a pure data-driven approach by letting the machine do the learning. We are currently making projections for: the United States, all 50 US states (plus DC, PR, VI, GU, MP) and 70 countries (including all 27 EU countries). Combined, these 71 countries account for >95% of all global COVID-19 deaths. See map below for a visualization of countries we have projections for.
 
 You can also directly access our [US](/#view-projections) and [global](/#global-projections) projections.
+
+[Back to Top](#top)
+
+## Who We Are
+
+*covid19-projections.com* is made by [Youyang Gu](https://youyanggu.com), an independent data scientist. Youyang completed his Bachelor's degree at the Massachusetts Institute of Technology (MIT), double majoring in Electrical Engineering & Computer Science and Mathematics. He also received his Master's degree at MIT, completing his thesis as part of the [Natural Language Processing group](http://nlp.csail.mit.edu/) at the [MIT Computer Science & Artificial Intelligence Laboratory](https://www.csail.mit.edu/). His expertise is in using machine learning to understand data and make accurate predictions. You can contact him [on Twitter](https://twitter.com/youyanggu) or by using the [Contact](/contact) page.
+
+[Back to Top](#top)
 
 ### Additional Links
 
@@ -739,12 +747,6 @@ Others
 * [Our World in Data](https://ourworldindata.org/covid-models)
 * [California COVID Assessment Tool](https://calcat.covid19.ca.gov/cacovidmodels/)
 * [Wikipedia](https://en.wikipedia.org/wiki/Youyang_Gu_COVID_model)
-
-[Back to Top](#top)
-
-## Who We Are
-
-*[covid19-projections.com](/)* is made by [Youyang Gu](https://youyanggu.com), an independent data scientist. Youyang completed his Bachelor's degree at the Massachusetts Institute of Technology (MIT), double majoring in Electrical Engineering & Computer Science and Mathematics. He also received his Master's degree at MIT, completing his thesis as part of the [Natural Language Processing group](http://nlp.csail.mit.edu/) at the [MIT Computer Science & Artificial Intelligence Laboratory](https://www.csail.mit.edu/). His expertise is in using machine learning to understand data and make accurate predictions. You can contact him [on Twitter](https://twitter.com/youyanggu) or by using the [Contact](/contact) page.
 
 [Back to Top](#top)
 
