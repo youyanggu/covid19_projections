@@ -170,7 +170,7 @@ We compare our current projections to that of the Institute for Health Metrics a
 
 ## Historical US Projections
 
-Below, we show how our (C19Pro) August 4 and November 1 projections for the US has changed over time, compared to IHME. To see our full current US projections, click [here](/us).
+Below, we show how our (C19Pro) August 4 and November 1 projections for the US has changed over time, compared to IHME. Note that the true value on August 4 fell within our model's confidence intervals over 90% of the time. To see our current US projections, click [here](/us).
 
 To view additional comparison plots with IHME, click [here](/model-comparison-ihme).
 
