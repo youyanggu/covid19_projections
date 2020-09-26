@@ -1,6 +1,6 @@
-We present an intuitive model that builds machine learning techniques on top of a classic infectious disease model to make COVID-19 infections and deaths projections for the US, all 50 US states, and more than 70 countries. The countries our projections cover encompass 6.4 billion people and account for >95% of all global reported COVID-19 deaths.
+We present an intuitive model that builds machine learning techniques on top of a classic infectious disease model to make COVID-19 projections for infections and deaths for the US, all 50 US states, and more than 70 countries. The countries our projections cover encompass 6.4 billion people and account for more than 95% of all global reported COVID-19 deaths.
 
-Our infections estimate includes all infected individuals of the SARS-CoV-2 virus, not just those that took a COVID-19 test and tested positive. The vast majority of infected individuals in our estimates do not get tested, and thus do not get reported as a positive case. As of August, we estimate the true number of infected individuals in the US is roughly 4-8x higher than the reported cases. See our writeup, [Estimating True Infections](/estimating-true-infections), for a more detailed look into this subject. To get a sense of the number of individuals that are actively infectious, we recommend dividing the *"currently infected"* estimate by 2-4.
+Our infections estimates include all infected individuals of the SARS-CoV-2 virus, not just those that took a COVID-19 test and tested positive. The vast majority of infected individuals in our estimates do not get tested, and thus do not get reported as a positive case. As of August, we estimate the true number of infected individuals in the US is roughly 4-8x higher than the reported cases. See our writeup, [Estimating True Infections](/estimating-true-infections), for a more detailed look into this subject. To get a sense of the number of individuals that are actively infectious, we recommend dividing the *"currently infected"* estimate by 2-4.
 
 On this page:
 * [View US projections](#current-us-projections)
@@ -26,7 +26,7 @@ For regular updates and insights, follow us on Twitter:<br>
 * *June 16:* We have open-sourced our code to [evaluate COVID-19 models](https://github.com/youyanggu/covid19-forecast-hub-evaluation). The goal of this project is to evaluate various models' historical point forecasts in a transparent, rigorous, and non-biased manner.
 
 ## Current US Projections
-### Updated Daily - Last Updated: September 25 (4am ET):
+### Updated Daily - Last Updated: September 26 (2am ET):
 <p align="center">
   Current Total: <b>203,747</b> deaths | Projected Total: <b>227,000 deaths by Nov 1, 2020</b> (Range: 217-242k)<br>
   Currently Infected: <b>1.0%</b> (1 in 100) | Total Infected: <b>15.8%</b> (1 in 6) {% include iframe.html %}
