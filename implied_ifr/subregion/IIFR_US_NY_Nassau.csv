@@ -247,3 +247,4 @@ date,Province_State,Country_Region,Combined_Key,Confirmed,Deaths,daily_deaths,da
 2020-09-23,New York,US,"Nassau, New York, US",46388,2201,0.0,63.0,68.85714285714286,0.2857142857142857
 2020-09-24,New York,US,"Nassau, New York, US",46434,2201,0.0,46.0,63.57142857142857,0.2857142857142857
 2020-09-25,New York,US,"Nassau, New York, US",46505,2201,0.0,71.0,64.71428571428571,0.0
+2020-09-26,New York,US,"Nassau, New York, US",46576,2201,0.0,71.0,60.285714285714285,0.0
