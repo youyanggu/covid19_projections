@@ -248,3 +248,4 @@ date,Province_State,Country_Region,Combined_Key,Confirmed,Deaths,daily_deaths,da
 2020-09-24,Washington,US,"King, Washington, US",21760,759,0.0,110.0,87.42857142857143,1.2857142857142858
 2020-09-25,Washington,US,"King, Washington, US",21866,768,9.0,106.0,86.0,2.4285714285714284
 2020-09-26,Washington,US,"King, Washington, US",21995,768,0.0,129.0,86.71428571428571,2.4285714285714284
+2020-09-27,Washington,US,"King, Washington, US",22103,768,0.0,108.0,92.85714285714286,2.4285714285714284
