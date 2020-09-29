@@ -17,7 +17,7 @@ On this page:
 For regular updates and insights, follow us on Twitter:<br>
 <a href="https://twitter.com/youyanggu" class="twitter-follow-button" data-show-count="false">@youyanggu</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-* **September 28:** After much consideration, we have decided that we will no longer be extending our projections past November 1. Read more about it [here](https://youyanggu.com/blog/six-months-later).
+* **September 28:** We will no longer be extending our projections past November 1. Our last forecast update will be on Monday, October 5. [Read Youyang Gu's blog post](https://youyanggu.com/blog/six-months-later).
 * *September 22:* [Weekly Update on Twitter](https://twitter.com/youyanggu/status/1308498742451015680).
 * *September 20:* View our [updated historical performance](/about/#historical-performance).
 * *August 27*: See a comprehensive list of our past Twitter threads [here](/about/#twitter-threads).
