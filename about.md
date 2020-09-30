@@ -662,6 +662,7 @@ To conclude, we believe that a successful model must be able to quickly determin
 ### Media
 
 National
+* [Business Insider](https://www.businessinsider.com/coronavirus-global-death-toll-may-be-higher-1-million-2020-9) - Sep 29
 * [CNBC](https://www.nbcnews.com/science/science-news/vindicated-covid-19-models-warn-pandemic-far-over-n1240934) - Sep 24
 * [The Hill](https://thehill.com/policy/healthcare/517918-rising-coronavirus-cases-spark-fears-of-harsh-winter) - Sep 24
 * [ProPublica](https://www.propublica.org/article/america-is-about-to-lose-its-200-000th-life-to-coronavirus-how-many-more-have-to-die) - Sep 14
