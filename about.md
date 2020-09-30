@@ -694,6 +694,7 @@ National
 * [CNN](https://www.cnn.com/2020/04/28/health/georgia-coronavirus-death-projections/index.html) - Apr 28
 
 Magazines/General News
+* [Reason](https://reason.com/2020/09/29/is-the-covid-19-herd-immunity-threshold-as-low-as-15-percent/) - Sep 29
 * [IEEE Spectrum](https://spectrum.ieee.org/artificial-intelligence/medical-ai/why-modeling-the-spread-of-covid19-is-so-damn-hard) - Sep 22
 * [The Street](https://www.thestreet.com/lifestyle/health/u-s-covid-cases-quickly-approach-6-million) - Aug 30
 * [New York Magazine](https://nymag.com/intelligencer/2020/08/the-human-cost-of-the-pandemic-may-dwarf-its-death-toll.html) - Aug 17
@@ -733,6 +734,7 @@ Local
 * [The Center Square](https://www.thecentersquare.com/florida/dueling-models-one-says-florida-s-covid-19-peak-has-passed-another-says-worst-to/article_2037bd12-a12d-11ea-b293-6fe15cef2ecb.html) - May 28
 
 International
+* [World Journal (Chinese)](https://www.worldjournal.com/wj/story/121468/4889710) - Sep 26
 * [El Universal (Mexico)](https://www.eluniversal.com.mx/opinion/carlos-m-urzua/mortandad-estimada-debido-al-coronavirus) - Aug 17
 * [La Tercera (Chile)](https://www.latercera.com/la-tercera-pm/noticia/youyang-gu-creador-de-la-plataforma-covid19-projections-creemos-que-el-peak-para-chile-sera-en-los-proximos-30-dias-con-200-a-300-muertes-diarias/JYVJDO5WFZE6LKDODQMSKW2YHY/) - Jun 22
 * [CNN Chile](https://www.cnnchile.com/coronavirus/creador-covid19-projections-estima-22-mil-muertes-chile_20200623/) - Jun 23
