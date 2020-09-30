@@ -264,13 +264,13 @@ Prior to July 22, we assume a very small daily decay in the transmission rate (R
 
 The future is uncertain, and many things can happen between now and fall that will change the trajectory of this epidemic. While we believe a September increase in deaths is [unlikely](https://twitter.com/youyanggu/status/1271395005219745792), we do think it is possible that the rate of transmission may increase as we head towards winter. A few reasons for that include: seasonality of the virus, more time spent indoors, increased mobility as schools reopen and people return to work, and the potential loss of acquired immunity.
 
-We currently assume a 0-0.5% daily increase in the transmission rate (R_t) starting in the end of summer (August). Initially, we randomly sample this value from a triangle distribution in our simulations. This results in a wider confidence interval to account for the increased uncertainty. As more data comes in over time, our machine learning algorithm will be able to better learn this value. It's important to recognize that a fall wave is only a possibility and is not guaranteed.
+We currently assume a 0-0.5% daily increase in the transmission rate (R_t) starting in the end of summer (August). Initially, we randomly sample this value from a triangle distribution in our simulations. This results in a wider confidence interval to account for the increased uncertainty. As more data comes in over time, our machine learning algorithm will be able to better learn this value. It's important to recognize that while a fall wave is very likely, that severity of the wave is still very much uncertain.
+
+We do not explicitly model school reopenings, but as of our late September update, we are incorporating an increase in the infection rate due to school reopenings. It is still unclear to what extent this will translate to deaths.
 
 We are currently not changing the infection fatality rate (IFR) from the summer. But there has been studies ([Kifer et al.](https://www.medrxiv.org/content/10.1101/2020.07.11.20147157v2.full.pdf)) showing that the fatality rate may increase during the winter months due to factors such as lower indoor humidity.
 
 Because our point estimates are mean estimates rather than median estimates, it is possible for our Rt mean estimates to remain below 1 while the new infections mean estimates increase (due to the skewness of the distribution).
-
-*Note: We currently do not explicitly model school reopenings. This is a situation we will continue to monitor. We believe it is possible that we will see an increase in infections due to school reopenings, but it is unclear to what extent this will translate to deaths.*
 
 [Back to Top](#top)
 
