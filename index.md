@@ -17,8 +17,8 @@ On this page:
 For regular updates and insights, follow us on Twitter:<br>
 <a href="https://twitter.com/youyanggu" class="twitter-follow-button" data-show-count="false">@youyanggu</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-* **September 28 - MAJOR UPDATE:** We will no longer be extending our projections past November 1. Our last forecast update will be on Monday, October 5. [Read Youyang Gu's blog post](https://youyanggu.com/blog/six-months-later). Thank you for your support over the past six months.
-* *September 30:* [Weekly Update on Twitter](https://twitter.com/youyanggu/status/1311384211983675397).
+* **September 28 - MAJOR ANNOUNCEMENT:** We will no longer be extending our projections past November 1. Our last forecast update will be on Monday, October 5. [Read Youyang Gu's blog post](https://youyanggu.com/blog/six-months-later). Thank you for your support over the past six months.
+* **September 30:** [Weekly Update on Twitter](https://twitter.com/youyanggu/status/1311384211983675397).
 * *September 29:* View our [updated historical performance](/about/#historical-performance).
 * *August 27*: See a comprehensive list of our past Twitter threads [here](/about/#twitter-threads).
 * *August 10:* See our [new findings](https://twitter.com/youyanggu/status/1292898685173534722) regarding the role of immunity, behavior, and interventions in the spread of COVID-19. We use Louisiana as a case study.
