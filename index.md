@@ -27,10 +27,10 @@ For regular updates and insights, follow us on Twitter:<br>
 * *June 16:* We have open-sourced our code to [evaluate COVID-19 models](https://github.com/youyanggu/covid19-forecast-hub-evaluation). The goal of this project is to evaluate various models' historical point forecasts in a transparent, rigorous, and non-biased manner.
 
 ## Current US Projections
-### Updated Daily - Last Updated: October 1 (3am ET):
+### Updated Daily - Last Updated: October 1 (4pm ET):
 <p align="center">
-  Current Total: <b>206,929</b> deaths | Projected Total: <b>230,600 deaths by Nov 1, 2020</b> (Range: 220-248k)<br>
-  Currently Infected: <b>1.2%</b> (1 in 90) | Total Infected: <b>16.0%</b> (1 in 6) {% include iframe.html %}
+  Current Total: <b>206,929</b> deaths | Projected Total: <b>230,800 deaths by Nov 1, 2020</b> (Range: 220-248k)<br>
+  Currently Infected: <b>1.2%</b> (1 in 90) | Total Infected: <b>15.8%</b> (1 in 6) {% include iframe.html %}
 </p>
 
 [Back to Top](#top)
@@ -50,7 +50,7 @@ Last updated: October 1, 2020
 
 |   US deaths surpass: |   By Oct 1 |   By Oct 15 |   By Nov 1 |
 |----------------------|------------|-------------|------------|
-|              225,000 |        <1% |          1% |        70% |
+|              225,000 |        <1% |          1% |        72% |
 |              250,000 |        <1% |         <1% |         2% |
 |              275,000 |        <1% |         <1% |        <1% |
 |              300,000 |        <1% |         <1% |        <1% |
@@ -156,13 +156,13 @@ States are ordered by descending projected deaths (by November 1).
 
 |                                    |   Current Deaths |   Projected Deaths - Mean |   Projected Deaths / 1M |   Additional Deaths - Mean |   Additional Deaths / 1M |   Additional Deaths (% of Current Deaths) |   Projected Deaths - 2.5th Percentile |   Projected Deaths - 97.5th Percentile |
 |------------------------------------|------------------|---------------------------|-------------------------|----------------------------|--------------------------|-------------------------------------------|---------------------------------------|----------------------------------------|
-|             *[United States](/us)* |          206,929 |                   230,648 |                     695 |                     23,719 |                       71 |                                       11% |                               220,101 |                                247,770 |
+|             *[United States](/us)* |          206,929 |                   230,814 |                     696 |                     23,885 |                       72 |                                       12% |                               220,203 |                                247,934 |
 |                 [New York](/us-ny) |           33,153 |                    33,555 |                   1,725 |                        402 |                       21 |                                        1% |                                33,164 |                                 35,605 |
 |                    [Texas](/us-tx) |           16,016 |                    18,764 |                     647 |                      2,748 |                       95 |                                       17% |                                17,141 |                                 21,421 |
 |               [California](/us-ca) |           15,885 |                    18,338 |                     464 |                      2,453 |                       62 |                                       15% |                                16,486 |                                 22,426 |
 |                  [Florida](/us-fl) |           14,317 |                    17,284 |                     805 |                      2,967 |                      138 |                                       21% |                                15,437 |                                 20,365 |
 |               [New Jersey](/us-nj) |           16,122 |                    16,378 |                   1,844 |                        256 |                       29 |                                        2% |                                16,130 |                                 17,203 |
-|            [Massachusetts](/us-ma) |            9,456 |                     9,811 |                   1,412 |                        355 |                       51 |                                        4% |                                 9,469 |                                 10,709 |
+|            [Massachusetts](/us-ma) |            9,456 |                     9,978 |                   1,436 |                        522 |                       75 |                                        6% |                                 9,484 |                                 10,841 |
 |                 [Illinois](/us-il) |            8,916 |                     9,634 |                     760 |                        718 |                       57 |                                        8% |                                 9,061 |                                 10,737 |
 |             [Pennsylvania](/us-pa) |            8,130 |                     8,832 |                     690 |                        702 |                       55 |                                        9% |                                 8,209 |                                  9,952 |
 |                  [Georgia](/us-ga) |            7,021 |                     8,118 |                     765 |                      1,097 |                      103 |                                       16% |                                 7,410 |                                  9,531 |
