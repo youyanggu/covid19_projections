@@ -252,3 +252,4 @@ date,Province_State,Country_Region,Combined_Key,Confirmed,Deaths,daily_deaths,da
 2020-09-28,Nevada,US,"Clark, Nevada, US",66620,1379,0.0,358.0,333.14285714285717,7.285714285714286
 2020-09-29,Nevada,US,"Clark, Nevada, US",66899,1385,6.0,279.0,347.0,6.0
 2020-09-30,Nevada,US,"Clark, Nevada, US",67176,1391,6.0,277.0,325.85714285714283,5.428571428571429
+2020-10-01,Nevada,US,"Clark, Nevada, US",67499,1394,3.0,323.0,332.0,4.857142857142857
