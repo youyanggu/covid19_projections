@@ -253,3 +253,4 @@ date,Province_State,Country_Region,Combined_Key,Confirmed,Deaths,daily_deaths,da
 2020-09-29,Florida,US,"Miami-Dade, Florida, US",170086,3243,15.0,620.0,367.2857142857143,22.571428571428573
 2020-09-30,Florida,US,"Miami-Dade, Florida, US",170400,3280,37.0,314.0,360.0,21.857142857142858
 2020-10-01,Florida,US,"Miami-Dade, Florida, US",170882,3284,4.0,482.0,372.85714285714283,17.285714285714285
+2020-10-02,Florida,US,"Miami-Dade, Florida, US",171391,3314,30.0,509.0,373.7142857142857,16.0
