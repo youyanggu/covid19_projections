@@ -254,3 +254,4 @@ date,Province_State,Country_Region,Combined_Key,Confirmed,Deaths,daily_deaths,da
 2020-09-30,Florida,US,"Orange, Florida, US",40329,458,12.0,105.0,131.0,2.857142857142857
 2020-10-01,Florida,US,"Orange, Florida, US",40485,470,12.0,156.0,132.14285714285714,4.285714285714286
 2020-10-02,Florida,US,"Orange, Florida, US",40659,474,4.0,174.0,134.57142857142858,4.285714285714286
+2020-10-03,Florida,US,"Orange, Florida, US",40841,479,5.0,182.0,138.0,4.857142857142857

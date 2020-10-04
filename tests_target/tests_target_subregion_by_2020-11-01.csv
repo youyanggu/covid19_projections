@@ -1,39 +1,39 @@
 country,region,subregion,tests_needed_per_day
-Canada,,Alberta,13959
-Canada,,British Columbia,7610
-Canada,,Ontario,33040
-Canada,,Quebec,25806
-US,AZ,Maricopa,38822
-US,CA,Alameda,28935
-US,CA,Los Angeles,51863
-US,CA,Orange,37158
-US,CA,Riverside,17886
-US,CA,Sacramento,17471
-US,CA,San Bernardino,23879
-US,CA,San Diego,19074
-US,CA,Santa Clara,28057
-US,FL,Broward,26955
-US,FL,Hillsborough,17147
-US,FL,Miami-Dade,54602
-US,FL,Orange,16956
-US,FL,Palm Beach,24922
-US,IL,Cook,36545
-US,LA,Orleans,3505
-US,MA,Middlesex,11913
-US,MA,Suffolk,6686
-US,MI,Wayne,9240
-US,NJ,Bergen,6310
-US,NJ,Essex,5650
-US,NJ,Hudson,4330
-US,NV,Clark,21398
-US,NV,Washoe,5069
+Canada,,Alberta,12158
+Canada,,British Columbia,6152
+Canada,,Ontario,35799
+Canada,,Quebec,26315
+US,AZ,Maricopa,38234
+US,CA,Alameda,29865
+US,CA,Los Angeles,51045
+US,CA,Orange,35403
+US,CA,Riverside,16745
+US,CA,Sacramento,17537
+US,CA,San Bernardino,22071
+US,CA,San Diego,19398
+US,CA,Santa Clara,28928
+US,FL,Broward,25674
+US,FL,Hillsborough,17642
+US,FL,Miami-Dade,55183
+US,FL,Orange,17068
+US,FL,Palm Beach,23397
+US,IL,Cook,36696
+US,LA,Orleans,3498
+US,MA,Middlesex,12290
+US,MA,Suffolk,6515
+US,MI,Wayne,9326
+US,NJ,Bergen,6290
+US,NJ,Essex,5736
+US,NJ,Hudson,4422
+US,NV,Clark,21530
+US,NV,Washoe,5254
 US,NY,Nassau,3578
-US,NY,New York City,42379
-US,NY,Suffolk,6053
-US,NY,Westchester,3828
-US,PA,Philadelphia,15735
-US,TX,Bexar,32525
-US,TX,Dallas,41316
-US,TX,Harris,74574
-US,TX,Tarrant,31403
-US,WA,King,22962
+US,NY,New York City,42141
+US,NY,Suffolk,5940
+US,NY,Westchester,3815
+US,PA,Philadelphia,15147
+US,TX,Bexar,32083
+US,TX,Dallas,40782
+US,TX,Harris,74198
+US,TX,Tarrant,32354
+US,WA,King,22559
