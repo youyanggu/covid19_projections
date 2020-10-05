@@ -736,6 +736,8 @@ Local
 * [The Center Square](https://www.thecentersquare.com/florida/dueling-models-one-says-florida-s-covid-19-peak-has-passed-another-says-worst-to/article_2037bd12-a12d-11ea-b293-6fe15cef2ecb.html) - May 28
 
 International
+* [Huffington Post (France)](https://www.huffingtonpost.fr/entry/la-recrudescence-actuelle-du-covid-19-est-inquietante-mais-peut-etre-jugulee_fr_5f771e38c5b66377b280e82d) - Oct 2
+* [El Pais (Spain)](https://elpais.com/politica/2020/10/01/actualidad/1601543892_815336.html) - Oct 2
 * [World Journal (Chinese)](https://www.worldjournal.com/wj/story/121468/4889710) - Sep 26
 * [El Universal (Mexico)](https://www.eluniversal.com.mx/opinion/carlos-m-urzua/mortandad-estimada-debido-al-coronavirus) - Aug 17
 * [La Tercera (Chile)](https://www.latercera.com/la-tercera-pm/noticia/youyang-gu-creador-de-la-plataforma-covid19-projections-creemos-que-el-peak-para-chile-sera-en-los-proximos-30-dias-con-200-a-300-muertes-diarias/JYVJDO5WFZE6LKDODQMSKW2YHY/) - Jun 22
@@ -763,6 +765,9 @@ Others
 [Back to Top](#top)
 
 ## Updates
+
+2020-10-05
+* Final model update
 
 2020-07-22
 * We released a major update that tries to better account for increases in cases and deaths from the reopening. See [Update Notes on Twitter](https://twitter.com/youyanggu/status/1286421296474202115)
