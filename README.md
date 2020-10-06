@@ -2,6 +2,8 @@
 
 [covid19-projections.com](https://covid19-projections.com/)
 
+**2020-10-06 Update:** Projections dated 2020-10-04 was our last model update. For more information, read [Youyang Gu's blog post](https://youyanggu.com/blog/six-months-later). Follow [@youyanggu](https://twitter.com/youyanggu) on Twitter for continued COVID-19 insights. Thank you for your support over the past year.
+
 We take a data-driven approach rooted in epidemiology to forecast infections and deaths for the COVID-19 / coronavirus epidemic in the US and around the world.
 
 ## Description of Folders
