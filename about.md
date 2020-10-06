@@ -25,7 +25,7 @@ permalink: /about/
   * [Infection Fatality Rate (IFR)](#infection-fatality-rate-ifr)
   * [Undetected Deaths](#undetected-deaths)
 * [Limitations](#limitations)
-* [Twitter Threads **(New Aug 27)**](#twitter-threads)
+* [Twitter Threads *(New Aug 27)*](#twitter-threads)
 * [Concerns with the IHME model *(Updated Jun 12)*](#concerns-with-the-ihme-model)
   * [Comparison of Data Sources *(New Jun 12)*](#comparison-of-data-sources)
   * [May 4 Revision](#may-4-revision)
@@ -726,6 +726,7 @@ Local
 * [Miami Herald](https://www.miamiherald.com/news/coronavirus/article244930467.html) - Aug 14
 * [The Advocate (NOLA)](https://www.nola.com/news/coronavirus/article_1f5a0286-dbd6-11ea-b428-c3a872847e9b.html) - Aug 11
 * [SF Gate](https://www.sfgate.com/news/editorspicks/article/California-coronavirus-COVID-19-herd-immunity-how-15469055.php) - Aug 10
+* [WPTV - West Palm Beach](https://www.wptv.com/news/national/coronavirus/estimate-says-covid-19-spread-not-as-prevalent-as-spring-wave-yet) - Jul 2
 * [The Mercury News](https://www.mercurynews.com/2020/06/25/graph-half-of-californias-coronavirus-deaths-by-oct-1-projected-in-los-angeles-county/) - Jun 25
 * [The Advocate (NOLA)](https://www.nola.com/news/coronavirus/article_b4ec117c-b020-11ea-a690-03d2e5a9e00e.html) - Jun 17
 * [The Mercury News](https://www.mercurynews.com/2020/05/26/graph-number-of-coronavirus-deaths-projected-in-santa-clara-county-by-sept-1/) - May 26
