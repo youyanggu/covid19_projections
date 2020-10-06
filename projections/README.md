@@ -29,6 +29,9 @@ Here, you will find the raw data for our [covid19-projections.com](https://covid
 
 # Updates
 
+2020-10-05
+* Final model update (using data from 2020-10-04). For more information, read [Youyang Gu's blog post](https://youyanggu.com/blog/six-months-later). Follow [@youyanggu](https://twitter.com/youyanggu) on Twitter for continued COVID-19 insights. Thank you for your support over the past year.
+
 2020-07-22
 * We released a major update that tries to better account for increases in cases and deaths from the reopening. See [Update Notes on Twitter](https://twitter.com/youyanggu/status/1286421296474202115)
 
