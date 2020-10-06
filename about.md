@@ -154,7 +154,7 @@ This is a metric that shows the *recent accuracy* of model projections.
 
 ## Comparison of Late August US Projections
 
-Below, we show our August 27 forecasts compared with IHME's August 27 forecasts. To view additional comparison plots with IHME, click [here](/model-comparison-ihme).
+Below, we show our late August forecasts compared with IHME's late August forecasts. To view additional comparison plots with IHME, click [here](/model-comparison-ihme).
 
 {% include iframe_ihme_comparison_aug27.html %}
 
