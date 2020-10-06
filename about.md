@@ -128,6 +128,8 @@ This is a metric that shows the *consistency* of model projections over the peri
 
 ![4 week ahead states comparison](/assets/images/4_week_ahead_states.png)
 
+[Back to Top](#top)
+
 ### Evaluation of historical 4 week ahead US nationwide projections
 
 Because US country-wide projections only contains a single forecast per week, there is much higher variance week-to-week compared to state-by-state projections, where there are 50+ forecasts each week. As a result, we believe state-by-state evaluations is a better indicator of model performance. This same concept is why we play 7-game series for NBA/NHL/MLB playoffs.
@@ -136,6 +138,8 @@ Because US country-wide projections only contains a single forecast per week, th
 
 ![4 week ahead US comparison](/assets/images/4_week_ahead_us.png)
 
+[Back to Top](#top)
+
 ### Evaluation of past US state-by-state projections on reported deaths as of October 3
 
 This is a metric that shows the *recent accuracy* of model projections.
@@ -143,6 +147,8 @@ This is a metric that shows the *recent accuracy* of model projections.
 [Raw data on GitHub](https://github.com/youyanggu/covid19-forecast-hub-evaluation/blob/master/summary/summary_states_2020-10-03.csv)
 
 ![States comparison](/assets/images/2020-10-03_comparison_states.png)
+
+[Back to Top](#top)
 
 ### Evaluation of past US nationwide projections on reported deaths as of October 3
 
