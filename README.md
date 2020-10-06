@@ -1,6 +1,6 @@
 # COVID-19 Projections Using Machine Learning
 
-[covid19-projections.com](https://covid19-projections.com/)
+[covid19-projections.com](https://covid19-projections.com/), created by [Youyang Gu](https://youyanggu.com/)
 
 **2020-10-06 Update:** Projections dated 2020-10-04 was our last model update. For more information, read [Youyang Gu's blog post](https://youyanggu.com/blog/six-months-later). Follow [@youyanggu](https://twitter.com/youyanggu) on Twitter for continued COVID-19 insights. Thank you for your support over the past year.
 
@@ -17,7 +17,7 @@ You can click on each folder to view the README for that folder.
 * [`reich_forecasts`](/reich_forecasts) - Reich forecasts follow the format specified by the [Reich Lab](https://github.com/reichlab/covid19-forecast-hub)
 * [`tests_target`](/tests_target) - Testing targets for every region based on our forecasts
 
-The underlying SEIR simulator used to generate these projections is open source: https://github.com/youyanggu/yyg-seir-simulator.
+The underlying SEIR simulator used to generate these projections is open source: https://github.com/youyanggu/yyg-seir-simulator. The simulator repository also includes the best learned values of [the various parameters](https://github.com/youyanggu/yyg-seir-simulator#parameters) for every region.
 
 Our projections are featured on the [CDC website](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html).
 
@@ -25,4 +25,4 @@ We have also open-sourced our evaluation of our model and other CDC models: http
 
 Questions? Contact me on Twitter at [@youyanggu](https://twitter.com/youyanggu).
 
-Site powered by GitHub Pages.
+Site powered by [GitHub Pages](https://pages.github.com/).
