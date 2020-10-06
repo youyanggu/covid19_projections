@@ -255,3 +255,4 @@ date,Province_State,Country_Region,Combined_Key,Confirmed,Deaths,daily_deaths,da
 2020-10-01,Arizona,US,"Maricopa, Arizona, US",142287,3405,13.0,431.0,243.28571428571428,10.857142857142858
 2020-10-02,Arizona,US,"Maricopa, Arizona, US",142566,3416,11.0,279.0,259.0,10.428571428571429
 2020-10-03,Arizona,US,"Maricopa, Arizona, US",142968,3424,8.0,402.0,286.42857142857144,8.714285714285714
+2020-10-04,Arizona,US,"Maricopa, Arizona, US",143183,3426,2.0,215.0,281.7142857142857,9.0
