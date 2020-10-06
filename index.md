@@ -17,6 +17,7 @@ On this page:
 For regular updates and insights, follow us on Twitter:<br>
 <a href="https://twitter.com/youyanggu" class="twitter-follow-button" data-show-count="false">@youyanggu</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+* **October 5 - FINAL UPDATE:** We have released our final update. For the US, we are projecting 230,600 (221-245k) deaths by November 1. See Sep 28 announcement below to read more about this decision. Thank you for visiting!
 * **September 28 - MAJOR ANNOUNCEMENT:** We will no longer be extending our projections past November 1. Our last forecast update will be on Monday, October 5. [Read Youyang Gu's blog post](https://youyanggu.com/blog/six-months-later). Thank you for your support over the past six months.
 * **September 30:** [Weekly Update on Twitter](https://twitter.com/youyanggu/status/1311384211983675397).
 * *September 29:* View our [updated historical performance](/about/#historical-performance).
