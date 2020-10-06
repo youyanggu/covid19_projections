@@ -390,7 +390,7 @@ While we attempt our best to ensure accuracy and precision, no model is perfect,
 
 ## Twitter Threads
 
-Last Updated: September 11
+Last Updated: October 6
 
 Due to the fast-paced environment of COVID-19 developments and our limited team (of one), Twitter is our preferred method of posting announcements, sharing results and fasciliating discussion. Below is a comprehensive list of our Tweets since late April:
 
@@ -402,6 +402,8 @@ Due to the fast-paced environment of COVID-19 developments and our limited team 
 
 ### Miscellaneous
 
+[October 1](https://twitter.com/youyanggu/status/1311772987625033738) - Community vs individual risk<br>
+[September 28](https://twitter.com/youyanggu/status/1310652383396065280) - Six months later<br>
 [September 4](https://twitter.com/youyanggu/status/1301915424456609793) - Forecasting uncertainty<br>
 [August 27](https://twitter.com/youyanggu/status/1299016969631531008) - Following the science<br>
 [August 13](https://twitter.com/youyanggu/status/1293944308110852099) - Talk announcement<br>
@@ -436,6 +438,8 @@ Due to the fast-paced environment of COVID-19 developments and our limited team 
 
 ### Projections updates
 
+[October 6](https://twitter.com/youyanggu/status/1313564063679614982)<br>
+[September 30](https://twitter.com/youyanggu/status/1311384211983675397)<br>
 [September 22](https://twitter.com/youyanggu/status/1308498742451015680)<br>
 [September 15](https://twitter.com/youyanggu/status/1305937870075703296)<br>
 [September 9](https://twitter.com/youyanggu/status/1303784487030063110)<br>
