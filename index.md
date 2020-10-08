@@ -18,8 +18,8 @@ For regular updates and insights, follow us on Twitter:<br>
 <a href="https://twitter.com/youyanggu" class="twitter-follow-button" data-show-count="false">@youyanggu</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 * **October 5 - FINAL UPDATE:** We have released our final update. [Read Youyang Gu's blog post](https://youyanggu.com/blog/six-months-later) to read more about this decision. See our [Weekly Update on Twitter](https://twitter.com/youyanggu/status/1313564063679614982). Thank you for your support over the past six months.
-* **September 28 - MAJOR ANNOUNCEMENT:** We will no longer be extending our projections past November 1. Our last forecast update will be on Monday, October 5.
 * *September 29:* View our [updated historical performance](/about/#historical-performance).
+* *September 28:* We will no longer be extending our projections past November 1. Our last forecast update will be on Monday, October 5.
 * *August 27*: See a comprehensive list of our past Twitter threads [here](/about/#twitter-threads).
 * *August 10:* See our [new findings](https://twitter.com/youyanggu/status/1292898685173534722) regarding the role of immunity, behavior, and interventions in the spread of COVID-19. We use Louisiana as a case study.
 * *August 5:* We released a report, *[Estimating True Infections: A Simple Heuristic to Measure Implied Infection Fatality Rate](/estimating-true-infections)* that explains our findings regarding the relationship between true infections, reported cases, test positivity rate, and infection fatality rate for COVID-19. You can view a summary on [our Twitter](https://twitter.com/youyanggu/status/1291092311045283841).
