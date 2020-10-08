@@ -26,6 +26,8 @@ By: [Youyang Gu](https://twitter.com/youyanggu)
   * [Effective Herd Immunity](#effective-herd-immunity)
 * [Conclusion](#conclusion)
 
+**Important Note:** While this page explains how one can use cases and positivity rate to estimate true infections, our *covid19-projections.com* model [only use deaths data](https://covid19-projections.com/about/#data-and-output).
+
 *August 10 Update:* See our [new findings](https://twitter.com/youyanggu/status/1292898685173534722) for a case study regarding the role of immunity, behavior, and interventions in the spread of COVID-19.
 
 ## Main Conclusions
