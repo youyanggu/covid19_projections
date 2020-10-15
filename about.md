@@ -672,7 +672,6 @@ To conclude, we believe that a successful model must be able to quickly determin
 ### Media
 
 National
-* [The New Yorker](https://www.newyorker.com/science/elements/what-will-cold-and-flu-season-mean-for-the-coronavirus-pandemic) - Oct 1
 * [Business Insider](https://www.businessinsider.com/coronavirus-global-death-toll-may-be-higher-1-million-2020-9) - Sep 29
 * [CNBC](https://www.nbcnews.com/science/science-news/vindicated-covid-19-models-warn-pandemic-far-over-n1240934) - Sep 24
 * [The Hill](https://thehill.com/policy/healthcare/517918-rising-coronavirus-cases-spark-fears-of-harsh-winter) - Sep 24
@@ -706,6 +705,8 @@ National
 * [CNN](https://www.cnn.com/2020/04/28/health/georgia-coronavirus-death-projections/index.html) - Apr 28
 
 Magazines/General News
+* [New York Magazine](https://nymag.com/intelligencer/2020/10/the-third-wave-of-covid-19-is-here.html) - Oct 12
+* [The New Yorker](https://www.newyorker.com/science/elements/what-will-cold-and-flu-season-mean-for-the-coronavirus-pandemic) - Oct 1
 * [Reason](https://reason.com/2020/09/29/is-the-covid-19-herd-immunity-threshold-as-low-as-15-percent/) - Sep 29
 * [IEEE Spectrum](https://spectrum.ieee.org/artificial-intelligence/medical-ai/why-modeling-the-spread-of-covid19-is-so-damn-hard) - Sep 22
 * [The Street](https://www.thestreet.com/lifestyle/health/u-s-covid-cases-quickly-approach-6-million) - Aug 30
