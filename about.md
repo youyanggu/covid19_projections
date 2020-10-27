@@ -14,6 +14,7 @@ permalink: /about/
 * [Historical US Projections *(Updated Daily)*](#historical-us-projections)
 * [CDC Projections Over Time](#cdc-projections-over-time)
 * [Data and Output](#data-and-output)
+* [Code](#code)
 * [Assumptions](#assumptions)
   * [Confidence Intervals](#confidence-intervals)
   * [Social Distancing](#social-distancing)
@@ -199,6 +200,16 @@ To make our projections, we use the daily death total provided by [Johns Hopkins
 While we do not use testing data in our model, we sometimes use US testing data from [The COVID Tracking Project](https://covidtracking.com/) in our research and graphs.
 
 Every day, raw daily projections for all 50 US states and select international countries will be uploaded onto our [GitHub page](https://github.com/youyanggu/covid19_projections/tree/master/projections). We are projecting future deaths as reported by Johns Hopkins CSSE.
+
+[Back to Top](#top)
+
+## Code
+
+We have three public GitHub repositories:
+
+* [Projections Data and Website](https://github.com/youyanggu/covid19_projections) - Contains all model output data. Also contains the website source code (in the gh-pages branch)
+* [SEIR Simulator](https://github.com/youyanggu/yyg-seir-simulator) - The SEIR simulator behind our model. Learn more in our [Model Details](/model-details) page.
+* [Model Evaluations](https://github.com/youyanggu/covid19-forecast-hub-evaluation) - The full source code to replicate our [model evaluations](#historical-performance)
 
 [Back to Top](#top)
 
