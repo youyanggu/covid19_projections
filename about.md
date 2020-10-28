@@ -49,17 +49,19 @@ You can also directly access our [US](/#view-projections) and [global](/#global-
 
 [Back to Top](#top)
 
-## Who We Are
-
-*covid19-projections.com* is made by [Youyang Gu](https://youyanggu.com), an independent data scientist. Youyang completed his Bachelor's degree at the Massachusetts Institute of Technology (MIT), double majoring in Electrical Engineering & Computer Science and Mathematics. He also received his Master's degree at MIT, completing his thesis as part of the [Natural Language Processing group](http://nlp.csail.mit.edu/) at the [MIT Computer Science & Artificial Intelligence Laboratory](https://www.csail.mit.edu/). His expertise is in using machine learning to understand data and make accurate predictions. You can contact him [on Twitter](https://twitter.com/youyanggu) or by using the [Contact](/contact) page.
-
-[Back to Top](#top)
-
 ### Additional Links
 
 * [Model Details](/model-details/) - More in-depth description of how our model works.
 * [Estimating True Infections](/estimating-true-infections) - Our findings regarding the relationship between true infections, reported cases, test positivity rate, and infection fatality rate for COVID-19.
 * [Youyang Gu August 13 Talk](https://www.youtube.com/watch?v=f88bYflJYEo) - Presentation from Youyang Gu about the model
+
+## Who We Are
+
+*covid19-projections.com* is made by [Youyang Gu](https://youyanggu.com), an independent data scientist. Youyang completed his Bachelor's degree at the Massachusetts Institute of Technology (MIT), double majoring in Electrical Engineering & Computer Science and Mathematics. He also received his Master's degree at MIT, completing his thesis as part of the [Natural Language Processing group](http://nlp.csail.mit.edu/) at the [MIT Computer Science & Artificial Intelligence Laboratory](https://www.csail.mit.edu/). His expertise is in using machine learning to understand data and make practical, accurate predictions.
+
+[Click here](https://youyanggu.com/about) for a more in-depth biography. You can contact him via [his website](https://youyanggu.com/contact) or [on Twitter](https://twitter.com/youyanggu).
+
+[Back to Top](#top)
 
 ### Coverage Map
 
