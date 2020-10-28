@@ -8,6 +8,8 @@ permalink: /model-details/
 
 ## SEIR Model
 
+*2020-06-24 Update:* We have made the SEIR component of our model [open source](https://github.com/youyanggu/yyg-seir-simulator).
+
 Our COVID-19 prediction model has an underlying simulator based on an elaboration of the classic SIR model used in epidemiology: the SEIR (susceptible-exposed-infectious-recovered) model. We added an exposed (E) period due to the reported incubation period of COVID-19 during which individuals are not yet infectious.
 
 To quickly summarize how an SEIR model works, at each time period, an individual in a population is in one of four states: susceptible (S), exposed (E), infectious (I), and recovered (R). If an individual is in the susceptible state, we can assume they are healthy but have no immunity. If they are in the exposed state, they have been infected with the virus but are not infectious. If they are infectious, they can actively transmit the disease. An individual who is infected ultimately either recovers or dies. We assume that a recovered individual's chances of re-infection is low, but not zero. We can model the movement of individuals through these various states at each time period. The model's exact specifications depend on its parameters, which we describe in the next section.
@@ -62,7 +64,6 @@ To model the effects of mitigation strategies such as shelter-at-home/lockdown o
 1) R<sub>0</sub>: the initial R before mitigation strategy
 2) post-mitigation R: the R after mitigation strategy
 3) post-reopening R: the R after mitigation strategy has been relaxed
-Supplemental: We apply a small lockdown fatigue ratio to certain regions 2-4 weeks after lockdown. This will increase the post-mitigation R slightly.
 
 Note that the mitigation strategy can encompass a wide variety of strategies, ranging from a complete lockdown as we've seen in Wuhan, China, to a more relaxed strategy as we've seen in Sweden.
 
