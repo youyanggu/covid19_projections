@@ -17,7 +17,7 @@ On this page:
 For regular updates and insights, follow us on Twitter:<br>
 <a href="https://twitter.com/youyanggu" class="twitter-follow-button" data-show-count="false">@youyanggu</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-* **November 2 Update:** Our final October 5 projections estimated 231,000 (221-245k) US deaths by November 1, 2020. The true November 1 death toll as reported by Johns Hopkins University was 230,995.
+* **November 2 Update:** Our final October 5 projections estimated 231,000 (221-245k) US deaths by November 1, 2020. The true November 1 death toll as reported by Johns Hopkins University was 230,995. See how our final forecasts tracked the true results [here](/about/#comparison-of-october-us-projections).
 * **October 5 - FINAL UPDATE:** We have released our final update. [Read Youyang Gu's blog post](https://youyanggu.com/blog/six-months-later) to read more about this decision. See our [Weekly Update on Twitter](https://twitter.com/youyanggu/status/1313564063679614982). Thank you for your support over the past six months.
 * *September 29:* View our [updated historical performance](/about/#historical-performance).
 * *September 28:* We will no longer be extending our projections past November 1. Our last forecast update will be on Monday, October 5.
