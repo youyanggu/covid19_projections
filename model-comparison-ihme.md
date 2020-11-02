@@ -1,6 +1,6 @@
 ## Model Comparison with IHME
 
-On this page, we show several plots comparing our projections with the [IHME](https://covid19.healthdata.org/projections) model.
+On this page, we show several plots comparing our historical projections with the [IHME](https://covid19.healthdata.org/projections) model. The dates of the projections range from April to October 2020.
 
 * [Total Deaths](#total-deaths)
 * [Daily Deaths](#daily-deaths)
@@ -22,10 +22,6 @@ On this page, we show several plots comparing our projections with the [IHME](ht
 
 ### Historical Projections
 {% include iframe_historical.html %}
-[Back to Top](#top)
-
-### Current Projections
-{% include iframe_current.html %}
 [Back to Top](#top)
 
 ## Old Comparisons of Projections for August 4
