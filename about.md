@@ -8,10 +8,10 @@ permalink: /about/
 * [About the Model](#about-the-model)
 * [Who We Are](#who-we-are)
 * [How Our Model is Different](#how-our-model-is-different)
-* [Historical Performance **(Updated Oct 5)**](#historical-performance)
-* [Comparison of Late August US Projections *(Updated Daily)*](#comparison-of-late-august-us-projections)
-* [Comparison of Current US Projections *(Updated Daily)*](#comparison-of-current-us-projections)
-* [Historical US Projections *(Updated Daily)*](#historical-us-projections)
+* [Historical Performance](#historical-performance)
+* [Comparison of October US Projections](#comparison-of-october-us-projections)
+* [Comparison of Late August US Projections](#comparison-of-late-august-us-projections)
+* [Historical US Projections](#historical-us-projections)
 * [CDC Projections Over Time](#cdc-projections-over-time)
 * [Data and Output](#data-and-output)
 * [Code](#code)
@@ -27,11 +27,11 @@ permalink: /about/
   * [Undetected Deaths](#undetected-deaths)
 * [Limitations](#limitations)
 * [Twitter Threads *(New Aug 27)*](#twitter-threads)
-* [Concerns with the IHME model *(Updated Jun 12)*](#concerns-with-the-ihme-model)
-  * [Comparison of Data Sources *(New Jun 12)*](#comparison-of-data-sources)
+* [Concerns with the IHME model](#concerns-with-the-ihme-model)
+  * [Comparison of Data Sources](#comparison-of-data-sources)
   * [May 4 Revision](#may-4-revision)
   * [June 8 Revision](#june-8-revision)
-  * [June 10 Revision *(New Jun 10)*](#june-8-revision)
+  * [June 10 Revision](#june-8-revision)
   * [State Reopening Timeline](#state-reopening-timeline)
 * [Media Coverage](#online-coverage)
 * [How to Cite](#how-to-cite)
@@ -161,19 +161,19 @@ This is a metric that shows the *recent accuracy* of model projections.
 
 [Back to Top](#top)
 
+## Comparison of October US Projections
+
+We compare our last October 4 projections to that of the Institute for Health Metrics and Evaluation (IHME). To view additional comparison plots with IHME, click [here](/model-comparison-ihme).
+
+{% include iframe_ihme_comparison_oct.html %}
+
+[Back to Top](#top)
+
 ## Comparison of Late August US Projections
 
 Below, we show our late August forecasts compared with IHME's late August forecasts. To view additional comparison plots with IHME, click [here](/model-comparison-ihme).
 
 {% include iframe_ihme_comparison_aug27.html %}
-
-[Back to Top](#top)
-
-## Comparison of Current US Projections
-
-We compare our current projections to that of the Institute for Health Metrics and Evaluation (IHME). To see our full US projections, click [here](/us).
-
-{% include iframe_current.html %}
 
 [Back to Top](#top)
 
