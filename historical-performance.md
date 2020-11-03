@@ -66,19 +66,29 @@ This is a metric that shows the *consistency* of model projections over the peri
 
 ### State-by-state projections
 
+[Raw data on GitHub](https://github.com/youyanggu/covid19-forecast-hub-evaluation/blob/master/summary/summary_4_weeks_ahead_states.csv)
+
 ![States comparison](/assets/images/4_week_ahead_states.png)
 
 ### US projections
+
+[Raw data on GitHub](https://github.com/youyanggu/covid19-forecast-hub-evaluation/blob/master/summary/summary_4_weeks_ahead_us.csv)
 
 ![US comparison](/assets/images/4_week_ahead_us.png)
 
 ## October 3
 
+The below metrics show the *recent accuracy* of model projections for the specified dates.
+
 ### State-by-state projections
+
+[Raw data on GitHub](https://github.com/youyanggu/covid19-forecast-hub-evaluation/blob/master/summary/summary_states_2020-10-03.csv)
 
 ![States comparison](/assets/images/2020-10-03_comparison_states.png)
 
 ### US projections
+
+[Raw data on GitHub](https://github.com/youyanggu/covid19-forecast-hub-evaluation/blob/master/summary/summary_us_2020-10-03.csv)
 
 ![US comparison](/assets/images/2020-10-03_comparison_us.png)
 
