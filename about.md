@@ -8,7 +8,7 @@ permalink: /about/
 * [About the Model](#about-the-model)
 * [Who We Are](#who-we-are)
 * [How Our Model is Different](#how-our-model-is-different)
-* [Historical Performance](#historical-performance)
+* [Historical Performance **(Updated Nov 2)**](#historical-performance)
 * [Comparison of October US Projections **(New Nov 2)**](#comparison-of-october-us-projections)
 * [Comparison of Late August US Projections](#comparison-of-late-august-us-projections)
 * [Historical US Projections](#historical-us-projections)
