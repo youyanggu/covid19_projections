@@ -6,6 +6,8 @@ permalink: /historical-performance/
 
 # Historical Performance
 
+*Last Updated: November 2, 2020 (See our [GitHub repo](https://github.com/youyanggu/covid19-forecast-hub-evaluation) for the most update-to-date evaluations)*
+
 On this page, we present a weekly evaluation of our model's historical performance along with other models in the [COVID-19 Forecast Hub](https://github.com/reichlab/covid19-forecast-hub). The forecasts from these models are sent to the CDC weekly and presented on the [CDC COVID-19 Forecasting page](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html).
 
 We have open-sourced the code and output used to generate these evaluations [here](https://github.com/youyanggu/covid19-forecast-hub-evaluation/#methods). We believe in a fully transparent evaluation methodology, and publicly releasing all of our code and data is the best way to do so.
@@ -59,6 +61,8 @@ The charts below represent past state-by-state and US projections evaluated on c
 [Back to Top](#top)
 
 ## 4 Week Ahead
+
+This is a metric that shows the *consistency* of model projections over the period of several months. 4 weeks ahead is long enough into the future that it requires non-trivial methods, yet short enough that it does not require excessive assumptions. Hence, we believe it is the ideal metric to compare models.
 
 ### State-by-state projections
 
