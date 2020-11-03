@@ -115,7 +115,7 @@ You can also directly access our [US](/#view-projections) and [global](/#global-
 
 ## Historical Performance
 
-*Last Updated:* October 5
+*Last Updated: November 2, 2020 (See our [GitHub repo](https://github.com/youyanggu/covid19-forecast-hub-evaluation) for the most update-to-date evaluations)*
 
 A model isn't very useful if it's not accurate. Below is our analysis on how various models considered by the CDC have performed over the past few weeks. Because the CDC receives weekly projections from every Monday, we use projections from past Mondays to evaluate the models.
 
@@ -125,7 +125,7 @@ We have open-sourced the code and data used to evaluate COVID-19 models: [https:
 
 ### Evaluation of historical 4 week ahead US state-by-state projections
 
-This is a metric that shows the *consistency* of model projections over the period of several months.
+This is a metric that shows the *consistency* of model projections over the period of several months. 4 weeks ahead is long enough into the future that it requires non-trivial methods, yet short enough that it does not require excessive assumptions. Hence, we believe it is the ideal metric to compare models.
 
 [Raw data on GitHub](https://github.com/youyanggu/covid19-forecast-hub-evaluation/blob/master/summary/summary_4_weeks_ahead_states.csv)
 
@@ -140,24 +140,6 @@ Because US country-wide projections only contains a single forecast per week, th
 [Raw data on GitHub](https://github.com/youyanggu/covid19-forecast-hub-evaluation/blob/master/summary/summary_4_weeks_ahead_us.csv)
 
 ![4 week ahead US comparison](/assets/images/4_week_ahead_us.png)
-
-[Back to Top](#top)
-
-### Evaluation of past US state-by-state projections on reported deaths as of October 3
-
-This is a metric that shows the *recent accuracy* of model projections.
-
-[Raw data on GitHub](https://github.com/youyanggu/covid19-forecast-hub-evaluation/blob/master/summary/summary_states_2020-10-03.csv)
-
-![States comparison](/assets/images/2020-10-03_comparison_states.png)
-
-[Back to Top](#top)
-
-### Evaluation of past US nationwide projections on reported deaths as of October 3
-
-[Raw data on GitHub](https://github.com/youyanggu/covid19-forecast-hub-evaluation/blob/master/summary/summary_us_2020-10-03.csv)
-
-![US comparison](/assets/images/2020-10-03_comparison_us.png)
 
 [Back to Top](#top)
 
