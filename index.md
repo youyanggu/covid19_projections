@@ -17,46 +17,40 @@ On this page:
 For regular updates and insights, follow us on Twitter:<br>
 <a href="https://twitter.com/youyanggu" class="twitter-follow-button" data-show-count="false">@youyanggu</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+* **November 18 Update:** We are re-launching this website with nowcasting of infections estimates in the US. See below.
 * **November 2 Update:** Our final October 5 projections estimated 231,000 (221-245k) US deaths by November 1, 2020. The true November 1 death toll was 230,995 (as reported by Johns Hopkins University). See how our final forecasts tracked the true results [here](/about/#comparison-of-october-us-projections). See our updated historical performance [here](/about/#historical-performance).
 * **October 5 - FINAL MODEL UPDATE:** We have released our final update. [Read Youyang Gu's blog post](https://youyanggu.com/blog/six-months-later) to read more about this decision. See our [Weekly Update on Twitter](https://twitter.com/youyanggu/status/1313564063679614982). Thank you for your support over the past six months.
-* *September 29:* View our [updated historical performance](/about/#historical-performance).
-* *September 28:* We will no longer be extending our projections past November 1. Our last forecast update will be on Monday, October 5.
-* *August 27*: See a comprehensive list of our past Twitter threads [here](/about/#twitter-threads).
 * *August 10:* See our [new findings](https://twitter.com/youyanggu/status/1292898685173534722) regarding the role of immunity, behavior, and interventions in the spread of COVID-19. We use Louisiana as a case study.
 * *August 5:* We released a report, *[Estimating True Infections: A Simple Heuristic to Measure Implied Infection Fatality Rate](/estimating-true-infections)* that explains our findings regarding the relationship between true infections, reported cases, test positivity rate, and infection fatality rate for COVID-19. You can view a summary on [our Twitter](https://twitter.com/youyanggu/status/1291092311045283841).
 * *June 24:* We have open-sourced our [SEIR simulator](https://github.com/youyanggu/yyg-seir-simulator). This is the underlying SEIR model without the machine learning layer to learn the parameters. If your system supports Python, you can generate your own simulations in under 5 minutes. No prior Python experience is needed.
 * *June 16:* We have open-sourced our code to [evaluate COVID-19 models](https://github.com/youyanggu/covid19-forecast-hub-evaluation). The goal of this project is to evaluate various models' historical point forecasts in a transparent, rigorous, and non-biased manner.
 
-## Current US Projections
-### Updated Daily - Last Updated: October 5 (10pm ET):
-<p align="center">
-  Current Total (as of Oct 4): <b>209,791</b> deaths | Projected Total: <b>230,700 deaths by Nov 1, 2020</b> (Range: 221-245k)<br>
-  Currently Infected (as of Oct 4): <b>1.2%</b> (1 in 85) | Total Infected (as of Oct 4): <b>16.1%</b> (1 in 6) {% include iframe.html %}
-</p>
+## Infections Estimates
+### Updated Daily
 
-[Back to Top](#top)
+| [United States](infections//us) |  |  |
+| --- | --- | --- |
+| [Alaska](infections/us-ak) | [Louisiana](infections/us-la) | [Oklahoma](infections/us-ok) |
+| [Alabama](infections/us-al) | [Massachusetts](infections/us-ma) | [Oregon](infections/us-or) |
+| [Arkansas](infections/us-ar) | [Maryland](infections/us-md) | [Pennsylvania](infections/us-pa) |
+| [Arizona](infections/us-az) | [Maine](infections/us-me) | [Puerto Rico](infections/us-pr) |
+| [California](infections/us-ca) | [Michigan](infections/us-mi) | [Rhode Island](infections/us-ri) |
+| [Colorado](infections/us-co) | [Minnesota](infections/us-mn) | [South Carolina](infections/us-sc) |
+| [Connecticut](infections/us-ct) | [Missouri](infections/us-mo) | [South Dakota](infections/us-sd) |
+| [District of Columbia](infections/us-dc) | [Northern Mariana Islands](infections/us-mp) | [Tennessee](infections/us-tn) |
+| [Delaware](infections/us-de) | [Mississippi](infections/us-ms) | [Texas](infections/us-tx) |
+| [Florida](infections/us-fl) | [Montana](infections/us-mt) | [Utah](infections/us-ut) |
+| [Georgia](infections/us-ga) | [North Carolina](infections/us-nc) | [Virginia](infections/us-va) |
+| [Guam](infections/us-gu) | [North Dakota](infections/us-nd) | [Virgin Islands](infections/us-vi) |
+| [Hawaii](infections/us-hi) | [Nebraska](infections/us-ne) | [Vermont](infections/us-vt) |
+| [Iowa](infections/us-ia) | [New Hampshire](infections/us-nh) | [Washington](infections/us-wa) |
+| [Idaho](infections/us-id) | [New Jersey](infections/us-nj) | [Wisconsin](infections/us-wi) |
+| [Illinois](infections/us-il) | [New Mexico](infections/us-nm) | [West Virginia](infections/us-wv) |
+| [Indiana](infections/us-in) | [Nevada](infections/us-nv) | [Wyoming](infections/us-wy) |
+| [Kansas](infections/us-ks) | [New York](infections/us-ny) |
+| [Kentucky](infections/us-ky) | [Ohio](infections/us-oh) |
 
-## COVID-19 Dashboard
-
-To see more maps or for more details (including how we calculate the C19Pro Score), visit our [Maps](/maps) page.
-
-{% include iframe_r_map.html %}
-[Back to Top](#top)
-
-## US Deaths Likelihoods
-
-Below, we present the most likely dates that the US will surpass certain deaths milestones, as well as the probabilities of the US surpassing those milestones by different time horizons.
-
-Last updated: October 5, 2020
-
-|   US deaths surpass: |   By Oct 15 |   By Nov 1 |
-|----------------------|-------------|------------|
-|              225,000 |         <1% |        78% |
-|              250,000 |         <1% |        <1% |
-|              275,000 |         <1% |        <1% |
-|              300,000 |         <1% |        <1% |
-
-[Back to Top](#top)
+## Projections (Not Actively Updated)
 
 ## View Projections
 
@@ -66,26 +60,27 @@ Below you can find our projections for every US state and 70 countries (includin
 
 ### US
 
-| [United States](us) |  |  |
+| [United States](/us) |  |  |
 | --- | --- | --- |
-| [Alabama](us-al) | [Kentucky](us-ky) | [Ohio](us-oh) |
 | [Alaska](us-ak) | [Louisiana](us-la) | [Oklahoma](us-ok) |
-| [Arizona](us-az) | [Maine](us-me) | [Oregon](us-or) |
+| [Alabama](us-al) | [Massachusetts](us-ma) | [Oregon](us-or) |
 | [Arkansas](us-ar) | [Maryland](us-md) | [Pennsylvania](us-pa) |
-| [California](us-ca) | [Massachusetts](us-ma) | [Puerto Rico](us-pr) |
-| [Colorado](us-co) | [Michigan](us-mi) | [Rhode Island](us-ri) |
-| [Connecticut](us-ct) | [Minnesota](us-mn) | [South Carolina](us-sc) |
-| [Delaware](us-de) | [Mississippi](us-ms) | [South Dakota](us-sd) |
-| [District Of Columbia](us-dc) | [Missouri](us-mo) | [Tennessee](us-tn) |
-| [Florida](us-fl) | [Montana](us-mt) | [Texas](us-tx) |
-| [Georgia](us-ga) | [Nebraska](us-ne) | [Utah](us-ut) |
-| [Guam](us-gu) | [Nevada](us-nv) | [Vermont](us-vt) |
-| [Hawaii](us-hi) | [New Hampshire](us-nh) | [Virgin Islands](us-vi) |
-| [Idaho](us-id) | [New Jersey](us-nj) | [Virginia](us-va) |
-| [Illinois](us-il) | [New Mexico](us-nm) | [Washington](us-wa) |
-| [Indiana](us-in) | [New York](us-ny) | [West Virginia](us-wv) |
-| [Iowa](us-ia) | [North Carolina](us-nc) | [Wisconsin](us-wi) |
-| [Kansas](us-ks) | [North Dakota](us-nd) | [Wyoming](us-wy) |
+| [Arizona](us-az) | [Maine](us-me) | [Puerto Rico](us-pr) |
+| [California](us-ca) | [Michigan](us-mi) | [Rhode Island](us-ri) |
+| [Colorado](us-co) | [Minnesota](us-mn) | [South Carolina](us-sc) |
+| [Connecticut](us-ct) | [Missouri](us-mo) | [South Dakota](us-sd) |
+| [District of Columbia](us-dc) | [Northern Mariana Islands](us-mp) | [Tennessee](us-tn) |
+| [Delaware](us-de) | [Mississippi](us-ms) | [Texas](us-tx) |
+| [Florida](us-fl) | [Montana](us-mt) | [Utah](us-ut) |
+| [Georgia](us-ga) | [North Carolina](us-nc) | [Virginia](us-va) |
+| [Guam](us-gu) | [North Dakota](us-nd) | [Virgin Islands](us-vi) |
+| [Hawaii](us-hi) | [Nebraska](us-ne) | [Vermont](us-vt) |
+| [Iowa](us-ia) | [New Hampshire](us-nh) | [Washington](us-wa) |
+| [Idaho](us-id) | [New Jersey](us-nj) | [Wisconsin](us-wi) |
+| [Illinois](us-il) | [New Mexico](us-nm) | [West Virginia](us-wv) |
+| [Indiana](us-in) | [Nevada](us-nv) | [Wyoming](us-wy) |
+| [Kansas](us-ks) | [New York](us-ny) |
+| [Kentucky](us-ky) | [Ohio](us-oh) |
 
 [Back to Top](#top)
 
