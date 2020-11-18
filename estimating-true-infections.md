@@ -7,7 +7,7 @@ permalink: /estimating-true-infections/
 # Estimating True Infections: A Simple Heuristic to Measure Implied Infection Fatality Rate
 
 By: [Youyang Gu](https://twitter.com/youyanggu)
-<br>July 29, 2020 (*Last Updated*: August 10, 2020)
+<br>July 29, 2020
 
 ## Table of Contents
 * [Main Conclusions](#main-conclusions)
@@ -28,7 +28,7 @@ By: [Youyang Gu](https://twitter.com/youyanggu)
 
 **Important Note:** While this page explains how one can use cases and positivity rate to estimate true infections, our *covid19-projections.com* model [only use deaths data](https://covid19-projections.com/about/#data-and-output).
 
-**November 2020 Update:** As testing continues to increase across the United States, we want to caution readers from applying the below formulas to the new fall data. The findings below are more relevant during the period when testing was limited, and may no longer be as applicable since the summer.
+**November 2020 Update:** As testing continues to increase across the United States, we want to caution readers from applying the below formulas to the new fall data. The findings below are more relevant during the period when testing was limited, and may no longer be as applicable since the summer. In addition, please read [this article](https://covidtracking.com/blog/test-positivity-in-the-us-is-a-mess) by the COVID Tracking Project that highlights the difficulty of computing consistent test positivity rates.
 
 *August 10 Update:* See our [new findings](https://twitter.com/youyanggu/status/1292898685173534722) for a case study regarding the role of immunity, behavior, and interventions in the spread of COVID-19.
 
