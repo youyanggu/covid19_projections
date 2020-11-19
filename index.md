@@ -16,7 +16,7 @@ For regular updates and insights, follow us on Twitter:<br>
   Currently Infected (as of Nov 8): <b>7.7 million (2.3% | 1 in 40)</b><br>
   Total Infected (as of Nov 8): <b>57 million (17% | 1 in 6)</b><br>
   <br>
-  Rt (as of Nov 8): <b>1.19</b><br>
+  Rt (as of Nov 8): <b>1.20</b><br>
   Adjusted Positivity Rate (as of Nov 18): <b>9.0%</b><br>
   Infections / Cases: <b>~4.0</b> {% include iframe_infections.html %}
 </p>
