@@ -1,6 +1,6 @@
 We present a simple model that estimates true infections in the US.
 
-Our infections estimates include all infected individuals of the SARS-CoV-2 virus, not just those that took a COVID-19 test and tested positive. The vast majority of infected individuals in our estimates do not get tested, and thus do not get reported as a positive case. As of November, we estimate the true number of infected individuals in the US is roughly 2-6x higher than the reported cases. See our writeup, [Estimating True Infections](/estimating-true-infections), for a more detailed look into this subject. To get a sense of the number of individuals that are actively infectious, we recommend dividing the *"currently infected"* estimate by 2-4.
+Our infections estimates include all infected individuals of the SARS-CoV-2 virus, not just those that took a COVID-19 test and tested positive. The vast majority of infected individuals in our estimates do not get tested, and thus do not get reported as a positive case. As of November, we estimate the true number of infected individuals in the US is roughly 2-5x higher than the reported cases (20-50% detection rate). See our writeup, [Estimating True Infections](/estimating-true-infections), for a more detailed look into this subject. To get a sense of the number of individuals that are actively infectious, we recommend dividing the *"currently infected"* estimate by 2-4.
 
 ## Recent Updates
 
@@ -10,7 +10,7 @@ For regular updates and insights, follow us on Twitter:<br>
 * **November 18 Update:** We are re-launching this website with nowcasting of infections estimates in the US (what has happened). For forecasts of cases and deaths (what will happen), please see [Youyang's blog](https://youyanggu.com/blog/six-months-later#model-alternatives) for model alternatives.
 
 ## US Infections Estimates
-### Updated Daily - Last Updated: November 19 (12pm ET)
+### Updated Daily - Last Updated: November 19 (1pm ET)
 <p align="center">
   Newly Infected (as of Nov 8): <b>507,000 / day</b> (150 / 100k)<br>
   Currently Infected (as of Nov 8): <b>6.1 million</b> (1.9% | 1 in 50)<br>
@@ -18,7 +18,7 @@ For regular updates and insights, follow us on Twitter:<br>
   <br>
   Rt (as of Nov 8): <b>1.17</b><br>
   Adjusted Positivity Rate (as of Nov 18): <b>9.3%</b><br>
-  Infections / Cases: <b>3.2</b> (31% detection rate) {% include iframe_infections.html %}
+  Infections / Cases: <b>3.2</b> (30% detection rate) {% include iframe_infections.html %}
 </p>
 
 | [United States](infections/us) |  |  |
