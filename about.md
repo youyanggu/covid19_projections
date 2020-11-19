@@ -4,6 +4,8 @@ title: About covid19-projections.com
 permalink: /about/
 ---
 
+## Note: This page is no longer being maintained. Please visit the [home page](/) for the latest infections updates for the US.
+
 ## Table of contents
 * [About the Model](#about-the-model)
 * [Who We Are](#who-we-are)
