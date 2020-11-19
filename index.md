@@ -11,7 +11,7 @@ For regular updates and insights, follow us on Twitter:<br>
 
 ## US Infections Estimates
 ### Updated Daily - Last Updated: November 19 (1pm ET)
-{% include_relative summary.md %}
+{% include_relative infections/summary.md %}
 {% include iframe_infections.html %}
 
 | [United States](infections/us) |  |  |
