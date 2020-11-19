@@ -10,15 +10,15 @@ For regular updates and insights, follow us on Twitter:<br>
 * **November 18 Update:** We are re-launching this website with nowcasting of infections estimates in the US (what has happened). For forecasts of cases and deaths (what will happen), please see [Youyang's blog](https://youyanggu.com/blog/six-months-later#model-alternatives) for model alternatives.
 
 ## US Infections Estimates
-### Updated Daily - Last Updated: November 18 (11pm ET)
+### Updated Daily - Last Updated: November 19 (10pm ET)
 <p align="center">
-  Newly Infected (as of Nov 8): <b>633,000 / day</b><br>
-  Currently Infected (as of Nov 8): <b>7.7 million (2.3% | 1 in 40)</b><br>
-  Total Infected (as of Nov 8): <b>57 million (17% | 1 in 6)</b><br>
+  Newly Infected (as of Nov 8): <b>554,600 / day</b><br>
+  Currently Infected (as of Nov 8): <b>6.7 million (2.0% | 1 in 50)</b><br>
+  Total Infected (as of Nov 8): <b>54 million (16% | 1 in 6)</b><br>
   <br>
-  Rt (as of Nov 8): <b>1.20</b><br>
-  Adjusted Positivity Rate (as of Nov 18): <b>9.0%</b><br>
-  Infections / Cases: <b>~4.0</b> {% include iframe_infections.html %}
+  Rt (as of Nov 8): <b>1.22</b><br>
+  Adjusted Positivity Rate (as of Nov 18): <b>10.1%</b><br>
+  Infections / Cases: <b>~3.5</b> {% include iframe_infections.html %}
 </p>
 
 | [United States](infections/us) |  |  |
