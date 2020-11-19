@@ -21,7 +21,7 @@ For regular updates and insights, follow us on Twitter:<br>
   Infections / Cases: <b>~3.8</b> {% include iframe_infections.html %}
 </p>
 
-| [United States](infections//us) |  |  |
+| [United States](infections/us) |  |  |
 | --- | --- | --- |
 | [Alaska](infections/us-ak) | [Louisiana](infections/us-la) | [Oklahoma](infections/us-ok) |
 | [Alabama](infections/us-al) | [Massachusetts](infections/us-ma) | [Oregon](infections/us-or) |
@@ -65,7 +65,7 @@ Below you can find our projections for every US state and 70 countries (includin
 
 ### US
 
-| [United States](/us) |  |  |
+| [United States](us) |  |  |
 | --- | --- | --- |
 | [Alaska](us-ak) | [Louisiana](us-la) | [Oklahoma](us-ok) |
 | [Alabama](us-al) | [Massachusetts](us-ma) | [Oregon](us-or) |
