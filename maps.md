@@ -6,7 +6,7 @@ permalink: /maps/
 
 ## Maps
 
-## Note: This page is no longer being maintained! Please visit the [home page](/) for the latest infections updates.
+## Note: This page is no longer being maintained. Please visit the [home page](/) for the latest infections updates for the US.
 
 * US maps (this page)
 * [View Global maps](/maps-global)
