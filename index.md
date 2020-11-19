@@ -1,6 +1,6 @@
-We present a simple model that estimates true infections in the US.
+We present a new, simple model that estimates true infections in the US.
 
-Our infections estimates include all infected individuals of the SARS-CoV-2 virus, not just those that took a COVID-19 test and tested positive. The vast majority of infected individuals in our estimates do not get tested, and thus do not get reported as a positive case. As of November, we estimate the true number of infected individuals in the US is roughly 2-5x higher than the reported cases (20-50% detection rate). See our writeup, [Estimating True Infections](/estimating-true-infections), for a more detailed look into this subject. To get a sense of the number of individuals that are actively infectious, we recommend dividing the *"currently infected"* estimate by 2-4.
+Our infections estimates include all infected individuals of the SARS-CoV-2 virus, not just those that took a COVID-19 test and tested positive. As of November, we estimate the true number of infected individuals in the US to be roughly 2-5x higher than the reported cases (20-50% detection rate). See our writeup, [Estimating True Infections](/estimating-true-infections), for a more detailed look into this subject. To get a sense of the number of individuals that are actively infectious, we recommend dividing the *"currently infected"* estimate by 2-4.
 
 ## Recent Updates
 
@@ -11,8 +11,7 @@ For regular updates and insights, follow us on Twitter:<br>
 
 ## US Infections Estimates
 ### Updated Daily - Last Updated: November 19 (1pm ET)
-{% include_relative infections/summary.md %}
-{% include iframe_infections.html %}
+{% include_relative infections/summary.md %}{% include iframe_infections.html %}
 
 | [United States](infections/us) |  |  |
 | --- | --- | --- |
