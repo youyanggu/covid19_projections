@@ -1,23 +1,13 @@
-We present an intuitive COVID-19 model that adds machine learning techniques on top of a classic infectious disease model to make projections for infections and deaths for the US and 70 other countries. The countries our projections cover encompass 6.4 billion people and account for more than 95% of all global reported COVID-19 deaths.
+We present a simple model that estimates true infections in the US.
 
 Our infections estimates include all infected individuals of the SARS-CoV-2 virus, not just those that took a COVID-19 test and tested positive. The vast majority of infected individuals in our estimates do not get tested, and thus do not get reported as a positive case. As of November, we estimate the true number of infected individuals in the US is roughly 2-6x higher than the reported cases. See our writeup, [Estimating True Infections](/estimating-true-infections), for a more detailed look into this subject. To get a sense of the number of individuals that are actively infectious, we recommend dividing the *"currently infected"* estimate by 2-4.
-
-On this page:
-* [View US projections](#current-us-projections)
-* [US and Global Dashboard](#covid-19-dashboard)
-* [View US state-by-state projections](#view-projections)
-* [View global projections](#global-projections)
-* [Likelihoods of death milestones in US](#us-deaths-likelihoods)
-* [Summary of US projections](#us-summary)
-* [Summary of Europe projections](#europe-summary)
-* [Summary of Rest of World projections](#rest-of-world-summary)
 
 ## Recent Updates
 
 For regular updates and insights, follow us on Twitter:<br>
 <a href="https://twitter.com/youyanggu" class="twitter-follow-button" data-show-count="false">@youyanggu</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-* **November 18 Update:** We are re-launching this website with nowcasting of infections estimates in the US. For forecasts of cases and deaths, please see [my blog](https://youyanggu.com/blog/six-months-later#model-alternatives) for model alternatives.
+* **November 18 Update:** I am re-launching this website with nowcasting of infections estimates in the US. For forecasts of cases and deaths, please see [my blog](https://youyanggu.com/blog/six-months-later#model-alternatives) for model alternatives.
 
 ## Infections Estimates
 ### Updated Daily - Last Updated: November 18 (7pm)
@@ -52,7 +42,9 @@ For regular updates and insights, follow us on Twitter:<br>
 | [Kansas](infections/us-ks) | [New York](infections/us-ny) |
 | [Kentucky](infections/us-ky) | [Ohio](infections/us-oh) |
 
-## Projections (Not Actively Updated)
+## COVID-19 Projections (Not Actively Updated)
+
+We present an intuitive COVID-19 model that adds machine learning techniques on top of a classic infectious disease model to make projections for infections and deaths for the US and 70 other countries. The countries our projections cover encompass 6.4 billion people and account for more than 95% of all global reported COVID-19 deaths.
 
 ## Old Updates
 
