@@ -7,6 +7,7 @@ Our infections estimates include all infected individuals of the SARS-CoV-2 viru
 For regular updates and insights, follow us on Twitter:<br>
 <a href="https://twitter.com/youyanggu" class="twitter-follow-button" data-show-count="false">@youyanggu</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+* **November 19 Update:** You can now download our raw estimates [here](https://github.com/youyanggu/covid19_projections/tree/master/infection_estimates).
 * **November 18 Update:** We are re-launching this website with nowcasting of infections estimates in the US (what has happened). For forecasts of cases and deaths (what will happen), please see [Youyang's blog](https://youyanggu.com/blog/six-months-later#model-alternatives) for model alternatives.
 
 ## US Infections Estimates (Updated Daily)
