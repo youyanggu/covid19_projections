@@ -6,6 +6,8 @@ permalink: /maps-europe/
 
 ## Europe Maps
 
+## Note: This page is no longer being maintained. Please visit the [home page](/) for the latest infections updates for the US.
+
 Here we display a variety of maps for Europe generated based on current data and our projections. All maps are updated daily.
 
 * [View US maps](/maps)
