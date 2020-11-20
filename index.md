@@ -10,7 +10,6 @@ For regular updates and insights, follow us on Twitter:<br>
 * **November 18 Update:** We are re-launching this website with nowcasting of infections estimates in the US (what has happened). For forecasts of cases and deaths (what will happen), please see [Youyang's blog](https://youyanggu.com/blog/six-months-later#model-alternatives) for model alternatives.
 
 ## US Infections Estimates
-### Updated Daily - Last Updated: November 19 (1pm ET)
 {% include_relative infections/summary.md %}{% include iframe_infections.html %}
 
 | [United States](infections/us) |  |  |
