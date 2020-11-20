@@ -2,7 +2,7 @@ We present a new, simple model that estimates true infections in the US.
 
 Our infections estimates include all infected individuals of the SARS-CoV-2 virus, not just those that took a COVID-19 test and tested positive. As of November, we estimate the true number of infected individuals in the US to be roughly 2-5x higher than the reported cases (20-50% detection rate). See our writeup, [Estimating True Infections](/estimating-true-infections), for a more detailed look into this subject. To get a sense of the number of individuals that are actively infectious, we recommend dividing the *"currently infected"* estimate by 2-4.
 
-[Jump to infection estimates](#us-infections-estimates-updated-daily)
+[Jump to infection estimates](#view-us-infections-estimates)
 
 ## Recent Updates
 
@@ -14,7 +14,7 @@ For regular updates and insights, follow us on Twitter:<br>
 
 ## US Infections Estimates (Updated Daily)
 {% include_relative infections/summary.md %}{% include iframe_infections.html %}{% include iframe_map_infections.html %}
-
+## View US Infections Estimates
 | [United States](infections/us) |  |  |
 | --- | --- | --- |
 | [Alaska](infections/us-ak) | [Louisiana](infections/us-la) | [Oklahoma](infections/us-ok) |
