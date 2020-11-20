@@ -52,8 +52,6 @@ We present an intuitive COVID-19 model that adds machine learning techniques on 
 * *June 24:* We have open-sourced our [SEIR simulator](https://github.com/youyanggu/yyg-seir-simulator). This is the underlying SEIR model without the machine learning layer to learn the parameters. If your system supports Python, you can generate your own simulations in under 5 minutes. No prior Python experience is needed.
 * *June 16:* We have open-sourced our code to [evaluate COVID-19 models](https://github.com/youyanggu/covid19-forecast-hub-evaluation). The goal of this project is to evaluate various models' historical point forecasts in a transparent, rigorous, and non-biased manner.
 
-{% include iframe.html %}
-
 ## View Projections
 
 Below you can find our projections for every US state and 70 countries (including all 27 European Union countries).
