@@ -1,0 +1,17 @@
+# US Infections Estimate
+
+In this folder you will find the raw estimates of true infections in the US. We use confirmed cases and testing data from [The COVID Tracking Project](https://covidtracking.com/data/download) to generate these estimates.
+
+## Column Descriptions
+
+* `daily_positive_7day_ma` - Daily confirmed cases (7 day moving average)
+* `daily_tests_7day_ma` - Daily tests (7 day moving average)
+* `positivity_rate_orig_7day_ma` - Unadjusted positivity rate (cases / tests)
+* `positivity_rate_7day_ma` - Adjusted positivity rate (cases / tests). It attempts to correct for the [differences](https://covidtracking.com/about-data/total-tests) in test reporting from state to state.
+* `prevalence_ratio_mean`, `prevalence_ratio_lower`, `prevalence_ratio_upper` - Estimates the ratio of the number of true infections compared to confirmed cases. When multiplied with the daily confirmed cases (daily_positive_7day_ma), it provides an estimate of the true infections from ~10 days prior (due to the lag in reporting).
+* `rt_mean` - Reproduction number estimate
+* `new_infected_mean`, `new_infected_lower`, `new_infected_upper` - Mean, lower and upper bounds of our estimates for the total number of newly infected individuals on that day. This is based on the date an individual is *first exposed*. Note that these estimates include all infections, not just those who tested positive.
+* `current_infected_mean`, `current_infected_lower`, `current_infected_upper` - Mean, lower and upper bounds of our estimates for the total number of individuals that are infected on that day. This is the sum of the past 15 days of newly infected individuals
+* `perc_current_infected_mean`, `perc_current_infected_lower`, `perc_current_infected_upper` - current_infected_mean / population
+* `total_infected_mean`, `total_infected_lower`, `total_infected_upper` - Mean, lower and upper bounds of our estimates for the total number of individuals that have ever been infected. This is the cumulative sum of the newly infected individuals
+* `perc_total_infected_mean`, `perc_total_infected_lower`, `perc_total_infected_upper` - total_infected_mean / population)
