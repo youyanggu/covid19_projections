@@ -15,6 +15,7 @@ For regular updates and insights, follow us on Twitter:<br>
 ## US Infections Estimates (Updated Daily)
 {% include_relative infections/summary.md %}{% include iframe_infections.html %}{% include iframe_map_infections.html %}
 ## View US Infections Estimates
+
 | [United States](infections/us) |  |  |
 | --- | --- | --- |
 | [Alaska](infections/us-ak) | [Louisiana](infections/us-la) | [Oklahoma](infections/us-ok) |
