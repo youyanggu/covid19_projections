@@ -1,4 +1,4 @@
-### Last Updated: Saturday, November 21, 2020 (5pm ET)
+### Last Updated: Saturday, November 21, 2020 (6pm ET)
 <p align="center">
 Newly Infected (as of Nov 6): <b>549,000 / day</b> 
 (170 / 100k)<br>
