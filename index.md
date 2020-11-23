@@ -18,7 +18,7 @@ For regular updates and insights, follow us on Twitter:<br>
 ## US Infections Estimates (Updated Daily)
 {% include_relative infections/summary.md %}{% include iframe_infections.html %}
 ## Maps
-{% include iframe_map_infections.html %}
+{% include iframe_home_map.html %}
 ## View US Infections Estimates
 
 | [United States](infections/us) |  |  |
