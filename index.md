@@ -17,9 +17,13 @@ For regular updates and insights, follow us on Twitter:<br>
 
 ## US Infections Estimates (Updated Daily)
 {% include_relative infections/summary.md %}{% include iframe_infections.html %}
+[Back to Top](#top)
+
 ## Maps
 [Click here](/maps-infections) to view maps of our county-by-county infection estimates.
 {% include iframe_home_map.html %}
+[Back to Top](#top)
+
 ## View US Infections Estimates
 
 | [United States](infections/us) |  |  |
@@ -43,6 +47,8 @@ For regular updates and insights, follow us on Twitter:<br>
 | [Indiana](infections/us-in) | [Nevada](infections/us-nv) | [Wyoming](infections/us-wy) |
 | [Kansas](infections/us-ks) | [New York](infections/us-ny) |
 | [Kentucky](infections/us-ky) | [Ohio](infections/us-oh) |
+
+[Back to Top](#top)
 
 ## US Counties - Infections Estimates
 
