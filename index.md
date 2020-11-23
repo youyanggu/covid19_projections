@@ -74,6 +74,10 @@ Click on a state to view the counties in that state. You can then select the cou
 | [Indiana](infections/counties/in/) | [New Mexico](infections/counties/nm/) | [West Virginia](infections/counties/wv/) |
 | [Kansas](infections/counties/ks/) | [Nevada](infections/counties/nv/) | [Wyoming](infections/counties/wy/) |
 
+[Back to Top](#top)
+
+The below sections are from our old COVID-19 projections model, and are no longer being updated. But we will leave them here for your reference.
+
 ## COVID-19 Projections (Not Actively Updated)
 
 We present an intuitive COVID-19 model that adds machine learning techniques on top of a classic infectious disease model to make projections for infections and deaths for the US and 70 other countries. The countries our projections cover encompass 6.4 billion people and account for more than 95% of all global reported COVID-19 deaths.
