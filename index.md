@@ -11,7 +11,7 @@ Our infections estimates include all infected individuals of the SARS-CoV-2 viru
 For regular updates and insights, follow us on Twitter:<br>
 <a href="https://twitter.com/youyanggu" class="twitter-follow-button" data-show-count="false">@youyanggu</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-* **November 22 Update:** You can view county-by-county estimates [below](#us-counties-infections-estimates). You can view maps of these estimates on the new [Maps](/maps-infections) page You can also download these estimates [here](https://github.com/youyanggu/covid19_projections/tree/master/infection_estimates).
+* **November 23 Update:** You can view county-by-county estimates [below](#us-counties-infections-estimates). You can view maps of these estimates on the new [Maps](/maps-infections) page You can also download these estimates [here](https://github.com/youyanggu/covid19_projections/tree/master/infection_estimates).
 * *November 19:* You can now download our raw estimates [here](https://github.com/youyanggu/covid19_projections/tree/master/infection_estimates).
 * *November 18:* We are re-launching this website with nowcasting of infections estimates in the US (what has happened). For forecasts of cases and deaths (what will happen), please see [Youyang's blog](https://youyanggu.com/blog/six-months-later#model-alternatives) for model alternatives.
 
@@ -50,7 +50,7 @@ For regular updates and insights, follow us on Twitter:<br>
 
 [Back to Top](#top)
 
-## US Counties - Infections Estimates
+## US Counties Infections Estimates
 
 Click on a state to view the counties in that state. You can then select the county to view detailed infection estimates.
 
