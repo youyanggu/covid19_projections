@@ -2,259 +2,261 @@
 
 See state-wide estimates [here](/infections/us-tx).
 
-|   FIPS Code |                         County |   Population |   % Currently Infected |   % Total Infected |
-|-------------|--------------------------------|--------------|------------------------|--------------------|
-|       48201 |               [Harris](harris) |    4,713,325 |                    1.0 |               16.1 |
-|       48113 |               [Dallas](dallas) |    2,635,516 |                    1.9 |               18.2 |
-|       48439 |             [Tarrant](tarrant) |    2,102,515 |                    2.7 |               16.6 |
-|       48029 |                 [Bexar](bexar) |    2,003,554 |                    0.8 |               15.4 |
-|       48453 |               [Travis](travis) |    1,273,954 |                    0.8 |               12.4 |
-|       48085 |               [Collin](collin) |    1,034,730 |                    1.0 |                8.8 |
-|       48121 |               [Denton](denton) |      887,207 |                    1.0 |                8.4 |
-|       48215 |             [Hidalgo](hidalgo) |      868,707 |                    1.0 |               19.3 |
-|       48141 |             [El Paso](el-paso) |      839,238 |                    9.7 |               34.9 |
-|       48157 |         [Fort Bend](fort-bend) |      811,688 |                    0.5 |               10.5 |
-|       48339 |       [Montgomery](montgomery) |      607,391 |                    0.7 |               10.7 |
-|       48491 |       [Williamson](williamson) |      590,551 |                    0.9 |                8.4 |
-|       48061 |             [Cameron](cameron) |      423,163 |                    0.7 |               26.5 |
-|       48039 |           [Brazoria](brazoria) |      374,264 |                    0.8 |               15.8 |
-|       48027 |                   [Bell](bell) |      362,924 |                    1.0 |                9.0 |
-|       48355 |               [Nueces](nueces) |      362,294 |                    1.0 |               28.2 |
-|       48167 |         [Galveston](galveston) |      342,139 |                    1.0 |               18.2 |
-|       48303 |             [Lubbock](lubbock) |      310,569 |                    7.1 |               33.1 |
-|       48479 |                   [Webb](webb) |      276,652 |                    2.8 |               27.2 |
-|       48309 |           [McLennan](mclennan) |      256,623 |                    2.8 |               20.2 |
-|       48245 |         [Jefferson](jefferson) |      251,565 |                    1.3 |               16.5 |
-|       48423 |                 [Smith](smith) |      232,751 |                    1.1 |               10.0 |
-|       48209 |                   [Hays](hays) |      230,191 |                    0.9 |               13.5 |
-|       48041 |               [Brazos](brazos) |      229,211 |                    1.4 |               16.1 |
-|       48139 |                 [Ellis](ellis) |      184,826 |                    1.5 |               13.7 |
-|       48329 |             [Midland](midland) |      176,832 |                    1.7 |               15.2 |
-|       48251 |             [Johnson](johnson) |      175,817 |                    1.4 |               10.9 |
-|       48187 |         [Guadalupe](guadalupe) |      166,847 |                    0.4 |               10.3 |
-|       48135 |                 [Ector](ector) |      166,223 |                    2.7 |               20.3 |
-|       48091 |                 [Comal](comal) |      156,209 |                    0.3 |                8.7 |
-|       48367 |               [Parker](parker) |      142,878 |                    1.5 |                9.2 |
-|       48441 |               [Taylor](taylor) |      138,034 |                    1.6 |                9.2 |
-|       48381 |             [Randall](randall) |      137,713 |                    6.7 |               23.7 |
-|       48181 |             [Grayson](grayson) |      136,212 |                    2.1 |               10.6 |
-|       48257 |             [Kaufman](kaufman) |      136,154 |                    1.3 |               13.2 |
-|       48485 |             [Wichita](wichita) |      132,230 |                    4.0 |               16.3 |
-|       48183 |                 [Gregg](gregg) |      123,945 |                    1.1 |               10.4 |
-|       48451 |         [Tom Green](tom-green) |      119,200 |                    7.0 |               25.6 |
-|       48375 |               [Potter](potter) |      117,415 |                    6.7 |               36.6 |
-|       48397 |           [Rockwall](rockwall) |      104,915 |                    1.4 |                9.7 |
-|       48231 |                   [Hunt](hunt) |       98,594 |                    1.3 |               10.6 |
-|       48037 |                 [Bowie](bowie) |       93,245 |                    1.1 |               10.2 |
-|       48469 |           [Victoria](victoria) |       92,084 |                    1.3 |               23.2 |
-|       48021 |             [Bastrop](bastrop) |       88,723 |                    0.5 |               10.8 |
-|       48291 |             [Liberty](liberty) |       88,219 |                    0.3 |               11.8 |
-|       48005 |           [Angelina](angelina) |       86,715 |                    0.6 |               12.7 |
-|       48361 |               [Orange](orange) |       83,396 |                    0.6 |               13.0 |
-|       48213 |         [Henderson](henderson) |       82,737 |                    1.1 |                8.0 |
-|       48099 |             [Coryell](coryell) |       75,951 |                    0.9 |               12.0 |
-|       48471 |               [Walker](walker) |       72,971 |                    0.5 |               25.3 |
-|       48497 |                   [Wise](wise) |       69,984 |                    1.5 |                7.6 |
-|       48409 |   [San Patricio](san-patricio) |       66,730 |                    0.7 |               11.2 |
-|       48203 |           [Harrison](harrison) |       66,553 |                    0.4 |                7.9 |
-|       48347 |     [Nacogdoches](nacogdoches) |       65,204 |                    0.4 |               12.9 |
-|       48427 |                 [Starr](starr) |       64,633 |                    0.9 |               25.6 |
-|       48221 |                   [Hood](hood) |       61,643 |                    0.9 |                9.4 |
-|       48323 |           [Maverick](maverick) |       58,722 |                    1.9 |               34.1 |
-|       48001 |           [Anderson](anderson) |       57,735 |                    0.6 |               26.5 |
-|       48199 |               [Hardin](hardin) |       57,602 |                    0.4 |               12.3 |
-|       48467 |         [Van Zandt](van-zandt) |       56,590 |                    1.5 |                7.1 |
-|       48473 |               [Waller](waller) |       55,246 |                    0.3 |                8.2 |
-|       48401 |                   [Rusk](rusk) |       54,406 |                    0.6 |                8.9 |
-|       48073 |           [Cherokee](cherokee) |       52,646 |                    0.2 |               14.6 |
-|       48265 |                   [Kerr](kerr) |       52,600 |                    0.7 |                6.6 |
-|       48325 |               [Medina](medina) |       51,584 |                    0.4 |               11.8 |
-|       48373 |                   [Polk](polk) |       51,353 |                    0.4 |                8.7 |
-|       48013 |           [Atascosa](atascosa) |       51,153 |                    0.7 |               11.3 |
-|       48493 |               [Wilson](wilson) |       51,070 |                    0.4 |                8.8 |
-|       48349 |             [Navarro](navarro) |       50,113 |                    1.2 |               14.2 |
-|       48277 |                 [Lamar](lamar) |       49,859 |                    2.8 |               18.3 |
-|       48465 |         [Val Verde](val-verde) |       49,025 |                    1.8 |               25.5 |
-|       48053 |               [Burnet](burnet) |       48,155 |                    1.2 |               10.8 |
-|       48259 |             [Kendall](kendall) |       47,431 |                    0.5 |                4.1 |
-|       48499 |                   [Wood](wood) |       45,539 |                    1.1 |                7.3 |
-|       48071 |           [Chambers](chambers) |       43,837 |                    1.4 |               17.5 |
-|       48055 |           [Caldwell](caldwell) |       43,664 |                    0.5 |               18.0 |
-|       48143 |                 [Erath](erath) |       42,698 |                    1.1 |               12.0 |
-|       48459 |               [Upshur](upshur) |       41,753 |                    0.5 |                5.8 |
-|       48481 |             [Wharton](wharton) |       41,556 |                    0.6 |               16.3 |
-|       48097 |                 [Cooke](cooke) |       41,257 |                    0.8 |                6.6 |
-|       48249 |         [Jim Wells](jim-wells) |       40,482 |                    1.2 |               19.4 |
-|       48049 |                 [Brown](brown) |       37,864 |                    1.3 |                9.5 |
-|       48223 |             [Hopkins](hopkins) |       37,084 |                    0.7 |                8.1 |
-|       48227 |               [Howard](howard) |       36,664 |                    2.6 |               15.3 |
-|       48217 |                   [Hill](hill) |       36,649 |                    1.5 |               11.3 |
-|       48321 |         [Matagorda](matagorda) |       36,643 |                    0.5 |               14.6 |
-|       48477 |       [Washington](washington) |       35,882 |                    1.3 |               10.7 |
-|       48241 |               [Jasper](jasper) |       35,529 |                    0.1 |                6.5 |
-|       48147 |               [Fannin](fannin) |       35,514 |                    1.0 |               10.7 |
-|       48189 |                   [Hale](hale) |       33,406 |                    8.0 |               43.0 |
-|       48449 |                 [Titus](titus) |       32,750 |                    0.7 |               24.1 |
-|       48025 |                     [Bee](bee) |       32,565 |                    0.6 |               26.5 |
-|       48273 |             [Kleberg](kleberg) |       30,680 |                    1.0 |               15.8 |
-|       48015 |               [Austin](austin) |       30,032 |                    0.3 |                8.1 |
-|       48067 |                   [Cass](cass) |       30,026 |                    1.5 |                9.2 |
-|       48363 |       [Palo Pinto](palo-pinto) |       29,189 |                    1.2 |               11.9 |
-|       48185 |               [Grimes](grimes) |       28,880 |                    1.0 |               19.7 |
-|       48407 |     [San Jacinto](san-jacinto) |       28,859 |                    0.1 |                4.0 |
-|       48171 |         [Gillespie](gillespie) |       26,988 |                    0.8 |                6.6 |
-|       48463 |               [Uvalde](uvalde) |       26,741 |                    2.0 |               16.3 |
-|       48149 |             [Fayette](fayette) |       25,346 |                    0.9 |               12.9 |
-|       48419 |               [Shelby](shelby) |       25,274 |                    0.4 |               10.6 |
-|       48331 |                 [Milam](milam) |       24,823 |                    0.7 |               10.6 |
-|       48007 |             [Aransas](aransas) |       23,510 |                    0.3 |                6.7 |
-|       48293 |         [Limestone](limestone) |       23,437 |                    0.6 |               13.0 |
-|       48365 |               [Panola](panola) |       23,194 |                    0.4 |                9.9 |
-|       48019 |             [Bandera](bandera) |       23,112 |                    0.3 |                3.9 |
-|       48219 |             [Hockley](hockley) |       23,021 |                    5.4 |               19.5 |
-|       48225 |             [Houston](houston) |       22,968 |                    0.6 |               11.3 |
-|       48179 |                   [Gray](gray) |       21,886 |                    9.9 |               19.9 |
-|       48299 |                 [Llano](llano) |       21,795 |                    0.8 |                4.7 |
-|       48457 |                 [Tyler](tyler) |       21,672 |                    0.2 |                5.6 |
-|       48089 |           [Colorado](colorado) |       21,493 |                    0.6 |               11.4 |
-|       48165 |               [Gaines](gaines) |       21,492 |                    3.6 |               14.7 |
-|       48281 |           [Lampasas](lampasas) |       21,428 |                    0.4 |                6.6 |
-|       48489 |             [Willacy](willacy) |       21,358 |                    0.8 |               26.8 |
-|       48057 |             [Calhoun](calhoun) |       21,290 |                    0.4 |               19.5 |
-|       48341 |                 [Moore](moore) |       20,940 |                    2.4 |               32.3 |
-|       48233 |       [Hutchinson](hutchinson) |       20,938 |                    3.4 |               10.7 |
-|       48177 |           [Gonzales](gonzales) |       20,837 |                    0.9 |               24.7 |
-|       48163 |                   [Frio](frio) |       20,306 |                    0.8 |               22.5 |
-|       48123 |               [DeWitt](dewitt) |       20,160 |                    1.0 |               24.9 |
-|       48285 |               [Lavaca](lavaca) |       20,154 |                    2.2 |               27.4 |
-|       48253 |                 [Jones](jones) |       20,083 |                   16.7 |               32.9 |
-|       48337 |           [Montague](montague) |       19,818 |                    2.6 |                8.8 |
-|       48161 |         [Freestone](freestone) |       19,717 |                    0.4 |               10.7 |
-|       48003 |             [Andrews](andrews) |       18,705 |                    4.2 |               19.6 |
-|       48035 |               [Bosque](bosque) |       18,685 |                    1.3 |               10.6 |
-|       48117 |       [Deaf Smith](deaf-smith) |       18,546 |                    2.5 |               27.9 |
-|       48051 |           [Burleson](burleson) |       18,443 |                    1.9 |               13.1 |
-|       48133 |           [Eastland](eastland) |       18,360 |                    1.0 |                7.0 |
-|       48503 |                 [Young](young) |       18,010 |                    2.5 |               16.3 |
-|       48289 |                   [Leon](leon) |       17,404 |                    0.8 |                9.9 |
-|       48145 |                 [Falls](falls) |       17,297 |                    0.7 |               15.8 |
-|       48287 |                     [Lee](lee) |       17,239 |                    0.4 |                6.8 |
-|       48395 |         [Robertson](robertson) |       17,074 |                    0.5 |               11.3 |
-|       48415 |               [Scurry](scurry) |       16,703 |                    4.9 |               33.6 |
-|       48389 |               [Reeves](reeves) |       15,976 |                    2.7 |               10.3 |
-|       48371 |                 [Pecos](pecos) |       15,823 |                    2.8 |               16.5 |
-|       48255 |               [Karnes](karnes) |       15,601 |                    0.5 |               28.2 |
-|       48239 |             [Jackson](jackson) |       14,760 |                    1.9 |               21.7 |
-|       48353 |                 [Nolan](nolan) |       14,714 |                    3.4 |               15.5 |
-|       48455 |             [Trinity](trinity) |       14,651 |                    0.2 |                6.8 |
-|       48313 |             [Madison](madison) |       14,284 |                    1.2 |               28.0 |
-|       48505 |               [Zapata](zapata) |       14,179 |                    1.6 |               12.7 |
-|       48059 |           [Callahan](callahan) |       13,943 |                    1.1 |                5.4 |
-|       48093 |           [Comanche](comanche) |       13,635 |                    0.8 |               15.0 |
-|       48351 |               [Newton](newton) |       13,595 |                    0.1 |                6.3 |
-|       48063 |                   [Camp](camp) |       13,094 |                    0.7 |               14.0 |
-|       48279 |                   [Lamb](lamb) |       12,893 |                    6.7 |               25.8 |
-|       48487 |         [Wilbarger](wilbarger) |       12,769 |                    4.3 |               16.1 |
-|       48115 |               [Dawson](dawson) |       12,728 |                    4.9 |               32.3 |
-|       48379 |                 [Rains](rains) |       12,514 |                    1.1 |                4.5 |
-|       48343 |               [Morris](morris) |       12,388 |                    0.5 |                8.7 |
-|       48445 |                 [Terry](terry) |       12,337 |                    5.4 |               25.5 |
-|       48297 |           [Live Oak](live-oak) |       12,207 |                    0.5 |               14.8 |
-|       48387 |         [Red River](red-river) |       12,023 |                    0.3 |                7.5 |
-|       48475 |                   [Ward](ward) |       11,998 |                    3.4 |                9.6 |
-|       48031 |               [Blanco](blanco) |       11,931 |                    0.2 |                6.5 |
-|       48507 |               [Zavala](zavala) |       11,840 |                    2.0 |               18.7 |
-|       48131 |                 [Duval](duval) |       11,157 |                    1.4 |               20.2 |
-|       48159 |           [Franklin](franklin) |       10,725 |                    0.5 |                9.0 |
-|       48403 |               [Sabine](sabine) |       10,542 |                    0.5 |                4.8 |
-|       48077 |                   [Clay](clay) |       10,471 |                    2.6 |                8.0 |
-|       48399 |             [Runnels](runnels) |       10,264 |                    0.7 |               13.3 |
-|       48127 |               [Dimmit](dimmit) |       10,124 |                    1.2 |               13.7 |
-|       48315 |               [Marion](marion) |        9,854 |                    0.3 |                8.4 |
-|       48357 |         [Ochiltree](ochiltree) |        9,836 |                    6.5 |               19.7 |
-|       48369 |               [Parmer](parmer) |        9,605 |                    2.2 |               28.4 |
-|       48429 |           [Stephens](stephens) |        9,366 |                    1.9 |                9.9 |
-|       48043 |           [Brewster](brewster) |        9,203 |                    4.6 |               17.4 |
-|       48425 |         [Somervell](somervell) |        9,128 |                    2.1 |               10.0 |
-|       48237 |                   [Jack](jack) |        8,935 |                    1.9 |                9.6 |
-|       48501 |               [Yoakum](yoakum) |        8,713 |                    7.0 |               23.9 |
-|       48009 |               [Archer](archer) |        8,553 |                    1.8 |                9.3 |
-|       48335 |           [Mitchell](mitchell) |        8,545 |                    2.3 |               12.1 |
-|       48193 |           [Hamilton](hamilton) |        8,461 |                    2.2 |               12.5 |
-|       48405 | [San Augustine](san-augustine) |        8,237 |                    1.1 |               13.5 |
-|       48083 |             [Coleman](coleman) |        8,175 |                    2.9 |                7.9 |
-|       48495 |             [Winkler](winkler) |        8,010 |                    3.5 |               11.9 |
-|       48307 |         [McCulloch](mcculloch) |        7,984 |                    1.7 |               12.9 |
-|       48175 |               [Goliad](goliad) |        7,658 |                    0.3 |               10.0 |
-|       48069 |               [Castro](castro) |        7,530 |                    3.9 |               23.3 |
-|       48283 |           [La Salle](la-salle) |        7,520 |                    0.1 |               25.1 |
-|       48437 |             [Swisher](swisher) |        7,397 |                    2.6 |               12.1 |
-|       48075 |         [Childress](childress) |        7,306 |                   28.2 |               38.7 |
-|       48111 |               [Dallam](dallam) |        7,287 |                    1.2 |               23.9 |
-|       48047 |               [Brooks](brooks) |        7,093 |                    0.8 |               22.5 |
-|       48017 |               [Bailey](bailey) |        7,000 |                    5.2 |               24.5 |
-|       48391 |             [Refugio](refugio) |        6,948 |                    0.7 |               21.3 |
-|       48377 |           [Presidio](presidio) |        6,704 |                    3.4 |               13.7 |
-|       48169 |                 [Garza](garza) |        6,229 |                    1.4 |               10.9 |
-|       48411 |           [San Saba](san-saba) |        6,055 |                    2.8 |               16.7 |
-|       48305 |                   [Lynn](lynn) |        5,951 |                    4.9 |               19.0 |
-|       48065 |               [Carson](carson) |        5,926 |                    1.3 |                5.1 |
-|       48317 |               [Martin](martin) |        5,771 |                    3.5 |               11.1 |
-|       48107 |               [Crosby](crosby) |        5,737 |                    2.1 |               11.6 |
-|       48153 |                 [Floyd](floyd) |        5,712 |                    2.7 |               13.3 |
-|       48207 |             [Haskell](haskell) |        5,658 |                    0.3 |                6.9 |
-|       48205 |             [Hartley](hartley) |        5,576 |                    0.9 |               14.9 |
-|       48195 |           [Hansford](hansford) |        5,399 |                    1.1 |               16.5 |
-|       48119 |                 [Delta](delta) |        5,331 |                    0.4 |                3.5 |
-|       48247 |           [Jim Hogg](jim-hogg) |        5,200 |                    0.9 |               15.1 |
-|       48483 |             [Wheeler](wheeler) |        5,056 |                    6.0 |               14.4 |
-|       48229 |           [Hudspeth](hudspeth) |        4,886 |                    2.3 |               11.3 |
-|       48333 |                 [Mills](mills) |        4,873 |                    2.5 |                9.3 |
-|       48103 |                 [Crane](crane) |        4,797 |                    4.4 |               12.2 |
-|       48267 |               [Kimble](kimble) |        4,337 |                    2.6 |                5.7 |
-|       48319 |                 [Mason](mason) |        4,274 |                    3.0 |               12.0 |
-|       48197 |           [Hardeman](hardeman) |        3,933 |                    0.9 |                7.2 |
-|       48383 |               [Reagan](reagan) |        3,849 |                    4.3 |               15.9 |
-|       48151 |               [Fisher](fisher) |        3,830 |                    1.9 |               14.5 |
-|       48211 |           [Hemphill](hemphill) |        3,819 |                    4.9 |               22.0 |
-|       48435 |               [Sutton](sutton) |        3,776 |                    4.7 |               18.0 |
-|       48271 |               [Kinney](kinney) |        3,667 |                    0.5 |                8.8 |
-|       48275 |                   [Knox](knox) |        3,664 |                    0.2 |               13.1 |
-|       48461 |                 [Upton](upton) |        3,657 |                    1.1 |                4.6 |
-|       48023 |               [Baylor](baylor) |        3,509 |                    0.5 |                5.7 |
-|       48105 |           [Crockett](crockett) |        3,464 |                    3.3 |               25.9 |
-|       48385 |                   [Real](real) |        3,452 |                    0.3 |               17.0 |
-|       48081 |                   [Coke](coke) |        3,387 |                    2.3 |               17.2 |
-|       48129 |               [Donley](donley) |        3,278 |                    1.5 |               14.6 |
-|       48417 |     [Shackelford](shackelford) |        3,265 |                    0.6 |                5.8 |
-|       48295 |           [Lipscomb](lipscomb) |        3,233 |                    4.3 |               13.2 |
-|       48421 |             [Sherman](sherman) |        3,022 |                    0.9 |               13.0 |
-|       48191 |                   [Hall](hall) |        2,964 |                    2.4 |                8.6 |
-|       48087 | [Collingsworth](collingsworth) |        2,920 |                    1.0 |                4.3 |
-|       48079 |             [Cochran](cochran) |        2,853 |                    3.1 |               19.5 |
-|       48413 |       [Schleicher](schleicher) |        2,793 |                    4.8 |               13.6 |
-|       48095 |               [Concho](concho) |        2,726 |                    3.6 |               24.7 |
-|       48243 |       [Jeff Davis](jeff-davis) |        2,274 |                    1.4 |                5.5 |
-|       48125 |             [Dickens](dickens) |        2,211 |                    1.2 |               11.6 |
-|       48109 |         [Culberson](culberson) |        2,171 |                    4.5 |               26.3 |
-|       48327 |               [Menard](menard) |        2,138 |                    3.1 |               17.3 |
-|       48359 |               [Oldham](oldham) |        2,112 |                    0.7 |                6.9 |
-|       48137 |             [Edwards](edwards) |        1,932 |                    1.4 |               17.4 |
-|       48011 |         [Armstrong](armstrong) |        1,887 |                    1.8 |                8.0 |
-|       48045 |             [Briscoe](briscoe) |        1,546 |                    3.0 |                9.7 |
-|       48235 |                 [Irion](irion) |        1,536 |                    0.4 |                4.4 |
-|       48447 |   [Throckmorton](throckmorton) |        1,501 |                    0.5 |                5.4 |
-|       48173 |         [Glasscock](glasscock) |        1,409 |                    3.0 |                7.0 |
-|       48101 |               [Cottle](cottle) |        1,398 |                    1.6 |               13.6 |
-|       48433 |         [Stonewall](stonewall) |        1,350 |                    0.8 |                7.8 |
-|       48431 |           [Sterling](sterling) |        1,291 |                    2.0 |                8.0 |
-|       48345 |               [Motley](motley) |        1,200 |                    0.5 |                6.5 |
-|       48155 |                 [Foard](foard) |        1,155 |                    0.9 |                8.0 |
-|       48393 |             [Roberts](roberts) |          854 |                    3.2 |               11.4 |
-|       48443 |             [Terrell](terrell) |          776 |                    2.6 |                5.7 |
-|       48263 |                   [Kent](kent) |          762 |                    4.1 |               10.9 |
-|       48311 |           [McMullen](mcmullen) |          743 |                    0.4 |               14.5 |
-|       48033 |               [Borden](borden) |          654 |                    0.9 |                2.5 |
-|       48261 |               [Kenedy](kenedy) |          404 |                    0.0 |               12.3 |
-|       48269 |                   [King](king) |          272 |                   -0.0 |                1.8 |
-|       48301 |               [Loving](loving) |          169 |                    4.0 |                4.0 |
+Click on a county name to view the infections estimates for that county.
+
+|   FIPS Code |                         County |   Population |   Confirmed Cases |   % Currently Infected |   % Total Infected |
+|-------------|--------------------------------|--------------|-------------------|------------------------|--------------------|
+|       48201 |               [Harris](harris) |    4,713,325 |           166,545 |                    1.0 |               16.1 |
+|       48113 |               [Dallas](dallas) |    2,635,516 |           100,628 |                    1.9 |               18.2 |
+|       48439 |             [Tarrant](tarrant) |    2,102,515 |            73,180 |                    2.7 |               16.6 |
+|       48029 |                 [Bexar](bexar) |    2,003,554 |            67,365 |                    0.8 |               15.4 |
+|       48453 |               [Travis](travis) |    1,273,954 |            33,016 |                    0.8 |               12.4 |
+|       48085 |               [Collin](collin) |    1,034,730 |            19,810 |                    1.0 |                8.8 |
+|       48121 |               [Denton](denton) |      887,207 |            15,737 |                    1.0 |                8.4 |
+|       48215 |             [Hidalgo](hidalgo) |      868,707 |            36,686 |                    1.0 |               19.3 |
+|       48141 |             [El Paso](el-paso) |      839,238 |            61,104 |                    9.7 |               34.9 |
+|       48157 |         [Fort Bend](fort-bend) |      811,688 |            18,135 |                    0.5 |               10.5 |
+|       48339 |       [Montgomery](montgomery) |      607,391 |            14,280 |                    0.7 |               10.7 |
+|       48491 |       [Williamson](williamson) |      590,551 |             9,848 |                    0.9 |                8.4 |
+|       48061 |             [Cameron](cameron) |      423,163 |            24,598 |                    0.7 |               26.5 |
+|       48039 |           [Brazoria](brazoria) |      374,264 |            12,850 |                    0.8 |               15.8 |
+|       48027 |                   [Bell](bell) |      362,924 |             6,866 |                    1.0 |                9.0 |
+|       48355 |               [Nueces](nueces) |      362,294 |            21,638 |                    1.0 |               28.2 |
+|       48167 |         [Galveston](galveston) |      342,139 |            13,023 |                    1.0 |               18.2 |
+|       48303 |             [Lubbock](lubbock) |      310,569 |            22,184 |                    7.1 |               33.1 |
+|       48479 |                   [Webb](webb) |      276,652 |            15,809 |                    2.8 |               27.2 |
+|       48309 |           [McLennan](mclennan) |      256,623 |            10,917 |                    2.8 |               20.2 |
+|       48245 |         [Jefferson](jefferson) |      251,565 |             8,786 |                    1.3 |               16.5 |
+|       48423 |                 [Smith](smith) |      232,751 |             4,788 |                    1.1 |               10.0 |
+|       48209 |                   [Hays](hays) |      230,191 |             6,331 |                    0.9 |               13.5 |
+|       48041 |               [Brazos](brazos) |      229,211 |             8,052 |                    1.4 |               16.1 |
+|       48139 |                 [Ellis](ellis) |      184,826 |             5,229 |                    1.5 |               13.7 |
+|       48329 |             [Midland](midland) |      176,832 |             5,843 |                    1.7 |               15.2 |
+|       48251 |             [Johnson](johnson) |      175,817 |             4,007 |                    1.4 |               10.9 |
+|       48187 |         [Guadalupe](guadalupe) |      166,847 |             3,919 |                    0.4 |               10.3 |
+|       48135 |                 [Ector](ector) |      166,223 |             7,379 |                    2.7 |               20.3 |
+|       48091 |                 [Comal](comal) |      156,209 |             2,928 |                    0.3 |                8.7 |
+|       48367 |               [Parker](parker) |      142,878 |             2,658 |                    1.5 |                9.2 |
+|       48441 |               [Taylor](taylor) |      138,034 |             2,565 |                    1.6 |                9.2 |
+|       48381 |             [Randall](randall) |      137,713 |             6,950 |                    6.7 |               23.7 |
+|       48181 |             [Grayson](grayson) |      136,212 |             3,002 |                    2.1 |               10.6 |
+|       48257 |             [Kaufman](kaufman) |      136,154 |             3,760 |                    1.3 |               13.2 |
+|       48485 |             [Wichita](wichita) |      132,230 |             4,644 |                    4.0 |               16.3 |
+|       48183 |                 [Gregg](gregg) |      123,945 |             2,671 |                    1.1 |               10.4 |
+|       48451 |         [Tom Green](tom-green) |      119,200 |             5,759 |                    7.0 |               25.6 |
+|       48375 |               [Potter](potter) |      117,415 |             9,445 |                    6.7 |               36.6 |
+|       48397 |           [Rockwall](rockwall) |      104,915 |             2,106 |                    1.4 |                9.7 |
+|       48231 |                   [Hunt](hunt) |       98,594 |             2,216 |                    1.3 |               10.6 |
+|       48037 |                 [Bowie](bowie) |       93,245 |             2,183 |                    1.1 |               10.2 |
+|       48469 |           [Victoria](victoria) |       92,084 |             4,422 |                    1.3 |               23.2 |
+|       48021 |             [Bastrop](bastrop) |       88,723 |             2,067 |                    0.5 |               10.8 |
+|       48291 |             [Liberty](liberty) |       88,219 |             2,322 |                    0.3 |               11.8 |
+|       48005 |           [Angelina](angelina) |       86,715 |             2,343 |                    0.6 |               12.7 |
+|       48361 |               [Orange](orange) |       83,396 |             2,325 |                    0.6 |               13.0 |
+|       48213 |         [Henderson](henderson) |       82,737 |             1,396 |                    1.1 |                8.0 |
+|       48099 |             [Coryell](coryell) |       75,951 |             2,062 |                    0.9 |               12.0 |
+|       48471 |               [Walker](walker) |       72,971 |             3,942 |                    0.5 |               25.3 |
+|       48497 |                   [Wise](wise) |       69,984 |             1,032 |                    1.5 |                7.6 |
+|       48409 |   [San Patricio](san-patricio) |       66,730 |             1,630 |                    0.7 |               11.2 |
+|       48203 |           [Harrison](harrison) |       66,553 |             1,144 |                    0.4 |                7.9 |
+|       48347 |     [Nacogdoches](nacogdoches) |       65,204 |             1,849 |                    0.4 |               12.9 |
+|       48427 |                 [Starr](starr) |       64,633 |             3,620 |                    0.9 |               25.6 |
+|       48221 |                   [Hood](hood) |       61,643 |             1,273 |                    0.9 |                9.4 |
+|       48323 |           [Maverick](maverick) |       58,722 |             4,447 |                    1.9 |               34.1 |
+|       48001 |           [Anderson](anderson) |       57,735 |             3,018 |                    0.6 |               26.5 |
+|       48199 |               [Hardin](hardin) |       57,602 |             1,489 |                    0.4 |               12.3 |
+|       48467 |         [Van Zandt](van-zandt) |       56,590 |               760 |                    1.5 |                7.1 |
+|       48473 |               [Waller](waller) |       55,246 |             1,025 |                    0.3 |                8.2 |
+|       48401 |                   [Rusk](rusk) |       54,406 |             1,061 |                    0.6 |                8.9 |
+|       48073 |           [Cherokee](cherokee) |       52,646 |             1,670 |                    0.2 |               14.6 |
+|       48265 |                   [Kerr](kerr) |       52,600 |               741 |                    0.7 |                6.6 |
+|       48325 |               [Medina](medina) |       51,584 |             1,315 |                    0.4 |               11.8 |
+|       48373 |                   [Polk](polk) |       51,353 |               931 |                    0.4 |                8.7 |
+|       48013 |           [Atascosa](atascosa) |       51,153 |             1,300 |                    0.7 |               11.3 |
+|       48493 |               [Wilson](wilson) |       51,070 |             1,006 |                    0.4 |                8.8 |
+|       48349 |             [Navarro](navarro) |       50,113 |             1,508 |                    1.2 |               14.2 |
+|       48277 |                 [Lamar](lamar) |       49,859 |             2,049 |                    2.8 |               18.3 |
+|       48465 |         [Val Verde](val-verde) |       49,025 |             2,741 |                    1.8 |               25.5 |
+|       48053 |               [Burnet](burnet) |       48,155 |             1,139 |                    1.2 |               10.8 |
+|       48259 |             [Kendall](kendall) |       47,431 |               399 |                    0.5 |                4.1 |
+|       48499 |                   [Wood](wood) |       45,539 |               697 |                    1.1 |                7.3 |
+|       48071 |           [Chambers](chambers) |       43,837 |             1,627 |                    1.4 |               17.5 |
+|       48055 |           [Caldwell](caldwell) |       43,664 |             1,758 |                    0.5 |               18.0 |
+|       48143 |                 [Erath](erath) |       42,698 |             1,124 |                    1.1 |               12.0 |
+|       48459 |               [Upshur](upshur) |       41,753 |               533 |                    0.5 |                5.8 |
+|       48481 |             [Wharton](wharton) |       41,556 |             1,473 |                    0.6 |               16.3 |
+|       48097 |                 [Cooke](cooke) |       41,257 |               596 |                    0.8 |                6.6 |
+|       48249 |         [Jim Wells](jim-wells) |       40,482 |             1,787 |                    1.2 |               19.4 |
+|       48049 |                 [Brown](brown) |       37,864 |               740 |                    1.3 |                9.5 |
+|       48223 |             [Hopkins](hopkins) |       37,084 |               722 |                    0.7 |                8.1 |
+|       48227 |               [Howard](howard) |       36,664 |             1,265 |                    2.6 |               15.3 |
+|       48217 |                   [Hill](hill) |       36,649 |               929 |                    1.5 |               11.3 |
+|       48321 |         [Matagorda](matagorda) |       36,643 |             1,132 |                    0.5 |               14.6 |
+|       48477 |       [Washington](washington) |       35,882 |               755 |                    1.3 |               10.7 |
+|       48241 |               [Jasper](jasper) |       35,529 |               524 |                    0.1 |                6.5 |
+|       48147 |               [Fannin](fannin) |       35,514 |               834 |                    1.0 |               10.7 |
+|       48189 |                   [Hale](hale) |       33,406 |             2,967 |                    8.0 |               43.0 |
+|       48449 |                 [Titus](titus) |       32,750 |             1,772 |                    0.7 |               24.1 |
+|       48025 |                     [Bee](bee) |       32,565 |             1,884 |                    0.6 |               26.5 |
+|       48273 |             [Kleberg](kleberg) |       30,680 |             1,047 |                    1.0 |               15.8 |
+|       48015 |               [Austin](austin) |       30,032 |               524 |                    0.3 |                8.1 |
+|       48067 |                   [Cass](cass) |       30,026 |               591 |                    1.5 |                9.2 |
+|       48363 |       [Palo Pinto](palo-pinto) |       29,189 |               770 |                    1.2 |               11.9 |
+|       48185 |               [Grimes](grimes) |       28,880 |             1,233 |                    1.0 |               19.7 |
+|       48407 |     [San Jacinto](san-jacinto) |       28,859 |               245 |                    0.1 |                4.0 |
+|       48171 |         [Gillespie](gillespie) |       26,988 |               372 |                    0.8 |                6.6 |
+|       48463 |               [Uvalde](uvalde) |       26,741 |               869 |                    2.0 |               16.3 |
+|       48149 |             [Fayette](fayette) |       25,346 |               730 |                    0.9 |               12.9 |
+|       48419 |               [Shelby](shelby) |       25,274 |               563 |                    0.4 |               10.6 |
+|       48331 |                 [Milam](milam) |       24,823 |               569 |                    0.7 |               10.6 |
+|       48007 |             [Aransas](aransas) |       23,510 |               360 |                    0.3 |                6.7 |
+|       48293 |         [Limestone](limestone) |       23,437 |               698 |                    0.6 |               13.0 |
+|       48365 |               [Panola](panola) |       23,194 |               497 |                    0.4 |                9.9 |
+|       48019 |             [Bandera](bandera) |       23,112 |               197 |                    0.3 |                3.9 |
+|       48219 |             [Hockley](hockley) |       23,021 |               968 |                    5.4 |               19.5 |
+|       48225 |             [Houston](houston) |       22,968 |               435 |                    0.6 |               11.3 |
+|       48179 |                   [Gray](gray) |       21,886 |               584 |                    9.9 |               19.9 |
+|       48299 |                 [Llano](llano) |       21,795 |               223 |                    0.8 |                4.7 |
+|       48457 |                 [Tyler](tyler) |       21,672 |               278 |                    0.2 |                5.6 |
+|       48089 |           [Colorado](colorado) |       21,493 |               513 |                    0.6 |               11.4 |
+|       48165 |               [Gaines](gaines) |       21,492 |               646 |                    3.6 |               14.7 |
+|       48281 |           [Lampasas](lampasas) |       21,428 |               333 |                    0.4 |                6.6 |
+|       48489 |             [Willacy](willacy) |       21,358 |             1,274 |                    0.8 |               26.8 |
+|       48057 |             [Calhoun](calhoun) |       21,290 |               941 |                    0.4 |               19.5 |
+|       48341 |                 [Moore](moore) |       20,940 |             1,465 |                    2.4 |               32.3 |
+|       48233 |       [Hutchinson](hutchinson) |       20,938 |               490 |                    3.4 |               10.7 |
+|       48177 |           [Gonzales](gonzales) |       20,837 |             1,150 |                    0.9 |               24.7 |
+|       48163 |                   [Frio](frio) |       20,306 |             1,026 |                    0.8 |               22.5 |
+|       48123 |               [DeWitt](dewitt) |       20,160 |             1,109 |                    1.0 |               24.9 |
+|       48285 |               [Lavaca](lavaca) |       20,154 |             1,208 |                    2.2 |               27.4 |
+|       48253 |                 [Jones](jones) |       20,083 |               855 |                   16.7 |               32.9 |
+|       48337 |           [Montague](montague) |       19,818 |               336 |                    2.6 |                8.8 |
+|       48161 |         [Freestone](freestone) |       19,717 |               471 |                    0.4 |               10.7 |
+|       48003 |             [Andrews](andrews) |       18,705 |               741 |                    4.2 |               19.6 |
+|       48035 |               [Bosque](bosque) |       18,685 |               434 |                    1.3 |               10.6 |
+|       48117 |       [Deaf Smith](deaf-smith) |       18,546 |             1,162 |                    2.5 |               27.9 |
+|       48051 |           [Burleson](burleson) |       18,443 |               501 |                    1.9 |               13.1 |
+|       48133 |           [Eastland](eastland) |       18,360 |               285 |                    1.0 |                7.0 |
+|       48503 |                 [Young](young) |       18,010 |               673 |                    2.5 |               16.3 |
+|       48289 |                   [Leon](leon) |       17,404 |               399 |                    0.8 |                9.9 |
+|       48145 |                 [Falls](falls) |       17,297 |               709 |                    0.7 |               15.8 |
+|       48287 |                     [Lee](lee) |       17,239 |               253 |                    0.4 |                6.8 |
+|       48395 |         [Robertson](robertson) |       17,074 |               447 |                    0.5 |               11.3 |
+|       48415 |               [Scurry](scurry) |       16,703 |             1,239 |                    4.9 |               33.6 |
+|       48389 |               [Reeves](reeves) |       15,976 |               306 |                    2.7 |               10.3 |
+|       48371 |                 [Pecos](pecos) |       15,823 |               557 |                    2.8 |               16.5 |
+|       48255 |               [Karnes](karnes) |       15,601 |               966 |                    0.5 |               28.2 |
+|       48239 |             [Jackson](jackson) |       14,760 |               675 |                    1.9 |               21.7 |
+|       48353 |                 [Nolan](nolan) |       14,714 |               479 |                    3.4 |               15.5 |
+|       48455 |             [Trinity](trinity) |       14,651 |               211 |                    0.2 |                6.8 |
+|       48313 |             [Madison](madison) |       14,284 |               789 |                    1.2 |               28.0 |
+|       48505 |               [Zapata](zapata) |       14,179 |               366 |                    1.6 |               12.7 |
+|       48059 |           [Callahan](callahan) |       13,943 |               153 |                    1.1 |                5.4 |
+|       48093 |           [Comanche](comanche) |       13,635 |               391 |                    0.8 |               15.0 |
+|       48351 |               [Newton](newton) |       13,595 |               190 |                    0.1 |                6.3 |
+|       48063 |                   [Camp](camp) |       13,094 |               412 |                    0.7 |               14.0 |
+|       48279 |                   [Lamb](lamb) |       12,893 |               700 |                    6.7 |               25.8 |
+|       48487 |         [Wilbarger](wilbarger) |       12,769 |               419 |                    4.3 |               16.1 |
+|       48115 |               [Dawson](dawson) |       12,728 |               976 |                    4.9 |               32.3 |
+|       48379 |                 [Rains](rains) |       12,514 |               103 |                    1.1 |                4.5 |
+|       48343 |               [Morris](morris) |       12,388 |               244 |                    0.5 |                8.7 |
+|       48445 |                 [Terry](terry) |       12,337 |               698 |                    5.4 |               25.5 |
+|       48297 |           [Live Oak](live-oak) |       12,207 |               395 |                    0.5 |               14.8 |
+|       48387 |         [Red River](red-river) |       12,023 |               209 |                    0.3 |                7.5 |
+|       48475 |                   [Ward](ward) |       11,998 |               179 |                    3.4 |                9.6 |
+|       48031 |               [Blanco](blanco) |       11,931 |               167 |                    0.2 |                6.5 |
+|       48507 |               [Zavala](zavala) |       11,840 |               483 |                    2.0 |               18.7 |
+|       48131 |                 [Duval](duval) |       11,157 |               524 |                    1.4 |               20.2 |
+|       48159 |           [Franklin](franklin) |       10,725 |               230 |                    0.5 |                9.0 |
+|       48403 |               [Sabine](sabine) |       10,542 |               109 |                    0.5 |                4.8 |
+|       48077 |                   [Clay](clay) |       10,471 |               138 |                    2.6 |                8.0 |
+|       48399 |             [Runnels](runnels) |       10,264 |               313 |                    0.7 |               13.3 |
+|       48127 |               [Dimmit](dimmit) |       10,124 |               303 |                    1.2 |               13.7 |
+|       48315 |               [Marion](marion) |        9,854 |               175 |                    0.3 |                8.4 |
+|       48357 |         [Ochiltree](ochiltree) |        9,836 |               360 |                    6.5 |               19.7 |
+|       48369 |               [Parmer](parmer) |        9,605 |               631 |                    2.2 |               28.4 |
+|       48429 |           [Stephens](stephens) |        9,366 |               173 |                    1.9 |                9.9 |
+|       48043 |           [Brewster](brewster) |        9,203 |               279 |                    4.6 |               17.4 |
+|       48425 |         [Somervell](somervell) |        9,128 |               176 |                    2.1 |               10.0 |
+|       48237 |                   [Jack](jack) |        8,935 |               162 |                    1.9 |                9.6 |
+|       48501 |               [Yoakum](yoakum) |        8,713 |               438 |                    7.0 |               23.9 |
+|       48009 |               [Archer](archer) |        8,553 |               171 |                    1.8 |                9.3 |
+|       48335 |           [Mitchell](mitchell) |        8,545 |               233 |                    2.3 |               12.1 |
+|       48193 |           [Hamilton](hamilton) |        8,461 |               226 |                    2.2 |               12.5 |
+|       48405 | [San Augustine](san-augustine) |        8,237 |               222 |                    1.1 |               13.5 |
+|       48083 |             [Coleman](coleman) |        8,175 |               105 |                    2.9 |                7.9 |
+|       48495 |             [Winkler](winkler) |        8,010 |               170 |                    3.5 |               11.9 |
+|       48307 |         [McCulloch](mcculloch) |        7,984 |               227 |                    1.7 |               12.9 |
+|       48175 |               [Goliad](goliad) |        7,658 |               168 |                    0.3 |               10.0 |
+|       48069 |               [Castro](castro) |        7,530 |               349 |                    3.9 |               23.3 |
+|       48283 |           [La Salle](la-salle) |        7,520 |               386 |                    0.1 |               25.1 |
+|       48437 |             [Swisher](swisher) |        7,397 |               191 |                    2.6 |               12.1 |
+|       48075 |         [Childress](childress) |        7,306 |               734 |                   28.2 |               38.7 |
+|       48111 |               [Dallam](dallam) |        7,287 |               414 |                    1.2 |               23.9 |
+|       48047 |               [Brooks](brooks) |        7,093 |               371 |                    0.8 |               22.5 |
+|       48017 |               [Bailey](bailey) |        7,000 |               359 |                    5.2 |               24.5 |
+|       48391 |             [Refugio](refugio) |        6,948 |               321 |                    0.7 |               21.3 |
+|       48377 |           [Presidio](presidio) |        6,704 |               197 |                    3.4 |               13.7 |
+|       48169 |                 [Garza](garza) |        6,229 |               147 |                    1.4 |               10.9 |
+|       48411 |           [San Saba](san-saba) |        6,055 |               255 |                    2.8 |               16.7 |
+|       48305 |                   [Lynn](lynn) |        5,951 |               232 |                    4.9 |               19.0 |
+|       48065 |               [Carson](carson) |        5,926 |                71 |                    1.3 |                5.1 |
+|       48317 |               [Martin](martin) |        5,771 |               110 |                    3.5 |               11.1 |
+|       48107 |               [Crosby](crosby) |        5,737 |               149 |                    2.1 |               11.6 |
+|       48153 |                 [Floyd](floyd) |        5,712 |               160 |                    2.7 |               13.3 |
+|       48207 |             [Haskell](haskell) |        5,658 |                90 |                    0.3 |                6.9 |
+|       48205 |             [Hartley](hartley) |        5,576 |               195 |                    0.9 |               14.9 |
+|       48195 |           [Hansford](hansford) |        5,399 |               215 |                    1.1 |               16.5 |
+|       48119 |                 [Delta](delta) |        5,331 |                40 |                    0.4 |                3.5 |
+|       48247 |           [Jim Hogg](jim-hogg) |        5,200 |               186 |                    0.9 |               15.1 |
+|       48483 |             [Wheeler](wheeler) |        5,056 |               139 |                    6.0 |               14.4 |
+|       48229 |           [Hudspeth](hudspeth) |        4,886 |               122 |                    2.3 |               11.3 |
+|       48333 |                 [Mills](mills) |        4,873 |                94 |                    2.5 |                9.3 |
+|       48103 |                 [Crane](crane) |        4,797 |                83 |                    4.4 |               12.2 |
+|       48267 |               [Kimble](kimble) |        4,337 |                34 |                    2.6 |                5.7 |
+|       48319 |                 [Mason](mason) |        4,274 |                87 |                    3.0 |               12.0 |
+|       48197 |           [Hardeman](hardeman) |        3,933 |                67 |                    0.9 |                7.2 |
+|       48383 |               [Reagan](reagan) |        3,849 |               104 |                    4.3 |               15.9 |
+|       48151 |               [Fisher](fisher) |        3,830 |               128 |                    1.9 |               14.5 |
+|       48211 |           [Hemphill](hemphill) |        3,819 |               193 |                    4.9 |               22.0 |
+|       48435 |               [Sutton](sutton) |        3,776 |               126 |                    4.7 |               18.0 |
+|       48271 |               [Kinney](kinney) |        3,667 |                79 |                    0.5 |                8.8 |
+|       48275 |                   [Knox](knox) |        3,664 |               114 |                    0.2 |               13.1 |
+|       48461 |                 [Upton](upton) |        3,657 |                29 |                    1.1 |                4.6 |
+|       48023 |               [Baylor](baylor) |        3,509 |                46 |                    0.5 |                5.7 |
+|       48105 |           [Crockett](crockett) |        3,464 |               168 |                    3.3 |               25.9 |
+|       48385 |                   [Real](real) |        3,452 |               126 |                    0.3 |               17.0 |
+|       48081 |                   [Coke](coke) |        3,387 |               136 |                    2.3 |               17.2 |
+|       48129 |               [Donley](donley) |        3,278 |                93 |                    1.5 |               14.6 |
+|       48417 |     [Shackelford](shackelford) |        3,265 |                42 |                    0.6 |                5.8 |
+|       48295 |           [Lipscomb](lipscomb) |        3,233 |                80 |                    4.3 |               13.2 |
+|       48421 |             [Sherman](sherman) |        3,022 |                81 |                    0.9 |               13.0 |
+|       48191 |                   [Hall](hall) |        2,964 |                50 |                    2.4 |                8.6 |
+|       48087 | [Collingsworth](collingsworth) |        2,920 |                22 |                    1.0 |                4.3 |
+|       48079 |             [Cochran](cochran) |        2,853 |               132 |                    3.1 |               19.5 |
+|       48413 |       [Schleicher](schleicher) |        2,793 |                58 |                    4.8 |               13.6 |
+|       48095 |               [Concho](concho) |        2,726 |               145 |                    3.6 |               24.7 |
+|       48243 |       [Jeff Davis](jeff-davis) |        2,274 |                24 |                    1.4 |                5.5 |
+|       48125 |             [Dickens](dickens) |        2,211 |                60 |                    1.2 |               11.6 |
+|       48109 |         [Culberson](culberson) |        2,171 |               131 |                    4.5 |               26.3 |
+|       48327 |               [Menard](menard) |        2,138 |                84 |                    3.1 |               17.3 |
+|       48359 |               [Oldham](oldham) |        2,112 |                31 |                    0.7 |                6.9 |
+|       48137 |             [Edwards](edwards) |        1,932 |                73 |                    1.4 |               17.4 |
+|       48011 |         [Armstrong](armstrong) |        1,887 |                31 |                    1.8 |                8.0 |
+|       48045 |             [Briscoe](briscoe) |        1,546 |                25 |                    3.0 |                9.7 |
+|       48235 |                 [Irion](irion) |        1,536 |                14 |                    0.4 |                4.4 |
+|       48447 |   [Throckmorton](throckmorton) |        1,501 |                20 |                    0.5 |                5.4 |
+|       48173 |         [Glasscock](glasscock) |        1,409 |                14 |                    3.0 |                7.0 |
+|       48101 |               [Cottle](cottle) |        1,398 |                44 |                    1.6 |               13.6 |
+|       48433 |         [Stonewall](stonewall) |        1,350 |                21 |                    0.8 |                7.8 |
+|       48431 |           [Sterling](sterling) |        1,291 |                23 |                    2.0 |                8.0 |
+|       48345 |               [Motley](motley) |        1,200 |                19 |                    0.5 |                6.5 |
+|       48155 |                 [Foard](foard) |        1,155 |                22 |                    0.9 |                8.0 |
+|       48393 |             [Roberts](roberts) |          854 |                16 |                    3.2 |               11.4 |
+|       48443 |             [Terrell](terrell) |          776 |                 8 |                    2.6 |                5.7 |
+|       48263 |                   [Kent](kent) |          762 |                12 |                    4.1 |               10.9 |
+|       48311 |           [McMullen](mcmullen) |          743 |                25 |                    0.4 |               14.5 |
+|       48033 |               [Borden](borden) |          654 |                 3 |                    0.9 |                2.5 |
+|       48261 |               [Kenedy](kenedy) |          404 |                11 |                    0.0 |               12.3 |
+|       48269 |                   [King](king) |          272 |                 1 |                   -0.0 |                1.8 |
+|       48301 |               [Loving](loving) |          169 |                 0 |                    4.0 |                4.0 |
