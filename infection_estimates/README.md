@@ -2,10 +2,12 @@
 
 In this folder you will find the raw estimates of true infections in the US. We use confirmed cases and testing data from [The COVID Tracking Project](https://covidtracking.com/data/download) to generate these estimates.
 
+The raw data files are located in: `latest_all_estimates_states.csv` and `latest_all_estimates_states.csv`. You can find the historical estimates in the [`past_estimates`](past_estimates) directory. You can also find the latest county-by-county estimates in the [`county`](county) directory. The column descriptions are below:
+
 ## Column Descriptions
 
-* `total_cases` - Total confirmed cases (cumulative). Corresponds to the `positive` column in The COVID Tracking Project. 
-* `total_tests` - Total test results (cumulative). Corresponds to the `totalTestResults` column in The COVID Tracking Project. 
+* `total_cases` - (Columna added Nov 22) Total confirmed cases (cumulative). Corresponds to the `positive` column in The COVID Tracking Project. 
+* `total_tests` - (Column added Nov 22) Total test results (cumulative). Corresponds to the `totalTestResults` column in The COVID Tracking Project. 
 * `daily_positive_7day_ma` - Daily confirmed cases (7 day moving average)
 * `daily_tests_7day_ma` - Daily tests (7 day moving average)
 * `positivity_rate_orig_7day_ma` - Unadjusted positivity rate (cases / tests)
