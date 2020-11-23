@@ -4,6 +4,8 @@ In this folder you will find the raw estimates of true infections in the US. We 
 
 ## Column Descriptions
 
+* `total_cases` - Total confirmed cases (cumulative). Corresponds to the `positive` column in The COVID Tracking Project. 
+* `total_tests` - Total test results (cumulative). Corresponds to the `totalTestResults` column in The COVID Tracking Project. 
 * `daily_positive_7day_ma` - Daily confirmed cases (7 day moving average)
 * `daily_tests_7day_ma` - Daily tests (7 day moving average)
 * `positivity_rate_orig_7day_ma` - Unadjusted positivity rate (cases / tests)
