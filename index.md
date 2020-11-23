@@ -42,6 +42,30 @@ For regular updates and insights, follow us on Twitter:<br>
 | [Kansas](infections/us-ks) | [New York](infections/us-ny) |
 | [Kentucky](infections/us-ky) | [Ohio](infections/us-oh) |
 
+## US Counties - Infection Estimates
+
+Click on a state to view the counties in that state. You can then select the county to view detailed infection estimates.
+
+| US |  |  |
+| --- | --- | --- |
+| [Alaska](infections/counties/ak/) | [Kentucky](infections/counties/ky/) | [New York](infections/counties/ny/) |
+| [Alabama](infections/counties/al/) | [Louisiana](infections/counties/la/) | [Ohio](infections/counties/oh/) |
+| [Arkansas](infections/counties/ar/) | [Massachusetts](infections/counties/ma/) | [Oklahoma](infections/counties/ok/) |
+| [Arizona](infections/counties/az/) | [Maryland](infections/counties/md/) | [Oregon](infections/counties/or/) |
+| [California](infections/counties/ca/) | [Maine](infections/counties/me/) | [Pennsylvania](infections/counties/pa/) |
+| [Colorado](infections/counties/co/) | [Michigan](infections/counties/mi/) | [Rhode Island](infections/counties/ri/) |
+| [Connecticut](infections/counties/ct/) | [Minnesota](infections/counties/mn/) | [South Carolina](infections/counties/sc/) |
+| [District of Columbia](infections/counties/dc/) | [Missouri](infections/counties/mo/) | [South Dakota](infections/counties/sd/) |
+| [Delaware](infections/counties/de/) | [Mississippi](infections/counties/ms/) | [Tennessee](infections/counties/tn/) |
+| [Florida](infections/counties/fl/) | [Montana](infections/counties/mt/) | [Texas](infections/counties/tx/) |
+| [Georgia](infections/counties/ga/) | [North Carolina](infections/counties/nc/) | [Utah](infections/counties/ut/) |
+| [Hawaii](infections/counties/hi/) | [North Dakota](infections/counties/nd/) | [Virginia](infections/counties/va/) |
+| [Iowa](infections/counties/ia/) | [Nebraska](infections/counties/ne/) | [Vermont](infections/counties/vt/) |
+| [Idaho](infections/counties/id/) | [New Hampshire](infections/counties/nh/) | [Washington](infections/counties/wa/) |
+| [Illinois](infections/counties/il/) | [New Jersey](infections/counties/nj/) | [Wisconsin](infections/counties/wi/) |
+| [Indiana](infections/counties/in/) | [New Mexico](infections/counties/nm/) | [West Virginia](infections/counties/wv/) |
+| [Kansas](infections/counties/ks/) | [Nevada](infections/counties/nv/) | [Wyoming](infections/counties/wy/) |
+
 ## COVID-19 Projections (Not Actively Updated)
 
 We present an intuitive COVID-19 model that adds machine learning techniques on top of a classic infectious disease model to make projections for infections and deaths for the US and 70 other countries. The countries our projections cover encompass 6.4 billion people and account for more than 95% of all global reported COVID-19 deaths.
