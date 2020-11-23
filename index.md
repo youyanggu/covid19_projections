@@ -1,4 +1,4 @@
-We present a new, simple model that estimates true infections in the US.
+We present a new, simple model that estimates true infections in the US. We have estimates for all US states (50 + DC + 5 territories) and counties (3138).
 
 Our infections estimates include all infected individuals of the SARS-CoV-2 virus, not just those that took a COVID-19 test and tested positive. As of November, we estimate the true number of infected individuals in the US to be roughly 2-5x higher than the reported cases (20-50% detection rate). See our writeup, [Estimating True Infections](/estimating-true-infections), for a more detailed look into this subject. To get a sense of the number of individuals that are actively infectious, we recommend dividing the *"currently infected"* estimate by 2-4.
 
@@ -52,7 +52,7 @@ For regular updates and insights, follow us on Twitter:<br>
 
 ## US Counties Infections Estimates
 
-Click on a state to view the counties in that state. You can then select the county to view detailed infection estimates.
+We have infections estimates for all US counties (3,138 counties). Click on a state to view the counties in that state. You can then select the county to view detailed infection estimates.
 
 | Counties |  |  |
 | --- | --- | --- |
