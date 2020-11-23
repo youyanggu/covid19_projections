@@ -4,77 +4,81 @@ See state-wide estimates [here](/infections/us-wi).
 
 Click on a county name to view the infections estimates for that county.
 
+*Note: Due to the inherent lag between infections and reporting of cases, our estimates of infections are as of 14 days ago.*
+
+*Last updated: November 22, 2020*
+
 |   FIPS Code |                     County |   Population |   Confirmed Cases |   % Currently Infected |   % Total Infected |
 |-------------|----------------------------|--------------|-------------------|------------------------|--------------------|
-|       55079 |     [Milwaukee](milwaukee) |      945,726 |            51,739 |                    5.5 |               25.0 |
-|       55025 |               [Dane](dane) |      546,695 |            18,884 |                    4.4 |               16.1 |
-|       55133 |       [Waukesha](waukesha) |      404,198 |            16,659 |                    6.9 |               20.8 |
-|       55009 |             [Brown](brown) |      264,542 |            18,281 |                    5.2 |               29.9 |
-|       55101 |           [Racine](racine) |      196,311 |            10,477 |                    7.0 |               25.4 |
-|       55087 |     [Outagamie](outagamie) |      187,885 |            11,328 |                    4.9 |               25.4 |
-|       55139 |     [Winnebago](winnebago) |      171,907 |            10,888 |                    6.0 |               27.7 |
-|       55059 |         [Kenosha](kenosha) |      169,561 |             6,909 |                    5.0 |               19.6 |
-|       55105 |               [Rock](rock) |      163,354 |             6,653 |                    5.0 |               19.2 |
-|       55131 |   [Washington](washington) |      136,034 |             6,274 |                    7.2 |               22.2 |
-|       55073 |       [Marathon](marathon) |      135,692 |             6,988 |                    7.8 |               24.6 |
-|       55063 |     [La Crosse](la-crosse) |      118,016 |             5,560 |                    6.3 |               21.6 |
-|       55117 |     [Sheboygan](sheboygan) |      115,340 |             6,213 |                    7.4 |               25.7 |
-|       55035 |   [Eau Claire](eau-claire) |      104,646 |             4,948 |                    8.0 |               23.0 |
-|       55127 |       [Walworth](walworth) |      103,868 |             4,506 |                    6.0 |               20.7 |
-|       55039 | [Fond du Lac](fond-du-lac) |      103,403 |             6,229 |                    7.5 |               27.6 |
-|       55109 |     [St. Croix](st.-croix) |       90,687 |             2,657 |                    5.7 |               15.3 |
-|       55089 |         [Ozaukee](ozaukee) |       89,221 |             3,364 |                    6.3 |               18.8 |
-|       55027 |             [Dodge](dodge) |       87,839 |             5,857 |                    9.3 |               31.2 |
-|       55055 |     [Jefferson](jefferson) |       84,769 |             3,611 |                    6.3 |               20.5 |
-|       55071 |     [Manitowoc](manitowoc) |       78,981 |             3,942 |                    5.7 |               22.2 |
-|       55141 |               [Wood](wood) |       72,999 |             2,483 |                    6.9 |               17.9 |
-|       55097 |         [Portage](portage) |       70,772 |             3,512 |                    5.6 |               22.1 |
-|       55017 |       [Chippewa](chippewa) |       64,658 |             2,751 |                    9.0 |               21.9 |
-|       55111 |               [Sauk](sauk) |       64,442 |             2,469 |                    5.5 |               18.0 |
-|       55021 |       [Columbia](columbia) |       57,532 |             2,392 |                    5.6 |               19.6 |
-|       55043 |             [Grant](grant) |       51,439 |             2,475 |                    6.7 |               22.8 |
-|       55135 |         [Waupaca](waupaca) |       50,990 |             3,241 |                    5.7 |               27.0 |
-|       55015 |         [Calumet](calumet) |       50,089 |             3,233 |                    5.9 |               27.9 |
-|       55081 |           [Monroe](monroe) |       46,253 |             1,548 |                    5.6 |               16.5 |
-|       55033 |               [Dunn](dunn) |       45,368 |             1,599 |                    7.1 |               18.1 |
-|       55005 |           [Barron](barron) |       45,244 |             1,836 |                   11.7 |               23.8 |
-|       55095 |               [Polk](polk) |       43,783 |               895 |                    7.9 |               14.2 |
-|       55031 |         [Douglas](douglas) |       43,150 |             1,041 |                    4.8 |               12.5 |
-|       55093 |           [Pierce](pierce) |       42,754 |             1,325 |                    6.9 |               16.7 |
-|       55115 |         [Shawano](shawano) |       40,899 |             2,991 |                    6.6 |               31.4 |
-|       55075 |     [Marinette](marinette) |       40,350 |             2,351 |                    6.1 |               25.3 |
-|       55083 |           [Oconto](oconto) |       37,930 |             2,613 |                    6.0 |               29.4 |
-|       55045 |             [Green](green) |       36,960 |             1,202 |                    3.7 |               14.7 |
-|       55085 |           [Oneida](oneida) |       35,595 |             1,599 |                    6.1 |               21.0 |
-|       55019 |             [Clark](clark) |       34,774 |             1,367 |                    7.9 |               20.4 |
-|       55123 |           [Vernon](vernon) |       30,822 |               655 |                    3.8 |               10.6 |
-|       55121 | [Trempealeau](trempealeau) |       29,649 |             1,388 |                    8.8 |               23.8 |
-|       55029 |               [Door](door) |       27,668 |             1,234 |                    6.1 |               20.6 |
-|       55069 |         [Lincoln](lincoln) |       27,593 |             1,246 |                    8.1 |               22.6 |
-|       55057 |           [Juneau](juneau) |       26,687 |             1,237 |                    9.9 |               22.9 |
-|       55137 |       [Waushara](waushara) |       24,443 |             1,477 |                    6.0 |               25.1 |
-|       55049 |               [Iowa](iowa) |       23,678 |               756 |                    6.9 |               17.0 |
-|       55125 |             [Vilas](vilas) |       22,195 |               821 |                    5.6 |               17.4 |
-|       55053 |         [Jackson](jackson) |       20,643 |               857 |                   12.0 |               24.5 |
-|       55061 |       [Kewaunee](kewaunee) |       20,434 |             1,320 |                    5.1 |               27.3 |
-|       55119 |           [Taylor](taylor) |       20,343 |               712 |                    6.8 |               18.1 |
-|       55001 |             [Adams](adams) |       20,220 |               759 |                    5.2 |               17.3 |
-|       55067 |       [Langlade](langlade) |       19,189 |             1,238 |                    6.0 |               28.1 |
-|       55047 |   [Green Lake](green-lake) |       18,913 |             1,029 |                    6.0 |               24.7 |
-|       55103 |       [Richland](richland) |       17,252 |               606 |                    4.6 |               16.3 |
-|       55065 |     [Lafayette](lafayette) |       16,665 |               696 |                    7.5 |               21.4 |
-|       55113 |           [Sawyer](sawyer) |       16,558 |               502 |                    5.9 |               17.0 |
-|       55023 |       [Crawford](crawford) |       16,131 |               494 |                    7.1 |               16.9 |
-|       55129 |       [Washburn](washburn) |       15,720 |               331 |                    5.4 |               12.2 |
-|       55077 |     [Marquette](marquette) |       15,574 |               909 |                    5.8 |               25.1 |
-|       55003 |         [Ashland](ashland) |       15,562 |               399 |                    5.1 |               13.1 |
-|       55013 |         [Burnett](burnett) |       15,414 |               404 |                    6.2 |               14.9 |
-|       55007 |       [Bayfield](bayfield) |       15,036 |               393 |                    6.3 |               14.4 |
-|       55107 |               [Rusk](rusk) |       14,178 |               395 |                    9.8 |               17.8 |
-|       55099 |             [Price](price) |       13,351 |               499 |                    5.1 |               17.5 |
-|       55011 |         [Buffalo](buffalo) |       13,031 |               440 |                    7.5 |               18.0 |
-|       55041 |           [Forest](forest) |        9,004 |               605 |                    6.4 |               28.7 |
-|       55091 |             [Pepin](pepin) |        7,287 |               247 |                    9.7 |               19.7 |
-|       55051 |               [Iron](iron) |        5,687 |               304 |                    6.0 |               23.5 |
-|       55078 |     [Menominee](menominee) |        4,556 |               403 |                   12.9 |               41.9 |
-|       55037 |       [Florence](florence) |        4,295 |               257 |                    4.8 |               25.7 |
+|       55079 |     [Milwaukee](milwaukee) |      945,726 |            66,041 |                    5.5 |               25.4 |
+|       55025 |               [Dane](dane) |      546,695 |            25,554 |                    4.5 |               16.4 |
+|       55133 |       [Waukesha](waukesha) |      404,198 |            25,566 |                    7.3 |               21.5 |
+|       55009 |             [Brown](brown) |      264,542 |            21,680 |                    5.1 |               30.2 |
+|       55101 |           [Racine](racine) |      196,311 |            14,362 |                    7.0 |               25.9 |
+|       55087 |     [Outagamie](outagamie) |      187,885 |            13,753 |                    4.9 |               25.7 |
+|       55139 |     [Winnebago](winnebago) |      171,907 |            13,599 |                    5.9 |               28.0 |
+|       55059 |         [Kenosha](kenosha) |      169,561 |             9,342 |                    5.0 |               20.0 |
+|       55105 |               [Rock](rock) |      163,354 |             8,979 |                    5.0 |               19.5 |
+|       55131 |   [Washington](washington) |      136,034 |             8,906 |                    7.2 |               22.6 |
+|       55073 |       [Marathon](marathon) |      135,692 |             9,694 |                    7.7 |               25.0 |
+|       55063 |     [La Crosse](la-crosse) |      118,016 |             7,604 |                    6.4 |               22.1 |
+|       55117 |     [Sheboygan](sheboygan) |      115,340 |             8,657 |                    7.5 |               26.2 |
+|       55035 |   [Eau Claire](eau-claire) |      104,646 |             7,290 |                    8.2 |               23.7 |
+|       55127 |       [Walworth](walworth) |      103,868 |             6,291 |                    6.2 |               21.1 |
+|       55039 | [Fond du Lac](fond-du-lac) |      103,403 |             8,220 |                    7.5 |               28.0 |
+|       55109 |     [St. Croix](st.-croix) |       90,687 |             4,170 |                    5.8 |               15.6 |
+|       55089 |         [Ozaukee](ozaukee) |       89,221 |             4,859 |                    6.3 |               19.1 |
+|       55027 |             [Dodge](dodge) |       87,839 |             8,067 |                    9.3 |               31.9 |
+|       55055 |     [Jefferson](jefferson) |       84,769 |             5,161 |                    6.4 |               21.0 |
+|       55071 |     [Manitowoc](manitowoc) |       78,981 |             5,143 |                    5.7 |               22.6 |
+|       55141 |               [Wood](wood) |       72,999 |             4,005 |                    7.1 |               18.4 |
+|       55097 |         [Portage](portage) |       70,772 |             4,567 |                    5.5 |               22.5 |
+|       55017 |       [Chippewa](chippewa) |       64,658 |             4,298 |                    9.0 |               22.4 |
+|       55111 |               [Sauk](sauk) |       64,442 |             3,391 |                    5.4 |               18.3 |
+|       55021 |       [Columbia](columbia) |       57,532 |             3,314 |                    5.7 |               20.0 |
+|       55043 |             [Grant](grant) |       51,439 |             3,398 |                    6.7 |               23.2 |
+|       55135 |         [Waupaca](waupaca) |       50,990 |             3,951 |                    5.6 |               27.3 |
+|       55015 |         [Calumet](calumet) |       50,089 |             4,047 |                    5.9 |               28.3 |
+|       55081 |           [Monroe](monroe) |       46,253 |             2,331 |                    5.7 |               16.9 |
+|       55033 |               [Dunn](dunn) |       45,368 |             2,504 |                    7.1 |               18.6 |
+|       55005 |           [Barron](barron) |       45,244 |             3,307 |                   11.9 |               24.6 |
+|       55095 |               [Polk](polk) |       43,783 |             1,912 |                    8.0 |               14.6 |
+|       55031 |         [Douglas](douglas) |       43,150 |             1,822 |                    5.1 |               13.1 |
+|       55093 |           [Pierce](pierce) |       42,754 |             2,203 |                    7.0 |               17.3 |
+|       55115 |         [Shawano](shawano) |       40,899 |             3,662 |                    6.5 |               31.7 |
+|       55075 |     [Marinette](marinette) |       40,350 |             2,950 |                    6.0 |               25.6 |
+|       55083 |           [Oconto](oconto) |       37,930 |             3,184 |                    5.9 |               29.7 |
+|       55045 |             [Green](green) |       36,960 |             1,570 |                    3.7 |               14.9 |
+|       55085 |           [Oneida](oneida) |       35,595 |             2,202 |                    6.2 |               21.4 |
+|       55019 |             [Clark](clark) |       34,774 |             2,106 |                    7.9 |               20.8 |
+|       55123 |           [Vernon](vernon) |       30,822 |               999 |                    3.9 |               10.9 |
+|       55121 | [Trempealeau](trempealeau) |       29,649 |             2,206 |                    9.2 |               24.6 |
+|       55029 |               [Door](door) |       27,668 |             1,631 |                    5.9 |               20.9 |
+|       55069 |         [Lincoln](lincoln) |       27,593 |             1,859 |                    8.1 |               23.1 |
+|       55057 |           [Juneau](juneau) |       26,687 |             1,786 |                    9.7 |               23.4 |
+|       55137 |       [Waushara](waushara) |       24,443 |             1,730 |                    5.4 |               25.3 |
+|       55049 |               [Iowa](iowa) |       23,678 |             1,216 |                    7.0 |               17.5 |
+|       55125 |             [Vilas](vilas) |       22,195 |             1,141 |                    5.6 |               17.8 |
+|       55053 |         [Jackson](jackson) |       20,643 |             1,592 |                   12.2 |               25.3 |
+|       55061 |       [Kewaunee](kewaunee) |       20,434 |             1,608 |                    5.0 |               27.7 |
+|       55119 |           [Taylor](taylor) |       20,343 |             1,129 |                    7.1 |               18.7 |
+|       55001 |             [Adams](adams) |       20,220 |             1,044 |                    5.1 |               17.7 |
+|       55067 |       [Langlade](langlade) |       19,189 |             1,522 |                    5.9 |               28.3 |
+|       55047 |   [Green Lake](green-lake) |       18,913 |             1,334 |                    6.0 |               25.0 |
+|       55103 |       [Richland](richland) |       17,252 |               824 |                    4.6 |               16.6 |
+|       55065 |     [Lafayette](lafayette) |       16,665 |             1,043 |                    7.6 |               21.7 |
+|       55113 |           [Sawyer](sawyer) |       16,558 |               797 |                    6.1 |               17.4 |
+|       55023 |       [Crawford](crawford) |       16,131 |               830 |                    7.3 |               17.4 |
+|       55129 |       [Washburn](washburn) |       15,720 |               613 |                    5.7 |               12.7 |
+|       55077 |     [Marquette](marquette) |       15,574 |             1,107 |                    5.5 |               25.3 |
+|       55003 |         [Ashland](ashland) |       15,562 |               604 |                    5.1 |               13.4 |
+|       55013 |         [Burnett](burnett) |       15,414 |               727 |                    6.5 |               15.4 |
+|       55007 |       [Bayfield](bayfield) |       15,036 |               634 |                    6.3 |               14.7 |
+|       55107 |               [Rusk](rusk) |       14,178 |               764 |                    9.9 |               18.4 |
+|       55099 |             [Price](price) |       13,351 |               689 |                    5.1 |               17.8 |
+|       55011 |         [Buffalo](buffalo) |       13,031 |               726 |                    7.7 |               18.5 |
+|       55041 |           [Forest](forest) |        9,004 |               736 |                    6.2 |               29.0 |
+|       55091 |             [Pepin](pepin) |        7,287 |               442 |                    9.8 |               20.3 |
+|       55051 |               [Iron](iron) |        5,687 |               384 |                    5.8 |               23.8 |
+|       55078 |     [Menominee](menominee) |        4,556 |               537 |                   12.6 |               42.4 |
+|       55037 |       [Florence](florence) |        4,295 |               322 |                    4.9 |               26.1 |
