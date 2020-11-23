@@ -3,14 +3,15 @@ We present a new, simple model that estimates true infections in the US.
 Our infections estimates include all infected individuals of the SARS-CoV-2 virus, not just those that took a COVID-19 test and tested positive. As of November, we estimate the true number of infected individuals in the US to be roughly 2-5x higher than the reported cases (20-50% detection rate). See our writeup, [Estimating True Infections](/estimating-true-infections), for a more detailed look into this subject. To get a sense of the number of individuals that are actively infectious, we recommend dividing the *"currently infected"* estimate by 2-4.
 
 * [Jump to maps](#maps)
-* [Jump to infection estimates](#view-us-infections-estimates)
+* [Jump to state-by-state infection estimates](#view-us-infections-estimates)
+* [Jump to county-by-county infection estimates](#us-counties-infections-estimates)
 
 ## Recent Updates
 
 For regular updates and insights, follow us on Twitter:<br>
 <a href="https://twitter.com/youyanggu" class="twitter-follow-button" data-show-count="false">@youyanggu</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-* **November 22 Update:** You can view county-by-county estimates in the maps below. You can also download these estimates [here](https://github.com/youyanggu/covid19_projections/tree/master/infection_estimates).
+* **November 22 Update:** You can view county-by-county estimates below. You can also download these estimates [here](https://github.com/youyanggu/covid19_projections/tree/master/infection_estimates).
 * **November 19 Update:** You can now download our raw estimates [here](https://github.com/youyanggu/covid19_projections/tree/master/infection_estimates).
 * **November 18 Update:** We are re-launching this website with nowcasting of infections estimates in the US (what has happened). For forecasts of cases and deaths (what will happen), please see [Youyang's blog](https://youyanggu.com/blog/six-months-later#model-alternatives) for model alternatives.
 
@@ -42,11 +43,11 @@ For regular updates and insights, follow us on Twitter:<br>
 | [Kansas](infections/us-ks) | [New York](infections/us-ny) |
 | [Kentucky](infections/us-ky) | [Ohio](infections/us-oh) |
 
-## US Counties - Infection Estimates
+## US Counties - Infections Estimates
 
 Click on a state to view the counties in that state. You can then select the county to view detailed infection estimates.
 
-| US |  |  |
+| Counties |  |  |
 | --- | --- | --- |
 | [Alaska](infections/counties/ak/) | [Kentucky](infections/counties/ky/) | [New York](infections/counties/ny/) |
 | [Alabama](infections/counties/al/) | [Louisiana](infections/counties/la/) | [Ohio](infections/counties/oh/) |
