@@ -1,14 +1,14 @@
-# Louisiana - County Infection Estimates
+# Louisiana - Parish Infection Estimates
 
 See state-wide estimates [here](/infections/us-la).
 
-Click on a county name to view the infections estimates for that county.
+Click on a parish name to view the infections estimates for that parish.
 
 *Note: Due to the inherent lag between infections and reporting of cases, our estimates of infections are as of 14 days ago.*
 
 *Last updated: November 22, 2020*
 
-|   FIPS Code |                                       County |   Population |   Confirmed Cases |   % Currently Infected |   % Total Infected |
+|   FIPS Code |                                       Parish |   Population |   Confirmed Cases |   % Currently Infected |   % Total Infected |
 |-------------|----------------------------------------------|--------------|-------------------|------------------------|--------------------|
 |       22033 |         [East Baton Rouge](east-baton-rouge) |      440,059 |            19,031 |                    1.1 |               15.9 |
 |       22051 |                       [Jefferson](jefferson) |      432,493 |            21,190 |                    1.0 |               23.0 |

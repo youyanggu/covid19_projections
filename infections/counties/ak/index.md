@@ -1,14 +1,14 @@
-# Alaska - County Infection Estimates
+# Alaska - Borough Infection Estimates
 
 See state-wide estimates [here](/infections/us-ak).
 
-Click on a county name to view the infections estimates for that county.
+Click on a borough name to view the infections estimates for that borough.
 
 *Note: Due to the inherent lag between infections and reporting of cases, our estimates of infections are as of 14 days ago.*
 
 *Last updated: November 22, 2020*
 
-|   FIPS Code |                                                                     County |   Population |   Confirmed Cases |   % Currently Infected |   % Total Infected |
+|   FIPS Code |                                                                    Borough |   Population |   Confirmed Cases |   % Currently Infected |   % Total Infected |
 |-------------|----------------------------------------------------------------------------|--------------|-------------------|------------------------|--------------------|
 |       02020 |                                                     [Anchorage](anchorage) |      288,000 |            14,702 |                    4.2 |               13.4 |
 |       02170 |                                     [Matanuska-Susitna](matanuska-susitna) |      108,317 |             2,577 |                    1.7 |                6.3 |
