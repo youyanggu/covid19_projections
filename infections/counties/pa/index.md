@@ -1,0 +1,73 @@
+# Pennsylvania - County Infection Estimates
+
+See state-wide estimates [here](/infections/us-pa).
+
+|   FIPS Code |                           County |   Population |   % Currently Infected |   % Total Infected |
+|-------------|----------------------------------|--------------|------------------------|--------------------|
+|       42101 |     [Philadelphia](philadelphia) |    1,584,064 |                    2.3 |               16.9 |
+|       42003 |           [Allegheny](allegheny) |    1,216,045 |                    1.4 |                6.3 |
+|       42091 |         [Montgomery](montgomery) |      830,915 |                    1.4 |               10.2 |
+|       42017 |                   [Bucks](bucks) |      628,270 |                    1.7 |               10.0 |
+|       42045 |             [Delaware](delaware) |      566,747 |                    1.8 |               13.9 |
+|       42071 |           [Lancaster](lancaster) |      545,724 |                    1.7 |                9.6 |
+|       42029 |               [Chester](chester) |      524,989 |                    1.1 |                7.9 |
+|       42133 |                     [York](york) |      449,058 |                    1.3 |                6.9 |
+|       42011 |                   [Berks](berks) |      421,164 |                    1.6 |               12.7 |
+|       42077 |                 [Lehigh](lehigh) |      369,318 |                    1.8 |               12.1 |
+|       42129 |     [Westmoreland](westmoreland) |      348,899 |                    1.9 |                6.7 |
+|       42079 |               [Luzerne](luzerne) |      317,417 |                    1.9 |               11.3 |
+|       42095 |       [Northampton](northampton) |      305,285 |                    1.6 |               11.4 |
+|       42043 |               [Dauphin](dauphin) |      278,299 |                    1.5 |                8.9 |
+|       42049 |                     [Erie](erie) |      269,728 |                    1.8 |                4.8 |
+|       42041 |         [Cumberland](cumberland) |      253,370 |                    1.5 |                5.7 |
+|       42069 |         [Lackawanna](lackawanna) |      209,674 |                    0.9 |                9.4 |
+|       42125 |         [Washington](washington) |      206,865 |                    1.8 |                5.5 |
+|       42019 |                 [Butler](butler) |      187,853 |                    2.2 |                6.0 |
+|       42089 |                 [Monroe](monroe) |      170,271 |                    1.1 |                8.6 |
+|       42007 |                 [Beaver](beaver) |      163,929 |                    1.3 |                7.3 |
+|       42027 |                 [Centre](centre) |      162,385 |                    2.0 |               10.4 |
+|       42055 |             [Franklin](franklin) |      155,027 |                    2.1 |                8.5 |
+|       42075 |               [Lebanon](lebanon) |      141,793 |                    2.2 |               12.3 |
+|       42107 |         [Schuylkill](schuylkill) |      141,359 |                    2.0 |                8.6 |
+|       42021 |               [Cambria](cambria) |      130,192 |                    3.1 |                6.5 |
+|       42051 |               [Fayette](fayette) |      129,274 |                    1.0 |                4.0 |
+|       42013 |                   [Blair](blair) |      121,829 |                    3.4 |                7.5 |
+|       42081 |             [Lycoming](lycoming) |      113,299 |                    1.3 |                4.6 |
+|       42085 |                 [Mercer](mercer) |      109,424 |                    2.6 |                6.4 |
+|       42001 |                   [Adams](adams) |      103,009 |                    1.1 |                5.7 |
+|       42097 | [Northumberland](northumberland) |       90,843 |                    1.5 |                7.8 |
+|       42073 |             [Lawrence](lawrence) |       85,512 |                    2.5 |                6.7 |
+|       42039 |             [Crawford](crawford) |       84,629 |                    2.4 |                4.9 |
+|       42063 |               [Indiana](indiana) |       84,073 |                    2.6 |                7.8 |
+|       42033 |         [Clearfield](clearfield) |       79,255 |                    1.9 |                4.1 |
+|       42111 |             [Somerset](somerset) |       73,447 |                    2.6 |                4.9 |
+|       42037 |             [Columbia](columbia) |       64,964 |                    0.9 |                8.5 |
+|       42005 |           [Armstrong](armstrong) |       64,735 |                    2.6 |                7.0 |
+|       42025 |                 [Carbon](carbon) |       64,182 |                    1.6 |                6.3 |
+|       42015 |             [Bradford](bradford) |       60,323 |                    2.9 |                8.1 |
+|       42103 |                     [Pike](pike) |       55,809 |                    0.7 |                8.0 |
+|       42127 |                   [Wayne](wayne) |       51,361 |                    0.4 |                3.4 |
+|       42121 |               [Venango](venango) |       50,668 |                    1.9 |                4.0 |
+|       42009 |               [Bedford](bedford) |       47,888 |                    3.7 |                7.3 |
+|       42099 |                   [Perry](perry) |       46,272 |                    0.9 |                4.0 |
+|       42087 |               [Mifflin](mifflin) |       46,138 |                    4.1 |                7.9 |
+|       42061 |         [Huntingdon](huntingdon) |       45,144 |                    2.6 |               11.4 |
+|       42119 |                   [Union](union) |       44,923 |                    2.5 |                8.2 |
+|       42065 |           [Jefferson](jefferson) |       43,425 |                    1.8 |                3.6 |
+|       42083 |                 [McKean](mckean) |       40,625 |                    1.1 |                2.5 |
+|       42117 |                   [Tioga](tioga) |       40,591 |                    2.8 |                5.1 |
+|       42109 |                 [Snyder](snyder) |       40,372 |                    2.0 |                6.5 |
+|       42115 |       [Susquehanna](susquehanna) |       40,328 |                    0.6 |                5.2 |
+|       42123 |                 [Warren](warren) |       39,191 |                    0.4 |                1.1 |
+|       42035 |               [Clinton](clinton) |       38,632 |                    1.3 |                4.2 |
+|       42031 |               [Clarion](clarion) |       38,438 |                    2.7 |                5.3 |
+|       42059 |                 [Greene](greene) |       36,233 |                    2.0 |                4.9 |
+|       42047 |                       [Elk](elk) |       29,910 |                    1.9 |                4.2 |
+|       42131 |               [Wyoming](wyoming) |       26,794 |                    2.0 |                4.7 |
+|       42067 |               [Juniata](juniata) |       24,763 |                    3.1 |                8.1 |
+|       42093 |               [Montour](montour) |       18,230 |                    1.3 |                8.0 |
+|       42105 |                 [Potter](potter) |       16,526 |                    1.0 |                2.5 |
+|       42057 |                 [Fulton](fulton) |       14,530 |                    1.7 |                4.3 |
+|       42053 |                 [Forest](forest) |        7,247 |                    0.7 |                2.1 |
+|       42113 |             [Sullivan](sullivan) |        6,066 |                    0.9 |                2.2 |
+|       42023 |               [Cameron](cameron) |        4,447 |                    0.3 |                1.4 |
