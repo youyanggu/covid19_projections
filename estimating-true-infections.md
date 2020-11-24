@@ -6,7 +6,7 @@ permalink: /estimating-true-infections/
 
 # Estimating True Infections: A Simple Heuristic to Measure Implied Infection Fatality Rate
 
-By: [Youyang Gu](https://twitter.com/youyanggu)
+By: [Youyang Gu](https://youyanggu.com)
 <br>July 29, 2020
 
 ## Table of Contents
