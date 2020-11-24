@@ -1,6 +1,5 @@
 We present a new, simple model that estimates true infections in the US. We have estimates for all US states (50 + DC + 4 territories) and all 3,000+ US counties.
-{% include iframe_home_first_map.html %}
-For more maps, including county-level views, visit the [Maps](/maps-infections) page.
+{% include iframe_home_first_map.html %}For more maps, including county-level views, visit the [Maps](/maps-infections) page.
 
 Jump to section:
 * [US summary](#us-infections-estimates-updated-daily)
@@ -13,6 +12,8 @@ For regular updates and insights, follow us on Twitter: <a href="https://twitter
 
 * **November 23 Update:** We released detailed county-by-county estimates for every US county. You can view them [below](#us-counties-infections-estimates). You can view maps of these estimates on the new [Maps](/maps-infections) page.
 * *November 18:* We are re-launching this website with nowcasting of infections estimates in the US (what has happened/is happening). You can download all of our estimates [here](https://github.com/youyanggu/covid19_projections/tree/master/infection_estimates).
+
+[Back to Top](#top)
 
 ## US Infections Estimates (Updated Daily)
 {% include_relative infections/summary.md %}{% include iframe_infections.html %}
