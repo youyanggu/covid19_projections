@@ -156,7 +156,8 @@ Because data can be noisy, we made some additional minor adjustments to the data
 - Removing outliers (e.g. North Carolina removed 190k tests on August 12)
 - Limiting the positivity rate to be between 0-1%
 - Applying a floor to the prevalence ratio: `max(1, 30 - day_i * 0.5)`
-
+- Reducing the prevalence ratio for states with `daily_tests_per_100k > 500` (multiplier: `np.log(500) / np.log(daily_tests_per_100k)`)
+- If total cases goes above 0 and then later goes back to 0, we set the total cases of the entire time period to 0
 
 ## Discussion
 
