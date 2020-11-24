@@ -22,9 +22,11 @@ By: [Youyang Gu](https://youyanggu.com)
 
 ## Summary
 
-we present a simple method that 1) computes a standardized test positivity rate for every US state and 2) uses the adjusted test positivity rate and confirmed cases to estimate the true prevalence of COVID-19 infections for every US state and county. The heuristics we present are computable using simple arithmetic and hence are easily accessible.
+We present a simple method that 1) computes a standardized test positivity rate for every US state and 2) uses the adjusted test positivity rate and confirmed cases to estimate the true prevalence of COVID-19 infections for every US state and county. The heuristics we present are computable using simple arithmetic and hence are easily accessible.
 
-Using this methodology, we built a visualization at [covid19-projections.com](https://covid19-projections.com) that contains our estimates for every US state (50 states + DC + 4 territories) and roughly all US counties (3,140). We found that the peak prevalence of COVID-19 in the US was roughly equal in June/July and in March/April (peak of ~300,000 new infections per day). However, the implied infection fatality rate (IIFR) is lower in June/July (~0.4% IIFR) than in March/April (~0.8% IIFR).
+Using this methodology, we built a visualization at [covid19-projections.com](https://covid19-projections.com) that contains our estimates for every US state (50 states + DC + 4 territories) and roughly all US counties (3,140).
+
+We found that the peak prevalence of COVID-19 in the US was roughly equal in June/July and in March/April (peak of ~300,000 new infections per day). However, the implied infection fatality rate (IIFR) is lower in June-July (~0.4%) than in March-April (~0.8%). In contrast, we estimate that the October-December wave reached over 500,000 new infectious per day, about twice as high as the first two waves. In total, by mid-November 2020, we estimate around 50 million (1 in 7) Americans have been infected at some point by the SARS-CoV-2 virus.
 
 ## Prelude
 
@@ -38,7 +40,7 @@ In this report, we present two contributions:
 - A simple method to standardize the test positivity rate between states.
 - A simple function that maps the adjusted positivity rate and date to the prevalence ratio, defined as the ratio of incident cases to confirmed cases. We can then use prevalence ratio and confirmed cases to estimate the true incidence of the disease in each US state and county.
 
-Using this method, we estimate that the true number of new infections peaked at close to 300,000 new infections per day in both the March-April and June-August waves. The similarity in the peak matches the hospitalization data, which also shows a similar peak for the two waves. In contrast, we estimate that the October-December wave reached over 500,000 new infectious per day, about twice as high as the first two waves. In total, by mid-November 2020, we estimate around 50 million (1 in 7) Americans have been infected at some point by the SARS-CoV-2 virus.
+Using this method, we estimate that the true number of new infections peaked at close to 300,000 new infections per day in both the March-April and June-August waves. The similarity in the peak matches the hospitalization data, which also shows a similar peak for the two waves.
 
 Once we have a reasonable estimate of the true number of newly infected individuals per day, we can use the reported deaths to compute whta we call the *implied infection fatality rate (IFFR)*, which is a metric derived by taking a region's reported deaths and dividing it by the true infections estimate (after accounting for lag). The IIFR for the US was above 1% in March, stabilized at around 0.6% in April-May before decreasing to ~0.4% in July-August. Note that our IIFR estimate does not take into account excess/unreported COVID-19 deaths, so it is likely a lower bound for the true IFR. This is further explained [below](#implied-infection-fatality-rate-iifr).
 
@@ -155,7 +157,7 @@ We then take the sum of the infections estimates for all 50 states and territori
 
 To conclude, we presented a simple heuristic that estimates the true prevalence of COVID-19 infections in a region.
 
-Using this methodology, we found that the peak prevalence is roughly equal in the US during June/July and during in March/April (peak of ~300,000 new infections per day). However, the implied fatality rate is lower in June/July (~0.4% IIFR) than in March/April (~1% IIFR).
+Using this methodology, we found that the peak prevalence is roughly equal in the US during June/July and during in March/April (peak of ~300,000 new infections per day). However, the implied fatality rate is lower in June/July (~0.4% IIFR) than in March/April (~0.8% IIFR).
 
 While this is by no means a comprehensive study, we hope this work can help other scientists and researchers better understand the changing dynamics of this disease over time.
 
