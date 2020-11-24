@@ -72,7 +72,7 @@ Once we have a reasonable estimate of the true number of newly infected individu
 
 ## Methods
 
-### Adjusted Test Postivity
+### Adjusted Test Positivity
 
 Reporting of COVID-19 tests is not standardized in the United States. Different states have completely different criteria and units for reporting test data. We will not attempt to explain the details here, but we will refer the reader to an [overview](https://covidtracking.com/about-data/total-tests) and [writeup](https://covidtracking.com/blog/test-positivity-in-the-us-is-a-mess) by *The COVID Tracking Project*.
 
@@ -127,7 +127,11 @@ As an example, let's say that the US reported 67,000 new cases with a 8.5% posit
 
 Because reported cases lag infections by roughly 2 weeks, we must shift the result back by two weeks. So the 275,000 true infections from the example above actually took place approximately 14 days before July 22, on July 8. While we use a constant lag for simplicity, we understand that the lag could be greater towards the beginning of the pandemic due to the slower average time to detection.
 
-Finally, we can take the cumulative sum of the daily estimates to arrive at a total estimate.
+To further smooth the data, we take the 7-day moving average of the true new daily infections. Finally, we can take the 15-day moving average to arrive at a "currently infected" estimate and the cumulative sum of the daily estimates to arrive at a "total infected" estimate.
+
+### Confidence Intervals
+
+To compute the lower and upper bounds of the prevalence ratios, we simply take 50% and 150% of the calculated mean prevalence ratio, respectively. We then use the lower and upper bounds to compute the lower and upper bounds of the "newly infected" estimates. Finally, we use the lower and upper bounds of the "newly infected" estimates to compute the lower and upper bounds of the "currently infected" and "total infected" estimates. We will leave it as an extension to develop a more sophisticated confidence interval.
 
 [Back to Top](#top)
 
@@ -147,9 +151,53 @@ We then take the sum of the infections estimates for all 50 states and territori
 
 ### Additional Modifications
 
+Because data can be noisy, we made some additional minor adjustments to the data to make the outputs cleaner and more reasonable. Here is a short list of these modifications:
+
+- Removing outliers (e.g. North Carolina removed 190k tests on August 12)
+- Limiting the positivity rate to be between 0-1%
+- Applying a floor to the prevalence ratio: `max(1, 30 - day_i * 0.5)`
 
 
 ## Discussion
+
+### Relationship between Positivity Rate and Prevalence Ratio
+
+We developed the constants for the prevalence function (`prevalence-ratio = a * (positivity-rate)^(b) + c`) through a combination of trial & error and curve fitting. We don't believe this function is perfect. There can be other values for `a`, `b`, and `c` that may be a closer approximation of the true relationship. Because there is no "truth" value to fit the function against, we decided it is not worth trying to perfectly fit this function.
+
+The exact relationship between positivity rate and prevalence ratio may be different from state to state and across time. Here is a partial list of possible factors that can cause these differences:
+
+- Availability of testing - the greater the number of tests performed (as a percentage of the population), the less the undetected prevalence ratio becomes, and the less the role of positivity rate becomes. See paper by [Burger & McLaren](http://www-personal.umich.edu/~zmclaren/mclaren_tbprevalence.pdf) for a more in-depth view.
+- Differences and changes in reporting guidelines (also explained [above](#adjusted-test-positivity))
+  - Counting repeated positive tests (skews positivity up)
+  - Counting repeated negative tests (skews positivity down)
+  - Not reporting all positive tests (skews positivity down)
+  - Not reporting all negative tests (skews positivity up)
+  - Only reporting Electronic Laboratory Reporting (ELR) tests (skews positivity up)
+  - Mixing serology tests with PCR (skews positivity up)
+- Backlog of test results - positive tests receive priority for processing, which may skew the positivity rate upwards
+- Delay/lag in test results - if tests take 1-2 weeks to be reported, then it may no longer be an accurate representation of how new infections are changing
+- Shifting age demographics - Test positivity rates are [higher](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/covidview/07312020/commercial-labs.html) in younger age groups. So a lower median age of infection may also result in a higher positivity rate, causing a possible confounding factor. 
+
+[Back to Top](#top)
+
+### Lower IIFR Over Time
+
+The IIFR in the US decreased from over 1% in March to 0.4% in July. Below, we present a few possible explanations to why the IIFR in the US has decreased significantly since March/April.
+
+- Lower median age of infection (see section [above](#distribution-of-infections-by-age))
+- Improved treatment (new drugs, better allocation of resources, more experience among staff, etc)
+- Better protection of vulnerable populations ([nearly half of COVID-19 deaths](https://www.wsj.com/articles/coronavirus-deaths-in-u-s-nursing-long-term-care-facilities-top-50-000-11592306919) in March/April were in care homes)
+- Earlier detection
+- [Seasonality](https://www.medrxiv.org/content/10.1101/2020.07.11.20147157v2)
+- Selection bias (Higher susceptibibility in individuals who contracted the virus earlier on)
+
+The above are explanations that would explain a *true* decrease in IFR. We believe the lower median age of infection and improved treatments are the primary drivers behind the decrease in IIFR. Below are some reasons that could skew the IIFR lower, but not change the true IFR:
+
+- More comprehensive reporting of confirmed cases
+- Changes in the distribution of age groups tested (e.g. more younger people getting tested would skew IIFR down)
+- Inflation of the test positivity rate (e.g. double-counting positives, not reporting negatives, etc)
+- Longer lag in death reporting
+- Underreporting of deaths
 
 [Back to Top](#top)
 
