@@ -15,6 +15,7 @@ By: [Youyang Gu](https://twitter.com/youyanggu)
 * [Disclaimers](#disclaimers)
 * [Data](#data)
 * [Methods](#methods)
+  * [Adjusted Test Positivity](#adjusted-test-positivity)
   * [Prevalence Ratio](#prevalence-ratio)
 * [Discussion](#discussion)
 * [Conclusion](#conclusion)
@@ -25,13 +26,13 @@ In July 2020, we released a report, *[Estimating True Infections: A Simple Heuri
 
 Knowing the true number of people who are infected with COVID-19 in the US is an essential step towards understanding the disease. But estimating this number is not a simple task. The true number of infections is many times greater than the reported number of cases in the US because the majority of infected individuals do not get tested due to several reasons: 1) they are asymptomatic, 2) they are only mildly symptomatic, 3) they do not have easy access to testing, or 4) they simply do not want to get tested.
 
-On this page, we introduce a simple square root function to estimate the true prevalence of COVID-19 in a region based on only the confirmed cases and test positivity rate: `true-new-daily-infections = daily-confirmed-cases * (1500 / (day_idx + 50) * (positivity-rate)^(0.5) + 2)`, where `day_idx` is the number of days since February 12, 2020 (2 weeks before the first confirmed community transmission in the US). We will also introduce the *implied infection fatality rate (IIFR)*, which is a metric derived by taking a region's reported deaths and dividing it by the true infections estimate (after accounting for lag).
+In this report, we present two contributions:
+- A simple method to standardize the test positivity rate between states.
+- A simple function that maps the adjusted positivity rate and date to the prevalence ratio, defined as the ratio of incident cases to confirmed cases. We can then use prevalence ratio and confirmed cases to estimate the true incidence of the disease in each US state and county.
 
 Using this method, we estimate that the true number of new infections peaked at close to 300,000 new infections per day in both the March-April and June-August waves. The similarity in the peak matches the hospitalization data, which also shows a similar peak for the two waves. In contrast, we estimate that the October-December wave reached over 500,000 new infectious per day, about twice as high as the first two waves. In total, by mid-November 2020, we estimate around 50 million (1 in 7) Americans have been infected at some point by the SARS-CoV-2 virus.
 
-Below, you can see a plot of our infection estimates for the US.
-
-Once we have a reasonable estimate of the true number of newly infected individuals per day, we can use the reported deaths to compute the implied infection fatality rate (IFFR). The IIFR for the US was above 1% in March, stabilized at around 0.6% in April-May before decreasing to ~0.4% in July-August. Note that our IIFR estimate does not take into account excess/unreported COVID-19 deaths, so it is likely a lower bound for the true IFR. This is further explained [below](#implied-infection-fatality-rate-iifr).
+Once we have a reasonable estimate of the true number of newly infected individuals per day, we can use the reported deaths to compute whta we call the *implied infection fatality rate (IFFR)*, which is a metric derived by taking a region's reported deaths and dividing it by the true infections estimate (after accounting for lag). The IIFR for the US was above 1% in March, stabilized at around 0.6% in April-May before decreasing to ~0.4% in July-August. Note that our IIFR estimate does not take into account excess/unreported COVID-19 deaths, so it is likely a lower bound for the true IFR. This is further explained [below](#implied-infection-fatality-rate-iifr).
 
 ## Disclaimers
 
