@@ -22,9 +22,9 @@ By: [Youyang Gu](https://youyanggu.com)
 
 ## Summary
 
-we presented a simple method that 1) computes a standardized test positivity rate for every US state and 2) uses the adjusted test positivity rate and confirmed cases to estimate the true prevalence of COVID-19 infections for every US state and county.
+we present a simple method that 1) computes a standardized test positivity rate for every US state and 2) uses the adjusted test positivity rate and confirmed cases to estimate the true prevalence of COVID-19 infections for every US state and county. The heuristics we present are computable using simple arithmetic and hence are easily accessible.
 
-Using this methodology, we found that the prevalence of COVID-19 in the US was roughly equal in June/July and in March/April (peak of ~300,000 new infections/day). However, the implied fatality rate is lower in June/July (~0.4% IIFR) than in March/April (~0.8% IIFR).
+Using this methodology, we built a visualization at [covid19-projections.com](https://covid19-projections.com) that contains our estimates for every US state (50 states + DC + 4 territories) and roughly all US counties (3,140). We found that the peak prevalence of COVID-19 in the US was roughly equal in June/July and in March/April (peak of ~300,000 new infections per day). However, the implied infection fatality rate (IIFR) is lower in June/July (~0.4% IIFR) than in March/April (~0.8% IIFR).
 
 ## Prelude
 
@@ -44,7 +44,7 @@ Once we have a reasonable estimate of the true number of newly infected individu
 
 ## Disclaimers
 
-- All of the work presented on this page has not been peer-reviewed, and so we encourage reading this with a healthy dose of skepticism. We hope that the reader can make their own conclusions based on the evidence we present. This is just one possible take on the situation, and the results are subject to change based on new data/evidence.
+- All of the work presented on this page has not been peer-reviewed, and so we encourage reading this with a healthy dose of skepticism. We hope that the reader can make their own conclusions based on the evidence we present. The methods are subject to change based on new data/evidence.
 
 - **Important:** The methods described here produce merely estimates of total infections and are by no means definitive. Please do not view this work as the "truth". In fact, by only using confirmed cases and testing data, we are missing the granularity that could be provided had we also included hospitalization and death data. This is done intentionally because we wanted a fast, flexible, and simple way to estimate infections. More complex/sophisticated models take time to conceptialize, implement, and refine. Unfortunately, at the time this project was started (November 2020), time is of the essence. Many regions of the US are flying blind due to the lack of reliable data and estimates. Hence, we decided to stick to a simple methodology so that we can provide an output sooner rather than later. Once this simple ("baseline") estimate is available, we can dedicate more time to refining the methodology to incorporate additional data sources.
 
@@ -155,7 +155,7 @@ We then take the sum of the infections estimates for all 50 states and territori
 
 To conclude, we presented a simple heuristic that estimates the true prevalence of COVID-19 infections in a region.
 
-Using this methodology, we found that the prevalence is roughly equal in the US during June/July and during in March/April (peak of ~300,000 new infections/day). However, the implied fatality rate is lower in June/July (~0.4% IIFR) than in March/April (~1% IIFR).
+Using this methodology, we found that the peak prevalence is roughly equal in the US during June/July and during in March/April (peak of ~300,000 new infections per day). However, the implied fatality rate is lower in June/July (~0.4% IIFR) than in March/April (~1% IIFR).
 
 While this is by no means a comprehensive study, we hope this work can help other scientists and researchers better understand the changing dynamics of this disease over time.
 
