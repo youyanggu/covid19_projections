@@ -1,11 +1,11 @@
 We present a new, simple model that estimates true infections in the US. We have estimates for all US states (50 + DC + 4 territories) and all 3,000+ US counties.
+{% include iframe_home_first_map.html %}
+For more maps, including county-level views, visit the [Maps](/maps-infections) page.
 
 Jump to section:
 * [US summary](#us-infections-estimates-updated-daily)
 * [State-level infection estimates](#view-us-infections-estimates)
 * [County-level infection estimates](#us-counties-infections-estimates)
-{% include iframe_home_first_map.html %}
-For more maps, including county-level views, visit the [Maps](/maps-infections) page.
 
 ## Recent Updates
 
@@ -17,7 +17,7 @@ For regular updates and insights, follow us on Twitter: <a href="https://twitter
 ## US Infections Estimates (Updated Daily)
 {% include_relative infections/summary.md %}{% include iframe_infections.html %}
 
-Our infections estimates include all infected individuals of the SARS-CoV-2 virus, not just those that took a COVID-19 test and tested positive. As of November, we estimate the true number of infected individuals in the US to be roughly 2-5x higher than the reported cases (20-50% detection rate). See our writeup, [Estimating True Infections](/estimating-true-infections), for a more detailed look into this subject. To get a sense of the number of individuals that are actively infectious, we recommend dividing the *"currently infected"* estimate by 2-4.
+Our infections estimates include all infected individuals of the SARS-CoV-2 virus, not just those that took a COVID-19 test and tested positive. As of November, we estimate the true number of infected individuals in the US to be roughly 2-5x higher than the reported cases (20-50% detection rate). See our writeup, [Estimating True Infections](/estimating-true-infections), for a more detailed look into this subject. Because not all currently *infected* individuals are *infectious*, we recommend dividing the *"currently infected"* estimate by 2-4 to get a sense of the number of currently infectious individuals.
 
 [Back to Top](#top)
 
