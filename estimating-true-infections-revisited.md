@@ -42,7 +42,7 @@ Once we have a reasonable estimate of the true number of newly infected individu
 
 - This approach was optimized on US data. It is not necessarily applicable to countries outside the United States, where testing guidelines/procedures may be drastically different. One may need to refit the prevalence curve to suit each country.
 
-- While all the methods on this page were developed independently, we want to note that this is not a novel approach. See prior work by [Peter Ellis](http://freerangestats.info/blog/2020/05/09/covid-population-incidence), [David Blake](https://medium.com/@dblake.mcg/making-the-o-zone-plots-2a83708f7d6a), and [Campbell et al](https://arxiv.org/pdf/2005.08459.pdf). As of November 2020, we are aware of one other website that provides estimates on both a state-level and county-level: [https://covidestim.org/](covidestim.org). They use a different methodology based on cases and deaths ([see pre-print](https://www.medrxiv.org/content/10.1101/2020.06.17.20133983v1)).
+- While all the methods on this page were developed independently, we want to note that this is not a novel approach. See prior work by [Peter Ellis](http://freerangestats.info/blog/2020/05/09/covid-population-incidence), [David Blake](https://medium.com/@dblake.mcg/making-the-o-zone-plots-2a83708f7d6a), and [Campbell et al](https://arxiv.org/pdf/2005.08459.pdf). As of November 2020, we are aware of one other website that provides estimates on both a state-level and county-level: [covidestim.org](https://covidestim.org/). They use a different methodology based on cases and deaths (see [pre-print](https://www.medrxiv.org/content/10.1101/2020.06.17.20133983v1)).
 
 - Note that our use of the term *infection fatality rate (IFR)* refers to true deaths divided by true infections. It is not age-adjusted. As a result, if there is an increasing prevalence of the disease in a younger population, then the IFR will decrease, despite the deadliness of the virus remaining unchanged among a particular age group. It is likely that the fatality rate for a given age group have not changed significantly.
 
@@ -71,6 +71,13 @@ We believe that the relationship between positivity rate and ratio of true preva
 where `a`, `b`, `c` are unknown variables.
 
 Through curve fitting on historical test positivity and serological surveys, as well as trial & error, we found that the following square root approximation function works well:
+
+```
+a = (1500 / (day_idx + 50)
+b = 0.5
+c = 2
+```
+After substituting the variables, we get:
 
 `prevalence-ratio = (1500 / (day_idx + 50) * (positivity-rate)^(0.5) + 2`,
 
