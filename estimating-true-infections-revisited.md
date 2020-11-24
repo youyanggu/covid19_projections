@@ -14,7 +14,8 @@ By: [Youyang Gu](https://twitter.com/youyanggu)
 * [Introduction](#introduction)
 * [Disclaimers](#disclaimers)
 * [Data](#data)
-* [Prevalence Ratio](#prevalence-ratio)
+* [Methods](#methods)
+  * [Prevalence Ratio](#prevalence-ratio)
 * [Discussion](#discussion)
 * [Conclusion](#conclusion)
 
@@ -58,9 +59,25 @@ Once we have a reasonable estimate of the true number of newly infected individu
 
 [Back to Top](#top)
 
-## Prevalence Ratio
+## Methods
 
-The core idea behind this method is that we can use the positivity rate and the date to roughly determine the ratio of true infections to reported cases. The hypothesis is that as positivity rate increases, the higher the true prevalence in a region relative to the reported cases. This also makes sense intuitively: if you test everyone, then the positvity rate will be very low, and you will catch every case. But if testing is not widely available, then you will catch only the severe cases, resulting in a higher positivity rate. This phenomenon is sometimes referred to as *preferential testing*.
+### Adjusted Test Postivity
+
+Reporting of COVID-19 tests is not standardized in the United States. Different states have completely different criteria and units for reporting test data. We will not attempt to explain the details here, but we will refer the reader to an [overview](https://covidtracking.com/about-data/total-tests) and [writeup](https://covidtracking.com/blog/test-positivity-in-the-us-is-a-mess) by *The COVID Tracking Project*.
+
+While most states report test totals by "test encounters" or "test specimens", a few select states such as South Dakota reports tests based on "unique people". This means that if a resident has previously received a COVID-19 test, they will only be included a single time in the "total tests". As the writeups in the previous paragraph explain, this method of counting tests can artificially inflate the daily test positivity rate, since repeated negative tests by the same person are all discarded (unless it is the first test). So while the data would suggest that the test positivty rate in South Dakota was over 50% in November 2020, in reality, the test positivity rate is closer to 20-25% once we count test specimens rather than unique people.
+
+We use the data provided by The COVID Tracking Project to attempt to standardize the testing data to the same units so that the values are comparable. We assume "specimens" and "test encounters" to be equivalent units (in reality, using specimens result in a slightly lower positivity rate, but this difference is small, <5%). We just need to convert testing data with a "unique people" unit to a "specimens" unit. As of November 2020, there are 9 states where we have to do this conversion: Arizona, Iowa, Idaho, Kansas, Louisiana, Oregon, Pennsylvania, South Dakota, Wyoming.
+
+This conversion is done by looking at states that provide testing data in both "unique people" and "specimens/test encounters" units. There are about 15 states that fit this criteria. We look at the ratio of the "specimens/test encounters" total tests and the "unique people" total tests over time. In the beginning stages of the pandemic, this ratio is very close to 1 because each person that gets tested is likely a new individual. But over time, the proportion of repeat test takers increases, and thus the ratio increases significantly above 1. We simply take the average ratio for each date and apply that ratio to states that only report the "unique people" unit. This allows us to map the unit from "unique people" to "specimens/test encounters":
+
+```test_specimens = test_unique_people * avg_ratio(day_i)```
+
+We now have an adjusted test total that we can use to compute the test positivity. This adjusted test positivity shares the same units across different states, and thus can be comparable. As we mentioned in the disclaimers above, this serves as a simple estimate of the total tests rather than a rigorous calculation. In practice, we find that the approximation is fairly similar to the true values, as the ratios are fairly consistent from state to state.
+
+### Prevalence Ratio
+
+Once we have an adjusted test positivity, we can use it to compute the prevalence ratio, otherwise known as the ratio of total infections/incident cases to confirmed cases. The core idea behind this method is that we can use the positivity rate and the date to roughly determine the ratio of true infections to reported cases. The hypothesis is that as positivity rate increases, the higher the true prevalence in a region relative to the reported cases. This also makes sense intuitively: if you test everyone, then the positvity rate will be very low, and you will catch every case. But if testing is not widely available, then you will catch only the severe cases, resulting in a higher positivity rate. This phenomenon is sometimes referred to as *preferential testing*.
 
 As a counter-balancing act, as the pandemic progresses over time, availability of testing increases. This not only lowers the prevalence ratio, but also lowers the impact of the the positivity rate in the determination of the true prevalence ratio. Intuitively, this makes sense as well: if everyone who wants a test can get a test, then the prevalence ratio will be constant regardless of what percentage of the tests result in a positive result. In the early stages of the pandemic, test positivity matters more as testing capacity is limited. But we believe the importance of the two variables switches over time, and hence our estimate needs to reflect this change.
 
@@ -95,7 +112,7 @@ For all computation purposes, we use the 7-day moving average of confirmed cases
 
 `true-new-daily-infections = daily-confirmed-cases * (1500 / (day_idx + 50) * (positivity-rate)^(0.5) + 2)`
 
-As an example, let's say that the US reported 67,000 new cases with a 8.5% positivity rate on July 22. This would result in a true prevalence ratio of `(1500 / (160 + 50) * s qrt(0.085) + 2 = 4.1`. We can then multiply this ratio by the confirmed cases to get the true new infections. In this example, we estimate there to be 4.1 * 67,000 = ~275,000 true new infections.
+As an example, let's say that the US reported 67,000 new cases with a 8.5% positivity rate on July 22. This would result in a true prevalence ratio of `(1500 / (160 + 50) * sqrt(0.085) + 2 = 4.1`. We can then multiply this ratio by the confirmed cases to get the true new infections. In this example, we estimate there to be 4.1 * 67,000 = ~275,000 true new infections.
 
 Because reported cases lag infections by roughly 2 weeks, we must shift the result back by two weeks. So the 275,000 true infections from the example above actually took place approximately 14 days before July 22, on July 8. While we use a constant lag for simplicity, we understand that the lag could be greater towards the beginning of the pandemic due to the slower average time to detection.
 
@@ -105,7 +122,9 @@ Finally, we can take the cumulative sum of the daily estimates to arrive at a to
 
 ### Using US Nationwide Cases + Positivity Rates
 
-For US nationwide data, we can compute the true prevalence ratio by passing in the daily positivity rate to our approximation function above. We then multiply the true prevalence ratio by the number of confirmed cases each day to get the number of true new infections. Note that all daily numbers used are 7-day moving averages. Finally, we shift the true new infections back by 14 days to account for reporting delays. We can now plot the results as a function of the date:
+For US nationwide data, we can compute the true prevalence ratio by passing in the US daily positivity rate and date to our approximation function above. We then multiply the true prevalence ratio by the number of confirmed cases each day to get the number of true new infections. Note that all daily numbers used are 7-day moving averages. Finally, we shift the true new infections back by 14 days to account for reporting delays. We can now plot the results as a function of the date:
+
+[Back to Top](#top)
 
 ### Using State-by-state Cases + Positivity Rate
 
@@ -115,7 +134,13 @@ We then take the sum of the infections estimates for all 50 states and territori
 
 [Back to Top](#top)
 
+### Additional Modifications
+
+
+
 ## Discussion
+
+[Back to Top](#top)
 
 ## Conclusion
 
