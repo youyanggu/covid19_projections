@@ -26,9 +26,11 @@ By: [Youyang Gu](https://twitter.com/youyanggu)
   * [Effective Herd Immunity](#effective-herd-immunity)
 * [Conclusion](#conclusion)
 
+## Please note that we are working on a revised version of this report based on new data since the publication date (July 2020). Please stay tuned for the updated version.
+
 **Important Note:** While this page explains how one can use cases and positivity rate to estimate true infections, our *covid19-projections.com* model [only use deaths data](https://covid19-projections.com/about/#data-and-output).
 
-**November 2020 Update:** As testing continues to increase across the United States, we want to caution readers from applying the below formulas to the new fall data. The findings below are more relevant during the period when testing was limited, and may no longer be as applicable since the summer. In addition, please read [this article](https://covidtracking.com/blog/test-positivity-in-the-us-is-a-mess) by the COVID Tracking Project that highlights the difficulty of computing consistent test positivity rates.
+*November 2020 Update:* As testing continues to increase across the United States, we want to caution readers from applying the below formulas to the new fall data. The findings below are more relevant during the period when testing was limited, and may no longer be as applicable since the summer. In addition, please read [this article](https://covidtracking.com/blog/test-positivity-in-the-us-is-a-mess) by the COVID Tracking Project that highlights the difficulty of computing consistent test positivity rates.
 
 *August 10 Update:* See our [new findings](https://twitter.com/youyanggu/status/1292898685173534722) for a case study regarding the role of immunity, behavior, and interventions in the spread of COVID-19.
 
@@ -52,7 +54,7 @@ Below, you can see a plot of our infection estimates for the US. We compare the 
 
 ![True Infections Plot 3](/assets/images/estimate_true_infections_3.png)
 
-Once we have a reasonable estimate of the true number of newly infected individuals per day, we can use the reported deaths to compute the implied infection fatality rate (IFFR). The IIFR for the US was above 1% in March, stabilized at around 0.6% in April-May before decreasing to ~0.25% in July. Note that our IIFR estimate does not take into account excess/unreported COVID-19 deaths, so it is likely a lower bound for the true IFR. This is further explained [below](implied-infection-fatality-rate-iifr).
+Once we have a reasonable estimate of the true number of newly infected individuals per day, we can use the reported deaths to compute the implied infection fatality rate (IFFR). The IIFR for the US was above 1% in March, stabilized at around 0.6% in April-May before decreasing to ~0.25% in July. Note that our IIFR estimate does not take into account excess/unreported COVID-19 deaths, so it is likely a lower bound for the true IFR. This is further explained [below](#implied-infection-fatality-rate-iifr).
 
 ## Disclaimers
 
