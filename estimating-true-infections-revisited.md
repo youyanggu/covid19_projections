@@ -70,20 +70,18 @@ We believe that the relationship between positivity rate and ratio of true preva
 
 where `a`, `b`, `c` are unknown variables.
 
-Through curve fitting on historical test positivity and serological surveys, as well as trial & error, we found that the following square root approximation function works well:
+Through curve fitting on historical test positivity and serological surveys, as well as trial & error, we found that the following approximation works well:
 
 ```
 a = (1500 / (day_idx + 50)
 b = 0.5
 c = 2
 ```
-After substituting the variables, we get:
+where `day_idx` is the number of days since February 12, 2020 (2 weeks before the first confirmed community transmission in the US). Since `b=0.5`, this is equivalent to the square root function. After substituting the variables, we get:
 
-`prevalence-ratio = (1500 / (day_idx + 50) * (positivity-rate)^(0.5) + 2`,
+`prevalence-ratio = (1500 / (day_idx + 50) * (positivity-rate)^(0.5) + 2`.
 
-where `day_idx` is the number of days since February 12, 2020 (2 weeks before the first confirmed community transmission in the US).
-
-THe above equation means that our prevalence ratio estimate on any given day is based on only two variables: the positivity rate and the number of days that have passed since February 12, 2020. As positivity rate increases, the prevalence ratio will also increase. As the pandemic progresses and we move further away from February 2020, testing becomes more accessible and hence the prevalence ratio will decrease.
+The above equation means that our prevalence ratio estimate on any given day is based on only two variables: the positivity rate and the number of days that have passed since February 12, 2020. As positivity rate increases, the prevalence ratio will also increase. As the pandemic progresses and we move further away from February 2020, testing becomes more accessible and hence the prevalence ratio will decrease.
 
 To see if this relationship passes the "common sense test", we can take a look at the US positivity rate over time (see graph below). In March/April, the US positivity is around 20%, which corresponds to a prevalence ratio of roughly 10x the number of reported cases when using the function above. This seems to be a reasonable estimate, and matches estimates provided [by the CDC](https://www.washingtonpost.com/health/2020/06/25/coronavirus-cases-10-times-larger/). In New York and New Jersey during this period, test positivity was around 40-50%, which corresponds to a roughly 12-15x prevalence (later substantiated by [serology surveys](https://www.nytimes.com/2020/04/23/nyregion/coronavirus-antibodies-test-ny.html)). In June, when test is more widely available and the US positivity rate is ~5%, the function estimates a prevalence of roughly 4x the number of reported cases. We use a y-intercept of 2 to indicate minimum prevalence ratio of 2x (50% detection rate) to account for the high proportion of asymptomatic individuals (~40% according to [the CDC](https://www.cdc.gov/coronavirus/2019-ncov/hcp/planning-scenarios.html)).
 
