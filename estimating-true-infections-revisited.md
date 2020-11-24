@@ -60,40 +60,46 @@ Once we have a reasonable estimate of the true number of newly infected individu
 
 ## Prevalence Ratio
 
-The core idea behind this method is that we can use the positivity rate to roughly determine the ratio of true infections to reported cases. The hypothesis is that as positivity rate increases, the higher the true prevalence in a region relative to the reported cases. This also makes sense intuitively: if you test everyone, then the positvity rate will be very low, and you will catch every case. But if testing is not widely available, then you will catch only the severe cases, resulting in a higher positivity rate. This phenomenon is sometimes referred to as *preferential testing*.
+The core idea behind this method is that we can use the positivity rate and the date to roughly determine the ratio of true infections to reported cases. The hypothesis is that as positivity rate increases, the higher the true prevalence in a region relative to the reported cases. This also makes sense intuitively: if you test everyone, then the positvity rate will be very low, and you will catch every case. But if testing is not widely available, then you will catch only the severe cases, resulting in a higher positivity rate. This phenomenon is sometimes referred to as *preferential testing*.
 
-But as time goes on and testing becomes more accessible, the positivity rate matters less and less in the determination of the true prevalence ratio. Intuitively, this makes sense as well: if everyone who wants a test can get a test, then the prevalence ratio will be constant regardless of what percentage of the tests result in a positive result. The only reason the prevalence ratio would increase is if the number of undetected cases increase in proportion with the detected cases.
+As a counter-balancing act, as the pandemic progresses over time, availability of testing increases. This not only lowers the prevalence ratio, but also lowers the impact of the the positivity rate in the determination of the true prevalence ratio. Intuitively, this makes sense as well: if everyone who wants a test can get a test, then the prevalence ratio will be constant regardless of what percentage of the tests result in a positive result. In the early stages of the pandemic, test positivity matters more as testing capacity is limited. But we believe the importance of the two variables switches over time, and hence our estimate needs to reflect this change.
 
-We believe that the relationship between positivity rate and ratio of true prevalence is monotonically increasing. Of course, the exact relationship varies from state to state and across time. But if one were to take the average across *all* of the data, one can generate a theoretical curve. We believe this relationship can be approximated by a root function of the following form:
+For a fixed day, we believe that the relationship between test positivity rate and ratio of true prevalence is monotonically increasing (higher positivity -> higher prevalence). Of course, the exact relationship varies from state to state and across time. But if one were to take the average across *all* of the data, one can generate a theoretical curve. For a fixed day `day_i`, we believe this relationship can be approximated by a root function of the following form:
 
-`prevalence-ratio = a * (positivity-rate)^(b) + c`
+`prevalence-ratio(day_i) = a * (positivity-rate)^(b) + c`
 
-where `a`, `b`, `c` are unknown variables.
+where `a`, `b`, `c` are unknown constants.
 
 Through curve fitting on historical test positivity and serological surveys, as well as trial & error, we found that the following approximation works well:
 
 ```
-a = (1500 / (day_idx + 50)
+a = (1500 / (day_i + 50)
 b = 0.5
 c = 2
 ```
-where `day_idx` is the number of days since February 12, 2020 (2 weeks before the first confirmed community transmission in the US). Since `b=0.5`, this is equivalent to the square root function. After substituting the variables, we get:
+where `day_i` is the number of days since February 12, 2020 (14 days before the first confirmed community transmission in the US). Since `b=0.5`, this is equivalent to the square root function. After substituting the variables, we get:
 
-`prevalence-ratio = (1500 / (day_idx + 50) * (positivity-rate)^(0.5) + 2`.
+`prevalence-ratio(day_i) = (1500 / (day_i + 50) * (positivity-rate)^(0.5) + 2`.
 
 The above equation means that our prevalence ratio estimate on any given day is based on only two variables: the positivity rate and the number of days that have passed since February 12, 2020. As positivity rate increases, the prevalence ratio will also increase. As the pandemic progresses and we move further away from February 2020, testing becomes more accessible and hence the prevalence ratio will decrease.
 
+Note that the prevalence ratio is only applicable for a given day, and changes from day to day. One cannot apply the same prevalence ratio to the total number of cases, because the prevalence ratio is different on each day.
+
 To see if this relationship passes the "common sense test", we can take a look at the US positivity rate over time (see graph below). In March/April, the US positivity is around 20%, which corresponds to a prevalence ratio of roughly 10x the number of reported cases when using the function above. This seems to be a reasonable estimate, and matches estimates provided [by the CDC](https://www.washingtonpost.com/health/2020/06/25/coronavirus-cases-10-times-larger/). In New York and New Jersey during this period, test positivity was around 40-50%, which corresponds to a roughly 12-15x prevalence (later substantiated by [serology surveys](https://www.nytimes.com/2020/04/23/nyregion/coronavirus-antibodies-test-ny.html)). In June, when test is more widely available and the US positivity rate is ~5%, the function estimates a prevalence of roughly 4x the number of reported cases. We use a y-intercept of 2 to indicate minimum prevalence ratio of 2x (50% detection rate) to account for the high proportion of asymptomatic individuals (~40% according to [the CDC](https://www.cdc.gov/coronavirus/2019-ncov/hcp/planning-scenarios.html)).
 
-The next step is to map all reported cases to true new infections based on the true prevalence ratio. We can compute the true prevalence ratio simply by inserting the positivity rate into the function above. We then multiple the ratio by the daily confirmed cases to get the true daily infections:
+In our calculations, we compute the prevalence ratio on each day for each state based on the positivity rate. Once we have the prevalence ratios, the next step is to map all reported cases to true new infections by multiplying the daily confirmed cases with the prevalence ratio:
 
 `true-new-daily-infections = daily-confirmed-cases * prevalence-ratio`
 
-For all computation purposes, we use the 7-day average of confirmed cases and positivity rates. Combining the two functions from above, we get:
+For all computation purposes, we use the 7-day moving average of confirmed cases and positivity rates. Combining the two functions from above, we get:
 
 `true-new-daily-infections = daily-confirmed-cases * (1500 / (day_idx + 50) * (positivity-rate)^(0.5) + 2)`
 
-As an example, let's say that the US reported 67,000 new cases with a 8.5% positivity rate on July 22. This would result in a true prevalence ratio of `(1500 / (160 + 50) * s qrt(0.085) + 2 = 4.1`. We can then multiply this ratio by the confirmed cases to get the true new infections. In this example, we estimate there to be 4.1 * 67,000 = ~275,000 true new infections. Because reported cases lag infections by roughly 2 weeks, we must shift the result back by two weeks. So the 275,000 true infections actually took place approximately 14 days before July 22, on July 8.
+As an example, let's say that the US reported 67,000 new cases with a 8.5% positivity rate on July 22. This would result in a true prevalence ratio of `(1500 / (160 + 50) * s qrt(0.085) + 2 = 4.1`. We can then multiply this ratio by the confirmed cases to get the true new infections. In this example, we estimate there to be 4.1 * 67,000 = ~275,000 true new infections.
+
+Because reported cases lag infections by roughly 2 weeks, we must shift the result back by two weeks. So the 275,000 true infections from the example above actually took place approximately 14 days before July 22, on July 8. While we use a constant lag for simplicity, we understand that the lag could be greater towards the beginning of the pandemic due to the slower average time to detection.
+
+Finally, we can take the cumulative sum of the daily estimates to arrive at a total estimate.
 
 [Back to Top](#top)
 
