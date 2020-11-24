@@ -1,6 +1,5 @@
 We present a new, simple model that estimates true infections in the US. We have estimates for all US states (50 + DC + 4 territories) and all 3,000+ US counties.
-
-Our infections estimates include all infected individuals of the SARS-CoV-2 virus, not just those that took a COVID-19 test and tested positive. As of November, we estimate the true number of infected individuals in the US to be roughly 2-5x higher than the reported cases (20-50% detection rate). See our writeup, [Estimating True Infections](/estimating-true-infections), for a more detailed look into this subject. To get a sense of the number of individuals that are actively infectious, we recommend dividing the *"currently infected"* estimate by 2-4.
+{% include iframe_home_first_map.html %}
 
 * [Jump to maps](#maps)
 * [Jump to state-by-state infection estimates](#view-us-infections-estimates)
@@ -8,15 +7,16 @@ Our infections estimates include all infected individuals of the SARS-CoV-2 viru
 
 ## Recent Updates
 
-For regular updates and insights, follow us on Twitter:<br>
-<a href="https://twitter.com/youyanggu" class="twitter-follow-button" data-show-count="false">@youyanggu</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+For regular updates and insights, follow us on Twitter: <a href="https://twitter.com/youyanggu" class="twitter-follow-button" data-show-count="false">@youyanggu</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-* **November 23 Update:** We released detailed county-by-county estimates for every US county. You can view them [below](#us-counties-infections-estimates). You can view maps of these estimates on the new [Maps](/maps-infections) page. You can also download the estimates [here](https://github.com/youyanggu/covid19_projections/tree/master/infection_estimates).
-* *November 19:* You can now download our raw estimates [here](https://github.com/youyanggu/covid19_projections/tree/master/infection_estimates).
-* *November 18:* We are re-launching this website with nowcasting of infections estimates in the US (what has happened). For forecasts of cases and deaths (what will happen), please see [Youyang's blog](https://youyanggu.com/blog/six-months-later#model-alternatives) for model alternatives.
+* **November 23 Update:** We released detailed county-by-county estimates for every US county. You can view them [below](#us-counties-infections-estimates). You can view maps of these estimates on the new [Maps](/maps-infections) page.
+* *November 18:* We are re-launching this website with nowcasting of infections estimates in the US (what has happened/is happening). You can download all of our estimates [here](https://github.com/youyanggu/covid19_projections/tree/master/infection_estimates).
 
 ## US Infections Estimates (Updated Daily)
 {% include_relative infections/summary.md %}{% include iframe_infections.html %}
+
+Our infections estimates include all infected individuals of the SARS-CoV-2 virus, not just those that took a COVID-19 test and tested positive. As of November, we estimate the true number of infected individuals in the US to be roughly 2-5x higher than the reported cases (20-50% detection rate). See our writeup, [Estimating True Infections](/estimating-true-infections), for a more detailed look into this subject. To get a sense of the number of individuals that are actively infectious, we recommend dividing the *"currently infected"* estimate by 2-4.
+
 [Back to Top](#top)
 
 ## Maps
