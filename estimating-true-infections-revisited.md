@@ -158,11 +158,11 @@ For all computation purposes, we use the 7-day moving average of confirmed cases
 
 `true-new-daily-infections(day_i) = daily-confirmed-cases(day_i) * (1500 / (day_i + 50) * (positivity-rate)^(0.5) + 2)`
 
-As an example, let's say that the US reported 67,000 new cases with a 8.5% positivity rate on July 22. This would result in a true prevalence ratio of `(1500 / (160 + 50) * sqrt(0.085) + 2 = 4.1`. We can then multiply this ratio by the confirmed cases to get the true new infections. In this example, we estimate there to be 4.1 * 67,000 = ~275,000 true new infections.
+As an example, let's say that the US reported 67,000 new cases with a 8.5% positivity rate on July 22 (day 160). This would result in a true prevalence ratio of `(1500 / (160 + 50) * sqrt(0.085) + 2 = 4.1`. We can then multiply this ratio by the confirmed cases to get the true new infections. In this example, we estimate there to be 4.1 * 67,000 = ~275,000 true new infections.
 
-Because reported cases lag infections by roughly 2 weeks, we must shift the result back by two weeks. So the 275,000 true infections from the example above actually took place approximately 14 days before July 22, on July 8. While we use a constant lag for simplicity, we understand that the lag could be greater towards the beginning of the pandemic due to the slower average time to detection.
+Because reported cases lag infections by roughly two weeks, we must shift the result back to more realistically pinpoint when a new infection occurred. So the 275,000 true infections from the example above actually took place approximately 14 days before July 22, on July 8. While we use a constant lag for simplicity, we understand that the lag could be greater towards the beginning of the pandemic due to the slower average time to detection.
 
-To further smooth the data, we take the 7-day moving average of the true new daily infections. Finally, we can take the 15-day moving average to arrive at a "currently infected" estimate and the cumulative sum of the daily estimates to arrive at a "total infected" estimate.
+To further smooth the data, we take the 7-day moving average of the true new daily infections.
 
 [Back to Top](#top)
 
