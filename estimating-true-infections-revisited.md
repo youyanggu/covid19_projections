@@ -34,9 +34,13 @@ Using this methodology, we built a visualization at [covid19-projections.com](ht
 
 We found that the peak prevalence of COVID-19 in the US was roughly equal in the summer (June-July 2020) as in the spring (March-April 2020). During both waves, new incident cases (true infections) reached around 300,000 new infections per day. However, because deaths were about 50% lower in the summer, the *implied infection fatality rate (IIFR)* is lower in June-July (~0.5%) than in March-April (~1%). During the the fall wave in October-December 2020, we estimate that new infections exceeded 500,000 per day in the US, about twice as high as the first two waves. In total, by mid-November 2020, we estimate around 50 million (1 in 7) Americans have been infected at some point by the SARS-CoV-2 virus.
 
+[Back to Top](#top)
+
 ## Prelude
 
 In July 2020, we released a report, *[Estimating True Infections: A Simple Heuristic to Measure Implied Infection Fatality Rate](/estimating-true-infections)*, that contains our first attempt at creating a heuristic that can be used to estimate true infections in the US based on the confirmed cases and test positivity rate. Four months later, in November 2020, we are posting a revision of the methods based on new data and research that have come to light.
+
+[Back to Top](#top)
 
 ## Introduction
 
@@ -51,6 +55,8 @@ As the US entered the third and most severe wave in the fall of 2020, there were
 It is difficult to predict the future if we do not even know what is currently happening. Hence, we wanted to make an easily accessible, easy-to-maintain model that can paint a clearer picture of what is currently happening in the United States. We call this "nowcasting". Unlike our past work in predicting future deaths early on in the pandemic, this most recent effort focuses solely on what has happened and what is currently happening. We hope that this work can be valuable in adding some degree of certainty to a highly uncertain period, whether it is for academics who are studying COVID-19 or concerned individuals worried about their family's well-being.
 
 We began this project on November 17 and launched our initial estimates on [covid19-projections.com](https://covid19-projections.com) a day later, on November 18. We added estimates for US counties on November 23 and released this report on November 25.
+
+[Back to Top](#top)
 
 ## Disclaimers
 
@@ -232,6 +238,8 @@ We present all of the estimates described above on our website, [covid19-project
 
 ![covid19-projections.com 1](/assets/images/etir_website2.png)
 ![covid19-projections.com 2](/assets/images/etir_website1.png)
+
+[Back to Top](#top)
 
 ### Distribution of Infections by Age
 
