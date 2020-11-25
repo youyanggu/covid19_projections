@@ -1,4 +1,4 @@
-We present a new, simple model that estimates true infections in the US. We have estimates for all US states (50 + DC + 4 territories) and all 3,000+ US counties.
+We present a new, simple nowcasting model that estimates true infections in the US. We have estimates for all US states (50 + DC + 4 territories) and all 3,000+ US counties.
 {% include iframe_home_first_map.html %}For more maps, including county-level views, visit the [Maps](/maps-infections) page.
 
 Jump to section:
