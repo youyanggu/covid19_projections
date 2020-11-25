@@ -20,7 +20,7 @@ By: [Youyang Gu](https://youyanggu.com)
   * [Estimating True Infections](#estimating-true-infections)
   * [Distribution of Infections by Age](#distribution-of-infections-by-age)
   * [Implied Infection Fatality Rate (IIFR)](#implied-infection-fatality-rate-iifr)
-  * [covid19-projections.com](#covid19-projections-com)
+  * [covid19-projections.com](#covid19-projectionscom)
 * [Discussion](#discussion)
 * [Conclusion](#conclusion)
 
@@ -198,7 +198,7 @@ Using nationwide estimates of positivity rates and cases (rather than state-by-s
 
 To compute the true infections for a US county, we use the calculated prevalence ratio for the state in which the county is located in and multiply it by the confirmed cases in that county. This is done in the same manner as the state-level estimates. While the state's prevalence ratio is not necessarily a perfect indicator of the prevalence in the county, we believe it is a reasonable approximation. Below is a map of our county-level estimates for "percent total infected" as of November 24, 2020.
 
-![US County Map](/assets/images/etir_map_county.png)
+![US County Map](/assets/images/etir_map_counties.png)
 
 [Back to Top](#top)
 
@@ -228,10 +228,10 @@ Because data can be noisy, we made some additional minor adjustments to the data
 
 ### covid19-projections.com
 
-We present all of the estimates described above on our website, [covid19-projections.com](https://covid19-projections.com). Below are screenshots of the US nationwide page as of November 24, 2020.
+We present all of the estimates described above on our website, [covid19-projections.com](/). Below are screenshots of the [US nationwide](/infections/us) page as of November 24, 2020.
 
-![covid19-projections.com 1](/assets/images/etir_website1.png)
-![covid19-projections.com 2](/assets/images/etir_website2.png)
+![covid19-projections.com 1](/assets/images/etir_website2.png)
+![covid19-projections.com 2](/assets/images/etir_website1.png)
 
 ### Distribution of Infections by Age
 
