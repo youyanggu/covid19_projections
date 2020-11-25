@@ -7,9 +7,11 @@ The raw data files are located in: `latest_all_estimates_states.csv` and `latest
 ## Column Descriptions
 
 * `total_cases` - (Column added Nov 22) Total confirmed cases (cumulative). Corresponds to the `positive` column in The COVID Tracking Project. 
-* `total_tests` - (Column added Nov 22) Total test results (cumulative). Corresponds to the `totalTestResults` column in The COVID Tracking Project. 
+* `total_deaths` - (Column added Nov 24) Total deaths (cumulative). Corresponds to the `death` column in The COVID Tracking Project. 
+* `total_tests` - (Column added Nov 22) Total test results (cumulative). Corresponds to the `totalTestResults` column in The COVID Tracking Project. This is the unadjusted test numbers.
 * `daily_positive_7day_ma` - Daily confirmed cases (7 day moving average)
-* `daily_tests_7day_ma` - Daily tests (7 day moving average)
+* `daily_deaths_7day_ma` - (Column added Nov 24) Daily deaths (7 day moving average)
+* `daily_tests_7day_ma` - Daily tests (7 day moving average). This is the adjusted test numbers.
 * `positivity_rate_orig_7day_ma` - Unadjusted positivity rate (cases / tests)
 * `positivity_rate_7day_ma` - Adjusted positivity rate (cases / tests). It attempts to correct for the [differences](https://covidtracking.com/about-data/total-tests) in test reporting from state to state.
 * `prevalence_ratio_mean`, `prevalence_ratio_lower`, `prevalence_ratio_upper` - Estimates the ratio of the number of true infections compared to confirmed cases. When multiplied with the daily confirmed cases (daily_positive_7day_ma), it provides an estimate of the true infections from ~10 days prior (due to the lag in reporting).
