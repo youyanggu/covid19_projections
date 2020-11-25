@@ -185,11 +185,27 @@ The exact relationship between positivity rate and prevalence ratio may be diffe
 
 [Back to Top](#top)
 
+### Distribution of Infections by Age
+
+Using CDC's [COVIDView Data](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/covidview/index.html) that breaks down tests and confirmed cases by age, we can see that the median age of confirmed cases has significantly decreased over the first few months of the pandemic:
+
+![CDC - Cases by age](/assets/images/etir_age_distribution1.png)
+
+Of course, there can be selection bias on how different age groups are getting tested. One can argue that the reason there is a higher proportion of older people in March/April relative to June/July is because testing was limited, and hence older individuals were prioritized for testing. If that were the case, one would expect that older age groups have a lower positivity rate than the younger age groups (since we are catching more cases). But if looking at the data, the opposite is true: in March/April, the older age groups actually had a *higher* positivity rate than the younger age groups. By our prevalence ratio calculation above, this indicates that the prevalence is actually even higher in the older age groups than the younger age groups. Intuitively, this may be explained by susceptibility: older individuals are more susceptable and hence more likely to catch the virus early on, especially when prevalence was low. This trend was reversed starting in May, and now younger age groups have a higher positivity rate than older age groups.
+
+We can use our prevalence ratio formula from [above](#prevalence-ratio) to estimate the proportion of true infections by age group given the number of confirmed cases and test positivity rates:
+
+![CDC - Infections by age](/assets/images/etir_age_distribution2.png)
+
+You can see that the change in distribution from old to young is even more pronounced after accounting for test positivity. The ratio of prevalence in individuals ages 18-49 to prevalence in individuals ages 65+ went from roughly 1x in March to 10x in June. Since the infection fatality rate in those age 65+ is roughly 10-50x that of those ages 18-49, it's no surprise that the overall infection fatality rate in the US dropped significantly between March and July. The IFR is further lowered by improving treatments and earlier detection.
+
+As an addenum, the above chart can also explain why reported deaths in the US continued to fall through June despite an increase in cases: the increase in cases is largely driven by younger people with a low infection fatality rate. Unfortunately, the pattern in July indicates that the age distribution of infections is reverting back towards a higher median age of infection, resulting in a sharp spike in deaths in late July/early August. This will likely lead to an increase in the implied infection fatality rate in August and beyond, and is something that we will be monitoring.
+
 ### Lower IIFR Over Time
 
 The IIFR in the US decreased from over 1% in March to 0.4% in July. Below, we present a few possible explanations to why the IIFR in the US has decreased significantly since March/April.
 
-- Lower median age of infection (see section [above](#distribution-of-infections-by-age))
+- Lower median age of infection (see [previous section](#distribution-of-infections-by-age))
 - Improved treatment (new drugs, better allocation of resources, more experience among staff, etc)
 - Better protection of vulnerable populations ([nearly half of COVID-19 deaths](https://www.wsj.com/articles/coronavirus-deaths-in-u-s-nursing-long-term-care-facilities-top-50-000-11592306919) in March/April were in care homes)
 - Earlier detection
