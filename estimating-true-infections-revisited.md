@@ -28,7 +28,7 @@ By: [Youyang Gu](https://youyanggu.com)
 
 We present a simple nowcasting model that 1) computes a standardized test positivity rate for every state in the United States and 2) uses the adjusted test positivity rate and confirmed cases to estimate the true prevalence of COVID-19 infections for every US state and county. The heuristics we present are computable using simple arithmetic and are hence easily accessible.
 
-To estimate the prevalence ratio (defined as the ratio of true infections to reported cases) on day `i`, we use the following heuristic: `prevalence-ratio(day_i) = (1500 / (day_i + 50) * (positivity-rate(day_i))^(0.5) + 2`, where `day_i` is the number of days since February 12, 2020.
+To estimate the prevalence ratio on day `i` (defined as the ratio of true infections to reported cases), we use the following heuristic: `prevalence-ratio(day_i) = (1500 / (day_i + 50) * (positivity-rate(day_i))^(0.5) + 2`, where `day_i` is the number of days since February 12, 2020.
 
 Using this methodology, we built a visualization at [covid19-projections.com](https://covid19-projections.com) that contains our estimates for every US state (50 states + DC + 4 territories) and roughly all US counties (3,140).
 
@@ -78,7 +78,7 @@ We began this project on November 17 and launched our initial estimates on [covi
 
 ## Data & Tools
 
-*Input*: We use reported cases and testing data from [The COVID Tracking Project](https://covidtracking.com/data/download/). For county-level infections estimates, we use county case data from [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series).
+*Input*: We use reported state-level case and testing data from [The COVID Tracking Project](https://covidtracking.com/data/download/). For county-level infections estimates, we use county case data from [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series).
 
 *Output*: We have uploaded all of our infections estimates to [our GitHub](https://github.com/youyanggu/covid19_projections/tree/master/infection_estimates).
 
