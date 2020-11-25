@@ -4,7 +4,7 @@ title: Estimating True Infections - Revisited
 permalink: /estimating-true-infections-revisited/
 ---
 
-# Estimating True Infections Revisited: A Simple Heuristic to Estimate True Infections in the US
+# Estimating True Infections Revisited: A Simple Nowcasting Model to Estimate Prevalent Cases in the US
 
 By: [Youyang Gu](https://youyanggu.com)
 <br>November 25, 2020
