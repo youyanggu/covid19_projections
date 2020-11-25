@@ -10,7 +10,7 @@ Jump to section:
 
 For regular updates and insights, follow Youyang Gu on Twitter: <a href="https://twitter.com/youyanggu" class="twitter-follow-button" data-show-count="false">@youyanggu</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-* **November 25 Update:** We have released an initial draft of our methodology: [Estimating True Infections Revisited: A Nowcasting Model to Estimate Prevalent Cases in the US](/estimating-true-infections-revisited).
+* **November 25 Update:** We have released an initial draft of our methodology: [Estimating True Infections Revisited: A Simple Nowcasting Model to Estimate Prevalent Cases in the US](/estimating-true-infections-revisited).
 * *November 23 Update:* We released detailed county-by-county estimates for every US county. You can view them [below](#us-counties-infections-estimates). You can view maps of these estimates on the new [Maps](/maps-infections) page.
 * *November 18:* We are re-launching this website with nowcasting of infections estimates in the US (what has happened/is happening). You can download all of our estimates [here](https://github.com/youyanggu/covid19_projections/tree/master/infection_estimates).
 
@@ -19,7 +19,7 @@ For regular updates and insights, follow Youyang Gu on Twitter: <a href="https:/
 ## US Infections Estimates (Updated Daily)
 {% include_relative infections/summary.md %}{% include iframe_infections.html %}
 
-Our infections estimates include all infected individuals of the SARS-CoV-2 virus, not just those that took a COVID-19 test and tested positive. As of November, we estimate the true number of infected individuals in the US to be roughly 2-5x higher than the reported cases (20-50% detection rate). See our writeup, [Estimating True Infections](/estimating-true-infections), for a more detailed look into this subject. Because not all currently *infected* individuals are *infectious*, we recommend dividing the *"currently infected"* estimate by 2-4 to get a sense of the number of currently infectious individuals.
+Our infections estimates include all infected individuals of the SARS-CoV-2 virus, not just those that took a COVID-19 test and tested positive. As of November, we estimate the true number of infected individuals in the US to be roughly 2-5x higher than the reported cases (20-50% detection rate). See our revised November 2020 writeup, [Estimating True Infections](/estimating-true-infections-revisited), for a more detailed look into this subject. Because not all currently *infected* individuals are *infectious*, we recommend dividing the *"currently infected"* estimate by 2-4 to get a sense of the number of currently infectious individuals.
 
 [Back to Top](#top)
 
