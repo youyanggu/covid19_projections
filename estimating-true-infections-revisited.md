@@ -202,7 +202,9 @@ Using nationwide estimates of positivity rates and cases (rather than state-by-s
 
 #### True Infections for US Counties
 
-To compute the true infections for a US county, we use the calculated prevalence ratio for the state in which the county is located in and multiply it by the confirmed cases in that county. This is done in the same manner as the state-level estimates. While the state's prevalence ratio is not necessarily a perfect indicator of the prevalence in the county, we believe it is a reasonable approximation. Below is a map of our county-level estimates for "percent total infected" as of November 24, 2020.
+To compute the true infections for a US county, we use the calculated prevalence ratio for the state in which the county is located in and multiply it by the confirmed cases in that county. This is done in the same manner as the state-level estimates. While the state's prevalence ratio is not necessarily a perfect indicator of the prevalence in the county, we believe it is a reasonable approximation.
+
+Below is a map of our US county-level estimates for "percent total infected" as of November 10, 2020. You can view an interactive version on the [Maps](/maps-infections) page.
 
 ![US County Map](/assets/images/etir_map_counties.png)
 
