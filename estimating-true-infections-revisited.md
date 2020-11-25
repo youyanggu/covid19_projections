@@ -80,9 +80,13 @@ While most states report test totals by "test encounters" or "test specimens", a
 
 We use the data provided by The COVID Tracking Project to attempt to standardize the testing data to the same units so that the values are comparable. We assume "specimens" and "test encounters" to be equivalent units (in reality, using specimens result in a slightly lower positivity rate, but this difference is small, <5%). We just need to convert testing data with a "unique people" unit to a "specimens" unit. As of November 2020, there are 9 states where we have to do this conversion: Arizona, Iowa, Idaho, Kansas, Louisiana, Oregon, Pennsylvania, South Dakota, Wyoming.
 
-This conversion is done by looking at states that provide testing data in both "unique people" and "specimens/test encounters" units. There are about 15 states that fit this criteria. We look at the ratio of the "specimens/test encounters" total tests and the "unique people" total tests over time. In the beginning stages of the pandemic, this ratio is very close to 1 because each person that gets tested is likely a new individual. But over time, the proportion of repeat test takers increases, and thus the ratio increases significantly above 1. We simply take the average ratio for each date and apply that ratio to states that only report the "unique people" unit. This allows us to map the unit from "unique people" to "specimens/test encounters":
+This conversion is done by looking at states that provide testing data in both "unique people" and "specimens/test encounters" units. There are about 15 states that fit this criteria. We look at the ratio of the "specimens/test encounters" total tests and the "unique people" total tests over time:
 
-```test_specimens = test_unique_people * avg_ratio(day_i)```
+```ratio = total_tests_specimens_or_encounters / total_tests_unique_people```
+
+In the beginning stages of the pandemic, this ratio is very close to 1 because each person that gets tested is likely a new individual. But over time, the proportion of repeat test takers increases, and thus the ratio increases significantly above 1. We simply take the average ratio for each date and apply that ratio to states that only report the "unique people" unit. This allows us to map the unit from "unique people" to "specimens/test encounters" for every single date:
+
+```test_specimens(day_i) = test_unique_people(day_i) * avg_ratio(day_i)```
 
 We now have an adjusted test total that we can use to compute the test positivity. This adjusted test positivity shares the same units across different states, and thus can be comparable. As we mentioned in the disclaimers above, this serves as a simple estimate of the total tests rather than a rigorous calculation. In practice, we find that the approximation is fairly similar to the true values, as the ratios are fairly consistent from state to state.
 
