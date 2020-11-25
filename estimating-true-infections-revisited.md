@@ -73,7 +73,7 @@ We began this project on November 17 and launched our initial estimates on [covi
 
 *Input*: We use reported cases and testing data from [The COVID Tracking Project](https://covidtracking.com/data/download/). For county-level infections estimates, we use county case data from [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series).
 
-*Output*: We have uploaded the infections estimates to [our GitHub](https://github.com/youyanggu/covid19_projections/tree/master/infection_estimates).
+*Output*: We have uploaded all of our infections estimates to [our GitHub](https://github.com/youyanggu/covid19_projections/tree/master/infection_estimates).
 
 [Back to Top](#top)
 
@@ -195,11 +195,13 @@ Using nationwide estimates of positivity rates and cases (rather than state-by-s
 
 To compute the true infections for a US county, we use the calculated prevalence ratio for the state in which the county is located in and multiply it by the confirmed cases in that county. This is done in the same manner as the state-level estimates. While the state's prevalence ratio is not necessarily a perfect indicator of the prevalence in the county, we believe it is a reasonable approximation.
 
-[Back to Top](#top
+[Back to Top](#top)
 
 #### Currently Infected and Total Infected
 
 To compute the number of "currently infected" individuals in a region, we take the 15-day rolling sum of the "newly infected" individuals. To compute the number of "total infected" individuals in a region, we take the cumulative sum of the "newly infected" individuals. We divide the currently infected and total infected values by the population of the region to determine the "percent currently infected" and "percent total infected". We assume that reinfection is negligible.
+
+[Back to Top](#top)
 
 #### Confidence Intervals
 
@@ -211,7 +213,7 @@ To compute the lower and upper bounds of the prevalence ratios, we simply take 5
 
 Because data can be noisy, we made some additional minor adjustments to the data to make the outputs cleaner and more reasonable. Here is a short list of these modifications:
 
-- Removing outliers (e.g. North Carolina removed 190k tests on August 12)
+- Removing outliers (e.g. North Carolina removed 194,215 tests on August 12)
 - Limiting the positivity rate to be between 0-1%
 - Applying a floor to the prevalence ratio: `max(1, 30 - day_i * 0.5)`
 - Reducing the prevalence ratio for states with `daily_tests_per_100k > 500` (multiplier: `np.log(500) / np.log(daily_tests_per_100k)`)
@@ -253,7 +255,7 @@ We can also do this on a state-by-state basis. See below for IIFR plots for sele
 
 ### Relationship between Positivity Rate and Prevalence Ratio
 
-We developed the constants for the prevalence function (`prevalence-ratio = a * (positivity-rate)^(b) + c`) through a combination of trial & error and curve fitting. We don't believe this function is perfect. There can be other values for `a`, `b`, and `c` that may be a closer approximation of the true relationship. Because there is no "truth" value to fit the function against, we decided it is not worth trying to perfectly fit this function.
+We developed the constants for the prevalence function (`prevalence-ratio = a * (positivity-rate)^(b) + c`) through a combination of trial & error and curve fitting. We don't believe this function is perfect. There can be other values for `a`, `b`, and `c` that may be a closer approximation of the true relationship. Because there is no "truth" value to fit the function against, we decided there is limited value in trying to rigorously fit this function.
 
 The exact relationship between positivity rate and prevalence ratio may be different from state to state and across time. Here is a partial list of possible factors that can cause these differences:
 
@@ -265,15 +267,14 @@ The exact relationship between positivity rate and prevalence ratio may be diffe
   - Not reporting all negative tests (skews positivity up)
   - Only reporting Electronic Laboratory Reporting (ELR) tests (skews positivity up)
   - Mixing serology tests with PCR (skews positivity up)
-- Backlog of test results - positive tests receive priority for processing, which may skew the positivity rate upwards
-- Delay/lag in test results - if tests take 1-2 weeks to be reported, then it may no longer be an accurate representation of how new infections are changing
-- Shifting age demographics - Test positivity rates are [higher](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/covidview/07312020/commercial-labs.html) in younger age groups. So a lower median age of infection may also result in a higher positivity rate, causing a possible confounding factor. 
+- Backlog, delay, or lag in test results - if tests take more than a few days to be reported, then it may no longer be an accurate representation of how new infections are changing. Furthermore, positive tests often receive priority for processing, which may temporarily skew the positivity rate upwards
+- Shifting age demographics - As we explained [above](#distribution-of-infections-by-age), test positivity rates are higher in younger age groups. So a lower median age of infection may also result in a higher positivity rate, causing a possible confounding factor. 
 
 [Back to Top](#top)
 
 ### Lower IIFR Over Time
 
-The IIFR in the US decreased from over 1% in March to around 0.5% in July. Below, we present a few possible explanations to why the IIFR in the US has decreased significantly since March/April.
+We've shown that the implied infection fatality rate (IIFR) in the US have decreased from over 1% in March to around 0.5% from July onwards. Below, we present a few possible explanations to why the IIFR in the US has decreased significantly since March/April.
 
 - Lower median age of infection (see [previous section](#distribution-of-infections-by-age))
 - Improved treatment (new drugs, better allocation of resources, more experience among staff, etc)
@@ -282,7 +283,7 @@ The IIFR in the US decreased from over 1% in March to around 0.5% in July. Below
 - [Seasonality](https://www.medrxiv.org/content/10.1101/2020.07.11.20147157v2)
 - Selection bias (Higher susceptibibility in individuals who contracted the virus earlier on)
 
-The above are explanations that would explain a *true* decrease in IFR. We believe the lower median age of infection and improved treatments are the primary drivers behind the decrease in IIFR. Below are some reasons that could skew the IIFR lower, but not change the true IFR:
+The above explanations would explain a *true* decrease in IFR. Below are some reasons that could skew the IIFR lower, but not change the true infection fatality rate:
 
 - More comprehensive reporting of confirmed cases
 - Changes in the distribution of age groups tested (e.g. more younger people getting tested would skew IIFR down)
@@ -294,9 +295,9 @@ The above are explanations that would explain a *true* decrease in IFR. We belie
 
 ## Conclusion
 
-To conclude, we presented a simple heuristic that estimates the true prevalence of COVID-19 infections in a region.
+To conclude, we presented a simple nowcasting model that standardizes the test positivty rates of every US state and estimates the true prevalence of COVID-19 infections in the United States.
 
-Using this methodology, we found that the peak prevalence is roughly equal in the US during June/July and during in March/April (peak of ~300,000 new infections per day). However, the implied fatality rate is lower in June/July (~0.5% IIFR) than in March/April (~1% IIFR).
+Using this methodology, we found that the peak prevalence is roughly equal in the US during June/July and during in March/April (peak of ~300,000 new infections per day), but significantly higher in October-December (over 500,000 new infections per day). However, the implied fatality rate is lower from June onwards (~0.5% IIFR) compared to March-April (~1% IIFR).
 
 While this is by no means a comprehensive study, we hope this work can help other scientists and researchers better understand the changing dynamics of this disease over time.
 
