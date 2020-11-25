@@ -26,9 +26,9 @@ By: [Youyang Gu](https://youyanggu.com)
   * [Effective Herd Immunity](#effective-herd-immunity)
 * [Conclusion](#conclusion)
 
-## Please note that we are working on a revised version of this report based on new data since the publication date (July 2020). Please stay tuned for the updated version.
+## November 2020 Update: We have released a [revised version](/estimating-true-infections-revisited) of this report based on new data and research since the original published date (July 2020).
 
-**Important Note:** While this page explains how one can use cases and positivity rate to estimate true infections, our *covid19-projections.com* model [only use deaths data](https://covid19-projections.com/about/#data-and-output).
+**Important:** While this page explains how one can use cases and positivity rate to estimate true infections, our *covid19-projections.com* model [only use deaths data](https://covid19-projections.com/about/#data-and-output).
 
 *November 2020 Update:* As testing continues to increase across the United States, we want to caution readers from applying the below formulas to the new fall data. The findings below are more relevant during the period when testing was limited, and may no longer be as applicable since the summer. In addition, please read [this article](https://covidtracking.com/blog/test-positivity-in-the-us-is-a-mess) by the COVID Tracking Project that highlights the difficulty of computing consistent test positivity rates.
 
