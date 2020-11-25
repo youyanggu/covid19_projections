@@ -17,6 +17,9 @@ By: [Youyang Gu](https://youyanggu.com)
 * [Methods](#methods)
   * [Adjusted Test Positivity](#adjusted-test-positivity)
   * [Prevalence Ratio](#prevalence-ratio)
+  * [Estimating True Infections](#estimating-true-infections)
+  * [Distribution of Infections by Age](#distribution-of-infections-by-age)
+  * [Implied Infection Fatality Rate (IIFR)](#implied-infection-fatality-rate-iifr)
 * [Discussion](#discussion)
 * [Conclusion](#conclusion)
 
@@ -26,7 +29,7 @@ We present a simple method that 1) computes a standardized test positivity rate 
 
 Using this methodology, we built a visualization at [covid19-projections.com](https://covid19-projections.com) that contains our estimates for every US state (50 states + DC + 4 territories) and roughly all US counties (3,140).
 
-We found that the peak prevalence of COVID-19 in the US was roughly equal in June/July and in March/April (peak of ~300,000 new infections per day). However, the implied infection fatality rate (IIFR) is lower in June-July (~0.4%) than in March-April (~0.8%). In contrast, we estimate that the October-December wave reached over 500,000 new infectious per day, about twice as high as the first two waves. In total, by mid-November 2020, we estimate around 50 million (1 in 7) Americans have been infected at some point by the SARS-CoV-2 virus.
+We found that the peak prevalence of COVID-19 in the US was roughly equal in June/July and in March/April (peak of ~300,000 new infections per day). However, the implied infection fatality rate (IIFR) is lower in June-July (~0.5%) than in March-April (~1%). In contrast, we estimate that the October-December wave reached over 500,000 new infectious per day, about twice as high as the first two waves. In total, by mid-November 2020, we estimate around 50 million (1 in 7) Americans have been infected at some point by the SARS-CoV-2 virus.
 
 ## Prelude
 
@@ -42,7 +45,7 @@ In this report, we present two contributions:
 
 Using this method, we estimate that the true number of new infections peaked at close to 300,000 new infections per day in both the March-April and June-August waves. The similarity in the peak matches the hospitalization data, which also shows a similar peak for the two waves.
 
-Once we have a reasonable estimate of the true number of newly infected individuals per day, we can use the reported deaths to compute whta we call the *implied infection fatality rate (IFFR)*, which is a metric derived by taking a region's reported deaths and dividing it by the true infections estimate (after accounting for lag). The IIFR for the US was above 1% in March, stabilized at around 0.6% in April-May before decreasing to ~0.4% in July-August. Note that our IIFR estimate does not take into account excess/unreported COVID-19 deaths, so it is likely a lower bound for the true IFR. This is further explained [below](#implied-infection-fatality-rate-iifr).
+Once we have a reasonable estimate of the true number of newly infected individuals per day, we can use the reported deaths to compute whta we call the *implied infection fatality rate (IFFR)*, which is a metric derived by taking a region's reported deaths and dividing it by the true infections estimate (after accounting for lag). The IIFR for the US was above 1% in March, stabilized at around 0.7% in April-May before decreasing to ~0.5% in July-August. Note that our IIFR estimate does not take into account excess/unreported COVID-19 deaths, so it is likely a lower bound for the true IFR. This is further explained [below](#implied-infection-fatality-rate-iifr).
 
 ## Disclaimers
 
@@ -78,7 +81,7 @@ Reporting of COVID-19 tests is not standardized in the United States. Different 
 
 While most states report test totals by "test encounters" or "test specimens", a few select states such as South Dakota reports tests based on "unique people". This means that if a resident has previously received a COVID-19 test, they will only be included a single time in the "total tests". As the writeups in the previous paragraph explain, this method of counting tests can artificially inflate the daily test positivity rate, since repeated negative tests by the same person are all discarded (unless it is the first test). So while the data would suggest that the test positivty rate in South Dakota was over 50% in November 2020, in reality, the test positivity rate is closer to 20-25% once we count test specimens rather than unique people.
 
-We use the data provided by The COVID Tracking Project to attempt to standardize the testing data to the same units so that the values are comparable. We assume "specimens" and "test encounters" to be equivalent units (in reality, using specimens result in a slightly lower positivity rate, but this difference is small, <5%). We just need to convert testing data with a "unique people" unit to a "specimens" unit. As of November 2020, there are 9 states where we have to do this conversion: Arizona, Iowa, Idaho, Kansas, Louisiana, Oregon, Pennsylvania, South Dakota, Wyoming.
+We use the data provided by The COVID Tracking Project to attempt to standardize the testing data to the same units so that the values are comparable. We assume "specimens" and "test encounters" to be equivalent units (in reality, using specimens result in a slightly lower positivity rate, but this difference is small, <5%). We just need to convert testing data with a "unique people" unit to a "specimens" unit. As of November 2020, there are nine states where we have to do this conversion: Arizona, Iowa, Idaho, Kansas, Louisiana, Oregon, Pennsylvania, South Dakota, Wyoming.
 
 This conversion is done by looking at states that provide testing data in both "unique people" and "specimens/test encounters" units. There are about 15 states that fit this criteria. We look at the ratio of the "specimens/test encounters" total tests and the "unique people" total tests over time:
 
@@ -89,6 +92,16 @@ In the beginning stages of the pandemic, this ratio is very close to 1 because e
 ```test_specimens(day_i) = test_unique_people(day_i) * avg_ratio(day_i)```
 
 We now have an adjusted test total that we can use to compute the test positivity. This adjusted test positivity shares the same units across different states, and thus can be comparable. As we mentioned in the disclaimers above, this serves as a simple estimate of the total tests rather than a rigorous calculation. In practice, we find that the approximation is fairly similar to the true values, as the ratios are fairly consistent from state to state.
+
+Below, you can see the original and adjusted test positivity rate for South Dakota:
+
+![Test Positivity - South Dakota](/assets/images/etir_test_positivity1.png)
+
+Below are the adjusted test positivity rates as of November 2020, for the nine states where the adjustments are necessary.
+
+![Test Positivity - States](/assets/images/etir_test_positivity2.png)
+
+[Back to Top](#top)
 
 ### Prevalence Ratio
 
@@ -115,6 +128,14 @@ where `day_i` is the number of days since February 12, 2020 (14 days before the 
 
 The above equation means that our prevalence ratio estimate on any given day is based on only two variables: the positivity rate and the number of days that have passed since February 12, 2020. As positivity rate increases, the prevalence ratio will also increase. As the pandemic progresses and we move further away from February 2020, testing becomes more accessible and hence the prevalence ratio will decrease.
 
+Below you can find the prevalence ratio function for November 24, 2020 (day 286). The formula is:
+
+![Prevalence Ratio - Current](/assets/images/etir_prevalence_ratio1.png)
+
+We can generate a curve for each day. We plot a sample of days below. Note that the curve flattens as the pandemic progresses, signally the decreasing effects of test positivity.
+
+![Prevalence Ratio - Various Dates](/assets/images/etir_prevalence_ratio2.png)
+
 Note that the prevalence ratio is only applicable for a given day, and changes from day to day. One cannot apply the same prevalence ratio to the total number of cases, because the prevalence ratio is different on each day.
 
 To see if this relationship passes the "common sense test", we can take a look at the US positivity rate over time (see graph below). In March/April, the US positivity is around 20%, which corresponds to a prevalence ratio of roughly 10x the number of reported cases when using the function above. This seems to be a reasonable estimate, and matches estimates provided [by the CDC](https://www.washingtonpost.com/health/2020/06/25/coronavirus-cases-10-times-larger/). In New York and New Jersey during this period, test positivity was around 40-50%, which corresponds to a roughly 12-15x prevalence (later substantiated by [serology surveys](https://www.nytimes.com/2020/04/23/nyregion/coronavirus-antibodies-test-ny.html)). In June, when test is more widely available and the US positivity rate is ~5%, the function estimates a prevalence of roughly 4x the number of reported cases. We use a y-intercept of 2 to indicate minimum prevalence ratio of 2x (50% detection rate) to account for the high proportion of asymptomatic individuals (~40% according to [the CDC](https://www.cdc.gov/coronavirus/2019-ncov/hcp/planning-scenarios.html)).
@@ -131,29 +152,21 @@ As an example, let's say that the US reported 67,000 new cases with a 8.5% posit
 
 Because reported cases lag infections by roughly 2 weeks, we must shift the result back by two weeks. So the 275,000 true infections from the example above actually took place approximately 14 days before July 22, on July 8. While we use a constant lag for simplicity, we understand that the lag could be greater towards the beginning of the pandemic due to the slower average time to detection.
 
+![Prevalence Ratio and Test Positivity](/assets/images/etir_prevalence_ratio3.png)
+
+In the graph above, you can see the relationship between test positivity and prevalence ratio over time.
+
 To further smooth the data, we take the 7-day moving average of the true new daily infections. Finally, we can take the 15-day moving average to arrive at a "currently infected" estimate and the cumulative sum of the daily estimates to arrive at a "total infected" estimate.
 
-### Confidence Intervals
+[Back to Top](#top)
+
+#### Confidence Intervals
 
 To compute the lower and upper bounds of the prevalence ratios, we simply take 50% and 150% of the calculated mean prevalence ratio, respectively. We then use the lower and upper bounds to compute the lower and upper bounds of the "newly infected" estimates. Finally, we use the lower and upper bounds of the "newly infected" estimates to compute the lower and upper bounds of the "currently infected" and "total infected" estimates. We will leave it as an extension to develop a more sophisticated confidence interval.
 
 [Back to Top](#top)
 
-### Using US Nationwide Cases + Positivity Rates
-
-For US nationwide data, we can compute the true prevalence ratio by passing in the US daily positivity rate and date to our approximation function above. We then multiply the true prevalence ratio by the number of confirmed cases each day to get the number of true new infections. Note that all daily numbers used are 7-day moving averages. Finally, we shift the true new infections back by 14 days to account for reporting delays. We can now plot the results as a function of the date:
-
-[Back to Top](#top)
-
-### Using State-by-state Cases + Positivity Rate
-
-Rather than using the US nationwide cases and positivity rates, we can use the state-by-state cases and positivity rates to compute the true new infections for each state using the same method described above. Below is a plot of the estimated true daily new infections for a selection of states.
-
-We then take the sum of the infections estimates for all 50 states and territories to get the nationwide daily new infections (orange line). Note that it closely aligns with the graph generated using the US nationwide data.
-
-[Back to Top](#top)
-
-### Additional Modifications
+#### Additional Modifications
 
 Because data can be noisy, we made some additional minor adjustments to the data to make the outputs cleaner and more reasonable. Here is a short list of these modifications:
 
@@ -162,6 +175,69 @@ Because data can be noisy, we made some additional minor adjustments to the data
 - Applying a floor to the prevalence ratio: `max(1, 30 - day_i * 0.5)`
 - Reducing the prevalence ratio for states with `daily_tests_per_100k > 500` (multiplier: `np.log(500) / np.log(daily_tests_per_100k)`)
 - If total cases goes above 0 and then later goes back to 0, we set the total cases of the entire time period to 0
+
+[Back to Top](#top)
+
+### Estimating True Infections
+
+#### Using US nationwide cases & positivity rates
+
+For US nationwide data, we can compute the true prevalence ratio by passing in the US daily positivity rate and date to our approximation function above. We then multiply the true prevalence ratio by the number of confirmed cases each day to get the number of true new infections. Note that all daily numbers used are 7-day moving averages. Finally, we shift the true new infections back by 14 days to account for reporting delays. We can now plot the results as a function of the date:
+
+![True Infections US nationwide](/assets/images/etir_true_infections1.png)
+
+[Back to Top](#top)
+
+#### Using state-by-state cases & positivity rates
+
+Rather than using the US nationwide cases and positivity rates, we can use the state-by-state cases and positivity rates to compute the true new infections for each state using the same method described above. Below is a plot of the estimated true daily new infections for a selection of states.
+
+We then take the sum of the infections estimates for all 50 states and territories to get the nationwide daily new infections (orange line). Note that it closely aligns with the graph generated using the US nationwide data. We plot the true infection estimates for a few select states based on both an absolute and per capita basis:
+
+![True Infections US states (absolute)](/assets/images/etir_true_infections2a.png)
+![True Infections US states (per capita)](/assets/images/etir_true_infections2b.png)
+
+[Back to Top](#top)
+
+#### Putting it together
+
+We can now plot all of the methods we described above together and see how they compare. Note that they follow roughly the same shape and magnitude.
+
+![True Infections Combined](/assets/images/etir_true_infections3.png)
+
+Using nationwide estimates of positivity rates and cases (rather than state-by-state estimates) may lead to a slight under-estimate in the number of true infections. We suspect this is partly because a sizable number of states with low prevalence still do a large amount of testing, which artificially deflates the positivity rate and thereby decreases the prevalence ratio. This difference is reduced as time goes on and test positivity become less of a factor.
+
+[Back to Top](#top)
+
+### Distribution of Infections by Age
+
+Using CDC's [COVIDView Data](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/covidview/index.html) that breaks down tests and confirmed cases by age, we can see that the median age of confirmed cases has significantly decreased over the first few months of the pandemic:
+
+![CDC - Cases by age](/assets/images/etir_age_distribution1.png)
+
+Of course, there can be selection bias on how different age groups are getting tested. One can argue that the reason there is a higher proportion of older people in March/April relative to June/July is because testing was limited, and hence older individuals were prioritized for testing. If that were the case, one would expect that older age groups have a lower positivity rate than the younger age groups (since we are catching more cases). But if looking at the data, the opposite is true: in March/April, the older age groups actually had a *higher* positivity rate than the younger age groups. By our prevalence ratio calculation above, this indicates that the prevalence is actually even higher in the older age groups than the younger age groups. Intuitively, this may be explained by susceptibility: older individuals are more susceptable and hence more likely to catch the virus early on, especially when prevalence was low. This trend was reversed starting in May, and now younger age groups have a higher positivity rate than older age groups.
+
+We can use our prevalence ratio formula from [above](#prevalence-ratio) to estimate the proportion of true infections by age group given the number of confirmed cases and test positivity rates on each date:
+
+![CDC - Infections by age](/assets/images/etir_age_distribution2.png)
+
+You can see that the change in distribution from old to young is even more pronounced after accounting for test positivity. The ratio of prevalence in individuals ages 18-49 to prevalence in individuals ages 65+ went from roughly 1x in March to 10x in June. Since the infection fatality rate in those age 65+ is roughly 10-50x that of those ages 18-49, it's no surprise that the overall infection fatality rate in the US dropped significantly between March and July. The IFR is further lowered by improving treatments and earlier detection.
+
+As an addenum, the above chart can also explain why reported deaths in the US continued to fall through June despite an increase in cases: the increase in cases is largely driven by younger people with a low infection fatality rate. Unfortunately, the pattern in July suggests that the age distribution of infections reverted back towards a higher median age of infection, resulting in a sharp spike in deaths twards the end of July.
+
+[Back to Top](#top)
+
+### Implied Infection Fatality Rate (IIFR)
+
+We can use these estimates of true infections to compute the *implied infection fatality rate (IIFR)* for the US by taking the reported deaths from 28 days into the future (7-day moving average) and dividing it by the true infections (7-day moving average). The IIFR in our calculation only looks at official, reported COVID-19 deaths. If there are a significant amount of excess/unreported COVID-19 deaths, then our IIFR estimate will be an underestimate of the true IFR. See work from the [Weinberger Lab](https://weinbergerlab.github.io/excess_pi_covid/) for their analysis of excess deaths.
+
+![IFR Estimate - US](/assets/images/etir_iifr1.png)
+
+We can also do this on a state-by-state basis. See below for IIFR plots for select states.
+
+![IFR Estimate - States](/assets/images/etir_iifr2.png)
+
+[Back to Top](#top)
 
 ## Discussion
 
@@ -185,25 +261,9 @@ The exact relationship between positivity rate and prevalence ratio may be diffe
 
 [Back to Top](#top)
 
-### Distribution of Infections by Age
-
-Using CDC's [COVIDView Data](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/covidview/index.html) that breaks down tests and confirmed cases by age, we can see that the median age of confirmed cases has significantly decreased over the first few months of the pandemic:
-
-![CDC - Cases by age](/assets/images/etir_age_distribution1.png)
-
-Of course, there can be selection bias on how different age groups are getting tested. One can argue that the reason there is a higher proportion of older people in March/April relative to June/July is because testing was limited, and hence older individuals were prioritized for testing. If that were the case, one would expect that older age groups have a lower positivity rate than the younger age groups (since we are catching more cases). But if looking at the data, the opposite is true: in March/April, the older age groups actually had a *higher* positivity rate than the younger age groups. By our prevalence ratio calculation above, this indicates that the prevalence is actually even higher in the older age groups than the younger age groups. Intuitively, this may be explained by susceptibility: older individuals are more susceptable and hence more likely to catch the virus early on, especially when prevalence was low. This trend was reversed starting in May, and now younger age groups have a higher positivity rate than older age groups.
-
-We can use our prevalence ratio formula from [above](#prevalence-ratio) to estimate the proportion of true infections by age group given the number of confirmed cases and test positivity rates:
-
-![CDC - Infections by age](/assets/images/etir_age_distribution2.png)
-
-You can see that the change in distribution from old to young is even more pronounced after accounting for test positivity. The ratio of prevalence in individuals ages 18-49 to prevalence in individuals ages 65+ went from roughly 1x in March to 10x in June. Since the infection fatality rate in those age 65+ is roughly 10-50x that of those ages 18-49, it's no surprise that the overall infection fatality rate in the US dropped significantly between March and July. The IFR is further lowered by improving treatments and earlier detection.
-
-As an addenum, the above chart can also explain why reported deaths in the US continued to fall through June despite an increase in cases: the increase in cases is largely driven by younger people with a low infection fatality rate. Unfortunately, the pattern in July indicates that the age distribution of infections is reverting back towards a higher median age of infection, resulting in a sharp spike in deaths in late July/early August. This will likely lead to an increase in the implied infection fatality rate in August and beyond, and is something that we will be monitoring.
-
 ### Lower IIFR Over Time
 
-The IIFR in the US decreased from over 1% in March to 0.4% in July. Below, we present a few possible explanations to why the IIFR in the US has decreased significantly since March/April.
+The IIFR in the US decreased from over 1% in March to around 0.5% in July. Below, we present a few possible explanations to why the IIFR in the US has decreased significantly since March/April.
 
 - Lower median age of infection (see [previous section](#distribution-of-infections-by-age))
 - Improved treatment (new drugs, better allocation of resources, more experience among staff, etc)
@@ -226,7 +286,7 @@ The above are explanations that would explain a *true* decrease in IFR. We belie
 
 To conclude, we presented a simple heuristic that estimates the true prevalence of COVID-19 infections in a region.
 
-Using this methodology, we found that the peak prevalence is roughly equal in the US during June/July and during in March/April (peak of ~300,000 new infections per day). However, the implied fatality rate is lower in June/July (~0.4% IIFR) than in March/April (~0.8% IIFR).
+Using this methodology, we found that the peak prevalence is roughly equal in the US during June/July and during in March/April (peak of ~300,000 new infections per day). However, the implied fatality rate is lower in June/July (~0.5% IIFR) than in March/April (~1% IIFR).
 
 While this is by no means a comprehensive study, we hope this work can help other scientists and researchers better understand the changing dynamics of this disease over time.
 
