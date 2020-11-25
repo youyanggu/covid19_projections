@@ -267,9 +267,13 @@ We can use these estimates of true infections to compute the *implied infection 
 
 ![IFR Estimate - US](/assets/images/etir_iifr1.png)
 
-We can also do this on a state-by-state basis. See below for IIFR plots for select states.
+We believe that the IIFR is mostly stable at around 0.5% since June. The minor fluctuations are most likely a product of the reporting delay for deaths rather than a true change in the IIFR (i.e. deaths are backlogged during the initial stages of a new wave, and are "caught up" on later).
+
+We can also do this analysis on a state-by-state basis. See below for IIFR plots for select states.
 
 ![IFR Estimate - States](/assets/images/etir_iifr2.png)
+
+As a rough estimate, we believe that COVID-19 deaths in the US are undercounted by roughly 30-40%. So an IIFR of 0.5% would imply a true IFR of around 0.6-0.7%.
 
 [Back to Top](#top)
 
