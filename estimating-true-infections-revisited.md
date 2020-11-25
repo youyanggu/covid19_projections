@@ -13,13 +13,14 @@ By: [Youyang Gu](https://youyanggu.com)
 * [Summary](#summary)
 * [Introduction](#introduction)
 * [Disclaimers](#disclaimers)
-* [Data](#data)
+* [Data & Tools](#data-tools)
 * [Methods](#methods)
   * [Adjusted Test Positivity](#adjusted-test-positivity)
   * [Prevalence Ratio](#prevalence-ratio)
   * [Estimating True Infections](#estimating-true-infections)
   * [Distribution of Infections by Age](#distribution-of-infections-by-age)
   * [Implied Infection Fatality Rate (IIFR)](#implied-infection-fatality-rate-iifr)
+  * [covid19-projections.com](#covid19-projections-com)
 * [Discussion](#discussion)
 * [Conclusion](#conclusion)
 
@@ -69,11 +70,13 @@ We began this project on November 17 and launched our initial estimates on [covi
 
 [Back to Top](#top)
 
-## Data
+## Data & Tools
 
 *Input*: We use reported cases and testing data from [The COVID Tracking Project](https://covidtracking.com/data/download/). For county-level infections estimates, we use county case data from [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series).
 
 *Output*: We have uploaded all of our infections estimates to [our GitHub](https://github.com/youyanggu/covid19_projections/tree/master/infection_estimates).
+
+*Tools*: All of our work is done with [Python 3](https://www.python.org/downloads/), using the with the [NumPy](https://numpy.org/install/) and [pandas](https://pandas.pydata.org/getting_started.html) packages. For plotting, we use [plotly](https://plotly.com/python/).
 
 [Back to Top](#top)
 
@@ -193,7 +196,9 @@ Using nationwide estimates of positivity rates and cases (rather than state-by-s
 
 #### True Infections for US Counties
 
-To compute the true infections for a US county, we use the calculated prevalence ratio for the state in which the county is located in and multiply it by the confirmed cases in that county. This is done in the same manner as the state-level estimates. While the state's prevalence ratio is not necessarily a perfect indicator of the prevalence in the county, we believe it is a reasonable approximation.
+To compute the true infections for a US county, we use the calculated prevalence ratio for the state in which the county is located in and multiply it by the confirmed cases in that county. This is done in the same manner as the state-level estimates. While the state's prevalence ratio is not necessarily a perfect indicator of the prevalence in the county, we believe it is a reasonable approximation. Below is a map of our county-level estimates for "percent total infected" as of November 24, 2020.
+
+![US County Map](/assets/images/etir_map_county.png)
 
 [Back to Top](#top)
 
@@ -220,6 +225,13 @@ Because data can be noisy, we made some additional minor adjustments to the data
 - If total cases goes above 0 and then later goes back to 0, we set the total cases of the entire time period to 0
 
 [Back to Top](#top)
+
+### covid19-projections.com
+
+We present all of the estimates described above on our website, [covid19-projections.com](https://covid19-projections.com). Below are screenshots of the US nationwide page as of November 24, 2020.
+
+![covid19-projections.com 1](/assets/images/etir_website1.png)
+![covid19-projections.com 2](/assets/images/etir_website2.png)
 
 ### Distribution of Infections by Age
 
