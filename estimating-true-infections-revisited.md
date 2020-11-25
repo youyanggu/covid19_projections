@@ -4,10 +4,10 @@ title: Estimating True Infections - Revisited
 permalink: /estimating-true-infections-revisited/
 ---
 
-# Estimating True Infections Revisited: A Simple Heuristic to Estimate True Infections
+# Estimating True Infections Revisited: A Simple Heuristic to Estimate True Infections in the US
 
 By: [Youyang Gu](https://youyanggu.com)
-<br>November 24, 2020
+<br>November 25, 2020
 
 ## Table of Contents
 * [Summary](#summary)
@@ -25,49 +25,53 @@ By: [Youyang Gu](https://youyanggu.com)
 
 ## Summary
 
-We present a simple method that 1) computes a standardized test positivity rate for every US state and 2) uses the adjusted test positivity rate and confirmed cases to estimate the true prevalence of COVID-19 infections for every US state and county. The heuristics we present are computable using simple arithmetic and hence are easily accessible.
+We present a simple nowcasting model that 1) computes a standardized test positivity rate for every state in the United States and 2) uses the adjusted test positivity rate and confirmed cases to estimate the true prevalence of COVID-19 infections for every US state and county. The heuristics we present are computable using simple arithmetic and are hence easily accessible.
+
+To estimate the prevalence ratio (defined as the ratio of true infections to reported cases) on day `i`, we use the following heuristic: `prevalence-ratio(day_i) = (1500 / (day_i + 50) * (positivity-rate(day_i))^(0.5) + 2`, where `day_i` is the number of days since February 12, 2020.
 
 Using this methodology, we built a visualization at [covid19-projections.com](https://covid19-projections.com) that contains our estimates for every US state (50 states + DC + 4 territories) and roughly all US counties (3,140).
 
-We found that the peak prevalence of COVID-19 in the US was roughly equal in June/July and in March/April (peak of ~300,000 new infections per day). However, the implied infection fatality rate (IIFR) is lower in June-July (~0.5%) than in March-April (~1%). In contrast, we estimate that the October-December wave reached over 500,000 new infectious per day, about twice as high as the first two waves. In total, by mid-November 2020, we estimate around 50 million (1 in 7) Americans have been infected at some point by the SARS-CoV-2 virus.
+We found that the peak prevalence of COVID-19 in the US was roughly equal in the summer (June-July 2020) as in the spring (March-April 2020). During both waves, new incident cases (true infections) reached around 300,000 new infections per day. However, because deaths were about 50% lower in the summer, the *implied infection fatality rate (IIFR)* is lower in June-July (~0.5%) than in March-April (~1%). During the the fall wave in October-December 2020, we estimate that new infections exceeded 500,000 per day in the US, about twice as high as the first two waves. In total, by mid-November 2020, we estimate around 50 million (1 in 7) Americans have been infected at some point by the SARS-CoV-2 virus.
 
 ## Prelude
 
-In July 2020, we released a report, *[Estimating True Infections: A Simple Heuristic to Measure Implied Infection Fatality Rate](/estimating-true-infections)*, that contains our first attempt at creating a heuristic that can be used to estimate true infections in the US based on the confirmed cases and test positivity rate. Now, in November 2020, we are posting a revision of the methods based on new data that have come to light over the course of the past four months.
+In July 2020, we released a report, *[Estimating True Infections: A Simple Heuristic to Measure Implied Infection Fatality Rate](/estimating-true-infections)*, that contains our first attempt at creating a heuristic that can be used to estimate true infections in the US based on the confirmed cases and test positivity rate. Four months later, in November 2020, we are posting a revision of the methods based on new data and research that have come to light.
 
 ## Introduction
 
-Knowing the true number of people who are infected with COVID-19 in the US is an essential step towards understanding the disease. But estimating this number is not a simple task. The true number of infections is many times greater than the reported number of cases in the US because the majority of infected individuals do not get tested due to several reasons: 1) they are asymptomatic, 2) they are only mildly symptomatic, 3) they do not have easy access to testing, or 4) they simply do not want to get tested.
+Knowing the true number of people who are infected with COVID-19 in the US is an essential step towards understanding the disease. But estimating this number is not a simple task. The true number of infections in the US (otherwise known as incident cases) is many times greater than the number of reported cases because the majority of infections are not detected. Individuals infected with the SARS-CoV-2 virus may not be detected due to several possible reasons: 1) they choose not get tested because they are asymtopmatic or only mildly symptomatic, 2) the tests do not detect the virus, 3) they do not have easy access to testing, or 4) they simply do not want to get tested.
 
 In this report, we present two contributions:
 - A simple method to standardize the test positivity rate between states.
-- A simple function that maps the adjusted positivity rate and date to the prevalence ratio, defined as the ratio of incident cases to confirmed cases. We can then use prevalence ratio and confirmed cases to estimate the true incidence of the disease in each US state and county.
+- A simple function that maps the adjusted positivity rate and date to the prevalence ratio, defined as the ratio of true infections to confirmed cases. We can then use prevalence ratio and confirmed cases to estimate the true incidence of the disease in each US state and county.
 
-Using this method, we estimate that the true number of new infections peaked at close to 300,000 new infections per day in both the March-April and June-August waves. The similarity in the peak matches the hospitalization data, which also shows a similar peak for the two waves.
+As the US entered the third and most severe wave in the fall of 2020, there were very few resources that provided easily-accessible, real-time estimates of true infections. The few existing resources often had drastically different results and sometimes unrealistic values. For example, on November 11, 2020, when the US was reporting 125,000 cases per day, a model from the The Institute for Health Metrics and Evaluation at the University of Washington estimated true infections in the US to be between 166,000 and 266,000 per day, with a mean of 215,000 per day. This suggests a 47-75% detection rate, which is a somewhat unreasaonable estimate considering that an estimated [40%](https://www.cdc.gov/coronavirus/2019-ncov/hcp/planning-scenarios.html) of infected individuals are asymptomatic. The unreliability of existing resources and the high uncertainty of the future make it difficult for people to make decisions, whether they are regular citizens wondering if they should go home for Thanksgiving, or policy makers trying to determine how to best handle the outbreak. This is the motivation behind our work.
 
-Once we have a reasonable estimate of the true number of newly infected individuals per day, we can use the reported deaths to compute whta we call the *implied infection fatality rate (IFFR)*, which is a metric derived by taking a region's reported deaths and dividing it by the true infections estimate (after accounting for lag). The IIFR for the US was above 1% in March, stabilized at around 0.7% in April-May before decreasing to ~0.5% in July-August. Note that our IIFR estimate does not take into account excess/unreported COVID-19 deaths, so it is likely a lower bound for the true IFR. This is further explained [below](#implied-infection-fatality-rate-iifr).
+It is difficult to predict the future if we do not even know what is currently happening. Hence, we wanted to make an easily accessible, easy-to-maintain model that can paint a clearer picture of what is currently happening in the United States. We call this "nowcasting". Unlike our past work in predicting future deaths early on in the pandemic, this most recent effort focuses solely on what has happened and what is currently happening. We hope that this work can be valuable in adding some degree of certainty to a highly uncertain period, whether it is for academics who are studying COVID-19 or concerned individuals worried about their family's well-being.
+
+We began this project on November 17 and launched our initial estimates on [covid19-projections.com](https://covid19-projections.com) a day later, on November 18. We added estimates for US counties on November 23 and released this report on November 25.
 
 ## Disclaimers
 
 - All of the work presented on this page has not been peer-reviewed, and so we encourage reading this with a healthy dose of skepticism. We hope that the reader can make their own conclusions based on the evidence we present. The methods are subject to change based on new data/evidence.
 
-- **Important:** The methods described here produce merely estimates of total infections and are by no means definitive. Please do not view this work as the "truth". In fact, by only using confirmed cases and testing data, we are missing the granularity that could be provided had we also included hospitalization and death data. This is done intentionally because we wanted a fast, flexible, and simple way to estimate infections. More complex/sophisticated models take time to conceptialize, implement, and refine. Unfortunately, at the time this project was started (November 2020), time is of the essence. Many regions of the US are flying blind due to the lack of reliable data and estimates. Hence, we decided to stick to a simple methodology so that we can provide an output sooner rather than later. Once this simple ("baseline") estimate is available, we can dedicate more time to refining the methodology to incorporate additional data sources.
+- **Important:** The methods described here produce merely estimates of total infections and are by no means definitive. In fact, by only using confirmed cases and testing data, we are missing the granularity that could be provided had we also included hospitalization and death data. This is done intentionally because we wanted a fast and simple way to estimate infections. More complex/sophisticated models take time to conceptialize, implement, and refine. Unfortunately, at the time this project was started in November 2020, time was of the essence. Some regions in the US were "flying blind" due to the lack of reliable data and estimates. Hence, we decided to stick to a simple methodology that can generate a reasonable output sooner rather than later. Over time, we can dedicate more time to refining the methodology by incorporating additional data sources.
 
-- The outputs from this analysis are only as good as the provided input data. If states, for example, underreport/misrreport COVID-19 cases, then that could skew the outcome of this analysis. Hence, we call on all states to follow national guidelines and report data in a honest, comprehensive, and consistent manner.
+- The outputs from this analysis are only as good as the provided input data. If states, for example, undercount or misrreport COVID-19 cases, then that could skew the outcome of this analysis. Hence, we call on all states to follow national guidelines and report data in a honest, comprehensive, and consistent manner.
 
-- This approach was optimized on US data. It is not necessarily applicable to countries outside the United States, where testing guidelines/procedures may be drastically different. One may need to refit the prevalence curve to suit each country.
+- This approach was optimized on data from the United States. In its unedited form, it is not necessarily applicable to countries outside the US, where testing guidelines and procedures may be drastically different. However, it may be possible to refit the prevalence curve to suit each country.
 
-- While all the methods on this page were developed independently, we want to note that this is not a novel approach. See prior work by [Peter Ellis](http://freerangestats.info/blog/2020/05/09/covid-population-incidence), [David Blake](https://medium.com/@dblake.mcg/making-the-o-zone-plots-2a83708f7d6a), and [Campbell et al](https://arxiv.org/pdf/2005.08459.pdf). As of November 2020, we are aware of one other website that provides estimates on both a state-level and county-level: [covidestim.org](https://covidestim.org/). They use a different methodology based on cases and deaths (see [pre-print](https://www.medrxiv.org/content/10.1101/2020.06.17.20133983v1)).
+- While all the methods on this page were developed independently, the underlying basis of our methodology is not a novel approach. See prior work by [Peter Ellis](http://freerangestats.info/blog/2020/05/09/covid-population-incidence), [David Blake](https://medium.com/@dblake.mcg/making-the-o-zone-plots-2a83708f7d6a), and [Campbell et al](https://arxiv.org/pdf/2005.08459.pdf).
 
-- Note that our use of the term *infection fatality rate (IFR)* refers to true deaths divided by true infections. It is not age-adjusted. As a result, if there is an increasing prevalence of the disease in a younger population, then the IFR will decrease, despite the deadliness of the virus remaining unchanged among a particular age group. It is likely that the fatality rate for a given age group have not changed significantly.
+- As of November 2020, we are aware of one other website that provides estimates on both a state-level and county-level: [covidestim.org](https://covidestim.org/). They use a different methodology based on cases and deaths (see the [pre-print](https://www.medrxiv.org/content/10.1101/2020.06.17.20133983v1)).
 
-- To compute our estimates of the *implied infection fatality rate (IIFR)*, we use only reported deaths in the numerator. If a state is significantly undercounting COVID-19 deaths, then our estimates will likely underestimate the true IFR. Since most states are [undercounting](https://www.nytimes.com/interactive/2020/05/05/us/coronavirus-death-toll-us.html) COVID-19 deaths, our IIFR estimate is closer to a lower bound for the true infection fatality rate. For example, if true deaths is 50% higher than reported deaths, then the true IFR will be roughly 50% higher than the IIFR. To get a better understanding of the true deaths caused by COVID-19, we recommend looking into [excess deaths](https://www.cdc.gov/nchs/nvss/vsrr/covid19/excess_deaths.htm), something we do not do in this analysis.
+- Note that our use of the term *implied infection fatality rate (IFR)* refers to true deaths divided by estimated true infections. It is not age-adjusted. As a result, if there is an increasing prevalence of the disease in a younger population, then the IIFR will decrease, despite the deadliness of the virus remaining unchanged among a particular age group. It is likely that the fatality rate for a given age group have not changed significantly. Furthermore, if a state is significantly undercounting COVID-19 deaths, then our estimates will likely underestimate the true IFR. Since most states are [undercounting](https://www.nytimes.com/interactive/2020/05/05/us/coronavirus-death-toll-us.html) COVID-19 deaths, our IIFR estimate is closer to a lower bound for the true infection fatality rate. For example, if true deaths is 35% higher than reported deaths, then the true IFR will be roughly 35% higher than the IIFR. To get a better understanding of the true deaths caused by COVID-19, we recommend looking into [excess deaths](https://www.cdc.gov/nchs/nvss/vsrr/covid19/excess_deaths.htm), something we do not do in this analysis.
 
 [Back to Top](#top)
 
 ## Data
 
-*Input*: We use reported cases and testing data from [The COVID Tracking Project](https://covidtracking.com/data/download/). For county infection estimates, we use county case data from [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series).
+*Input*: We use reported cases and testing data from [The COVID Tracking Project](https://covidtracking.com/data/download/). For county-level infections estimates, we use county case data from [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series).
 
 *Output*: We have uploaded the infections estimates to [our GitHub](https://github.com/youyanggu/covid19_projections/tree/master/infection_estimates).
 
@@ -115,7 +119,7 @@ For a fixed day, we believe that the relationship between test positivity rate a
 
 where `a`, `b`, `c` are unknown constants.
 
-Through curve fitting on historical test positivity and serological surveys, as well as trial & error, we found that the following approximation works well:
+Through curve fitting on historical test positivity and serological surveys, simple grid search of the constants, as well as trial & error, we found that the following approximation works well:
 
 ```
 a = (1500 / (day_i + 50)
@@ -132,7 +136,7 @@ Below you can find the prevalence ratio function for November 24, 2020 (day 286)
 
 ![Prevalence Ratio - Current](/assets/images/etir_prevalence_ratio1.png)
 
-We can generate a curve for each day. We plot a sample of days below. Note that the curve flattens as the pandemic progresses, signally the decreasing effects of test positivity.
+We can generate a curve for each day. We plot a sample of days below. Note that the curve lowers and flattens as the pandemic progresses, signaling 1) a lower prevalence ratio as testing expands and 2) the decreasing effects of test positivity.
 
 ![Prevalence Ratio - Various Dates](/assets/images/etir_prevalence_ratio2.png)
 
@@ -140,7 +144,13 @@ Note that the prevalence ratio is only applicable for a given day, and changes f
 
 To see if this relationship passes the "common sense test", we can take a look at the US positivity rate over time (see graph below). In March/April, the US positivity is around 20%, which corresponds to a prevalence ratio of roughly 10x the number of reported cases when using the function above. This seems to be a reasonable estimate, and matches estimates provided [by the CDC](https://www.washingtonpost.com/health/2020/06/25/coronavirus-cases-10-times-larger/). In New York and New Jersey during this period, test positivity was around 40-50%, which corresponds to a roughly 12-15x prevalence (later substantiated by [serology surveys](https://www.nytimes.com/2020/04/23/nyregion/coronavirus-antibodies-test-ny.html)). In June, when test is more widely available and the US positivity rate is ~5%, the function estimates a prevalence of roughly 4x the number of reported cases. We use a y-intercept of 2 to indicate minimum prevalence ratio of 2x (50% detection rate) to account for the high proportion of asymptomatic individuals (~40% according to [the CDC](https://www.cdc.gov/coronavirus/2019-ncov/hcp/planning-scenarios.html)).
 
-In our calculations, we compute the prevalence ratio on each day for each state based on the positivity rate. Once we have the prevalence ratios, the next step is to map all reported cases to true new infections by multiplying the daily confirmed cases with the prevalence ratio:
+In our calculations, we compute the prevalence ratio on each day for each state based on the positivity rate. In the below graph, we show how test positivity rates and our mean prevalence ratio estimates change over time in the US:
+
+![Prevalence Ratio and Test Positivity](/assets/images/etir_prevalence_ratio3.png)
+
+### Estimating True Infections
+
+Once we have the prevalence ratios, the next step is to map all reported cases to true new infections by multiplying the daily confirmed cases with the prevalence ratio:
 
 `true-new-daily-infections(day_i) = daily-confirmed-cases(day_i) * prevalence-ratio(day_i)`
 
@@ -152,17 +162,48 @@ As an example, let's say that the US reported 67,000 new cases with a 8.5% posit
 
 Because reported cases lag infections by roughly 2 weeks, we must shift the result back by two weeks. So the 275,000 true infections from the example above actually took place approximately 14 days before July 22, on July 8. While we use a constant lag for simplicity, we understand that the lag could be greater towards the beginning of the pandemic due to the slower average time to detection.
 
-![Prevalence Ratio and Test Positivity](/assets/images/etir_prevalence_ratio3.png)
-
-In the graph above, you can see the relationship between test positivity and prevalence ratio over time.
-
 To further smooth the data, we take the 7-day moving average of the true new daily infections. Finally, we can take the 15-day moving average to arrive at a "currently infected" estimate and the cumulative sum of the daily estimates to arrive at a "total infected" estimate.
 
 [Back to Top](#top)
 
+#### US estimates using nationwide data
+
+For estimate true infections in the US as a whole, we can compute the true prevalence ratio by passing in the daily country-wide positivity rate and date to our approximation function above. We then multiply the true prevalence ratio by the number of confirmed cases each day to get the number of true new infections. following the steps explained in the previous section. We can now plot the results:
+
+![True Infections US nationwide](/assets/images/etir_true_infections1.png)
+
+[Back to Top](#top)
+
+#### US estimates using state-by-state data
+
+Rather than using the US nationwide cases and positivity rates, we can also use the state-by-state cases and positivity rates to compute the true new infections for each state using the same method described above. 
+
+We plot the true infection estimates for a few select states based on both an absolute and per capita basis:
+
+![True Infections US states (absolute)](/assets/images/etir_true_infections2a.png)
+![True Infections US states (per capita)](/assets/images/etir_true_infections2b.png)
+
+Then, we take the sum of the infections estimates for all 50 states and territories to get the nationwide daily new infections. Note that it closely aligns with the graph generated using the US nationwide data.
+
+![True Infections Combined](/assets/images/etir_true_infections3.png)
+
+Using nationwide estimates of positivity rates and cases (rather than state-by-state estimates) may lead to a slight under-estimate in the number of true infections. We suspect this is partly because a sizable number of states with low prevalence still do a large amount of testing, which artificially deflates the positivity rate and thereby decreases the prevalence ratio. This difference is reduced as time goes on and test positivity become less of a factor.
+
+[Back to Top](#top)
+
+#### True Infections for US Counties
+
+To compute the true infections for a US county, we use the calculated prevalence ratio for the state in which the county is located in and multiply it by the confirmed cases in that county. This is done in the same manner as the state-level estimates. While the state's prevalence ratio is not necessarily a perfect indicator of the prevalence in the county, we believe it is a reasonable approximation.
+
+[Back to Top](#top
+
+#### Currently Infected and Total Infected
+
+To compute the number of "currently infected" individuals in a region, we take the 15-day rolling sum of the "newly infected" individuals. To compute the number of "total infected" individuals in a region, we take the cumulative sum of the "newly infected" individuals. We divide the currently infected and total infected values by the population of the region to determine the "percent currently infected" and "percent total infected". We assume that reinfection is negligible.
+
 #### Confidence Intervals
 
-To compute the lower and upper bounds of the prevalence ratios, we simply take 50% and 150% of the calculated mean prevalence ratio, respectively. We then use the lower and upper bounds to compute the lower and upper bounds of the "newly infected" estimates. Finally, we use the lower and upper bounds of the "newly infected" estimates to compute the lower and upper bounds of the "currently infected" and "total infected" estimates. We will leave it as an extension to develop a more sophisticated confidence interval.
+To compute the lower and upper bounds of the prevalence ratios, we simply take 50% and 150% of the calculated mean prevalence ratio. We then use the lower and upper bounds to compute the lower and upper bounds of the "newly infected" estimates. Finally, we use the lower and upper bounds of the "newly infected" estimates to compute the lower and upper bounds of the "currently infected" and "total infected" estimates. We will leave it as an extension to develop a more sophisticated confidence interval.
 
 [Back to Top](#top)
 
@@ -175,37 +216,6 @@ Because data can be noisy, we made some additional minor adjustments to the data
 - Applying a floor to the prevalence ratio: `max(1, 30 - day_i * 0.5)`
 - Reducing the prevalence ratio for states with `daily_tests_per_100k > 500` (multiplier: `np.log(500) / np.log(daily_tests_per_100k)`)
 - If total cases goes above 0 and then later goes back to 0, we set the total cases of the entire time period to 0
-
-[Back to Top](#top)
-
-### Estimating True Infections
-
-#### Using US nationwide cases & positivity rates
-
-For US nationwide data, we can compute the true prevalence ratio by passing in the US daily positivity rate and date to our approximation function above. We then multiply the true prevalence ratio by the number of confirmed cases each day to get the number of true new infections. Note that all daily numbers used are 7-day moving averages. Finally, we shift the true new infections back by 14 days to account for reporting delays. We can now plot the results as a function of the date:
-
-![True Infections US nationwide](/assets/images/etir_true_infections1.png)
-
-[Back to Top](#top)
-
-#### Using state-by-state cases & positivity rates
-
-Rather than using the US nationwide cases and positivity rates, we can use the state-by-state cases and positivity rates to compute the true new infections for each state using the same method described above. Below is a plot of the estimated true daily new infections for a selection of states.
-
-We then take the sum of the infections estimates for all 50 states and territories to get the nationwide daily new infections (orange line). Note that it closely aligns with the graph generated using the US nationwide data. We plot the true infection estimates for a few select states based on both an absolute and per capita basis:
-
-![True Infections US states (absolute)](/assets/images/etir_true_infections2a.png)
-![True Infections US states (per capita)](/assets/images/etir_true_infections2b.png)
-
-[Back to Top](#top)
-
-#### Putting it together
-
-We can now plot all of the methods we described above together and see how they compare. Note that they follow roughly the same shape and magnitude.
-
-![True Infections Combined](/assets/images/etir_true_infections3.png)
-
-Using nationwide estimates of positivity rates and cases (rather than state-by-state estimates) may lead to a slight under-estimate in the number of true infections. We suspect this is partly because a sizable number of states with low prevalence still do a large amount of testing, which artificially deflates the positivity rate and thereby decreases the prevalence ratio. This difference is reduced as time goes on and test positivity become less of a factor.
 
 [Back to Top](#top)
 
