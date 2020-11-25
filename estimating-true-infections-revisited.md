@@ -111,7 +111,7 @@ c = 2
 ```
 where `day_i` is the number of days since February 12, 2020 (14 days before the first confirmed community transmission in the US). Since `b=0.5`, this is equivalent to the square root function. After substituting the variables, we get:
 
-`prevalence-ratio(day_i) = (1500 / (day_i + 50) * (positivity-rate)^(0.5) + 2`.
+`prevalence-ratio(day_i) = (1500 / (day_i + 50) * (positivity-rate(day_i))^(0.5) + 2`.
 
 The above equation means that our prevalence ratio estimate on any given day is based on only two variables: the positivity rate and the number of days that have passed since February 12, 2020. As positivity rate increases, the prevalence ratio will also increase. As the pandemic progresses and we move further away from February 2020, testing becomes more accessible and hence the prevalence ratio will decrease.
 
@@ -121,11 +121,11 @@ To see if this relationship passes the "common sense test", we can take a look a
 
 In our calculations, we compute the prevalence ratio on each day for each state based on the positivity rate. Once we have the prevalence ratios, the next step is to map all reported cases to true new infections by multiplying the daily confirmed cases with the prevalence ratio:
 
-`true-new-daily-infections = daily-confirmed-cases * prevalence-ratio`
+`true-new-daily-infections(day_i) = daily-confirmed-cases(day_i) * prevalence-ratio(day_i)`
 
 For all computation purposes, we use the 7-day moving average of confirmed cases and positivity rates. Combining the two functions from above, we get:
 
-`true-new-daily-infections = daily-confirmed-cases * (1500 / (day_idx + 50) * (positivity-rate)^(0.5) + 2)`
+`true-new-daily-infections(day_i) = daily-confirmed-cases(day_i) * (1500 / (day_i + 50) * (positivity-rate)^(0.5) + 2)`
 
 As an example, let's say that the US reported 67,000 new cases with a 8.5% positivity rate on July 22. This would result in a true prevalence ratio of `(1500 / (160 + 50) * sqrt(0.085) + 2 = 4.1`. We can then multiply this ratio by the confirmed cases to get the true new infections. In this example, we estimate there to be 4.1 * 67,000 = ~275,000 true new infections.
 
