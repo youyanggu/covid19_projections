@@ -147,11 +147,13 @@ After substituting the variables, we get:
 
 Note that since `b=0.5`, the exponential function is equivalent to the square root function. The above equation means that our prevalence ratio estimate on any given day is based on only two variables: the positivity rate and the number of days that have passed since February 12, 2020. As positivity rate increases, the prevalence ratio will also increase. As the pandemic progresses and we move further away from February 2020, testing becomes more accessible and hence the prevalence ratio will decrease.
 
-Below you can find the prevalence ratio function for November 24, 2020 (day 286). The formula is:
+To calculate the prevalence ratio for November 24, 2020 (day 286), we first use the formula above to find the value of `a` (4.5). We can then substitute the values of `a, b, c` to get the below formula and plot:
+
+`prevalence-ratio(day_i) = 4.5 * (positivity-rate(day_i))^(0.5) + 2`
 
 ![Prevalence Ratio - Current](/assets/images/etir_prevalence_ratio1.png)
 
-We can generate a curve for each day. We plot a sample of days below. Note that the curve lowers and flattens as the pandemic progresses, signaling 1) a lower prevalence ratio as testing expands and 2) the decreasing effects of test positivity.
+We can generate a curve for each day, not just November 24. We plot a sample of days below. Note that the curve lowers and flattens as the pandemic progresses, signaling 1) a lower prevalence ratio as testing expands and 2) the decreasing effects of test positivity.
 
 ![Prevalence Ratio - Various Dates](/assets/images/etir_prevalence_ratio2.png)
 
