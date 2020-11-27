@@ -137,11 +137,15 @@ a = (1500 / (day_i + 50)
 b = 0.5
 c = 2
 ```
-where `day_i` is the number of days since February 12, 2020 (14 days before the first confirmed community transmission in the US). Since `b=0.5`, this is equivalent to the square root function. After substituting the variables, we get:
+where `day_i` is the number of days since February 12, 2020 (14 days before the first confirmed community transmission in the US). The variable `a` represents the multiplier applied to the exponential function `(positivity-rate)^b`. This multiplier is a function of `day_i` because as the pandemic progresses, testing becomes more available and the test positivity plays a smaller role on determining the prevalence ratio. Below you can see the plot for `a = (1500 / (day_i + 50)`:
+
+![Prevalence Ratio - multiplier a](/assets/images/etir_prevalence_ratio4.png)
+
+After substituting the variables, we get:
 
 `prevalence-ratio(day_i) = (1500 / (day_i + 50) * (positivity-rate(day_i))^(0.5) + 2`.
 
-The above equation means that our prevalence ratio estimate on any given day is based on only two variables: the positivity rate and the number of days that have passed since February 12, 2020. As positivity rate increases, the prevalence ratio will also increase. As the pandemic progresses and we move further away from February 2020, testing becomes more accessible and hence the prevalence ratio will decrease.
+Note that since `b=0.5`, the exponential function is equivalent to the square root function. The above equation means that our prevalence ratio estimate on any given day is based on only two variables: the positivity rate and the number of days that have passed since February 12, 2020. As positivity rate increases, the prevalence ratio will also increase. As the pandemic progresses and we move further away from February 2020, testing becomes more accessible and hence the prevalence ratio will decrease.
 
 Below you can find the prevalence ratio function for November 24, 2020 (day 286). The formula is:
 
