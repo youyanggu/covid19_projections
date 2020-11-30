@@ -6,73 +6,73 @@ Click on a county name to view the infections estimates for that county.
 
 *Note: Due to the inherent lag between infections and reporting of cases, our estimates of infections are as of 14 days ago.*
 
-*Last updated: November 29, 2020*
+*Last updated: November 30, 2020*
 
 |   FIPS Code |                         County |   Population |   Confirmed Cases |   % Currently Infected |   % Total Infected |
 |-------------|--------------------------------|--------------|-------------------|------------------------|--------------------|
-|       46099 |         [Minnehaha](minnehaha) |      193,134 |            20,247 |                    8.6 |               43.8 |
-|       46103 |       [Pennington](pennington) |      113,775 |             8,465 |                    6.8 |               27.7 |
-|       46083 |             [Lincoln](lincoln) |       61,128 |             5,353 |                    7.9 |               33.7 |
-|       46013 |                 [Brown](brown) |       38,839 |             3,588 |                    7.8 |               35.0 |
-|       46011 |         [Brookings](brookings) |       35,077 |             2,404 |                    5.3 |               25.9 |
-|       46093 |                 [Meade](meade) |       28,332 |             1,715 |                    5.2 |               22.6 |
-|       46029 |         [Codington](codington) |       28,009 |             2,626 |                    7.0 |               35.4 |
-|       46081 |           [Lawrence](lawrence) |       25,844 |             1,978 |                    7.1 |               28.9 |
-|       46135 |             [Yankton](yankton) |       22,814 |             1,751 |                    7.7 |               27.8 |
-|       46035 |             [Davison](davison) |       19,775 |             2,375 |                   14.4 |               45.5 |
-|       46005 |               [Beadle](beadle) |       18,453 |             2,255 |                   10.1 |               47.1 |
-|       46065 |               [Hughes](hughes) |       17,526 |             1,640 |                    9.9 |               35.0 |
-|       46127 |                 [Union](union) |       15,932 |             1,237 |                    6.3 |               29.7 |
-|       46102 | [Oglala Lakota](oglala-lakota) |       14,177 |             1,619 |                    7.9 |               43.6 |
-|       46027 |                   [Clay](clay) |       14,070 |             1,349 |                    7.8 |               35.9 |
-|       46079 |                   [Lake](lake) |       12,797 |               853 |                    6.7 |               24.5 |
-|       46019 |                 [Butte](butte) |       10,429 |               708 |                    5.8 |               25.7 |
-|       46109 |             [Roberts](roberts) |       10,394 |               698 |                    6.5 |               25.5 |
-|       46121 |                   [Todd](todd) |       10,177 |               941 |                    9.7 |               33.8 |
-|       46023 |     [Charles Mix](charles-mix) |        9,292 |               850 |                   10.2 |               33.6 |
-|       46033 |               [Custer](custer) |        8,972 |               533 |                    4.8 |               21.9 |
-|       46125 |               [Turner](turner) |        8,384 |               777 |                    5.8 |               36.0 |
-|       46067 |       [Hutchinson](hutchinson) |        7,291 |               562 |                   10.2 |               28.6 |
-|       46051 |                 [Grant](grant) |        7,052 |               610 |                    9.1 |               31.7 |
-|       46009 |         [Bon Homme](bon-homme) |        6,901 |             1,359 |                    9.0 |               77.3 |
-|       46047 |       [Fall River](fall-river) |        6,713 |               359 |                    4.6 |               20.6 |
-|       46101 |                 [Moody](moody) |        6,576 |               413 |                    5.2 |               24.0 |
-|       46115 |                 [Spink](spink) |        6,376 |               548 |                    7.1 |               32.6 |
-|       46057 |               [Hamlin](hamlin) |        6,164 |               476 |                   10.2 |               28.4 |
-|       46041 |                 [Dewey](dewey) |        5,892 |               822 |                   12.9 |               52.4 |
-|       46087 |               [McCook](mccook) |        5,586 |               589 |                   11.5 |               40.6 |
-|       46123 |                 [Tripp](tripp) |        5,441 |               505 |                    8.7 |               34.0 |
-|       46129 |           [Walworth](walworth) |        5,435 |               476 |                    8.5 |               32.8 |
-|       46037 |                     [Day](day) |        5,424 |               368 |                    8.4 |               24.6 |
-|       46015 |                 [Brule](brule) |        5,297 |               563 |                    9.8 |               39.9 |
-|       46077 |         [Kingsbury](kingsbury) |        4,939 |               437 |                    9.8 |               33.1 |
-|       46091 |           [Marshall](marshall) |        4,935 |               176 |                    5.6 |               12.7 |
-|       46039 |                 [Deuel](deuel) |        4,351 |               302 |                    5.2 |               25.9 |
-|       46053 |             [Gregory](gregory) |        4,185 |               435 |                    9.3 |               39.5 |
-|       46031 |               [Corson](corson) |        4,086 |               377 |                    7.0 |               34.5 |
-|       46045 |             [Edmunds](edmunds) |        3,829 |               245 |                    4.7 |               23.6 |
-|       46085 |                 [Lyman](lyman) |        3,781 |               452 |                   10.0 |               45.0 |
-|       46025 |                 [Clark](clark) |        3,736 |               250 |                    6.8 |               25.1 |
-|       46061 |               [Hanson](hanson) |        3,453 |               261 |                    8.8 |               26.6 |
-|       46007 |             [Bennett](bennett) |        3,365 |               313 |                    5.9 |               35.9 |
-|       46071 |             [Jackson](jackson) |        3,344 |               198 |                    3.1 |               22.2 |
-|       46059 |                   [Hand](hand) |        3,191 |               281 |                    8.5 |               34.0 |
-|       46117 |             [Stanley](stanley) |        3,098 |               227 |                   10.3 |               28.5 |
-|       46043 |             [Douglas](douglas) |        2,921 |               293 |                    7.3 |               37.4 |
-|       46105 |             [Perkins](perkins) |        2,865 |               188 |                   10.3 |               23.7 |
-|       46137 |             [Ziebach](ziebach) |        2,756 |               172 |                    4.4 |               23.5 |
-|       46003 |               [Aurora](aurora) |        2,751 |               356 |                   12.7 |               48.9 |
-|       46089 |         [McPherson](mcpherson) |        2,379 |               148 |                    9.8 |               22.8 |
-|       46111 |             [Sanborn](sanborn) |        2,344 |               270 |                   14.7 |               43.5 |
-|       46049 |                 [Faulk](faulk) |        2,299 |               277 |                    4.7 |               46.1 |
-|       46097 |                 [Miner](miner) |        2,216 |               188 |                    3.5 |               32.3 |
-|       46107 |               [Potter](potter) |        2,153 |               265 |                   12.6 |               46.2 |
-|       46095 |           [Mellette](mellette) |        2,061 |               172 |                    9.0 |               30.4 |
-|       46073 |             [Jerauld](jerauld) |        2,013 |               237 |                    7.6 |               46.1 |
-|       46017 |             [Buffalo](buffalo) |        1,962 |               376 |                   10.6 |               72.1 |
-|       46055 |               [Haakon](haakon) |        1,899 |               140 |                    5.0 |               28.1 |
-|       46119 |                 [Sully](sully) |        1,391 |                91 |                    7.3 |               25.3 |
-|       46021 |           [Campbell](campbell) |        1,376 |               103 |                    3.9 |               28.5 |
-|       46069 |                   [Hyde](hyde) |        1,301 |               124 |                   11.8 |               35.7 |
-|       46063 |             [Harding](harding) |        1,298 |                72 |                    1.5 |               20.9 |
-|       46075 |                 [Jones](jones) |          903 |                61 |                    6.5 |               25.1 |
+|       46099 |         [Minnehaha](minnehaha) |      193,134 |            20,454 |                    8.3 |               44.2 |
+|       46103 |       [Pennington](pennington) |      113,775 |             8,604 |                    6.6 |               28.1 |
+|       46083 |             [Lincoln](lincoln) |       61,128 |             5,410 |                    7.6 |               34.1 |
+|       46013 |                 [Brown](brown) |       38,839 |             3,609 |                    7.7 |               35.5 |
+|       46011 |         [Brookings](brookings) |       35,077 |             2,429 |                    5.1 |               26.1 |
+|       46093 |                 [Meade](meade) |       28,332 |             1,737 |                    5.1 |               22.9 |
+|       46029 |         [Codington](codington) |       28,009 |             2,645 |                    6.8 |               35.7 |
+|       46081 |           [Lawrence](lawrence) |       25,844 |             2,009 |                    6.8 |               29.3 |
+|       46135 |             [Yankton](yankton) |       22,814 |             1,771 |                    7.7 |               28.4 |
+|       46035 |             [Davison](davison) |       19,775 |             2,385 |                   13.7 |               45.9 |
+|       46005 |               [Beadle](beadle) |       18,453 |             2,273 |                    9.5 |               47.4 |
+|       46065 |               [Hughes](hughes) |       17,526 |             1,649 |                    9.5 |               35.4 |
+|       46127 |                 [Union](union) |       15,932 |             1,248 |                    6.1 |               30.0 |
+|       46102 | [Oglala Lakota](oglala-lakota) |       14,177 |             1,631 |                    7.7 |               43.9 |
+|       46027 |                   [Clay](clay) |       14,070 |             1,368 |                    7.7 |               36.5 |
+|       46079 |                   [Lake](lake) |       12,797 |               857 |                    6.4 |               24.9 |
+|       46019 |                 [Butte](butte) |       10,429 |               715 |                    5.6 |               26.0 |
+|       46109 |             [Roberts](roberts) |       10,394 |               703 |                    6.2 |               25.8 |
+|       46121 |                   [Todd](todd) |       10,177 |               950 |                    9.7 |               34.4 |
+|       46023 |     [Charles Mix](charles-mix) |        9,292 |               860 |                   10.1 |               34.2 |
+|       46033 |               [Custer](custer) |        8,972 |               540 |                    4.7 |               22.2 |
+|       46125 |               [Turner](turner) |        8,384 |               782 |                    5.3 |               36.2 |
+|       46067 |       [Hutchinson](hutchinson) |        7,291 |               568 |                    9.9 |               29.1 |
+|       46051 |                 [Grant](grant) |        7,052 |               618 |                    9.0 |               32.2 |
+|       46009 |         [Bon Homme](bon-homme) |        6,901 |             1,361 |                    8.8 |               77.7 |
+|       46047 |       [Fall River](fall-river) |        6,713 |               363 |                    4.3 |               20.7 |
+|       46101 |                 [Moody](moody) |        6,576 |               416 |                    5.1 |               24.3 |
+|       46115 |                 [Spink](spink) |        6,376 |               553 |                    6.8 |               32.9 |
+|       46057 |               [Hamlin](hamlin) |        6,164 |               479 |                   10.1 |               28.8 |
+|       46041 |                 [Dewey](dewey) |        5,892 |               832 |                   12.1 |               53.3 |
+|       46087 |               [McCook](mccook) |        5,586 |               596 |                   10.8 |               41.0 |
+|       46123 |                 [Tripp](tripp) |        5,441 |               511 |                    8.6 |               34.6 |
+|       46129 |           [Walworth](walworth) |        5,435 |               476 |                    8.3 |               33.1 |
+|       46037 |                     [Day](day) |        5,424 |               374 |                    8.4 |               25.2 |
+|       46015 |                 [Brule](brule) |        5,297 |               563 |                    9.4 |               40.3 |
+|       46077 |         [Kingsbury](kingsbury) |        4,939 |               439 |                    9.4 |               33.4 |
+|       46091 |           [Marshall](marshall) |        4,935 |               178 |                    5.6 |               13.0 |
+|       46039 |                 [Deuel](deuel) |        4,351 |               306 |                    5.1 |               26.2 |
+|       46053 |             [Gregory](gregory) |        4,185 |               438 |                    8.9 |               39.9 |
+|       46031 |               [Corson](corson) |        4,086 |               382 |                    6.8 |               34.9 |
+|       46045 |             [Edmunds](edmunds) |        3,829 |               249 |                    4.6 |               23.8 |
+|       46085 |                 [Lyman](lyman) |        3,781 |               455 |                    9.8 |               45.5 |
+|       46025 |                 [Clark](clark) |        3,736 |               251 |                    6.8 |               25.5 |
+|       46061 |               [Hanson](hanson) |        3,453 |               262 |                    8.8 |               27.3 |
+|       46007 |             [Bennett](bennett) |        3,365 |               316 |                    5.8 |               36.1 |
+|       46071 |             [Jackson](jackson) |        3,344 |               200 |                    2.9 |               22.5 |
+|       46059 |                   [Hand](hand) |        3,191 |               282 |                    7.9 |               34.2 |
+|       46117 |             [Stanley](stanley) |        3,098 |               229 |                    9.8 |               28.7 |
+|       46043 |             [Douglas](douglas) |        2,921 |               294 |                    6.9 |               37.8 |
+|       46105 |             [Perkins](perkins) |        2,865 |               201 |                   10.7 |               24.4 |
+|       46137 |             [Ziebach](ziebach) |        2,756 |               180 |                    4.4 |               23.9 |
+|       46003 |               [Aurora](aurora) |        2,751 |               357 |                   12.2 |               49.4 |
+|       46089 |         [McPherson](mcpherson) |        2,379 |               149 |                    9.6 |               23.1 |
+|       46111 |             [Sanborn](sanborn) |        2,344 |               271 |                   14.3 |               44.2 |
+|       46049 |                 [Faulk](faulk) |        2,299 |               278 |                    4.4 |               46.2 |
+|       46097 |                 [Miner](miner) |        2,216 |               188 |                    3.3 |               32.5 |
+|       46107 |               [Potter](potter) |        2,153 |               267 |                   12.2 |               46.8 |
+|       46095 |           [Mellette](mellette) |        2,061 |               176 |                    8.9 |               30.9 |
+|       46073 |             [Jerauld](jerauld) |        2,013 |               237 |                    7.1 |               46.2 |
+|       46017 |             [Buffalo](buffalo) |        1,962 |               377 |                   10.3 |               72.5 |
+|       46055 |               [Haakon](haakon) |        1,899 |               145 |                    5.1 |               28.4 |
+|       46119 |                 [Sully](sully) |        1,391 |                91 |                    7.0 |               25.5 |
+|       46021 |           [Campbell](campbell) |        1,376 |               103 |                    3.8 |               28.6 |
+|       46069 |                   [Hyde](hyde) |        1,301 |               125 |                   11.2 |               36.3 |
+|       46063 |             [Harding](harding) |        1,298 |                73 |                    1.8 |               21.2 |
+|       46075 |                 [Jones](jones) |          903 |                62 |                    6.6 |               25.5 |
