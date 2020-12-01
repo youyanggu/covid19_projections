@@ -1,4 +1,4 @@
-We present a new, simple nowcasting model that estimates true infections in the US. We have estimates for all US states (50 + DC + 4 territories) and all 3,000+ US counties.
+We present a new, simple nowcasting model that estimates true infections in the US. We have estimates for all US states and all 3,000+ US counties.
 {% include iframe_home_first_map.html %}For more maps, including county-level views, visit the [Maps](/maps-infections) page.
 
 Jump to section:
@@ -26,6 +26,8 @@ Our infections estimates include all infected individuals of the SARS-CoV-2 viru
 
 ## View US Infections Estimates
 
+Below, we have infection estimates for all 50 states, DC, and 4 US territories. For county-level estimates, see the next section.
+
 | [United States](/infections/us) |  |  |
 | --- | --- | --- |
 | [Alaska](/infections/us-ak) | [Louisiana](/infections/us-la) | [Oklahoma](/infections/us-ok) |
@@ -52,7 +54,7 @@ Our infections estimates include all infected individuals of the SARS-CoV-2 viru
 
 ## US Counties Infections Estimates
 
-We have infections estimates for all 3,000+ US counties or (county equivalents). Click on a state to view the counties in that state. You can then select the county to view detailed infection estimates.
+We have infections estimates for all 3,000+ US counties (and county equivalents). Click on a state to view the counties in that state. You can then select the county to view detailed infection estimates.
 
 | US Counties |  |  |
 | --- | --- | --- |
