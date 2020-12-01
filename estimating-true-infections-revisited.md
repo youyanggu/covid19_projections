@@ -7,7 +7,7 @@ permalink: /estimating-true-infections-revisited/
 # Estimating True Infections Revisited: A Simple Nowcasting Model to Estimate Prevalent Cases in the US
 
 By: [Youyang Gu](https://youyanggu.com)
-<br>November 25, 2020 *(Last Updated: November 30, 2020)*
+<br>November 25, 2020 *(Last Updated: December 1, 2020)*
 
 ## Table of Contents
 * [Summary](#summary)
@@ -16,7 +16,7 @@ By: [Youyang Gu](https://youyanggu.com)
 * [Data & Tools](#data--tools)
 * [Methods](#methods)
   * [Adjusted Test Positivity](#adjusted-test-positivity)
-  * [Prevalence Ratio](#prevalence-ratio)
+  * [Prevalence Ratio](#`)
   * [Estimating True Infections](#estimating-true-infections)
   * [covid19-projections.com](#covid19-projectionscom)
   * [Distribution of Infections by Age](#distribution-of-infections-by-age)
@@ -28,7 +28,7 @@ By: [Youyang Gu](https://youyanggu.com)
 
 We present a simple nowcasting model that 1) computes a standardized test positivity rate for every state in the United States and 2) uses the adjusted test positivity rate and confirmed cases to estimate the true prevalence of COVID-19 infections for every US state and county. The heuristics we present are computable using simple arithmetic and are hence easily accessible.
 
-To estimate the prevalence ratio on day `i` (defined as the ratio of true infections to reported cases), we use the following heuristic: `prevalence-ratio(day_i) = (1500 / (day_i + 50)) * (positivity-rate(day_i))^(0.5) + 2`, where `day_i` is the number of days since February 12, 2020.
+To estimate the prevalence ratio on day `i` (defined as the ratio of true infections to reported cases), we use the following heuristic: `prevalence_ratio(day_i) = (1500 / (day_i + 50)) * (positivity_rate(day_i))^(0.5) + 2`, where `day_i` is the number of days since February 12, 2020.
 
 Using this methodology, we built a visualization at [covid19-projections.com](https://covid19-projections.com) that contains our estimates for every US state (50 states + DC + 4 territories) and roughly all US counties (3,140).
 
@@ -126,7 +126,7 @@ As a counter-balancing act, as the pandemic progresses over time, availability o
 
 For a fixed day, we believe that the relationship between test positivity rate and ratio of true prevalence is monotonically increasing (higher positivity -> higher prevalence). Of course, the exact relationship varies from state to state and across time. But if one were to take the average across *all* of the data, one can generate a theoretical curve. For a fixed day `day_i`, we believe this relationship can be approximated by a root function of the following form:
 
-`prevalence-ratio(day_i) = a * (positivity-rate)^(b) + c`
+`prevalence_ratio(day_i) = a * (positivity_rate)^(b) + c`
 
 where `a`, `b`, `c` are unknown constants.
 
@@ -137,19 +137,19 @@ a = 1500 / (day_i + 50)
 b = 0.5
 c = 2
 ```
-where `day_i` is the number of days since February 12, 2020 (14 days before the first confirmed community transmission in the US). The variable `a` represents the multiplier applied to the exponential function `(positivity-rate)^b`. This multiplier is a function of `day_i` because as the pandemic progresses, testing becomes more available and the test positivity plays a smaller role on determining the prevalence ratio. Below you can see the plot for `a = (1500 / (day_i + 50)`:
+where `day_i` is the number of days since February 12, 2020 (14 days before the first confirmed community transmission in the US). The variable `a` represents the multiplier applied to the exponential function `(positivity_rate)^b`. This multiplier is a function of `day_i` because as the pandemic progresses, testing becomes more available and the test positivity plays a smaller role on determining the prevalence ratio. Below you can see the plot for `a = (1500 / (day_i + 50)`:
 
 ![Prevalence Ratio - multiplier a](/assets/images/etir_prevalence_ratio4.png)
 
 After substituting the variables, we get:
 
-`prevalence-ratio(day_i) = (1500 / (day_i + 50)) * (positivity-rate(day_i))^(0.5) + 2`.
+`prevalence_ratio(day_i) = (1500 / (day_i + 50)) * (positivity_rate(day_i))^(0.5) + 2`.
 
 Note that since `b=0.5`, the exponential function is equivalent to the square root function. The above equation means that our prevalence ratio estimate on any given day is based on only two variables: the positivity rate and the number of days that have passed since February 12, 2020. As positivity rate increases, the prevalence ratio will also increase. As the pandemic progresses and we move further away from February 2020, testing becomes more accessible and hence the prevalence ratio will decrease.
 
 To calculate the prevalence ratio for November 24, 2020 (day 286), we first use the formula above to find the value of `a` (4.5). We can then substitute the values of `a, b, c` to get the below formula and plot:
 
-`prevalence-ratio(day_i) = 4.5 * (positivity-rate(day_i))^(0.5) + 2`
+`prevalence_ratio(day_i) = 4.5 * (positivity_rate(day_i))^(0.5) + 2`
 
 ![Prevalence Ratio - Current](/assets/images/etir_prevalence_ratio1.png)
 
@@ -169,11 +169,11 @@ In our calculations, we compute the prevalence ratio on each day for each state 
 
 Once we have the prevalence ratios, the next step is to map all reported cases to true new infections by multiplying the daily confirmed cases with the prevalence ratio:
 
-`true-new-daily-infections(day_i) = daily-confirmed-cases(day_i) * prevalence-ratio(day_i)`
+`true_new_daily_infections(day_i) = daily_confirmed_cases(day_i) * prevalence_ratio(day_i)`
 
 For all computation purposes, we use the 7-day moving average of confirmed cases and positivity rates. Combining the two functions from above, we get:
 
-`true-new-daily-infections(day_i) = daily-confirmed-cases(day_i) * ((1500 / (day_i + 50)) * (positivity-rate)^(0.5) + 2)`
+`true-new-daily-infections(day_i) = daily-confirmed-cases(day_i) * ((1500 / (day_i + 50)) * (positivity_rate)^(0.5) + 2)`
 
 As an example, let's say that the US reported 67,000 new cases with a 8.5% positivity rate on July 22 (day 160). This would result in a true prevalence ratio of `(1500 / (160 + 50) * sqrt(0.085) + 2 = 4.1`. We can then multiply this ratio by the confirmed cases to get the true new infections. In this example, we estimate there to be 4.1 * 67,000 = ~275,000 true new infections.
 
@@ -289,7 +289,7 @@ As a rough estimate, we believe that COVID-19 deaths in the US are undercounted 
 
 ### Relationship between Positivity Rate and Prevalence Ratio
 
-We developed the constants for the prevalence function (`prevalence-ratio = a * (positivity-rate)^(b) + c`) through a combination of trial & error and curve fitting. We don't believe this function is perfect. There can be other values for `a`, `b`, and `c` that may be a closer approximation of the true relationship. Because there is no "truth" value to fit the function against, we decided there is limited value in trying to rigorously fit this function.
+We developed the constants for the prevalence function (`prevalence_ratio = a * (positivity_rate)^(b) + c`) through a combination of trial & error and curve fitting. We don't believe this function is perfect. There can be other values for `a`, `b`, and `c` that may be a closer approximation of the true relationship. Because there is no "truth" value to fit the function against, we decided there is limited value in trying to rigorously fit this function.
 
 The exact relationship between positivity rate and prevalence ratio may be different from state to state and across time. Here is a partial list of possible factors that can cause these differences:
 
