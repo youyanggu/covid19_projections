@@ -15,7 +15,7 @@ The raw data files are located in: `latest_all_estimates_states.csv` and `latest
 * `positivity_rate_orig_7day_ma` - Unadjusted positivity rate (cases / tests)
 * `positivity_rate_7day_ma` - Adjusted positivity rate (cases / tests). It attempts to correct for the [differences](https://covidtracking.com/about-data/total-tests) in test reporting from state to state.
 * `prevalence_ratio_mean`, `prevalence_ratio_lower`, `prevalence_ratio_upper` - Estimates the ratio of the number of true infections compared to confirmed cases. When multiplied with the daily confirmed cases (daily_positive_7day_ma), it provides an estimate of the true infections from ~10 days prior (due to the lag in reporting).
-* `rt_mean` - Reproduction number estimate
+* `rt_mean` - Effective reproduction number (Rt) estimate. This is computed by taking the ratio of the current positivity rate (`positivity_rate_7day_ma`) with the positivity rate from 5 days prior. We use 5 days because that is the approximate serial interval for COVID-19.
 * `new_infected_mean`, `new_infected_lower`, `new_infected_upper` - Mean, lower and upper bounds of our estimates for the total number of newly infected individuals on that day. This is based on the date an individual is *first exposed*. Note that these estimates include all infections, not just those who tested positive.
 * `current_infected_mean`, `current_infected_lower`, `current_infected_upper` - Mean, lower and upper bounds of our estimates for the total number of individuals that are infected on that day. This is the sum of the past 15 days of newly infected individuals
 * `perc_current_infected_mean`, `perc_current_infected_lower`, `perc_current_infected_upper` - current_infected_mean / population
