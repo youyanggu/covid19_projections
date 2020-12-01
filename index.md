@@ -10,7 +10,7 @@ Jump to section:
 
 For regular updates and insights, follow Youyang Gu on Twitter: <a href="https://twitter.com/youyanggu" class="twitter-follow-button" data-show-count="false">@youyanggu</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-* **November 27:** Please have a safe Thanksgiving. Note that reporting will be light due to the extended holiday. Hence, we urge caution in interpreting the latest results. There will likely be a large spike in reported cases and deaths in the following week.
+* **December 1:** New updates this week: [maps over time](/maps-infections), plots of reported cases and deaths on every page, and [downloadable](https://github.com/youyanggu/covid19-infection-estimates-counties) daily infection estimates for every US county.
 * **November 25:** We have released an initial draft of our methodology: [Estimating True Infections Revisited: A Simple Nowcasting Model to Estimate Prevalent Cases in the US](/estimating-true-infections-revisited).
 * *November 23:* We released detailed county-by-county estimates for every US county. You can view them [below](#us-counties-infections-estimates). You can view maps of these estimates on the new [Maps](/maps-infections) page.
 * *November 18:* We are re-launching this website with nowcasting of infections estimates in the US (what has happened/is happening). You can download all of our estimates [here](https://github.com/youyanggu/covid19_projections/tree/master/infection_estimates).
