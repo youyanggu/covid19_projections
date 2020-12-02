@@ -28,7 +28,8 @@ By: [Youyang Gu](https://youyanggu.com)
 
 We present a simple nowcasting model that 1) computes a standardized test positivity rate for every state in the United States and 2) uses the adjusted test positivity rate and confirmed cases to estimate the true prevalence of COVID-19 infections for every US state and county. The heuristics we present are computable using simple arithmetic and are hence easily accessible.
 
-To estimate the prevalence ratio on day `i` (defined as the ratio of true infections to reported cases), we use the following heuristic: `prevalence_ratio(day_i) = (1500 / (day_i + 50)) * (positivity_rate(day_i))^(0.5) + 2`, where `day_i` is the number of days since February 12, 2020.
+To estimate the prevalence ratio on day `i` (defined as the ratio of true infections to reported cases), we use the following heuristic:
+![Equation](/assets/images/etir_equation.png)
 
 Using this methodology, we built a visualization at [covid19-projections.com](https://covid19-projections.com) that contains our estimates for every US state (50 states + DC + 4 territories) and roughly all US counties (3,140).
 
@@ -145,7 +146,7 @@ where `day_i` is the number of days since February 12, 2020 (14 days before the 
 
 After substituting the variables, we get:
 
-`prevalence_ratio(day_i) = (1500 / (day_i + 50)) * (positivity_rate(day_i))^(0.5) + 2`.
+![Equation 2](/assets/images/etir_equation2.png)
 
 Note that since `b=0.5`, the exponential function is equivalent to the square root function. The above equation means that our prevalence ratio estimate on any given day is based on only two variables: the positivity rate and the number of days that have passed since February 12, 2020. As positivity rate increases, the prevalence ratio will also increase. As the pandemic progresses and we move further away from February 2020, testing becomes more accessible and hence the prevalence ratio will decrease.
 
@@ -171,11 +172,11 @@ In our calculations, we compute the prevalence ratio on each day for each state 
 
 Once we have the prevalence ratios, the next step is to map all reported cases to true new infections by multiplying the daily confirmed cases with the prevalence ratio:
 
-`true_new_daily_infections(day_i) = daily_confirmed_cases(day_i) * prevalence_ratio(day_i)`
+![Equation](/assets/images/etir_equation.png)
 
 For all computation purposes, we use the 7-day moving average of confirmed cases and positivity rates. Combining the two functions from above, we get:
 
-`true-new-daily-infections(day_i) = daily-confirmed-cases(day_i) * ((1500 / (day_i + 50)) * (positivity_rate)^(0.5) + 2)`
+![Equation 2](/assets/images/etir_equation3.png)
 
 As an example, let's say that the US reported 67,000 new cases with a 8.5% positivity rate on July 22 (day 160). This would result in a true prevalence ratio of `(1500 / (160 + 50) * sqrt(0.085) + 2 = 4.1`. We can then multiply this ratio by the confirmed cases to get the true new infections. In this example, we estimate there to be 4.1 * 67,000 = ~275,000 true new infections.
 
