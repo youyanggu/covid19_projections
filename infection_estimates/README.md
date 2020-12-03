@@ -9,11 +9,12 @@ The raw data files are located in: `latest_all_estimates_states.csv` and `latest
 * `total_cases` - (Column added Nov 22) Total confirmed cases (cumulative). Corresponds to the `positive` column in The COVID Tracking Project. 
 * `total_deaths` - (Column added Nov 24) Total deaths (cumulative). Corresponds to the `death` column in The COVID Tracking Project. 
 * `total_tests` - (Column added Nov 22) Total test results (cumulative). Corresponds to the `totalTestResults` column in The COVID Tracking Project. This is the unadjusted test numbers.
+* `current_hospitalized` - (Column added Dec 2) Currently hospitalized. Corresponds to the `hospitalizedCurrently` column in The COVID Tracking Project.
 * `daily_positive_7day_ma` - Daily confirmed cases (7 day moving average)
 * `daily_deaths_7day_ma` - (Column added Nov 24) Daily deaths (7 day moving average)
 * `daily_tests_7day_ma` - Daily tests (7 day moving average). This is the adjusted test numbers.
 * `positivity_rate_orig_7day_ma` - Unadjusted positivity rate (cases / tests)
-* `positivity_rate_7day_ma` - Adjusted positivity rate (cases / tests). It attempts to correct for the [differences](https://covidtracking.com/about-data/total-tests) in test reporting from state to state.
+* `positivity_rate_7day_ma` - Adjusted positivity rate (cases / tests). It attempts to correct for the [differences](https://covidtracking.com/about-data/total-tests) in test reporting from state to state. Learn more about our adjustments [here](https://covid19-projections.com/estimating-true-infections-revisited/#adjusted-test-positivity).
 * `prevalence_ratio_mean`, `prevalence_ratio_lower`, `prevalence_ratio_upper` - Estimates the ratio of the number of true infections compared to confirmed cases. When multiplied with the daily confirmed cases (daily_positive_7day_ma), it provides an estimate of the true infections from ~10 days prior (due to the lag in reporting).
 * `rt_mean` - Effective reproduction number (Rt) estimate. This is computed by taking the ratio of the current positivity rate (`positivity_rate_7day_ma`) with the positivity rate from 5 days prior. We use 5 days because that is the approximate serial interval for COVID-19.
 * `new_infected_mean`, `new_infected_lower`, `new_infected_upper` - Mean, lower and upper bounds of our estimates for the total number of newly infected individuals on that day. This is based on the date an individual is *first exposed*. Note that these estimates include all infections, not just those who tested positive.
