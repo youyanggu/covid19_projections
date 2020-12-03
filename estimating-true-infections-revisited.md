@@ -7,7 +7,7 @@ permalink: /estimating-true-infections-revisited/
 # Estimating True Infections Revisited: A Simple Nowcasting Model to Estimate Prevalent Cases in the US
 
 By: [Youyang Gu](https://youyanggu.com)
-<br>November 25, 2020 *(Last Updated: December 1, 2020)*
+<br>November 25, 2020 *(Last Updated: December 2, 2020)*
 
 ## Table of Contents
 * [Summary](#summary)
