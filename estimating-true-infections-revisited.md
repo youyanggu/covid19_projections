@@ -7,7 +7,7 @@ permalink: /estimating-true-infections-revisited/
 # Estimating True Infections Revisited: A Simple Nowcasting Model to Estimate Prevalent Cases in the US
 
 By: [Youyang Gu](https://youyanggu.com)
-<br>November 25, 2020 *(Last Updated: December 2, 2020)*
+<br>November 25, 2020 *(Last Updated: December 3, 2020)*
 
 ## Table of Contents
 * [Summary](#summary)
@@ -68,6 +68,8 @@ Please read the below disclaimers carefully to better understand what the model 
 - The a priori methods described here produce merely estimates of total infections and are by no means definitive. In fact, by only using confirmed cases and testing data, we are missing the granularity that could be provided had we also included hospitalization and death data. This is done intentionally because we wanted a fast and simple way to estimate infections. More complex/sophisticated models take time to conceptialize, implement, and refine. Unfortunately, at the time this project was started in November 2020, time was of the essence. Some regions in the US were "flying blind" due to the lack of reliable data and estimates. Hence, we decided to stick to a simple methodology that can generate a reasonable output sooner rather than later. Over time, we can dedicate more time to refining the methodology by incorporating additional data sources.
 
 - This approach was optimized on data from the United States. Assumptions are made based on the overall testing availability in the US (i.e. low availability in Spring 2020 to widespread availability by Fall 2020). Hence, in its unedited form, the estimates are not necessarily applicable to countries outside the US, where testing guidelines and procedures may be drastically different. Even between states and US territories, the guidelines can differ, which may skew the results (e.g. stricter requirements than the rest of the country would lead to an underestimate of the true prevalence). With that said, it is possible to extend our model to refit the prevalence curve for each new region.
+
+- We assume that there is a negligible amount of reinfection.
 
 - The outputs from this analysis are only as good as the provided input data. If states, for example, undercount or misrreport COVID-19 cases, then that could skew the outcome of this analysis. Hence, we call on all states to follow national guidelines and report data in a honest, comprehensive, and consistent manner.
 
