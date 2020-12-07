@@ -7,7 +7,7 @@ permalink: /estimating-true-infections-revisited/
 # Estimating True Infections Revisited: A Simple Nowcasting Model to Estimate Prevalent Cases in the US
 
 By: [Youyang Gu](https://youyanggu.com)
-<br>November 25, 2020 *(Last Updated: December 3, 2020)*
+<br>November 25, 2020 *(Last Updated: December 7, 2020)*
 
 ## Table of Contents
 * [Summary](#summary)
@@ -135,7 +135,7 @@ For a fixed day, we believe that the relationship between test positivity rate a
 
 where `a`, `b`, `c` are unknown constants.
 
-Through curve fitting on historical test positivity and serological surveys, simple grid search of the constants, as well as trial & error, we found that the following approximation works well:
+Through curve fitting on historical test positivity and serological surveys, analysis of hospitalization and death data, simple grid search of the constants, as well as trial & error, we found that the following approximation works well:
 
 ```
 a = 1500 / (day_i + 50)
