@@ -24,6 +24,8 @@ By: [Youyang Gu](https://youyanggu.com)
 * [Discussion](#discussion)
 * [Conclusion](#conclusion)
 
+*December 8 Update:* We adjusted our constant from `a = 1500 / (day_i + 50)` to `a = 1250 / (day_i + 25)`. This results in a slightly higher prevalence ratio in the beginning and a lower prevalence ratio currently.
+
 ## Summary
 
 We present a simple nowcasting model that 1) computes a standardized test positivity rate for every state in the United States and 2) uses the adjusted test positivity rate and confirmed cases to estimate the true prevalence of COVID-19 infections for every US state and county. The heuristics we present are computable using simple arithmetic and are hence easily accessible.
