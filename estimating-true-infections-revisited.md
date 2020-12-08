@@ -71,7 +71,7 @@ Please read the below disclaimers carefully to better understand what the model 
 
 - This approach was optimized on data from the United States. Assumptions are made based on the overall testing availability in the US (i.e. low availability in Spring 2020 to widespread availability by Fall 2020). Hence, in its unedited form, the estimates are not necessarily applicable to countries outside the US, where testing guidelines and procedures may be drastically different. Even between states and US territories, the guidelines can differ, which may skew the results (e.g. stricter requirements than the rest of the country would lead to an underestimate of the true prevalence). With that said, it is possible to extend our model to refit the prevalence curve for each new region.
 
-- We assume that there is a negligible amount of reinfection.
+- We assume that [reinfection is rare](https://www.medrxiv.org/content/10.1101/2020.11.18.20234369v1), and hence do not account for this in our estimates.
 
 - The outputs from this analysis are only as good as the provided input data. If states, for example, undercount or misrreport COVID-19 cases, then that could skew the outcome of this analysis. Hence, we call on all states to follow national guidelines and report data in a honest, comprehensive, and consistent manner.
 
