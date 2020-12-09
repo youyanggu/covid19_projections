@@ -7,7 +7,7 @@ permalink: /estimating-true-infections-revisited/
 # Estimating True Infections Revisited: A Simple Nowcasting Model to Estimate Prevalent Cases in the US
 
 By: [Youyang Gu](https://youyanggu.com)
-<br>November 25, 2020 *(Last Updated: December 7, 2020)*
+<br>November 25, 2020 *(Last Updated: December 8, 2020)*
 
 ## Table of Contents
 * [Summary](#summary)
@@ -101,9 +101,11 @@ Reporting of COVID-19 tests is not standardized in the United States. Different 
 
 While most states report test totals by "test encounters" or "test specimens", a few select states such as South Dakota reports tests based on "unique people". This means that if a resident has previously received a COVID-19 test, they will only be included a single time in the "total tests". As the writeups in the previous paragraph explain, this method of counting tests can artificially inflate the daily test positivity rate, since repeated negative tests by the same person are all discarded (unless it is the first test). So while the data would suggest that the test positivty rate in South Dakota was over 50% in November 2020, in reality, the test positivity rate is closer to 20-25% once we count test specimens rather than unique people.
 
-While we focus only on PCR tests, some states conflate PCR and antigen tests in their reporting. This would artificially inflate the number of tests, though it's unclear to what degree this would affect the positivity rate. We recommend checking [The COVID Tracking Project](https://covidtracking.com/about-data/total-tests) for the latest state-by-state testing source.
+While we focus only on PCR tests, some states conflate PCR and antigen tests in their reporting. This would artificially inflate the number of tests, though it's unclear to what degree this would affect the positivity rate.
 
-We use the data provided by The COVID Tracking Project to attempt to standardize the testing data to the same units so that the values are comparable. We assume "specimens" and "test encounters" to be equivalent units (in reality, using specimens result in a slightly lower positivity rate, but this difference is small, <5%). We just need to convert testing data with a "unique people" unit to a "specimens" unit. As of November 24, 2020, there are nine states where we have to do this conversion: Arizona, Iowa, Idaho, Kansas, Louisiana, Oregon, Pennsylvania, South Dakota, Wyoming.
+We use the data provided by The COVID Tracking Project to attempt to standardize the testing data to the same units so that the values are comparable. We assume "specimens" and "test encounters" to be equivalent units (in reality, using specimens result in a slightly lower positivity rate, but this difference is small, <5%). We just need to convert testing data with a "unique people" unit to a "specimens" unit.
+
+As of November 24, 2020, there are nine states where we have to do this conversion: Arizona, Iowa, Idaho, Kansas, Louisiana, Oregon, Pennsylvania, South Dakota, Wyoming. By December 8, 2020, Louisiana, Oregon, and Wyoming had begun reporting total tests using the "specimens" unit. We recommend checking [The COVID Tracking Project](https://covidtracking.com/about-data/total-tests) for the latest state-by-state testing source.
 
 This conversion is done by looking at states that provide testing data in both "unique people" and "specimens/test encounters" units. There are about 15 states that fit this criteria. We look at the ratio of the "specimens/test encounters" total tests and the "unique people" total tests over time:
 
