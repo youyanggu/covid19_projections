@@ -8,13 +8,13 @@ permalink: /path-to-herd-immunity/
 
 *Last Updated: December 9, 2020*
 
-Below, we present our current best estimate of the US path to COVID-19 herd immunity, given what we currently know about the available vaccines and infection rates. Herd immunity will be reached via immunity from two sources: vaccination and infection.
+Below, we present our current best estimate of the path to COVID-19 herd immunity in the United States, given what we currently know about the available vaccines and infection rates. Herd immunity will be reached through immunity from two sources: vaccination and infection.
 
 ## Summary
-- We believe herd immunity (60% immune) will be reached in the US by late summer/early fall 2021 (September-November).
+- We believe herd immunity (>60% immune) will be reached in the US by late summer/early fall 2021 (September-November 2021).
 - At the time herd immunity is reached, roughly half of the immunity will be achieved via infection, and the other half will be achieved via vaccination.
-- New COVID-19 infections may become negligible before herd immunity is reached. Our current best estimate is summer 2021 (July-September).
-- As a result of the above findings, our best estimate of a complete "return to normal" is late summer 2021 (August-October).
+- New COVID-19 infections may become negligible before herd immunity is reached. Our current best estimate is summer 2021 (July-September 2021).
+- As a result of the above findings, our best estimate of a complete "return to normal" is late summer 2021 (August-October 2021).
 
 {% include iframe_vaccination.html %}
 
