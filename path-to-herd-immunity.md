@@ -26,14 +26,12 @@ We present our current best estimate of the path to COVID-19 herd immunity in th
 
 [Back to Top](#top)
 
-## Plots
-{% include iframe_vaccination.html %}
-
+## Plots{% include iframe_vaccination.html %}
 [Back to Top](#top)
 
-The underlying assumptions behind our estimates are presented below. **Please keep in mind that if any of the below assumptions do not hold, then the results may be drastically different.**
-
 ## Assumptions
+
+The underlying assumptions behind our estimates are presented below. **Please keep in mind that if any of the below assumptions do not hold, then the results may be drastically different.**
 
 ### Basic Assumptions
 
