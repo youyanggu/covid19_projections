@@ -55,6 +55,7 @@ The underlying assumptions behind our estimates are presented below:
 - We assume an individual has been vaccinated after they receive the first of two doses. However, in reality, an individual may still be susceptible for the first 1-4 weeks following the first dose. We assume the majority of individuals (but not all) will receive the second dose.
 - We assume a 85% vaccine efficacy. While the trial data demonstrate >90% efficacy, we believe that the efficacy in the general population will be slightly lower due to the fact that a sizable proportion of the population may miss the second vaccine dose.
 - We assume vaccinations will begin in mid-December following the FDA Emergency Use Authorization (EUA) approval.
+- Many of the assumptions in this writeup come from the [December 10 FDA Briefing Document](https://www.fda.gov/media/144245/download) for the Pfizer vaccine.
 - We assume the general population will begin receiving vaccinations in late spring/early summer (Apr-Jun 2021). We assume children will begin receiving vaccinations in late summer/early fall (Aug-Oct 2021).
 - We assume a smooth vaccine rollout (no major issues or halts).
 - We assume a proportion of the vaccinated population already possess immunity via infection. For simplicity, this proportion is equal to the percentage of the population that have immunity via infection. If an individual possesses immunity from both vaccination and infection, we do not count this individual as "immune via vaccination".
