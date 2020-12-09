@@ -4,4 +4,4 @@
 
 Below, we present our current best estimate of the US path to COVID-19 herd immunity. Herd immunity will be reached via immunity from two sources: vaccination and infection.
 
-{% include vaccinations.html %}
+{% include iframe_vaccination.html %}
