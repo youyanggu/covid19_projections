@@ -33,9 +33,11 @@ With the availability of the COVID-19 vaccine in the horizon, we present our bes
 - The results presented here are merely estimates based on a set of assumptions, so please use caution when utilizing the results.
 - If any of the assumptions used to generate these estimates do not hold, then the results may be drastically different.
 
+[Back to Top](#top)
+
 ## Assumptions
 
-The underlying assumptions behind our estimates are presented below.
+The underlying assumptions behind our estimates are presented below:
 
 ### Basic Assumptions
 
