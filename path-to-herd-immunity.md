@@ -38,8 +38,8 @@ The underlying assumptions behind our estimates are presented below.
 
 ## Infection Assumptions
 
-- We assume roughly 17% of the population have been infected as of mid-December.
-- We assume a small proportion of the infected population (~10%) will lose their immunity over time.
+- We assume roughly 60 million people in the US (18% of the population) have already been infected as of mid-December 2020. We assume 99.95% of these individuals possess immunity as of mid-December 2020.
+- We assume a small proportion of the infected population (~10%) will lose their immunity over time, starting at 6 months after infection.
 - We assume that the infection rate will fall as the number of individuals who are inoculated/vaccinated increases.
 - We assume infections will decrease from mid-December 2020 to February 2021. We account for the possibility of another wave of infections in late winter (February-March).
 - We compute the population "immune via infection" by taking the total number of infected individuals and subtracing the estimated number of individuals who lost their immunity.
