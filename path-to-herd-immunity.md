@@ -13,7 +13,7 @@ Below, we present our current best estimate of the path to COVID-19 herd immunit
 ## Summary
 - We believe herd immunity (>60% immune) will be reached in the US by late summer/early fall 2021 (September-November 2021).
 - At the time herd immunity is reached, roughly half of the immunity will be achieved via infection, and the other half will be achieved via vaccination.
-- New COVID-19 infections may become negligible before herd immunity is reached. Our current best estimate is summer 2021 (July-September 2021).
+- New COVID-19 infections may become negligible before herd immunity is reached. Our current best estimate of when new community transimssions will drop below 1,000 per day is summer 2021 (July-September 2021).
 - As a result of the above findings, our best estimate of a complete "return to normal" is late summer 2021 (August-October 2021).
 
 {% include iframe_vaccination.html %}
