@@ -32,8 +32,8 @@ The underlying assumptions behind our estimates are presented below. As usual, t
 ### Basic Assumptions
 
 - We assume immunity can be achieved through either natural infection or vaccination.
-- We assume herd immunity is achieved when at least 60% of the population are immune to the SARS-CoV-2 virus (HIT = 60%). Due to population heterogeneity and variation in susceptibility, it is possible that the herd immunity threshold (HIT) can be lower.
-- **Important:** We only count the immunity that was acquired first (e.g. if an individual has both immunity from natural infection and immunity from vaccination, we only count it as immunity from infection).
+- We assume herd immunity is achieved when at least 60% of the population possess immunity from the SARS-CoV-2 virus (HIT = 60%). Due to population heterogeneity and variation in susceptibility, it is possible that the herd immunity threshold (HIT) can be lower.
+- **Important:** We only count the immunity that was acquired first (e.g. if an individual has both immunity from natural infection and immunity from vaccination, we only count the immunity from infection).
 - We only use publicly available data.
 
 [Back to Top](#top)
