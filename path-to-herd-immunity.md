@@ -27,12 +27,14 @@ We present our current best estimate of the path to COVID-19 herd immunity in th
 
 ## Assumptions
 
-The underlying assumptions behind our estimates are presented below. **Please keep in mind that if any of the below assumptions do not hold, then the results may be drastically different.**
+The underlying assumptions behind our estimates are presented below. As usual, the results presented here are merely estimates based on a set of assumptions, so please use caution when utilizing the results. **Please keep in mind that if any of the below assumptions do not hold, then the results may be drastically different.**
 
 ### Basic Assumptions
 
 - We assume immunity can be achieved through either infection or vaccination.
 - We assume herd immunity is achieved when at least 60% of the population are immune to the SARS-CoV-2 virus. Due to population heterogeneity and variation in susceptibility, it is possible that the herd immunity threhsold can be lower.
+- **Important:** We only count the immunity that was acquired first (e.g. if an individual has both immunity from infection and immunity from vaccination, we only count it as immunity from infection).
+- We only use publicly available data.
 
 [Back to Top](#top)
 
