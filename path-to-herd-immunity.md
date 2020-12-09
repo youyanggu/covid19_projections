@@ -8,7 +8,7 @@ permalink: /path-to-herd-immunity/
 By: [Youyang Gu](https://youyanggu.com)
 <br>December 9, 2020
 
-With the availability of the COVID-19 vaccine in the horizon, we present our best current estimate of the path to COVID-19 herd immunity in the United States. Herd immunity will be reached through immunity from two sources: vaccination and infection.
+With the availability of the COVID-19 vaccine in the horizon, we present our best current estimate of the path to COVID-19 herd immunity in the United States. Herd immunity will be reached through immunity from two sources: vaccination and natural infection.
 
 ## Table of Contents
 * [Summary](#summary)
@@ -18,7 +18,7 @@ With the availability of the COVID-19 vaccine in the horizon, we present our bes
 
 ## Summary
 - We believe herd immunity (>60% of population immune) will be reached in the US by late summer/early fall 2021 (Sep-Nov 2021).
-- At the time herd immunity is reached, roughly half of the immunity will be achieved via infection, and the other half will be achieved via vaccination.
+- At the time herd immunity is reached, roughly half of the immunity will be achieved via natural infection, and the other half will be achieved via vaccination.
 - New COVID-19 infections may become negligible before herd immunity is reached. Our current best estimate of when new community transimssions will drop below 1,000 per day is summer 2021 (Jul-Sep 2021).
 - Summarizing the above findings, our best estimate of a complete "return to normal" in the US is late summer 2021 (Aug-Oct 2021).
 - We estimate around 30% of the US population (100 million) will have been infected by the SARS-CoV-2 virus by the end of 2021. This translates to a final US COVID-19 death toll of roughly 500,000 (400-600k) reported deaths.
@@ -31,9 +31,9 @@ The underlying assumptions behind our estimates are presented below. As usual, t
 
 ### Basic Assumptions
 
-- We assume immunity can be achieved through either infection or vaccination.
-- We assume herd immunity is achieved when at least 60% of the population are immune to the SARS-CoV-2 virus. Due to population heterogeneity and variation in susceptibility, it is possible that the herd immunity threhsold can be lower.
-- **Important:** We only count the immunity that was acquired first (e.g. if an individual has both immunity from infection and immunity from vaccination, we only count it as immunity from infection).
+- We assume immunity can be achieved through either natural infection or vaccination.
+- We assume herd immunity is achieved when at least 60% of the population are immune to the SARS-CoV-2 virus (HIT = 60%). Due to population heterogeneity and variation in susceptibility, it is possible that the herd immunity threshold (HIT) can be lower.
+- **Important:** We only count the immunity that was acquired first (e.g. if an individual has both immunity from natural infection and immunity from vaccination, we only count it as immunity from infection).
 - We only use publicly available data.
 
 [Back to Top](#top)
@@ -54,8 +54,8 @@ The underlying assumptions behind our estimates are presented below. As usual, t
 
 ### Infection Assumptions
 
-- We assume roughly 60 million people in the US (18% of the population) have already been infected as of mid-December 2020. We assume 99.95% of these individuals possess immunity as of mid-December 2020.
-- We assume a small proportion of the infected population (~10%) will lose their immunity over time, starting at 6 months after infection.
+- We assume roughly 60 million people in the US (18% of the population) have already been infected by the time the vaccine is authorized in mid-December 2020. We assume 99.95% of these individuals possess immunity as of mid-December 2020.
+- We assume a small proportion (~10%) of the infected population will lose their immunity over time, starting around 6 months after infection.
 - We assume that the infection rate will fall as the number of individuals who are inoculated/vaccinated increases.
 - We assume infections will decrease from mid-December 2020 to February 2021. We account for the possibility of another wave of infections in late winter (February-March).
 - We use a basic SEIR model to estimate infections over time.
