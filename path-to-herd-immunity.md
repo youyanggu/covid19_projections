@@ -50,9 +50,9 @@ The underlying assumptions behind our estimates are presented below:
 
 ### Vaccination Assumptions
 
+- **Important:** We assume an individual has been vaccinated after they receive the first of two doses. However, in reality, an individual may still be susceptible for the first 1-4 weeks following the first dose. We assume the majority of individuals (but not all) will receive the second dose.
 - We currently model the rollout of two vaccines: Pfizer and Moderna. There will be more vaccines in 2021 (e.g. Johnson & Johnson), but by then we believe supply will no longer be the bottleneck.
 - We assume roughly 60% of the US population will take at least one dose of the vaccine by the end of 2021.
-- We assume an individual has been vaccinated after they receive the first of two doses. However, in reality, an individual may still be susceptible for the first 1-4 weeks following the first dose. We assume the majority of individuals (but not all) will receive the second dose.
 - We assume a 85% vaccine efficacy. While the trial data demonstrate >90% efficacy, we believe that the efficacy in the general population will be slightly lower due to the fact that a sizable proportion of the population may miss the second vaccine dose.
 - We assume vaccinations will begin in mid-December following the FDA Emergency Use Authorization (EUA) approval.
 - Many of the assumptions in this writeup come from the [December 10 FDA Briefing Document](https://www.fda.gov/media/144245/download) for the Pfizer vaccine.
