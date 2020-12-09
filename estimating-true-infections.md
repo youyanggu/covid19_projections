@@ -54,7 +54,7 @@ Below, you can see a plot of our infection estimates for the US. We compare the 
 
 ![True Infections Plot 3](/assets/images/estimate_true_infections_3.png)
 
-Once we have a reasonable estimate of the true number of newly infected individuals per day, we can use the reported deaths to compute the implied infection fatality rate (IFFR). The IIFR for the US was above 1% in March, stabilized at around 0.6% in April-May before decreasing to ~0.25% in July. Note that our IIFR estimate does not take into account excess/unreported COVID-19 deaths, so it is likely a lower bound for the true IFR. This is further explained [below](#implied-infection-fatality-rate-iifr).
+Once we have a reasonable estimate of the true number of newly infected individuals per day, we can use the reported deaths to compute the implied infection fatality rate (IIFR). The IIFR for the US was above 1% in March, stabilized at around 0.6% in April-May before decreasing to ~0.25% in July. Note that our IIFR estimate does not take into account excess/unreported COVID-19 deaths, so it is likely a lower bound for the true IFR. This is further explained [below](#implied-infection-fatality-rate-iifr).
 
 ## Disclaimers
 
@@ -88,7 +88,7 @@ Once we have a reasonable estimate of the true number of newly infected individu
 
 ## Prevalence Ratio
 
-The core idea behind this method is that we can use the positivity rate to roughly determine the ratio of true infections to reported cases. The hypothesis is that as positivity rate increases, the higher the true prevalence in a region relative to the reported cases. This also makes sense intuitively: if you test everyone, then the positvity rate will be very low, and you will catch every case. But if testing is not widely available, then you will catch only the severe cases, resulting in a higher positivity rate. This phenomenon is sometimes referred to as *preferential testing*.
+The core idea behind this method is that we can use the positivity rate to roughly determine the ratio of true infections to reported cases. The hypothesis is that as positivity rate increases, the higher the true prevalence in a region relative to the reported cases. This also makes sense intuitively: if you test everyone, then the positivity rate will be very low, and you will catch every case. But if testing is not widely available, then you will catch only the severe cases, resulting in a higher positivity rate. This phenomenon is sometimes referred to as *preferential testing*.
 
 We believe that the relationship between positivity rate and ratio of true prevalence is monotonically increasing. Of course, the exact relationship varies from state to state and across time. But if one were to take the average across *all* of the data, one can generate a theoretical curve. We believe this relationship can be approximated by a root function of the following form:
 
@@ -96,13 +96,13 @@ We believe that the relationship between positivity rate and ratio of true preva
 
 where `a`, `b`, `c` are unknown constants.
 
-Through curve fitting on historical test positivity and serological surveys, as well as trial & error, we found that the following square root approximation function works well:
+Through curve fitting on historical test positivity and seroprevalence surveys, as well as trial & error, we found that the following square root approximation function works well:
 
 `prevalence-ratio = 16 * (positivity-rate)^(0.5) + 2.5`
 
 ![Root relationship](/assets/images/estimate_true_infections_root.png)
 
-To see if this relationship passes the "common sense test", we can take a look at the US positivity rate over time (below). In March/April, the US positivity is around 20%, which corresponds to a prevalence ratio of roughly 10x the number of reported cases when using the function above. This seems to be a reasonable estimate, and matches estimates provided [by the CDC](https://www.washingtonpost.com/health/2020/06/25/coronavirus-cases-10-times-larger/). In New York and New Jersey during this period, test positivity was around 40-50%, which corresponds to a roughly 12-15x prevalence (later substantiated by [serology surveys](https://www.nytimes.com/2020/04/23/nyregion/coronavirus-antibodies-test-ny.html)). In June, when US positivity is around 5%, the function estimates a prevalence of roughly 6x the number of reported cases, which seems reasoanble. We use a y-intercept of 2.5 to indicate minimum prevalence ratio of 2.5x to account for asymptomatic individuals.
+To see if this relationship passes the "common sense test", we can take a look at the US positivity rate over time (below). In March/April, the US positivity is around 20%, which corresponds to a prevalence ratio of roughly 10x the number of reported cases when using the function above. This seems to be a reasonable estimate, and matches estimates provided [by the CDC](https://www.washingtonpost.com/health/2020/06/25/coronavirus-cases-10-times-larger/). In New York and New Jersey during this period, test positivity was around 40-50%, which corresponds to a roughly 12-15x prevalence (later substantiated by [serology surveys](https://www.nytimes.com/2020/04/23/nyregion/coronavirus-antibodies-test-ny.html)). In June, when US positivity is around 5%, the function estimates a prevalence of roughly 6x the number of reported cases, which seems reasonable. We use a y-intercept of 2.5 to indicate minimum prevalence ratio of 2.5x to account for asymptomatic individuals.
 
 ![US positivity rate](/assets/images/estimate_true_infections_us_prevalence_ratio.png)
 
@@ -148,7 +148,7 @@ One of the outputs generated by our model is the number of true infections in ea
 
 ## Putting it Together
 
-We can now plot all of the methods we described above together and see how they compare. Note that they follow roughly the same shape and magnitude.
+We can now plot all the methods we described above together and see how they compare. Note that they follow roughly the same shape and magnitude.
 
 ![True Infections Plot 3](/assets/images/estimate_true_infections_3.png)
 
@@ -184,7 +184,7 @@ We can use our prevalence ratio formula from [above](#prevalence-ratio) to estim
 
 You can see that the change in distribution from old to young is even more pronounced after accounting for test positivity. The ratio of prevalence in individuals ages 18-49 to prevalence in individuals ages 65+ went from roughly 2.5x in April to 10x in June. Since the infection fatality rate in those age 65+ is roughly 10-50x that of those ages 18-49, it's no surprise that the overall infection fatality rate in the US dropped significantly between March and July. The IFR is further lowered by improving treatments and earlier detection.
 
-As an addenum, the above chart can also explain why reported deaths in the US continued to fall through June despite an increase in cases: the increase in cases is largely driven by younger people with a low infection fatality rate. Unfortunately, the pattern in July indicates that the age distribution of infections is reverting back towards a higher median age of infection, resulting in a sharp spike in deaths in late July/early August. This will likely lead to an increase in the implied infection fatality rate in August and beyond, and is something that we will be monitoring.
+As an addendum, the above chart can also explain why reported deaths in the US continued to fall through June despite an increase in cases: the increase in cases is largely driven by younger people with a low infection fatality rate. Unfortunately, the pattern in July indicates that the age distribution of infections is reverting back towards a higher median age of infection, resulting in a sharp spike in deaths in late July/early August. This will likely lead to an increase in the implied infection fatality rate in August and beyond, and is something that we will be monitoring.
 
 [Back to Top](#top)
 
@@ -235,7 +235,7 @@ The IIFR in the US decreased from over 1% in March to 0.25% in July. Below, we p
 The above are explanations that would explain a *true* decrease in IFR. We believe the lower median age of infection and better protection of high-risk populations are the primary drivers behind the decrease in IIFR. Below are some reasons that could skew the IIFR lower, but not change the true IFR:
 
 - More comprehensive reporting of confirmed cases
-- Changes in the distribution of age groups tested (e.g. more younger people getting tested would skew IIFR down)
+- Changes in the distribution of age groups tested (e.g. more young people getting tested would skew IIFR down)
 - Inflation of the test positivity rate (e.g. double-counting positives, not reporting negatives, etc)
 - Longer lag in death reporting
 - Underreporting of deaths
@@ -250,7 +250,7 @@ Similar to how the term effective reproduction number measures the reproduction 
 
 Looking at the data, we see that transmissions in many severely-impacted states began to slow down in July, despite limited policy interventions. This is especially notable in states like Arizona, Florida, and Texas. While we believe that changes in human behavior and changes in policy (such as mask mandates and closing of bars/nightclubs) certainly contributed to the decrease in transmission, it seems unlikely that these were the primary drivers behind the decrease. We believe that many regions obtained a certain degree of temporary herd immunity after reaching 10-35% prevalence under the current conditions. We call this 10-35% threshold the effective herd immunity threshold, eHIT.
 
-A [basic method](https://academic.oup.com/cid/article/52/7/911/299077) to calculate standard the herd immunity threshold (HIT) is to use the basic reproduction number, R0: `HIT = 1 - 1/R0`. Back in March/April, we estimate R0 in the US to be around 2.3. This corresponds to a HIT of `1-1/2.3 = ~0.6`, or 60%. But the effective reproduction number, Rt, has decreased dramatically since then due to a variety of reasons such as greater population awareness, mask-wearing, reduced larger gatherings, and implementation of social distancing guidelines. The Rt in most regions around the US where there are outbreaks is now between 1.1-1.6. This corresponds to an effective herd immunity threhsold (eHIT) of 10-35%. As a result, it makes intuitive sense that we are seeing a decline in transmission after those regions reach a 10-35% prevalence.
+A [basic method](https://academic.oup.com/cid/article/52/7/911/299077) to calculate standard the herd immunity threshold (HIT) is to use the basic reproduction number, R0: `HIT = 1 - 1/R0`. Back in March/April, we estimate R0 in the US to be around 2.3. This corresponds to a HIT of `1-1/2.3 = ~0.6`, or 60%. But the effective reproduction number, Rt, has decreased dramatically since then due to a variety of reasons such as greater population awareness, mask-wearing, reduced larger gatherings, and implementation of social distancing guidelines. The Rt in most regions around the US where there are outbreaks is now between 1.1-1.6. This corresponds to an effective herd immunity threshold (eHIT) of 10-35%. As a result, it makes intuitive sense that we are seeing a decline in transmission after those regions reach a 10-35% prevalence.
 
 The above method is a very crude method to compute herd immunity thresholds. See paper by [Aguas et al.](https://www.medrxiv.org/content/10.1101/2020.07.23.20160762v1.full.pdf) for a better analysis of herd immunity thresholds for SARS-CoV-2 and the effects of population heterogeneity.
 
@@ -264,7 +264,7 @@ Lastly, note that reaching the effective herd immunity threshold does not stop t
 
 To conclude, we presented a simple heuristic that estimates the true prevalence of COVID-19 infections in a region. We also introduced the *implied infection fatality rate (IIFR)* that estimates the fatality rate as implied by the reported deaths and true prevalence.
 
-Using this methodology, we found that the prevalence is higher in the US during June/July (peak of ~500,000 infections/day) than in March/April (peak of ~300,000 new infections/day). However, the implied fatality rate is signifiantly lower in June/July (~0.25% IIFR) than in March/April (~1% IIFR).
+Using this methodology, we found that the prevalence is higher in the US during June/July (peak of ~500,000 infections/day) than in March/April (peak of ~300,000 new infections/day). However, the implied fatality rate is significantly lower in June/July (~0.25% IIFR) than in March/April (~1% IIFR).
 
 While this is by no means a comprehensive study, we hope this work can help other scientists and researchers better understand the changing dynamics of this disease over time.
 
