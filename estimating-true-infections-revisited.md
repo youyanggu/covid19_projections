@@ -53,7 +53,7 @@ In this report, we present two contributions:
 - A simple method to standardize the test positivity rate between states.
 - A simple function that maps the adjusted positivity rate and date to the prevalence ratio, defined as the ratio of true infections to confirmed cases. We can then use prevalence ratio and confirmed cases to estimate the true incidence of the disease in each US state and county.
 
-The US entered the third and most severe wave in the fall of 2020. While there were [many](https://youyanggu.com/blog/six-months-later#model-alternatives) resources for COVID-19 forecasting of cases and deaths in the future, there were very few resources that provided easily-accessible, real-time estimates of true infections. The few existing resources often had drastically different results and sometimes unrealistic values. For example, on November 11, 2020, when the US was reporting 125,000 cases per day, a model from the The Institute for Health Metrics and Evaluation at the University of Washington estimated true infections in the US to be between 166,000 and 266,000 per day, with a mean of 215,000 per day. This suggests a 47-75% detection rate, which is a somewhat unreasaonable estimate considering that an estimated [40%](https://www.cdc.gov/coronavirus/2019-ncov/hcp/planning-scenarios.html) of infected individuals are asymptomatic. The unreliability of existing resources and the high uncertainty of the future make it difficult for people to make decisions, whether they are regular citizens wondering if they should go home for Thanksgiving, or policy makers trying to determine how to best handle the outbreak. This is the motivation behind our work.
+The US entered the third and most severe wave in the fall of 2020. While there were [many](https://youyanggu.com/blog/six-months-later#model-alternatives) resources for COVID-19 forecasting of cases and deaths in the future, there were very few resources that provided easily-accessible, real-time estimates of true infections. The few existing resources often had drastically different results and sometimes unrealistic values. For example, on November 11, 2020, when the US was reporting 125,000 cases per day, a model from the Institute for Health Metrics and Evaluation at the University of Washington estimated true infections in the US to be between 166,000 and 266,000 per day, with a mean of 215,000 per day. This suggests a 47-75% detection rate, which is a somewhat unreasaonable estimate considering that an estimated [40%](https://www.cdc.gov/coronavirus/2019-ncov/hcp/planning-scenarios.html) of infected individuals are asymptomatic. The unreliability of existing resources and the high uncertainty of the future make it difficult for people to make decisions, whether they are regular citizens wondering if they should go home for Thanksgiving, or policy makers trying to determine how to best handle the outbreak. This is the motivation behind our work.
 
 It is difficult to predict the future if we do not even know what is currently happening. Hence, we wanted to make an easily accessible, easy-to-maintain model that can paint a clearer picture of what is currently happening in the United States. This approach is sometimes called "nowcasting". Unlike our past work in predicting future deaths early on in the pandemic, this most recent effort focuses solely on what has happened and what is currently happening. We hope that this work can be valuable in adding some degree of certainty to a highly uncertain period, whether it is for academics who are studying COVID-19 or concerned individuals worried about their family's well-being.
 
@@ -67,7 +67,7 @@ Please read the below disclaimers carefully to better understand what the model 
 
 - All of the work presented on this page has not been peer-reviewed, and so we encourage reading this with a healthy dose of skepticism. We hope that the reader can make their own conclusions based on the evidence we present. The methods are subject to change based on new data/evidence.
 
-- The a priori methods described here produce merely estimates of total infections and are by no means definitive. In fact, by only using confirmed cases and testing data, we are missing the granularity that could be provided had we also included hospitalization and death data. This is done intentionally because we wanted a fast and simple way to estimate infections. More complex/sophisticated models take time to conceptialize, implement, and refine. Unfortunately, at the time this project was started in November 2020, time was of the essence. Some regions in the US were "flying blind" due to the lack of reliable data and estimates. Hence, we decided to stick to a simple methodology that can generate a reasonable output sooner rather than later. Over time, we can dedicate more time to refining the methodology by incorporating additional data sources.
+- The a priori methods described here produce merely estimates of total infections and are by no means definitive. In fact, by only using confirmed cases and testing data, we are missing the granularity that could be provided had we also included hospitalization and death data. This is done intentionally because we wanted a fast and simple way to estimate infections. More complex/sophisticated models take time to conceptualize, implement, and refine. Unfortunately, at the time this project was started in November 2020, time was of the essence. Some regions in the US were "flying blind" due to the lack of reliable data and estimates. Hence, we decided to stick to a simple methodology that can generate a reasonable output sooner rather than later. Over time, we can dedicate more time to refining the methodology by incorporating additional data sources.
 
 - This approach was optimized on data from the United States. Assumptions are made based on the overall testing availability in the US (i.e. low availability in Spring 2020 to widespread availability by Fall 2020). Hence, in its unedited form, the estimates are not necessarily applicable to countries outside the US, where testing guidelines and procedures may be drastically different. Even between states and US territories, the guidelines can differ, which may skew the results (e.g. stricter requirements than the rest of the country would lead to an underestimate of the true prevalence). With that said, it is possible to extend our model to refit the prevalence curve for each new region.
 
@@ -99,7 +99,7 @@ Please read the below disclaimers carefully to better understand what the model 
 
 Reporting of COVID-19 tests is not standardized in the United States. Different states have completely different criteria and units for reporting test data. We will not attempt to explain the details here, but we will refer the reader to an [overview](https://covidtracking.com/about-data/total-tests) and [writeup](https://covidtracking.com/blog/test-positivity-in-the-us-is-a-mess) by *The COVID Tracking Project*.
 
-While most states report test totals by "test encounters" or "test specimens", a few select states such as South Dakota reports tests based on "unique people". This means that if a resident has previously received a COVID-19 test, they will only be included a single time in the "total tests". As the writeups in the previous paragraph explain, this method of counting tests can artificially inflate the daily test positivity rate, since repeated negative tests by the same person are all discarded (unless it is the first test). So while the data would suggest that the test positivty rate in South Dakota was over 50% in November 2020, in reality, the test positivity rate is closer to 20-25% once we count test specimens rather than unique people.
+While most states report test totals by "test encounters" or "test specimens", a few select states such as South Dakota reports tests based on "unique people". This means that if a resident has previously received a COVID-19 test, they will only be included a single time in the "total tests". As the writeups in the previous paragraph explain, this method of counting tests can artificially inflate the daily test positivity rate, since repeated negative tests by the same person are all discarded (unless it is the first test). So while the data would suggest that the test positivity rate in South Dakota was over 50% in November 2020, in reality, the test positivity rate is closer to 20-25% once we count test specimens rather than unique people.
 
 While we focus only on PCR tests, some states conflate PCR and antigen tests in their reporting. This would artificially inflate the number of tests, though it's unclear to what degree this would affect the positivity rate.
 
@@ -194,7 +194,7 @@ To further smooth the data, we take the 7-day moving average of the true new dai
 
 #### US estimates using nationwide data
 
-For estimate true infections in the US as a whole, we can compute the true prevalence ratio by passing in the daily country-wide positivity rate and date to our approximation function above. We then multiply the true prevalence ratio by the number of confirmed cases each day to get the number of true new infections. following the steps explained in the previous section. We can now plot the results:
+For estimate true infections in the US as a whole, we can compute the true prevalence ratio by passing in the daily country-wide positivity rate and date to our approximation function above. We then multiply the true prevalence ratio by the number of confirmed cases each day to get the number of true new infections. Following the steps explained in the previous section. We can now plot the results:
 
 ![True Infections US nationwide](/assets/images/etir_true_infections1.png)
 
@@ -266,7 +266,7 @@ Using CDC's [COVIDView Data](https://www.cdc.gov/coronavirus/2019-ncov/covid-dat
 
 ![CDC - Cases by age](/assets/images/etir_age_distribution1.png)
 
-Of course, there can be selection bias on how different age groups are getting tested. One can argue that the reason there is a higher proportion of older people in March/April relative to June/July is because testing was limited, and hence older individuals were prioritized for testing. If that were the case, one would expect that older age groups have a lower positivity rate than the younger age groups (since we are catching more cases). But if looking at the data, the opposite is true: in March/April, the older age groups actually had a *higher* positivity rate than the younger age groups. By our prevalence ratio calculation above, this indicates that the prevalence is actually even higher in the older age groups than the younger age groups. Intuitively, this may be explained by susceptibility: older individuals are more susceptable and hence more likely to catch the virus early on, especially when prevalence was low. This trend was reversed starting in May, and now younger age groups have a higher positivity rate than older age groups.
+Of course, there can be selection bias on how different age groups are getting tested. One can argue that the reason there is a higher proportion of older people in March/April relative to June/July is because testing was limited, and hence older individuals were prioritized for testing. If that were the case, one would expect that older age groups have a lower positivity rate than the younger age groups (since we are catching more cases). But if looking at the data, the opposite is true: in March/April, the older age groups actually had a *higher* positivity rate than the younger age groups. By our prevalence ratio calculation above, this indicates that the prevalence is actually even higher in the older age groups than the younger age groups. Intuitively, this may be explained by susceptibility: older individuals are more susceptible and hence more likely to catch the virus early on, especially when prevalence was low. This trend was reversed starting in May, and now younger age groups have a higher positivity rate than older age groups.
 
 We can use our prevalence ratio formula from [above](#prevalence-ratio) to estimate the proportion of true infections by age group given the number of confirmed cases and test positivity rates on each date:
 
@@ -274,13 +274,13 @@ We can use our prevalence ratio formula from [above](#prevalence-ratio) to estim
 
 You can see that the change in distribution from old to young is even more pronounced after accounting for test positivity. The ratio of prevalence in individuals ages 18-49 to prevalence in individuals ages 65+ went from roughly 1x in March to 10x in June. Since the infection fatality rate in those age 65+ is roughly 10-50x that of those ages 18-49, it's no surprise that the overall infection fatality rate in the US dropped significantly between March and July. The IFR is further lowered by improving treatments and earlier detection.
 
-As an addenum, the above chart can also explain why reported deaths in the US continued to fall through June despite an increase in cases: the increase in cases is largely driven by younger people with a low infection fatality rate. Unfortunately, the pattern in July suggests that the age distribution of infections reverted back towards a higher median age of infection, resulting in a sharp spike in deaths twards the end of July.
+As an addendum, the above chart can also explain why reported deaths in the US continued to fall through June despite an increase in cases: the increase in cases is largely driven by younger people with a low infection fatality rate. Unfortunately, the pattern in July suggests that the age distribution of infections reverted back towards a higher median age of infection, resulting in a sharp spike in deaths twards the end of July.
 
 [Back to Top](#top)
 
 ### Implied Infection Fatality Rate (IIFR)
 
-We can use these estimates of true infections to compute the *implied infection fatality rate (IIFR)* for the US by taking the reported deaths from 28 days into the future (7-day moving average) and dividing it by the true infections (7-day moving average). The IIFR in our calculation only looks at official, reported COVID-19 deaths. If there are a significant amount of excess/unreported COVID-19 deaths, then our IIFR estimate will be an underestimate of the true IFR. See work from the [Weinberger Lab](https://weinbergerlab.github.io/excess_pi_covid/) for their analysis of excess deaths.
+We can use these estimates of true infections to compute the *implied infection fatality rate (IIFR)* for the US by taking the reported deaths from 28 days into the future (7-day moving average) and dividing it by the true infections (7-day moving average). The IIFR in our calculation only looks at official, reported COVID-19 deaths. If there are significant amounts of excess/unreported COVID-19 deaths, then our IIFR estimate will be an underestimate of the true IFR. See work from the [Weinberger Lab](https://weinbergerlab.github.io/excess_pi_covid/) for their analysis of excess deaths.
 
 ![IFR Estimate - US](/assets/images/etir_iifr1.png)
 
@@ -317,19 +317,19 @@ The exact relationship between positivity rate and prevalence ratio may be diffe
 
 ### Lower IIFR Over Time
 
-We've shown that the implied infection fatality rate (IIFR) in the US have decreased from over 1% in March to around 0.5% from July onwards. Below, we present a few possible explanations to why the IIFR in the US has decreased significantly since March/April.
+We've shown that the implied infection fatality rate (IIFR) in the US have decreased from over 1% in March to around 0.5% from July onward. Below, we present a few possible explanations to why the IIFR in the US has decreased significantly since March/April.
 
 - Lower median age of infection (see [previous section](#distribution-of-infections-by-age))
 - Improved treatment (new drugs, better allocation of resources, more experience among staff, etc)
 - Better protection of vulnerable populations ([nearly half of COVID-19 deaths](https://www.wsj.com/articles/coronavirus-deaths-in-u-s-nursing-long-term-care-facilities-top-50-000-11592306919) in March/April were in care homes)
 - Earlier detection
 - [Seasonality](https://www.medrxiv.org/content/10.1101/2020.07.11.20147157v2)
-- Selection bias (Higher susceptibibility in individuals who contracted the virus earlier on)
+- Selection bias (Higher susceptibility in individuals who contracted the virus earlier on)
 
 The above explanations would explain a *true* decrease in IFR. Below are some reasons that could skew the IIFR lower, but not change the true infection fatality rate:
 
 - More comprehensive reporting of confirmed cases
-- Changes in the distribution of age groups tested (e.g. more younger people getting tested would skew IIFR down)
+- Changes in the distribution of age groups tested (e.g. more young people getting tested would skew IIFR down)
 - Inflation of the test positivity rate (e.g. double-counting positives, not reporting negatives, etc)
 - Longer lag in death reporting
 - Underreporting of deaths
@@ -338,9 +338,9 @@ The above explanations would explain a *true* decrease in IFR. Below are some re
 
 ## Conclusion
 
-To conclude, we presented a simple nowcasting model that standardizes the test positivty rates of every US state and estimates the true prevalence of COVID-19 infections in the United States.
+To conclude, we presented a simple nowcasting model that standardizes the test positivity rates of every US state and estimates the true prevalence of COVID-19 infections in the United States.
 
-Using this methodology, we found that the peak prevalence is roughly equal in the US during June/July and during in March/April (peak of ~300,000 new infections per day), but significantly higher in October-December (over 500,000 new infections per day). However, the implied fatality rate is lower from June onwards (~0.5% IIFR) compared to March-April (~1% IIFR).
+Using this methodology, we found that the peak prevalence is roughly equal in the US during June/July and during in March/April (peak of ~300,000 new infections per day), but significantly higher in October-December (over 500,000 new infections per day). However, the implied fatality rate is lower from June onward (~0.5% IIFR) compared to March-April (~1% IIFR).
 
 While this is by no means a comprehensive study, we hope this work can help other scientists and researchers better understand the changing dynamics of this disease over time.
 
