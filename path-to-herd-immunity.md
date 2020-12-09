@@ -12,6 +12,7 @@ With the availability of the COVID-19 vaccine in the horizon, we present our bes
 
 ## Table of Contents
 * [Summary](#summary)
+* [Disclaimers](#disclaimers)
 * [Assumptions](#assumptions)
 * [Corollaries](#corollaries)
 * [Questions? Comments? Feedback?](#questions-comments-feedback)
@@ -25,9 +26,16 @@ With the availability of the COVID-19 vaccine in the horizon, we present our bes
 {% include iframe_vaccination.html %}
 [Back to Top](#top)
 
+## Disclaimers
+
+- This writeup has not been peer-reviewed in an academic journal.
+- The author is not an epidemiologist.
+- The results presented here are merely estimates based on a set of assumptions, so please use caution when utilizing the results.
+- If any of the assumptions used to generate these estimates do not hold, then the results may be drastically different.
+
 ## Assumptions
 
-The underlying assumptions behind our estimates are presented below. As usual, the results presented here are merely estimates based on a set of assumptions, so please use caution when utilizing the results. **Please keep in mind that if any of the below assumptions do not hold, then the results may be drastically different.**
+The underlying assumptions behind our estimates are presented below.
 
 ### Basic Assumptions
 
