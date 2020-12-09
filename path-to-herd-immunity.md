@@ -10,15 +10,20 @@ permalink: /path-to-herd-immunity/
 
 Below, we present our current best estimate of the US path to COVID-19 herd immunity, given what we currently know about the available vaccines and infection rates. Herd immunity will be reached via immunity from two sources: vaccination and infection.
 
-{% include iframe_vaccination.html %}
-
 ## Summary
 - We believe herd immunity (60% immune) will be reached in the US by late summer/early fall 2021 (September-November).
 - At the time herd immunity is reached, roughly half of the immunity will be achieved via infection, and the other half will be achieved via vaccination.
 - New COVID-19 infections may become negligible before herd immunity is reached. Our current best estimate is summer 2021 (July-September).
 - As a result of the above findings, our best estimate of a complete "return to normal" is late summer 2021 (August-October).
 
+{% include iframe_vaccination.html %}
+
 The underlying assumptions behind our estimates are presented below.
+
+## Basic Assumptions
+
+- We assume immunity can be achieved through either infection or vaccination.
+- We assume herd immunity is achieved when at least 60% of the population are immune to the SARS-CoV-2 virus. Due to population heterogeneity and variation in susceptibility, it is possible that the herd immunity threhsold can be lower.
 
 ## Vaccination Assumptions
 
@@ -36,5 +41,5 @@ The underlying assumptions behind our estimates are presented below.
 - We assume roughly 17% of the population have been infected as of mid-December.
 - We assume a small proportion of the infected population (~10%) will lose their immunity over time.
 - We assume that the infection rate will fall as the number of individuals who are inoculated/vaccinated increases.
-- We assume infections will decrease from mid-December to February. We account for the possibility of another wave of infections in late winter (February-March).
+- We assume infections will decrease from mid-December 2020 to February 2021. We account for the possibility of another wave of infections in late winter (February-March).
 - We compute the population "immune via infection" by taking the total number of infected individuals and subtracing the estimated number of individuals who lost their immunity
