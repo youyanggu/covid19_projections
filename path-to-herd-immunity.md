@@ -5,8 +5,8 @@ permalink: /path-to-herd-immunity/
 ---
 
 # Path to Herd Immunity: 2021 Outlook of COVID-19 in the US
-
-*Last Updated: December 9, 2020*
+By: [Youyang Gu](https://youyanggu.com)
+December 9, 2020
 
 Below, we present our current best estimate of the path to COVID-19 herd immunity in the United States, given what we currently know about the available vaccines and infection rates. Herd immunity will be reached through immunity from two sources: vaccination and infection.
 
@@ -42,4 +42,8 @@ The underlying assumptions behind our estimates are presented below.
 - We assume a small proportion of the infected population (~10%) will lose their immunity over time.
 - We assume that the infection rate will fall as the number of individuals who are inoculated/vaccinated increases.
 - We assume infections will decrease from mid-December 2020 to February 2021. We account for the possibility of another wave of infections in late winter (February-March).
-- We compute the population "immune via infection" by taking the total number of infected individuals and subtracing the estimated number of individuals who lost their immunity
+- We compute the population "immune via infection" by taking the total number of infected individuals and subtracing the estimated number of individuals who lost their immunity.
+
+## Questions? Comments? Feedback?
+
+You can reach out to Youyang Gu via the [Contact](/contact) page.
