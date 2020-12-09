@@ -52,7 +52,7 @@ The underlying assumptions behind our estimates are presented below:
 
 - We currently model the rollout of two vaccines: Pfizer and Moderna. There will be more vaccines in 2021 (e.g. Johnson & Johnson), but by then we believe supply will no longer be the bottleneck.
 - We assume roughly 60% of the US population will take at least one dose of the vaccine by the end of 2021.
-- We assume an individual has been inoculated/vaccinated after they receive the first of two doses. However, in reality, an individual may still susceptible for the first few weeks following the first dose.
+- We assume an individual has been vaccinated after they receive the first of two doses. However, in reality, an individual may still susceptible for the first few weeks following the first dose. We assume most, but not all individuals will receive the second dose.
 - We assume a 85% vaccine efficacy. While the trial data demonstrate >90% efficacy, we believe that the efficacy in the general population will be slightly lower due to the fact that a sizable proportion of the population may miss the second vaccine dose.
 - We assume vaccinations will begin in mid-December following the FDA Emergency Use Authorization (EUA) approval.
 - We assume the general population will begin receiving vaccinations in late spring/early summer (Apr-Jun 2021). We assume children will begin receiving vaccinations in late summer/early fall (Aug-Oct 2021).
