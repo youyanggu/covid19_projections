@@ -15,6 +15,7 @@ We present our current best estimate of the path to COVID-19 herd immunity in th
 - At the time herd immunity is reached, roughly half of the immunity will be achieved via infection, and the other half will be achieved via vaccination.
 - New COVID-19 infections may become negligible before herd immunity is reached. Our current best estimate of when new community transimssions will drop below 1,000 per day is summer 2021 (July-September 2021).
 - As a result of the above findings, our best estimate of a complete "return to normal" is late summer 2021 (August-October 2021).
+- We estimate 30% of the US population will have been infected by the SARS-CoV-2 virus by the end of 2021. This translates to a final US COVID-19 death toll of roughly 500,000  (400-600k) reported deaths.
 
 {% include iframe_vaccination.html %}
 
@@ -42,7 +43,12 @@ The underlying assumptions behind our estimates are presented below. **Please ke
 - We assume a small proportion of the infected population (~10%) will lose their immunity over time, starting at 6 months after infection.
 - We assume that the infection rate will fall as the number of individuals who are inoculated/vaccinated increases.
 - We assume infections will decrease from mid-December 2020 to February 2021. We account for the possibility of another wave of infections in late winter (February-March).
+- We use a basic SEIR model to estimate infections over time.
 - We compute the population "immune via infection" by taking the total number of infected individuals and subtracing the estimated number of individuals who lost their immunity.
+
+## Corollaries
+
+- Our estimates show that roughly 30% of the US population will have been infected by the SARS-CoV-2 virus by the end of 2021. Translating this to deaths, we believe that the final US COVID-19 death toll will be roughly 400,000 to 600,000 reported deaths, with 500,000 deaths being the best estimate. This estimate may change if the assumptions presented above are no longer true (e.g. deaths will be lower if vaccine rollout is faster than expected; deaths will be higher if the efficacy is lower than expected).
 
 ## Questions? Comments? Feedback?
 
