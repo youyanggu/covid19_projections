@@ -10,6 +10,7 @@ Jump to section:
 
 For regular updates and insights, follow Youyang Gu on Twitter: <a href="https://twitter.com/youyanggu" class="twitter-follow-button" data-show-count="false">@youyanggu</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+* **December 9:** See our latest writeup, [Path to Herd Immunity: 2021 Outlook of COVID-19 in the US](/path-to-herd-immunity), which models how the COVID-19 vaccine can help the US achieve herd immunity.
 * *December 3:* New updates this week: [maps over time](/maps-infections), plots of reported cases and deaths on every page, and [downloadable](https://github.com/youyanggu/covid19-infection-estimates-counties) daily infection estimates for every US county. We also added plots of reported tests and hospitalizations to the bottom of every page.
 * **November 25:** We have released an initial draft of our methodology: [Estimating True Infections Revisited: A Simple Nowcasting Model to Estimate Prevalent Cases in the US](/estimating-true-infections-revisited).
 * *November 23:* We released detailed county-by-county estimates for every US county. You can view them [below](#us-counties-infections-estimates). You can view maps of these estimates on the new [Maps](/maps-infections) page.
