@@ -68,6 +68,7 @@ The underlying assumptions behind our estimates are presented below. As usual, t
 - Our estimates show that roughly 30% of the US population (100 million) will have been infected by the SARS-CoV-2 virus by the end of 2021.
 - A 30% prevalence estimate translates to a final US COVID-19 death toll of roughly 400,000 to 600,000 reported deaths, with 500,000 deaths being the best estimate. This estimate may change if the assumptions presented above are no longer true (e.g. deaths will be lower if vaccine rollout is faster than expected; deaths will be higher if the efficacy is lower than expected).
 - Due to the high prevalence, a targeted approach for vaccination that prioritizes individuals who are more likely to be susceptible may improve the time to reach herd immunity.
+- Due to possible low vaccine acceptance/uptake and waning immunity from natural infection, it is possible that the US will not reach immunity levels above 70%. In most scenarios, even 50-70% immunity should be sufficient to prevent new outbreaks.
 
 [Back to Top](#top)
 
