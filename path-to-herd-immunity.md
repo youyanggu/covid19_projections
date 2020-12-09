@@ -52,13 +52,13 @@ The underlying assumptions behind our estimates are presented below:
 
 - We currently model the rollout of two vaccines: Pfizer and Moderna. There will be more vaccines in 2021 (e.g. Johnson & Johnson), but by then we believe supply will no longer be the bottleneck.
 - We assume roughly 60% of the US population will take at least one dose of the vaccine by the end of 2021.
-- We assume an individual has been vaccinated after they receive the first of two doses. However, in reality, an individual may still susceptible for the first 1-4 weeks following the first dose. We assume the majority of individuals (but not all) will receive the second dose.
+- We assume an individual has been vaccinated after they receive the first of two doses. However, in reality, an individual may still be susceptible for the first 1-4 weeks following the first dose. We assume the majority of individuals (but not all) will receive the second dose.
 - We assume a 85% vaccine efficacy. While the trial data demonstrate >90% efficacy, we believe that the efficacy in the general population will be slightly lower due to the fact that a sizable proportion of the population may miss the second vaccine dose.
 - We assume vaccinations will begin in mid-December following the FDA Emergency Use Authorization (EUA) approval.
 - We assume the general population will begin receiving vaccinations in late spring/early summer (Apr-Jun 2021). We assume children will begin receiving vaccinations in late summer/early fall (Aug-Oct 2021).
 - We assume a smooth vaccine rollout (no major issues or halts).
 - We assume a proportion of the vaccinated population already possess immunity via infection. For simplicity, this proportion is equal to the percentage of the population that have immunity via infection. If an individual possesses immunity from both vaccination and infection, we do not count this individual as "immune via vaccination".
-- We compute the population "immune via vaccination" by taking the total vaccinated, subtracing the estimated number of individuals who already possess immunity via infection, and multiplying the resulting number by the vaccine efficacy (85%).
+- We compute the population "immune via vaccination" by taking the total vaccinated, subtracting the estimated number of individuals who already possess immunity via infection, and multiplying the resulting number by the vaccine efficacy (85%).
 
 [Back to Top](#top)
 
@@ -69,7 +69,7 @@ The underlying assumptions behind our estimates are presented below:
 - We assume that the infection rate will fall as the number of individuals who are inoculated/vaccinated increases.
 - We assume infections will decrease from mid-December 2020 to February 2021. We account for the possibility of another wave of infections in late winter (February-March).
 - We use a basic SEIR model to estimate infections over time.
-- We compute the population "immune via infection" by taking the total number of infected individuals and subtracing the estimated number of individuals who lost their immunity.
+- We compute the population "immune via infection" by taking the total number of infected individuals and subtracting the estimated number of individuals who lost their immunity.
 
 [Back to Top](#top)
 
