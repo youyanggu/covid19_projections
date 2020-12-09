@@ -12,7 +12,6 @@ We present our current best estimate of the path to COVID-19 herd immunity in th
 
 ## Table of Contents
 * [Summary](#summary)
-* [Plots](#plots)
 * [Assumptions](#assumptions)
 * [Corollaries](#corollaries)
 * [Questions? Comments? Feedback?](#questions-comments-feedback)
@@ -23,10 +22,6 @@ We present our current best estimate of the path to COVID-19 herd immunity in th
 - New COVID-19 infections may become negligible before herd immunity is reached. Our current best estimate of when new community transimssions will drop below 1,000 per day is summer 2021 (Jul-Sep 2021).
 - As a result of the above findings, our best estimate of a complete "return to normal" is late summer 2021 (Aug-Oct 2021).
 - We estimate 30% of the US population (100 million) will have been infected by the SARS-CoV-2 virus by the end of 2021. This translates to a final US COVID-19 death toll of roughly 500,000 (400-600k) reported deaths.
-
-[Back to Top](#top)
-
-## Plots
 {% include iframe_vaccination.html %}
 [Back to Top](#top)
 
