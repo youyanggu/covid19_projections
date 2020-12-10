@@ -34,6 +34,7 @@ With the availability of the COVID-19 vaccine in the near horizon, we present ou
 - This writeup has not been peer-reviewed in an academic journal.
 - Only publicly available data are used.
 - The results presented here are merely estimates based on a set of assumptions, so please use caution when utilizing the results.
+- For the majority of the assumptions with numerical values, the exact numerical value has a relatively minor impact on the final results (e.g. changing vaccine efficacy from 85% to 90% results in a 10-day shift in when herd immunity is reached).
 - If any of the assumptions used to generate these estimates do not hold, then the results may be drastically different.
 - These estimates are subject to change based on new data/evidence.
 
