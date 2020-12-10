@@ -6,9 +6,9 @@ permalink: /path-to-herd-immunity/
 
 # Path to Herd Immunity: 2021 Outlook of COVID-19 in the US
 By: [Youyang Gu](https://youyanggu.com)
-<br>December 9, 2020 *(Last Updated: December 9, 2020)
+<br>December 9, 2020 *(Last Updated: December 9, 2020)*
 
-With the availability of the COVID-19 vaccine in the horizon, we present our best current estimate of the path to COVID-19 herd immunity in the United States. Herd immunity will be reached through immunity from two sources: vaccination and natural infection.
+With the availability of the COVID-19 vaccine in the near horizon, we present our best current estimate of the path to COVID-19 herd immunity in the United States. Herd immunity will be reached through immunity from two sources: vaccination and natural infection.
 
 ## Table of Contents
 * [Summary](#summary)
