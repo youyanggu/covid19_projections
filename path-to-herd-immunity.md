@@ -68,7 +68,7 @@ The underlying assumptions behind our estimates are presented below:
 - While various reports suggest over 100 million doses will be available by April, we believe initial vaccine acceptance will be the main bottleneck.
 - We assume the general population will begin receiving vaccinations in late spring/early summer (Apr-Jun 2021). We assume children and adolescents will begin receiving vaccinations in late summer/early fall (Aug-Oct 2021).
 - We assume a smooth vaccine rollout (no major issues or halts).
-- We assume a proportion of the vaccinated population already possess immunity via infection. For simplicity, this proportion is equal to the percentage of the population that have immunity via infection. If an individual possesses immunity from both vaccination and infection, we do not count this individual as "immune via vaccination".
+- We assume a proportion of the vaccinated population already possess immunity via infection. For simplicity, we assume individuals who have immunity from infection will get vaccinated at the same rate. If an individual possesses immunity from both vaccination and infection, we only count this individual as "immune via infection".
 - We compute the population "immune via vaccination" by taking the total vaccinated, subtracting the estimated number of individuals who already possess immunity via infection, and multiplying the resulting number by the vaccine efficacy (85%).
 
 [Back to Top](#top)
