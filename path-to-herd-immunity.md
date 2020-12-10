@@ -18,10 +18,10 @@ With the availability of the COVID-19 vaccine in the horizon, we present our bes
 * [Questions? Comments? Feedback?](#questions-comments-feedback)
 
 ## Summary
-- We believe COVID-19 herd immunity (>60% of population immune) will be reached in the US by late summer/early fall 2021 (Sep-Nov 2021).
+- We believe COVID-19 herd immunity (>60% of population immune) will be reached in the US by summer 2021 (Jul-Sep 2021).
 - At the time herd immunity is reached, roughly half of the immunity will be achieved via natural infection, and the other half will be achieved via vaccination.
-- New COVID-19 infections may become negligible before herd immunity is reached. Our current best estimate of when daily community transmissions will drop below 1,000 per day is summer 2021 (Jul-Sep 2021).
-- Summarizing the above findings, our best estimate of a complete "return to normal" in the US is late summer 2021 (Aug-Oct 2021).
+- New COVID-19 infections may become negligible before herd immunity is reached. Our current best estimate of when daily community transmissions will drop below 1,000 per day is early summer 2021 (Jun-Aug 2021).
+- Summarizing the above findings, our best estimate of a complete "return to normal" in the US is summer 2021 (Jul-Aug 2021).
 - We estimate around 30% of the US population (~100 million) will have been infected by the SARS-CoV-2 virus by the end of 2021. This translates to a final US COVID-19 death toll of roughly 500,000 (+/-100k) reported deaths.
 {% include iframe_vaccination.html %}
 [Back to Top](#top)
@@ -52,7 +52,7 @@ The underlying assumptions behind our estimates are presented below:
 
 - **Important:** We assume an individual has been vaccinated after they receive the first of two doses. However, in reality, an individual may still be susceptible for the first 1-4 weeks following the first dose. We assume the majority of individuals (but not all) will receive the second dose.
 - We currently model the rollout of two vaccines: Pfizer and Moderna. There will be more vaccines in 2021 (e.g. Johnson & Johnson), but by then we believe supply will no longer be the bottleneck.
-- We assume roughly 60% of the US population will take at least one dose of the vaccine by the end of 2021.
+- We assume roughly two-thirds of the US population will take at least one dose of the vaccine by the end of 2021. This is slightly higher than the 50% vaccine coverage for the common flu.
 - We assume a 85% vaccine efficacy. While the trial data demonstrate >90% efficacy, we believe that the efficacy in the general population will be slightly lower due to the fact that a sizable proportion of the population may miss the second vaccine dose.
 - We assume vaccinations will begin in mid-December following the FDA Emergency Use Authorization (EUA) approval.
 - Many of the assumptions in this writeup come from the [December 10 FDA Briefing Document](https://www.fda.gov/media/144245/download) for the Pfizer vaccine.
