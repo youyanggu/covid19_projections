@@ -20,7 +20,7 @@ With the availability of the COVID-19 vaccine in the near horizon, we present ou
 ## Summary
 - We believe COVID-19 herd immunity (>60% of population immune) will be reached in the US during summer 2021 (Jul-Sep 2021).
 - At the time herd immunity is reached, roughly half of the immunity will be achieved through natural infection, and the other half will be achieved through vaccination.
-- New infections may become minimal before herd immunity is reached (Jun-Aug 2021). But due to imported cases and localized clusters, it is unlikely that new infections will drop to zero until 2022, despite herd immunity being reached.
+- New infections may become minimal before herd immunity is reached (Jun-Aug 2021). But due to imported cases and localized clusters, it is unlikely that new infections will drop to zero until 2022.
 - Deaths may drop to low levels even earlier (May-Jul 2021), in part due to a vaccine distribution strategy that initially targets high-risk individuals. Once deaths fall to minimal levels, we may begin seeing a relaxation of restrictions.
 - Summarizing the above findings, our best estimate of a complete "return to normal" in the US is mid-summer 2021 (Jun-Aug 2021).
 - We estimate around one-third of the US population (~110 million) will have been infected by the SARS-CoV-2 virus by the end of 2021. That is an additional 40 million infections since mid-December 2020.
@@ -35,7 +35,7 @@ With the availability of the COVID-19 vaccine in the near horizon, we present ou
 - This writeup has not been peer-reviewed in an academic journal.
 - Only publicly available data are used.
 - The results presented here are merely estimates based on a set of assumptions, so please use caution when utilizing the results.
-- For the majority of the assumptions with numerical values, the exact numerical value has a relatively minor impact on the final results (e.g. changing vaccine efficacy from 85% to 90% results in a 10-day shift in when herd immunity is reached).
+- For the majority of the assumptions with numerical values, the exact numerical values have relatively minor impacts on the final results (e.g. changing vaccine efficacy from 85% to 90% results in a 10-day shift in when herd immunity is reached).
 - If any of the assumptions used to generate these estimates do not hold, then the results may be drastically different.
 - These estimates are subject to change based on new data/evidence.
 
