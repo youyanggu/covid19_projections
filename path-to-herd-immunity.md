@@ -6,7 +6,7 @@ permalink: /path-to-herd-immunity/
 
 # Path to Herd Immunity: 2021 Outlook of COVID-19 in the US
 By: [Youyang Gu](https://youyanggu.com)
-<br>December 9, 2020
+<br>December 9, 2020 *(Last Updated: December 9, 2020)
 
 With the availability of the COVID-19 vaccine in the horizon, we present our best current estimate of the path to COVID-19 herd immunity in the United States. Herd immunity will be reached through immunity from two sources: vaccination and natural infection.
 
@@ -22,7 +22,7 @@ With the availability of the COVID-19 vaccine in the horizon, we present our bes
 - At the time herd immunity is reached, roughly half of the immunity will be achieved via natural infection, and the other half will be achieved via vaccination.
 - New COVID-19 infections may become negligible before herd immunity is reached. Our current best estimate of when daily community transmissions will drop below 1,000 per day is early summer 2021 (Jun-Aug 2021).
 - Summarizing the above findings, our best estimate of a complete "return to normal" in the US is summer 2021 (Jul-Aug 2021).
-- We estimate around 30% of the US population (~100 million) will have been infected by the SARS-CoV-2 virus by the end of 2021. This translates to a final US COVID-19 death toll of roughly 500,000 (+/-100k) reported deaths.
+- We estimate around 30% of the US population (~100 million) will have been infected by the SARS-CoV-2 virus by the end of 2021. That is an additional 40M (12%) since mid-December 2020. This translates to a final US COVID-19 death toll of roughly 500,000 (+/-100k) reported deaths, or ~200,000 additional deaths since mid-December 2020.
 {% include iframe_vaccination.html %}
 [Back to Top](#top)
 
@@ -77,8 +77,8 @@ The underlying assumptions behind our estimates are presented below:
 
 ## Corollaries
 
-- Our estimates show that roughly 30% of the US population (~100 million) will have been infected by the SARS-CoV-2 virus by the end of 2021.
-- A 30% prevalence estimate translates to a final US COVID-19 death toll of roughly 400,000 to 600,000 reported deaths, with 500,000 deaths being the best estimate. This estimate may change if the assumptions presented above are no longer true (e.g. deaths will be lower if vaccine rollout is faster than expected; deaths will be higher if the efficacy is lower than expected).
+- Our estimates show that roughly 30% of the US population (~100 million) will have been infected by the SARS-CoV-2 virus by the end of 2021. That is an additional 40 million infections (12%) since mid-December 2020.
+- A 30% prevalence estimate translates to a final US COVID-19 death toll of roughly 400,000 to 600,000 reported deaths, with 500,000 deaths being the best estimate. Given a mid-December 2020 death toll of 300,000, that is an additional 200,000 deaths. This estimate may change if the assumptions presented above are no longer true (e.g. deaths will be lower if vaccine rollout is faster than expected; deaths will be higher if the efficacy is lower than expected).
 - Due to the high prevalence, a targeted approach for vaccination that prioritizes individuals who are more likely to be susceptible may improve the time to reach herd immunity.
 - Due to possible low vaccine acceptance/uptake and waning immunity from natural infection, it is possible that the US will not reach immunity levels above 70%. In most scenarios, even 50-70% immunity should be sufficient to prevent new outbreaks.
 
