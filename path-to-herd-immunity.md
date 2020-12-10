@@ -21,7 +21,7 @@ With the availability of the COVID-19 vaccine in the near horizon, we present ou
 - We believe COVID-19 herd immunity (>60% of population immune) will be reached in the US during summer 2021 (Jul-Sep 2021).
 - At the time herd immunity is reached, roughly half of the immunity will be achieved through natural infection, and the other half will be achieved through vaccination.
 - New infections may become minimal before herd immunity is reached (Jun-Aug 2021). But due to imported cases and localized clusters, it is unlikely that new infections will drop to zero until 2022.
-- Deaths may drop to low levels even earlier (May-Jul 2021), in part due to a vaccine distribution strategy that initially targets high-risk individuals. Once deaths fall to minimal levels, we may begin seeing a relaxation of restrictions.
+- Deaths may drop to low levels even earlier (May-Jul 2021), in part due to a vaccine distribution strategy that initially prioritizes high-risk individuals. Once deaths fall to minimal levels, we may begin seeing a relaxation of restrictions.
 - Summarizing the above findings, our best estimate of a complete "return to normal" in the US is mid-summer 2021 (Jun-Aug 2021).
 - We estimate around one-third of the US population (~110 million) will have been infected by the SARS-CoV-2 virus by the end of 2021. That is an additional 40 million infections since mid-December 2020.
 - This translates to a final US COVID-19 death toll of roughly 500,000 (+/-100k) reported deaths, or ~200,000 additional deaths since mid-December 2020.
