@@ -61,12 +61,13 @@ The underlying assumptions behind our estimates are presented below:
 - We currently model the initial rollout of two vaccines: Pfizer and Moderna. More vaccines will be approved in 2021 (e.g. Johnson & Johnson, AstraZeneca), but by then we do not believe supply will the bottleneck. Hence, we do not believe that the introduction of additional vaccines in 2021 will significantly affect vaccine uptake rates.
 - We assume roughly two-thirds of the US population will take at least one dose of the vaccine by the end of 2021. This is slightly higher than the ~50% vaccine coverage for the common flu.
 - We assume the majority of individuals (but not all) will receive the second dose.
+- We assume the general population will begin receiving vaccinations in late spring/early summer (Apr-Jun 2021).
+- We assume children and adolescents will begin receiving vaccinations in late summer/early fall (Aug-Oct 2021).
 - We assume a 85% vaccine efficacy. While the trial data demonstrate >90% efficacy, we believe that the efficacy in the general population will be slightly lower due to the fact that a sizable proportion of the population may miss the second vaccine dose.
 - If a vaccine is effective, we assume it can provide sterilizing immunity, meaning that it can prevent further spread of the virus.
 - We assume vaccinations will begin in mid-December following the FDA Emergency Use Authorization (EUA) approval.
 - Many of the assumptions in this writeup come from the [December 10 FDA Briefing Document](https://www.fda.gov/media/144245/download) for the Pfizer vaccine.
 - While various reports suggest over 100 million doses will be available by April, we believe initial vaccine acceptance will be the main bottleneck.
-- We assume the general population will begin receiving vaccinations in late spring/early summer (Apr-Jun 2021). We assume children and adolescents will begin receiving vaccinations in late summer/early fall (Aug-Oct 2021).
 - We assume a smooth vaccine rollout (no major issues or halts).
 - We assume a proportion of the vaccinated population already possess immunity via infection. For simplicity, we assume individuals who have immunity from infection will get vaccinated at the same rate. If an individual possesses immunity from both vaccination and infection, we only count this individual as "immune via infection".
 - We compute the population "immune via vaccination" by taking the total vaccinated, subtracting the estimated number of individuals who already possess immunity via infection, and multiplying the resulting number by the vaccine efficacy (85%).
