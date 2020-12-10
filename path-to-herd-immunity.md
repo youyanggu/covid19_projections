@@ -6,7 +6,7 @@ permalink: /path-to-herd-immunity/
 
 # Path to Herd Immunity: 2021 Outlook of COVID-19 in the US
 By: [Youyang Gu](https://youyanggu.com)
-<br>December 9, 2020 *(Last Updated: December 9, 2020)*
+<br>December 9, 2020 *(Last Updated: December 10, 2020)*
 
 With the availability of the COVID-19 vaccine in the near horizon, we present our best current estimate of the path to COVID-19 herd immunity in the United States. Herd immunity will be reached through immunity from two sources: vaccination and natural infection.
 
@@ -20,7 +20,7 @@ With the availability of the COVID-19 vaccine in the near horizon, we present ou
 ## Summary
 - We believe COVID-19 herd immunity (>60% of population immune) will be reached in the US by summer 2021 (Jun-Aug 2021).
 - At the time herd immunity is reached, roughly half of the immunity will be achieved through natural infection, and the other half will be achieved through vaccination.
-- New COVID-19 infections may become negligible before herd immunity is reached. Our current best estimate of when daily community transmissions will drop below 1,000 per day is early summer 2021 (Jun-Aug 2021).
+- New COVID-19 infections may become minimal before herd immunity is reached. Our current best estimate of when daily new infections will drop below 5,000 per day is early summer 2021 (Jun-Aug 2021). This translates to fewer than 2,000 reported cases per day.
 - Summarizing the above findings, our best estimate of a complete "return to normal" in the US is mid to late summer 2021 (Jul-Sep 2021).
 - We estimate around one-third of the US population (~110 million) will have been infected by the SARS-CoV-2 virus by the end of 2021. That is an additional 40 million infections since mid-December 2020.
 - This translates to a final US COVID-19 death toll of roughly 500,000 (+/-100k) reported deaths, or ~200,000 additional deaths since mid-December 2020.
@@ -74,6 +74,7 @@ The underlying assumptions behind our estimates are presented below:
 - We assume that the infection rate will fall as the number of individuals who are inoculated/vaccinated increases.
 - We assume infections will decrease from mid-December 2020 to February 2021. We account for the possibility of another wave of infections in late winter (February-March) as states relax restrictions from the fall wave. This final wave may not happen if vaccine rollout is quicker than expected.
 - We use a basic SEIR model to estimate infections over time.
+- We assume a small number of imported cases per day. Due to the possible high number of imported cases, infections in the US may never reach 0 in 2021, even if herd immunity is reached.
 - We compute the population "immune via infection" by taking the total number of infected individuals and subtracting the estimated number of individuals who lost their immunity.
 
 [Back to Top](#top)
