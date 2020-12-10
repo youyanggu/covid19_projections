@@ -62,6 +62,7 @@ The underlying assumptions behind our estimates are presented below:
 - We assume roughly two-thirds of the US population will take at least one dose of the vaccine by the end of 2021. This is slightly higher than the ~50% vaccine coverage for the common flu.
 - We assume the majority of individuals (but not all) will receive the second dose.
 - We assume a 85% vaccine efficacy. While the trial data demonstrate >90% efficacy, we believe that the efficacy in the general population will be slightly lower due to the fact that a sizable proportion of the population may miss the second vaccine dose.
+- If a vaccine is effective, we assume it can provide both sterilizing immunity and prevent further spread of the virus.
 - We assume vaccinations will begin in mid-December following the FDA Emergency Use Authorization (EUA) approval.
 - Many of the assumptions in this writeup come from the [December 10 FDA Briefing Document](https://www.fda.gov/media/144245/download) for the Pfizer vaccine.
 - While various reports suggest over 100 million doses will be available by April, we believe initial vaccine acceptance will be the main bottleneck.
@@ -74,7 +75,7 @@ The underlying assumptions behind our estimates are presented below:
 
 ### Infection Assumptions
 
-- We assume roughly 63 million people in the US (19% of the population) have already been infected by the time the first COVID-19 vaccine is authorized in mid-December 2020. We assume ~99.9% of these individuals possess immunity as of mid-December 2020.
+- We assume roughly 63 million people in the US (19% of the population) have already been infected by the time the first COVID-19 vaccine is authorized in mid-December 2020 (based on our latest [covid19-projections.com](/) model). We assume ~99.9% of these individuals possess immunity as of mid-December 2020.
 - We assume a small proportion (~10%) of the infected population will lose their immunity by the end of 2021. Most of the loss in immunity happens more than a year after infection.
 - If an individual loses immunity but gets vaccinated, they are counted as "immune via vaccination".
 - We assume that the infection rate will fall as the number of individuals who are inoculated/vaccinated increases.
