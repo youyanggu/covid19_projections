@@ -18,9 +18,9 @@ With the availability of the COVID-19 vaccine in the near horizon, we present ou
 * [Questions? Comments? Feedback?](#questions-comments-feedback)
 
 ## Summary
-- We believe COVID-19 herd immunity (>60% of population immune) will be reached in the US by summer 2021 (Jun-Aug 2021).
+- We believe COVID-19 herd immunity (>60% of population immune) will be reached in the US during summer 2021 (Jul-Sep 2021).
 - At the time herd immunity is reached, roughly half of the immunity will be achieved through natural infection, and the other half will be achieved through vaccination.
-- New COVID-19 infections may become minimal before herd immunity is reached. Our current best estimate of when daily new infections will drop below 5,000 per day is early summer 2021 (Jun-Aug 2021). This translates to fewer than 2,000 reported cases per day.
+- New COVID-19 infections may become minimal even before herd immunity is reached. Our current best estimate of when daily new infections will drop below 5,000 per day is early summer 2021 (Jun-Aug 2021). Due to imported cases and localized clusters, infections may not drop to 0 until 2022, despite herd immunity being reached.
 - Summarizing the above findings, our best estimate of a complete "return to normal" in the US is mid to late summer 2021 (Jul-Sep 2021).
 - We estimate around one-third of the US population (~110 million) will have been infected by the SARS-CoV-2 virus by the end of 2021. That is an additional 40 million infections since mid-December 2020.
 - This translates to a final US COVID-19 death toll of roughly 500,000 (+/-100k) reported deaths, or ~200,000 additional deaths since mid-December 2020.
@@ -54,9 +54,10 @@ The underlying assumptions behind our estimates are presented below:
 
 ### Vaccination Assumptions
 
-- **Important:** We assume an individual has been vaccinated after they receive the first of two doses. However, in reality, an individual may still be susceptible for the first 1-4 weeks following the first dose. We assume the majority of individuals (but not all) will receive the second dose.
+- **Important:** We assume an individual has been vaccinated after they receive the first of two doses. We assume it takes 2 weeks for the individual to gain immunity.
 - We currently model the initial rollout of two vaccines: Pfizer and Moderna. More vaccines will be approved in 2021 (e.g. Johnson & Johnson, AstraZeneca), but by then we do not believe supply will the bottleneck. Hence, we do not believe that the introduction of additional vaccines in 2021 will significantly affect vaccine uptake rates.
 - We assume roughly two-thirds of the US population will take at least one dose of the vaccine by the end of 2021. This is slightly higher than the 50% vaccine coverage for the common flu.
+- We assume the majority of individuals (but not all) will receive the second dose.
 - We assume a 85% vaccine efficacy. While the trial data demonstrate >90% efficacy, we believe that the efficacy in the general population will be slightly lower due to the fact that a sizable proportion of the population may miss the second vaccine dose.
 - We assume vaccinations will begin in mid-December following the FDA Emergency Use Authorization (EUA) approval.
 - Many of the assumptions in this writeup come from the [December 10 FDA Briefing Document](https://www.fda.gov/media/144245/download) for the Pfizer vaccine.
@@ -73,7 +74,7 @@ The underlying assumptions behind our estimates are presented below:
 - We assume a small proportion (~10%) of the infected population will lose their immunity by the end of 2021. Most of the loss in immunity happens more than a year after infection.
 - If an individual loses immunity but gets vaccinated, they are counted as "immune via vaccination".
 - We assume that the infection rate will fall as the number of individuals who are inoculated/vaccinated increases.
-- We assume infections will decrease from mid-December 2020 to February 2021. We account for the possibility of another wave of infections in late winter (February-March) as states relax restrictions from the fall wave. This final wave may not happen if vaccine rollout is quicker than expected.
+- We assume new infections will undergo a steady decrease from mid-December 2020 to March 2021. We account for the possibility of another wave of infections in late winter/early spring (March/April) as states relax restrictions from the fall wave. This final wave may not happen if vaccine rollout is quicker than expected.
 - We use a basic SEIR model to estimate infections over time.
 - We assume a small number of imported cases per day. Due to the possible high number of imported cases, infections in the US may never reach 0 in 2021, even if herd immunity is reached.
 - We compute the population "immune via infection" by taking the total number of infected individuals and subtracting the estimated number of individuals who lost their immunity.
