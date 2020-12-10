@@ -72,7 +72,7 @@ The underlying assumptions behind our estimates are presented below:
 - We assume a small proportion (~10%) of the infected population will lose their immunity by the end of 2021. Most of the loss in immunity happens more than a year after infection.
 - If an individual loses immunity but gets vaccinated, they are counted as "immune via vaccination".
 - We assume that the infection rate will fall as the number of individuals who are inoculated/vaccinated increases.
-- We assume infections will decrease from mid-December 2020 to February 2021. We account for the possibility of another wave of infections in late winter (February-March).
+- We assume infections will decrease from mid-December 2020 to February 2021. We account for the possibility of another wave of infections in late winter (February-March) as states relax restrictions from the fall wave. This final wave may not happen if vaccine rollout is quicker than expected.
 - We use a basic SEIR model to estimate infections over time.
 - We compute the population "immune via infection" by taking the total number of infected individuals and subtracting the estimated number of individuals who lost their immunity.
 
