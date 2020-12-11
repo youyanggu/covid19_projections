@@ -70,7 +70,7 @@ The underlying assumptions behind our estimates are presented below:
 - While it is still unclear if the vaccine provides sterilizing immunity, we assume that the vaccine, if effective, can prevent individuals from becoming infectious.
 - We assume vaccinations will begin in mid-December following the FDA Emergency Use Authorization (EUA) approval.
 - Many of the assumptions in this writeup come from the [December 10 FDA Briefing Document](https://www.fda.gov/media/144245/download) for the Pfizer vaccine.
-- We assume a smooth vaccine rollout (no major issues or halts).
+- We assume a smooth but conservative vaccine rollout, with no major issues or halts. If rollout and uptake is quicker than estimated, then we may reach herd immunity sooner. If rollout and uptake is slower than estimated, we may reach herd immunity later.
 - We assume that at its peak, around 2.5 million doses will be given per day (enough for innoculate 1.25 million people). This is close to the peak vaccine distribution for influenza (~3 million doses per day).
 - We assume a proportion of the vaccinated population already possess immunity via infection. For simplicity, we assume individuals who already possess immunity from natural infection will get vaccinated at the same rate as susceptible individuals. If an individual possesses immunity from both vaccination and infection, we only count this individual as "immune via infection".
 - We compute the population "immune via vaccination" by taking the total vaccinated, subtracting the estimated number of individuals who already possess immunity via infection, and multiplying the resulting number by the vaccine efficacy (85%).
