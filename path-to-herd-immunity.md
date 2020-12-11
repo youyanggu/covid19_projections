@@ -60,7 +60,7 @@ The underlying assumptions behind our estimates are presented below:
 ### Vaccination Assumptions
 
 - **Important:** We are estimating how many individuals gain immunity after being vaccinated, not how many vaccine doses are distributed. The difference is subtle, but significant.
-- We assume an individual has been vaccinated after they receive the first of two doses. We assume it takes two weeks for an individual to begin gaining immunity.
+- We count an individual as vaccinated after they receive the first of two doses. We assume it takes three weeks for an individual to gain immunity.
 - We currently model the initial rollout of two vaccines: Pfizer and Moderna. More vaccines will be approved in 2021 (e.g. Johnson & Johnson, AstraZeneca), but by then we do not believe supply will be the bottleneck. Hence, we do not believe that the introduction of additional vaccines in 2021 will significantly affect vaccine uptake rates.
 - We assume roughly two-thirds of the US population will take at least one dose of the vaccine by the end of 2021. This is slightly higher than the ~50% vaccine coverage for the common flu.
 - We assume the majority of individuals (but not all) will receive the second dose.
