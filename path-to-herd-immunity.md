@@ -53,6 +53,7 @@ The underlying assumptions behind our estimates are presented below:
 - **Important:** We only count the immunity that was acquired first (e.g. if an individual has both immunity from natural infection and immunity from vaccination, we only count the immunity from infection).
 - We assume states will continue to impose varying degrees of restrictions and interventions until herd immunity is reached.
 - We define "normality" as the removal of all COVID-19-related restrictions and interventions.
+- Herd immunity is not permanent. It can be lost due to waning immunity, both from infection and vaccination.
 
 [Back to Top](#top)
 
@@ -96,7 +97,7 @@ The underlying assumptions behind our estimates are presented below:
 - A 30% prevalence estimate translates to a final US COVID-19 death toll of roughly 400,000 to 600,000 reported deaths, with 500,000 deaths being the best estimate. Given a mid-December 2020 death toll of 300,000, that is an additional 200,000 deaths. This estimate may change if the assumptions presented above are no longer true (e.g. deaths will be lower if vaccine rollout is faster than expected; deaths will be higher if the efficacy is lower than expected).
 - Due to the high prevalence, a targeted approach for vaccination that prioritizes individuals who are more likely to be susceptible may improve the time to reach herd immunity.
 - Due to possible low vaccine acceptance/uptake and waning immunity from natural infection, it is possible that the US will not reach immunity levels above 70%. In most scenarios, even 50-70% immunity should be sufficient to prevent new outbreaks.
-- Due to the seasonality of the virus, the herd immunity threshold may be higher in the winter. Therefore, it is important that we continue to vaccinate individuals in fall 2021 even if herd immunity has been reached in the summer.
+- Due to the seasonality of the virus, the herd immunity threshold may be higher in the winter. Furthermore, herd immunity can be lost due to waning immunity. Therefore, it is important that we continue to vaccinate individuals even after herd immunity has been reached.
 
 [Back to Top](#top)
 
