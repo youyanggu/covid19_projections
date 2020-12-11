@@ -6,9 +6,9 @@ permalink: /path-to-herd-immunity/
 
 # Path to Herd Immunity: 2021 Outlook of COVID-19 in the US
 By: [Youyang Gu](https://youyanggu.com)
-<br>December 9, 2020 *(Last Updated: December 10, 2020)*
+<br>December 9, 2020 *(Last Updated: December 11, 2020)*
 
-With the availability of the COVID-19 vaccine in the near horizon, we present our best current estimate of the path to COVID-19 herd immunity in the United States. Herd immunity will be reached through immunity from two sources: vaccination and natural infection.
+With the availability of the COVID-19 vaccine in the near horizon, we present our best estimate of the path to COVID-19 herd immunity in the United States. Herd immunity will be reached through immunity from two sources: vaccination and natural infection.
 
 ## Table of Contents
 * [Summary](#summary)
@@ -18,10 +18,10 @@ With the availability of the COVID-19 vaccine in the near horizon, we present ou
 * [Questions? Comments? Feedback?](#questions-comments-feedback)
 
 ## Summary
-- We believe COVID-19 herd immunity (>60% of population immune) will be reached in the US during summer 2021 (Jun-Aug 2021).
+- We estimate COVID-19 herd immunity (>60% of population immune) will be reached in the US during summer 2021 (Jun-Aug 2021).
 - At the time herd immunity is reached, roughly half of the immunity will be achieved through natural infection, and the other half will be achieved through vaccination.
-- New infections may become minimal before herd immunity is reached. But due to imported cases and localized clusters, it is unlikely that new infections will drop to zero until 2022.
-- Deaths may drop to low levels even earlier (May-Jul 2021), in part due to a vaccine distribution strategy that initially prioritizes high-risk individuals. Once deaths fall to minimal levels, we may begin seeing a relaxation of restrictions.
+- New infections may become minimal before herd immunity is reached. But due to imported cases and localized clusters, it is unlikely that new infections will drop to zero until at least 2022.
+- Deaths may drop to low levels even earlier (May-Jul 2021), in part due to a vaccine distribution strategy that initially prioritizes high-risk individuals. Once deaths fall to minimal levels, we may see a relaxation of restrictions.
 - Summarizing the above findings, our best estimate of a complete "return to normal" in the US is mid-summer 2021 (June/July 2021).
 - We estimate roughly two-thirds of the US population (~220 million) will receive at least one dose of the vaccine by the end of 2021, with children and adolescents being the last group to receive it (Aug-Nov 2021).
 - We estimate around one-third of the US population (~105 million) will have been infected by the SARS-CoV-2 virus by the end of 2021. That is an additional 40 million infections since mid-December 2020.
