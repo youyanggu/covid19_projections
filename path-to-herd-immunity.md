@@ -58,7 +58,7 @@ The underlying assumptions behind our estimates are presented below:
 
 - **Important:** We are estimating how many individuals gain immunity after being vaccinated, not how many vaccine doses are distributed. The difference is subtle, but significant.
 - We assume an individual has been vaccinated after they receive the first of two doses. We assume it takes two weeks for an individual to begin gaining immunity.
-- We currently model the initial rollout of two vaccines: Pfizer and Moderna. More vaccines will be approved in 2021 (e.g. Johnson & Johnson, AstraZeneca), but by then we do not believe supply will the bottleneck. Hence, we do not believe that the introduction of additional vaccines in 2021 will significantly affect vaccine uptake rates.
+- We currently model the initial rollout of two vaccines: Pfizer and Moderna. More vaccines will be approved in 2021 (e.g. Johnson & Johnson, AstraZeneca), but by then we do not believe supply will be the bottleneck. Hence, we do not believe that the introduction of additional vaccines in 2021 will significantly affect vaccine uptake rates.
 - We assume roughly two-thirds of the US population will take at least one dose of the vaccine by the end of 2021. This is slightly higher than the ~50% vaccine coverage for the common flu.
 - We assume the majority of individuals (but not all) will receive the second dose.
 - We assume the general population will begin receiving vaccinations in late spring/early summer (Apr-Jun 2021).
@@ -77,7 +77,7 @@ The underlying assumptions behind our estimates are presented below:
 ### Infection Assumptions
 
 - We assume roughly 63 million people in the US (19% of the population) have already been infected by the time the first COVID-19 vaccine is authorized in mid-December 2020 (based on our latest [covid19-projections.com](/) model). We assume ~99.9% of these individuals possess immunity as of mid-December 2020.
-- We assume a small proportion (~10%) of the infected population will lose their immunity by the end of 2021. Most of the loss in immunity happens more than a year after infection.
+- We assume a small proportion (~10%) of the infected population will lose their immunity by the end of 2021. The longer the time from infection, the higher the likelihood of immunity being lost.
 - If an individual loses immunity but gets vaccinated, they are counted as "immune via vaccination".
 - We assume that the infection rate will fall as the number of individuals who are inoculated/vaccinated increases.
 - We assume new infections will undergo a steady decrease from mid-December 2020 to March 2021. We account for the possibility of another wave of infections in late winter/early spring (March/April) as states relax restrictions from the fall wave. This final wave may not happen if vaccine rollout is quicker than expected.
