@@ -70,6 +70,7 @@ The underlying assumptions behind our estimates are presented below:
 - Many of the assumptions in this writeup come from the [December 10 FDA Briefing Document](https://www.fda.gov/media/144245/download) for the Pfizer vaccine.
 - While various reports suggest over 100 million doses will be available by April, we believe initial vaccine acceptance will be the main bottleneck.
 - We assume a smooth vaccine rollout (no major issues or halts).
+- We assume that at its peak, around 2.5 million doses will be given per day (enough for innoculate 1.25 million people). This is close to the peak vaccine distribution for influenza (~3 million doses per day).
 - We assume a proportion of the vaccinated population already possess immunity via infection. For simplicity, we assume individuals who have immunity from infection will get vaccinated at the same rate. If an individual possesses immunity from both vaccination and infection, we only count this individual as "immune via infection".
 - We compute the population "immune via vaccination" by taking the total vaccinated, subtracting the estimated number of individuals who already possess immunity via infection, and multiplying the resulting number by the vaccine efficacy (85%).
 
