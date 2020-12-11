@@ -64,7 +64,7 @@ The underlying assumptions behind our estimates are presented below:
 - We assume the general population will begin receiving vaccinations in late spring/early summer (Apr-Jun 2021).
 - We assume children and adolescents will begin receiving vaccinations in late summer/early fall (Aug-Oct 2021).
 - We assume a 85% vaccine efficacy. While the trial data demonstrate >90% efficacy, we believe that the efficacy in the general population will be slightly lower due to the fact that a sizable proportion of the population may miss the second vaccine dose.
-- If a vaccine is effective, we assume it provides sterilizing immunity, meaning that it can prevent further replication and spread of the virus.
+- While it is still unclear if the vaccine provides sterilizing immunity, we assume that the vaccine, if effective, can prevent individuals from becoming infectious.
 - We assume vaccinations will begin in mid-December following the FDA Emergency Use Authorization (EUA) approval.
 - Many of the assumptions in this writeup come from the [December 10 FDA Briefing Document](https://www.fda.gov/media/144245/download) for the Pfizer vaccine.
 - While various reports suggest over 100 million doses will be available by April, we believe initial vaccine acceptance will be the main bottleneck.
