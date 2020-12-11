@@ -52,6 +52,7 @@ The underlying assumptions behind our estimates are presented below:
 - We assume herd immunity is achieved when at least 60% of the population possess immunity from the SARS-CoV-2 virus (HIT = 60%). This corresponds to 200 million individuals in the US. Due to population heterogeneity, variation in susceptibility and/or pre-existing immunity, it is possible that the herd immunity threshold (HIT) can be lower. But HIT can also be higher due to the targeted approach of vaccine distribution (e.g. individuals with the greatest impact on transmission are vaccinated last).
 - **Important:** We only count the immunity that was acquired first (e.g. if an individual has both immunity from natural infection and immunity from vaccination, we only count the immunity from infection).
 - We assume states will continue to impose varying degrees of restrictions and interventions until herd immunity is reached.
+- We define "normality" as the removal of all COVID-19-related restrictions and interventions.
 
 [Back to Top](#top)
 
