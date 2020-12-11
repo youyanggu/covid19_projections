@@ -18,7 +18,7 @@ With the availability of the COVID-19 vaccine in the near horizon, we present ou
 * [Questions? Comments? Feedback?](#questions-comments-feedback)
 
 ## Summary
-- We estimate COVID-19 herd immunity (>60% of population immune) will be reached in the US during summer 2021 (Jun-Aug 2021).
+- We estimate COVID-19 herd immunity (>60% of population immune) will be reached in the US during summer 2021 (Jun-Aug 2021). At a high level, herd immunity is a concept in which a population can be protected from a virus if enough people possess immunity.
 - At the time herd immunity is reached, roughly half of the immunity will be achieved through natural infection, and the other half will be achieved through vaccination.
 - New infections may become minimal before herd immunity is reached. But due to imported cases and localized clusters, it is unlikely that new infections will drop to zero until at least 2022.
 - Deaths may drop to low levels even earlier (May-Jul 2021), in part due to a vaccine distribution strategy that initially prioritizes high-risk individuals. Once deaths fall to minimal levels, we may see a relaxation of restrictions.
