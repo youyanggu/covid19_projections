@@ -6,9 +6,9 @@ permalink: /path-to-herd-immunity/
 
 # Path to Herd Immunity: 2021 Outlook of COVID-19 in the US
 By: [Youyang Gu](https://youyanggu.com)
-<br>December 9, 2020 *(Last Updated: December 11, 2020)*
+<br>December 9, 2020 *(Last Updated: December 12, 2020)*
 
-With the availability of the COVID-19 vaccine in the near horizon, we present our best estimate of the path to COVID-19 herd immunity in the United States. Herd immunity will be reached through immunity from two sources: vaccination and natural infection.
+With the availability of the COVID-19 vaccine, we present our best estimate of the path to COVID-19 herd immunity in the United States. Herd immunity will be reached through immunity from two sources: vaccination and natural infection.
 
 *December 11 Update:* See our [analysis on Twitter](https://twitter.com/youyanggu/status/1337506967095369728) on a potentially more effective way to distribute the vaccine that would enable us to reach herd immunity sooner.
 
@@ -20,7 +20,7 @@ With the availability of the COVID-19 vaccine in the near horizon, we present ou
 * [Questions? Comments? Feedback?](#questions-comments-feedback)
 
 ## Summary
-- We estimate COVID-19 herd immunity (>60% of population immune) will be reached in the US during summer 2021 (Jun-Aug 2021). At a high level, herd immunity is a concept in which a population can be protected from a virus if enough people possess immunity.
+- We estimate COVID-19 herd immunity (>60% of population immune) will be reached in the US during summer 2021 (Jun-Aug 2021). At a high level, [herd immunity](https://jamanetwork.com/journals/jama/fullarticle/2772168) is a concept in which a population can be protected from a virus if enough people possess immunity.
 - At the time herd immunity is reached, roughly half of the immunity will be achieved through natural infection, and the other half will be achieved through vaccination.
 - New infections may become minimal before herd immunity is reached. But due to imported cases and localized clusters, it is unlikely that new infections will drop to zero until at least 2022.
 - Deaths may drop to low levels even earlier (May-Jul 2021), in part due to a vaccine distribution strategy that initially prioritizes high-risk individuals. Once deaths fall to minimal levels, we may see a relaxation of restrictions.
@@ -40,7 +40,7 @@ With the availability of the COVID-19 vaccine in the near horizon, we present ou
 - The results presented here are merely estimates based on a set of assumptions, so please use caution when utilizing the results.
 - For the majority of the assumptions, the exact numerical values have relatively minor impacts on the final results (e.g. changing vaccine efficacy from 85% to 90% results in a 10-day shift in when herd immunity is reached).
 - If any of the assumptions used to generate these estimates do not hold, then the results may be drastically different.
-- These estimates are subject to change based on new data/evidence.
+- These are the best estimates given what is known in mid-December 2020, but are subject to change based on new data/evidence. For example, if vaccine rollout and uptake is quicker than estimated, then we may reach herd immunity sooner. If rollout and uptake is slower than estimated, we may reach herd immunity later.
 
 [Back to Top](#top)
 
