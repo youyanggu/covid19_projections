@@ -24,7 +24,7 @@ By: [Youyang Gu](https://youyanggu.com)
 * [Discussion](#discussion)
 * [Conclusion](#conclusion)
 
-*December 8 Update:* We adjusted our constant from `a = 1500 / (day_i + 50)` to `a = 1250 / (day_i + 25)`. This results in a slightly higher prevalence ratio in the beginning and a lower prevalence ratio currently.
+*December 10 Update:* We adjusted our constant from `a = 1500 / (day_i + 50)` to `a = 1000 / (day_i + 10)`. This results in a slightly higher prevalence ratio in the beginning and a lower prevalence ratio currently.
 
 ## Summary
 
