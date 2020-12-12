@@ -10,7 +10,7 @@ By: [Youyang Gu](https://youyanggu.com)
 
 With the availability of the COVID-19 vaccine, we present our best estimate of the path to COVID-19 herd immunity in the United States. Herd immunity will be reached through immunity from two sources: vaccination and natural infection.
 
-*December 11 Update:* See our [analysis on Twitter](https://twitter.com/youyanggu/status/1337506967095369728) on a potentially more effective way to distribute the vaccine that would enable us to reach herd immunity sooner.
+*December 11 Update:* See our [analysis on Twitter](https://twitter.com/youyanggu/status/1337506967095369728) on a potentially more effective way to distribute the vaccine that would enable us to reach herd immunity sooner. Our original Twitter thread announcing the release of this page can be found [here](https://twitter.com/youyanggu/status/1337147909955964929).
 
 ## Table of Contents
 * [Summary](#summary)
