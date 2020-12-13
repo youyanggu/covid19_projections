@@ -13,8 +13,7 @@ Here you will find maps of our infection estimates. If you're viewing from a mob
 For county-level maps, visit the links below:
 * [US Counties Currently Infected](/infections/map_county_current_infected) \| [Time Lapse](/infections/map_slider_county_current_infected) (may take a while to load)
 * [US Counties Total Infected](/infections/map_county_total_infected) \| [Time Lapse](/infections/map_slider_county_total_infected) (may take a while to load)
-
-*Note: Some Utah counties do not have infections estimates available because they report cases by [local health departments](https://ualhd.org/) rather than by county.*
+* *Note: Some Utah counties do not have infections estimates available because they report cases by [local health departments](https://ualhd.org/) rather than by county.*
 
 *Looking for the old (pre-November 2020) iteration of the Maps page? [Click here](/maps).*
 
