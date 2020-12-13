@@ -70,7 +70,7 @@ The underlying assumptions behind our estimates are presented below:
 - We assume children and adolescents will begin receiving vaccinations in late summer/early fall (Aug-Oct 2021).
 - We assume a 85% vaccine efficacy. While the trial data demonstrate >90% efficacy, we believe that the efficacy in the general population will be slightly lower due to the fact that a sizable proportion of the population may miss the second vaccine dose.
 - While it is still unclear if the vaccine provides sterilizing immunity, we assume that the vaccine, if effective, can significantly reduce an individual's likelihood of being infected and becoming infectious.
-- We assume vaccinations will begin in mid-December following the FDA Emergency Use Authorization (EUA) approval.
+- We assume vaccinations will begin in mid-December following the FDA Emergency Use Authorization (EUA) approval. Due to distribution issues, constraints with storage, and vaccine hesitancy, we believe the initial rollout will be slower than what Operation Warp Speed estimates.
 - Many of the assumptions in this writeup come from the [December 10 FDA Briefing Document](https://www.fda.gov/media/144245/download) for the Pfizer vaccine.
 - We assume a smooth but conservative vaccine rollout, with no major issues or halts. If rollout and uptake is quicker than estimated, then we may reach herd immunity sooner. If rollout and uptake is slower than estimated, we may reach herd immunity later.
 - We assume that at its peak, around 2.5 million doses will be given per day (enough for innoculate 1.25 million people). This is close to the peak vaccine distribution for influenza (~3 million doses per day).
