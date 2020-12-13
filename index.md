@@ -28,7 +28,7 @@ Our infections estimates include all infected individuals of the SARS-CoV-2 viru
 
 ## View US Infections Estimates
 
-Below, we have infection estimates for all 50 states, DC, and 4 US territories. For county-level estimates, see the next section.
+Below, we have infection estimates for the US, all 50 states, DC, and 4 US territories. For county-level estimates, see the next section.
 
 | [United States](/infections/us) |  |  |
 | --- | --- | --- |
