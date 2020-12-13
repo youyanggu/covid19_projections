@@ -37,7 +37,7 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 - The author is not a public health expert.
 - This writeup has not been peer-reviewed in an academic journal.
 - Only publicly available data are used.
-- The results presented here are merely estimates based on a set of assumptions, so please use caution when utilizing the results.
+- There is a very high amount of uncertainty with any model that makes outlooks for 6-12 months out. We fully acknowledge the possibility of these results may not reflect reality. The results presented here are merely estimates based on a set of assumptions, so please use caution when utilizing the results.
 - For the majority of the assumptions, the exact numerical values have relatively minor impacts on the final results (e.g. changing vaccine efficacy from 85% to 90% results in a 10-day shift in when herd immunity is reached).
 - If any of the assumptions used to generate these estimates do not hold, then the results may be drastically different.
 - These are the best estimates given what is known in mid-December 2020, but are subject to change based on new data/evidence. For example, if vaccine rollout and uptake is quicker than estimated, then we may reach herd immunity sooner. If rollout and uptake is slower than estimated, we may reach herd immunity later.
@@ -69,7 +69,7 @@ The underlying assumptions behind our estimates are presented below:
 - We assume the general population will begin receiving vaccinations in late spring/early summer (Apr-Jun 2021).
 - We assume children and adolescents will begin receiving vaccinations in late summer/early fall (Aug-Oct 2021).
 - We assume a 85% vaccine efficacy. While the trial data demonstrate >90% efficacy, we believe that the efficacy in the general population will be slightly lower due to the fact that a sizable proportion of the population may miss the second vaccine dose.
-- While it is still unclear if the vaccine provides sterilizing immunity, we assume that the vaccine, if effective, can prevent individuals from becoming infectious.
+- While it is still unclear if the vaccine provides sterilizing immunity, we assume that the vaccine, if effective, can significantly reduce an individual's likelihood of being infected and becoming infectious.
 - We assume vaccinations will begin in mid-December following the FDA Emergency Use Authorization (EUA) approval.
 - Many of the assumptions in this writeup come from the [December 10 FDA Briefing Document](https://www.fda.gov/media/144245/download) for the Pfizer vaccine.
 - We assume a smooth but conservative vaccine rollout, with no major issues or halts. If rollout and uptake is quicker than estimated, then we may reach herd immunity sooner. If rollout and uptake is slower than estimated, we may reach herd immunity later.
