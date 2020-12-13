@@ -33,8 +33,7 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 
 ## Disclaimers
 
-- The author is not an epidemiologist.
-- The author is not a public health expert.
+- The author is not an epidemiologist, an immunologist, or a public health expert.
 - This writeup has not been peer-reviewed in an academic journal.
 - Only publicly available data are used.
 - There is a very high amount of uncertainty with any model that makes outlooks for 6-12 months out. We fully acknowledge the possibility of these results may not reflect reality. The results presented here are merely estimates based on a set of assumptions, so please use caution when utilizing the results.
