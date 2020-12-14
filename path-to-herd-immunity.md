@@ -56,6 +56,7 @@ The underlying assumptions behind our estimates are presented below:
 - We assume states will continue to impose varying degrees of restrictions and interventions until herd immunity is reached.
 - We define "normality" as the removal of all COVID-19-related restrictions and interventions.
 - Herd immunity is not permanent. It can be lost due to waning immunity, both from infection and vaccination.
+- For the purpose of estimating new infections, we do not differentiate between immunity acquired from infection and immunity acquired from vaccination.
 
 [Back to Top](#top)
 
