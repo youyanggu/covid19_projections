@@ -1,3 +1,8 @@
+---
+layout: default
+title: Contact
+permalink: /contact/
+---
 # Contact
 
 We encourage questions, insights, and feedback.
