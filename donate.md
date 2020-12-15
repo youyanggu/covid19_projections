@@ -16,7 +16,7 @@ With your donation, I can:
 
 **We do more with less** - you can be confident that each dollar donated will be used in the most efficient way possible.
 
-Any excess funds will be saved solely for future efforts on unbiased analysis and modeling of public health data.
+Any excess funds will be saved for future public health modeling efforts. I hope to eventually expand upon my COVID-19 work to continue to present an unbiased, rigorous, and data-driven approach to public health. If you would like to get involved, please [reach out](https://youyanggu.com/contact).
 
 | | Other public health organizations | covid19-projections.com | 
 | --- | --- | --- |
