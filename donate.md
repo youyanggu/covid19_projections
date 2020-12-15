@@ -20,11 +20,11 @@ With your donation, I can:
 - Fight misinformation
 - Inspire further action
 
-**I do more with less** - you can be confident that each dollar donated will be used in the most efficient way possible.
+**We do more with less** - you can be confident that each dollar donated will be used in the most efficient way possible.
 
 | | Other public health orgs | covid19- projections.com | 
 | --- | --- | --- |
-| *Funding* | $100,000,000+ | $0 |
+| *Funding* | $100M+ | $0 |
 | *People* | 500+ | 1 |
 | *COVID team* | 90+ | 1 |
 | *Members on Board* | 12 | 0 |
