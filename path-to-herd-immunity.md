@@ -10,10 +10,9 @@ By: [Youyang Gu](https://youyanggu.com)
 
 With the availability of the COVID-19 vaccine, we present our best estimate of the path to COVID-19 herd immunity in the United States. Herd immunity will be reached through immunity from two sources: vaccination and natural infection.
 
-*December 11 Update:* See our [analysis on Twitter](https://twitter.com/youyanggu/status/1337506967095369728) on a potentially more effective way to distribute the vaccine that would enable us to reach herd immunity sooner. Our original Twitter thread announcing the release of this page can be found [here](https://twitter.com/youyanggu/status/1337147909955964929).
-
 ## Table of Contents
 * [Summary](#summary)
+* [Relevant Twitter Threads](#relevant-twitter-threads)
 * [Disclaimers](#disclaimers)
 * [Assumptions](#assumptions)
 * [Corollaries](#corollaries)
@@ -29,6 +28,13 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 - We estimate around one-third of the US population (~105 million) will have been infected by the SARS-CoV-2 virus by the end of 2021. That is an additional 40 million infections since mid-December 2020.
 - This translates to a final US COVID-19 death toll of roughly 500,000 (±100,000) reported deaths, or ~200,000 additional deaths since mid-December 2020.
 {% include iframe_vaccination.html %}
+[Back to Top](#top)
+
+## Relevant Twitter Threads
+- [Initial release - Dec 10](https://twitter.com/youyanggu/status/1337147909955964929)
+- [Potential ways to speed up herd immunity - Dec 11](https://twitter.com/youyanggu/status/1337506967095369728)
+- [Vaccine side effects - Dec 14](https://twitter.com/youyanggu/status/1338587017966284800)
+
 [Back to Top](#top)
 
 ## Disclaimers
