@@ -31,6 +31,6 @@ I very much appreciate all of the support you all have given me and this site. I
 {% include iframe_donate.html %}
 
 - If you would like to send a check, please [reach out](/contact) for an address.
-- At this time, we are not a recognized 501(c)(3) non-profit. We are in the process of exploring an application.
+- At this time, we are not a recognized 501(c)(3) non-profit. We are currently in the process of exploring this option.
 
 Questions? Please don't hesitate to [contact me](/contact).
