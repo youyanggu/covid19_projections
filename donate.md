@@ -1,3 +1,8 @@
+---
+layout: default
+title: Support covid19-projections.com
+permalink: /donate/
+---
 # Support covid19-projections.com
 
 *covid19-projections.com* is entirely built and run by myself, [Youyang Gu](https://youyanggu.com). Since April 2020, I have volunteered thousands of hours of my time to making sure that people have the best data possible to make informed decisions. For eight months, I have not relied on any outside funding. Unfortunately, this is not quite sustainable. I briefly [stepped back](https://youyanggu.com/blog/six-months-later) in October, only to be drawn back a month later due to the rising urgency of the fall wave.
