@@ -129,6 +129,21 @@ a {
   }
 }
 
+.givebutter {
+  max-width: 601px;
+  margin: 0 auto;
+  display: block;
+  float:right;
+
+  @include large {
+    padding: 0.5rem 0 0 2.5rem;
+  }
+
+  @include medium {
+    padding: 0.5rem 0 0 2.5rem;
+  }
+}
+
 .page-header {
   color: $header-heading-color;
   text-align: center;
