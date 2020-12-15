@@ -24,7 +24,7 @@ With your donation, I can:
 
 | | Other public health organizations | covid19-projections.com | 
 | --- | --- | --- |
-| *Funding* | $100,000,000+ | $0 |
+| *Funding* | $100+ mil | $0 |
 | *People* | 500+ | 1 |
 | *COVID team* | 90+ | 1 |
 | *Members on Board* | 12 | 0 |
