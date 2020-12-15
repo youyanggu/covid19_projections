@@ -105,7 +105,7 @@ We present an intuitive COVID-19 model that adds machine learning techniques on 
 
 ## View Projections
 
-Below you can find our projections for every US state and 70 countries (including all 27 European Union countries).
+Below you can find our projections for every US state and 70 countries (including all 27 European Union countries). For reproduction number estimates, you can see also visit our [Infections Tracker](/infections-tracker) page.
 
 [Back to Top](#top)
 
