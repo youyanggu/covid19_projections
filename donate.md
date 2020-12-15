@@ -16,6 +16,8 @@ With your donation, I can:
 
 **We do more with less** - you can be confident that each dollar donated will be used in the most efficient way possible.
 
+Any excess funds will be saved solely for future efforts on unbiased analysis and modeling of public health data.
+
 | | Other public health organizations | covid19-projections.com | 
 | --- | --- | --- |
 | *Funding* | $100,000,000+ | $0 |
