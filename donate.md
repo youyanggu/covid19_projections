@@ -7,7 +7,7 @@ permalink: /donate/
 
 *covid19-projections.com* is entirely built and run by myself, [Youyang Gu](https://youyanggu.com). Since April 2020, I have volunteered thousands of hours of my time to making sure that people have the best data possible to make informed decisions. For eight months, I have not relied on any outside funding. Unfortunately, this is not quite sustainable. I briefly [stepped back](https://youyanggu.com/blog/six-months-later) in October, only to be drawn back a month later due to the rising urgency of the fall wave.
 
-Having your support would make my job much easier and allow me to focus full-time on providing the best COVID-19 modeling and analysis. I hope to continue to dedicate my efforts to this project for as long as possible, hopefully until [herd immunity is reached](/path-to-herd-immunity).
+Having your support would make my job much easier and allow me to focus full-time on providing the best COVID-19 modeling and analysis. I hope to continue to dedicate my efforts to this project for as long as possible, until [normally returns](/path-to-herd-immunity).
 
 ### Please help support my efforts in providing a unbiased, rigorous, data-driven approach to COVID-19
 
@@ -22,13 +22,13 @@ With your donation, I can:
 
 **I do more with less** - you can be confident that each dollar donated will be used in the most efficient way possible.
 
-| | Other public health organizations | covid19-projections.com | 
+| | Other public health orgs | covid19-projections.com | 
 | --- | --- | --- |
-| *Funding* | $100+ mil | $0 |
+| *Funding* | $100,000,000+ | $0 |
 | *People* | 500+ | 1 |
 | *COVID team* | 90+ | 1 |
 | *Members on Board* | 12 | 0 |
-| *Dedicated PR/fundraising team* | ✅ | ❌ |
+| *Dedicated PR / fundraising team* | ✅ | ❌ |
 
 Any excess funds will be saved for future public health modeling efforts. I hope to eventually expand upon my COVID-19 work to continue to present an unbiased, rigorous, and data-driven approach to public health. If you would like to get involved, please [reach out](https://youyanggu.com/contact).
 
