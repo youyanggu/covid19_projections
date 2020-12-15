@@ -105,6 +105,30 @@ a {
   }
 }
 
+.btn_donate {
+  font-weight: bold;
+  color: rgba(199, 0, 76, 0.8);
+  background-color: rgba(255, 255, 255, 0.95);
+
+  &:hover {
+    color: rgba(199, 0, 76, 1);
+    background-color: rgba(255, 255, 255, 1);
+  }
+}
+
+.btn_html {
+  font-weight: bold;
+  color: rgba(199, 0, 76, 0.8);
+  background-color: rgba(255, 255, 255, 0.8);
+  border-color: rgba(0, 0, 0, 0.2);
+
+  &:hover {
+    color: rgba(199, 0, 76, 1);
+    background-color: rgba(0, 0, 0, 0.03);
+    border-color: rgba(0, 0, 0, 0.2);
+  }
+}
+
 .page-header {
   color: $header-heading-color;
   text-align: center;
