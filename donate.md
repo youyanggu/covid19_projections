@@ -1,10 +1,10 @@
 # Support covid19-projections.com
 
-*covid19-projections.com* is built and run by me, [Youyang](https://youyanggu.com). I have volunteered thousands of hours of my time since April 2020 to making sure that people have the best data possible to make informed decisions. Since I created the site, I have not relied on any outside funding. Unfortunately, this is unsustainable. I briefly [stepped back](https://youyanggu.com/blog/six-months-later) in October, only to be drawn back a month later due to the rising urgency of the fall wave.
+*covid19-projections.com* is entirely built and run by myself, [Youyang Gu](https://youyanggu.com). Since April 2020, I have volunteered thousands of hours of my time to making sure that people have the best data possible to make informed decisions. For eight months, I have not relied on any outside funding. Unfortunately, this is not quite sustainable. I briefly [stepped back](https://youyanggu.com/blog/six-months-later) in October, only to be drawn back a month later due to the rising urgency of the fall wave.
 
-I hope to continue to dedicate my efforts to this project for as long as possible, hopefully until [herd immunity is reached](/path-to-herd-immunity). Having your support would make my job much easier and allow me to focus full-time on providing the best COVID-19 modeling and analysis.
+Having your support would make my job much easier and allow me to focus full-time on providing the best COVID-19 modeling and analysis. I hope to continue to dedicate my efforts to this project for as long as possible, hopefully until [herd immunity is reached](/path-to-herd-immunity).
 
-### Please help support our efforts to provide a unbiased, data-driven approach to COVID-19
+### Please help support my efforts in providing a unbiased, rigorous, data-driven approach to COVID-19
 
 With your donation, I can:
 
@@ -15,7 +15,7 @@ With your donation, I can:
 - Fight misinformation
 - Inspire further action
 
-**We do more with less** - you can be confident that each dollar donated will be used in the most efficient way possible.
+**I do more with less** - you can be confident that each dollar donated will be used in the most efficient way possible.
 
 | | Other public health organizations | covid19-projections.com | 
 | --- | --- | --- |
