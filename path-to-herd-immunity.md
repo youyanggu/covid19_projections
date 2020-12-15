@@ -68,9 +68,9 @@ The underlying assumptions behind our estimates are presented below:
 
 ### Vaccination Assumptions
 
-- **Important:** We are estimating how many individuals gain immunity after being vaccinated, not how many vaccine doses are distributed. The difference is subtle, but significant.
+- We are estimating how many individuals gain immunity after being vaccinated, not how many vaccine doses are distributed. The difference is subtle, but significant.
 - We count an individual as vaccinated after they receive the first of two doses. We assume it takes three weeks for an individual to gain immunity.
-- We currently model the initial rollout of two vaccines: Pfizer and Moderna. More vaccines will be approved in 2021 (e.g. Johnson & Johnson, AstraZeneca), but by then we do not believe supply will be the bottleneck. Hence, we do not believe that the introduction of additional vaccines in 2021 will significantly affect vaccine uptake rates.
+- **Important:** We currently only model the rollout of two vaccines: Pfizer and Moderna. More vaccines will be approved in 2021 (e.g. Johnson & Johnson, AstraZeneca), but the exact timelines are still unclear. The rollouts of additional vaccines in early 2021 will increase vaccine uptake.
 - We assume roughly two-thirds of the US population will take at least one dose of the vaccine by the end of 2021. This is slightly higher than the ~50% vaccine coverage for the common flu.
 - We assume the majority of individuals (but not all) will receive the second dose.
 - We assume the general population will begin receiving vaccinations in late spring/early summer (Apr-Jun 2021).
@@ -80,7 +80,7 @@ The underlying assumptions behind our estimates are presented below:
 - We assume vaccinations will begin in mid-December following the FDA Emergency Use Authorization (EUA) approval. Due to distribution issues, constraints with storage, and vaccine hesitancy, we believe the initial rollout will be slower than what Operation Warp Speed estimates.
 - Many of the assumptions in this writeup come from the [December 10 FDA Briefing Document](https://www.fda.gov/media/144245/download) for the Pfizer vaccine.
 - We assume a smooth but conservative vaccine rollout, with no major issues or halts. If rollout and uptake is quicker than estimated, then we may reach herd immunity sooner. If rollout and uptake is slower than estimated, we may reach herd immunity later.
-- We assume that at its peak, around 2.5 million doses will be given per day (enough for innoculate 1.25 million people). This is close to the peak vaccine distribution for influenza (~3 million doses per day).
+- We assume that at its peak, around 2 million doses will be given per day (enough for innoculate 1.25 million people). This is slightly lower than the peak vaccine distribution for influenza (~3 million doses per day).
 - We assume a proportion of the vaccinated population already possess immunity via infection. For simplicity, we assume individuals who already possess immunity from natural infection will get vaccinated at the same rate as susceptible individuals. If an individual possesses immunity from both vaccination and infection, we only count this individual as "immune via infection".
 - We compute the population "immune via vaccination" by taking the total vaccinated, subtracting the estimated number of individuals who already possess immunity via infection, and multiplying the resulting number by the vaccine efficacy (85%).
 
