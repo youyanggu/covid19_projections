@@ -1,3 +1,7 @@
+---
+layout: default
+permalink: /
+---
 We present a new, simple nowcasting model that estimates true infections in the US. We have estimates for all US states and all 3,000+ US counties.
 {% include iframe_home_first_map.html %}For more maps, including county-level views, visit the [Maps](/maps-infections) page.
 
