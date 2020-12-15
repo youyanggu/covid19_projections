@@ -22,7 +22,7 @@ With your donation, I can:
 
 **I do more with less** - you can be confident that each dollar donated will be used in the most efficient way possible.
 
-| | Other public health orgs | covid19-projections.com | 
+| | Other public health orgs | covid19- projections.com | 
 | --- | --- | --- |
 | *Funding* | $100,000,000+ | $0 |
 | *People* | 500+ | 1 |
