@@ -14,7 +14,7 @@ Jump to section:
 
 For regular updates and insights, follow Youyang Gu on Twitter:&nbsp; <a href="https://twitter.com/youyanggu" class="twitter-follow-button" data-show-count="false">@youyanggu</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-**New! Help support *covid19-projections.com***:&nbsp; [Donate](/donate){: .btn .btn_html}
+**New!** Help us keep *covid19-projections.com* running:&nbsp; [Donate](/donate){: .btn .btn_html}
 
 * **December 9:** See an initial draft of our latest writeup, [Path to Herd Immunity: 2021 Outlook of COVID-19 in the US](/path-to-herd-immunity), which models how the COVID-19 vaccine can help the US achieve herd immunity.
 * *December 3:* New updates this week: [maps over time](/maps-infections), plots of reported cases and deaths on every page, and [downloadable](https://github.com/youyanggu/covid19-infection-estimates-counties) daily infection estimates for every US county. We also added plots of reported tests and hospitalizations to the bottom of every page.

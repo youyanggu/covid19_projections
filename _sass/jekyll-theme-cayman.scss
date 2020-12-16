@@ -107,24 +107,25 @@ a {
 
 .btn_donate {
   font-weight: bold;
-  color: rgba(199, 0, 76, 0.8);
-  background-color: rgba(255, 255, 255, 0.95);
+  color: rgba(255, 255, 255, 0.95);
+  background-color: rgba(199, 0, 76, 0.8);
 
   &:hover {
-    color: rgba(199, 0, 76, 1);
-    background-color: rgba(255, 255, 255, 1);
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(199, 0, 76, 1);
   }
 }
 
 .btn_html {
+  font-size: 16px;
   font-weight: bold;
   color: rgba(199, 0, 76, 0.8);
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: rgba(199, 0, 76, 0.05);
   border-color: rgba(0, 0, 0, 0.2);
 
   &:hover {
     color: rgba(199, 0, 76, 1);
-    background-color: rgba(0, 0, 0, 0.03);
+    background-color: rgba(199, 0, 76, 0.1);
     border-color: rgba(0, 0, 0, 0.2);
   }
 }
