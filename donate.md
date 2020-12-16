@@ -11,7 +11,7 @@ permalink: /donate/
 
 Having your support would make my job much easier and allow me to focus full-time on providing the best COVID-19 modeling and analysis.
 
-I hope to continue to dedicate my efforts to this project for as long as possible, until [normally returns](/path-to-herd-immunity).
+I hope to continue to dedicate my efforts to this project for as long as possible, until [normality returns](/path-to-herd-immunity).
 
 With your donation, I can:
 
