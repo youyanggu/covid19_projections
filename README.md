@@ -2,7 +2,9 @@
 
 [covid19-projections.com](https://covid19-projections.com/), created by [Youyang Gu](https://youyanggu.com/)
 
-**2020-11-19 Update:** We are now uploadeding our raw US infection estimates in the [`infection_estimates`](/infection_estimates) directory.
+*Warning: This repository takes approximately 4GB of space to clone. Please make sure you have the storage space.*
+
+**2020-11-19 Update:** We have uploaded our raw US infection estimates in the [`infection_estimates`](/infection_estimates) directory. For a slimmed down version that only has the latest infection estimates, visit [this repository](https://github.com/youyanggu/covid19-infection-estimates-latest).
 
 **2020-10-06 Update:** Projections dated 2020-10-04 was our last model update. For more information, read [Youyang Gu's blog post](https://youyanggu.com/blog/six-months-later). Follow [@youyanggu](https://twitter.com/youyanggu) on Twitter for continued COVID-19 insights.
 
