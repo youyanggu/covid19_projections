@@ -87,7 +87,7 @@ Please read the below disclaimers carefully to better understand what the model 
 
 *Input*: We use reported state-level case and testing data from [The COVID Tracking Project](https://covidtracking.com/data/download/). For county-level infections estimates, we use county case data from [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series).
 
-*Output*: We have uploaded all of our infections estimates to [our GitHub](https://github.com/youyanggu/covid19_projections/tree/master/infection_estimates).
+*Output*: We have uploaded all of our infections estimates to [our GitHub](https://github.com/youyanggu/covid19-infection-estimates-latest).
 
 *Tools*: All of our work is done with [Python 3](https://www.python.org/downloads/), using the with the [NumPy](https://numpy.org/install/) and [pandas](https://pandas.pydata.org/getting_started.html) packages. For plotting, we use [plotly](https://plotly.com/python/).
 
