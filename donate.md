@@ -9,7 +9,7 @@ permalink: /donate/
 
 *covid19-projections.com* is entirely built and run by myself, [Youyang Gu](https://youyanggu.com). Since April, I have volunteered thousands of hours of my time to making sure that people have the best data and model possible to make informed decisions.
 
-Having your support would make my job much easier and allow me to continue focusing full-time on providing the best COVID-19 modeling and analysis.
+I didn't set up this page until December because I wanted to focus purely on the modeling. Having your support now would make my job much easier and allow me to continue focusing full-time on providing the best COVID-19 modeling and analysis.
 
 I hope to continue to dedicate my efforts to this project for as long as possible, until [normality returns](/path-to-herd-immunity).
 
