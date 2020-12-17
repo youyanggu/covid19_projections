@@ -1,5 +1,7 @@
 # US Infections Estimate
 
+**December 17, 2020 Update:** If you only need the *latest* estimates and not our *past* estimates, you can download our latest estimates from our [new, slimmed-down repo](https://github.com/youyanggu/covid19-infection-estimates-latest). That repository is much smaller (~500MB) compared to this one (~4GB). If you need the entire history of past estimates, please continue to use this repository.
+
 In this folder you will find the raw estimates of true infections in the US. We use confirmed cases and testing data from [The COVID Tracking Project](https://covidtracking.com/data/download) to generate these estimates.
 
 The raw data files are located in: `latest_all_estimates_states.csv` and `latest_all_estimates_states.csv`. You can find the historical estimates in the [`past_estimates`](past_estimates) directory. You can also find the latest county-by-county estimates in the [`counties`](counties) directory. The column descriptions are below:
