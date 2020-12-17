@@ -22,6 +22,8 @@ With your donation, I can:
 - Fight misinformation
 - Inspire further action
 
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Help support an unbiased, rigorous, data-driven approach to COVID-19:" data-url="https://covid19-projections.com/donate" data-via="youyanggu" data-related="" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## We do more with less
 
 You can be confident that each dollar donated will be used in the most efficient way possible.
