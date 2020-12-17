@@ -46,7 +46,7 @@ Any excess funds will be saved for future public health modeling efforts. I hope
 
 If you have any questions, please don't hesitate to [contact me](/contact).
 
-I am very much appreciative and grateful for all of your support over the past year. I am [https://youyanggu.com/blog/a-dose-of-optimism](optimistic) for a better 2021.
+I am very much appreciative and grateful for all of your support over the past year. I am [optimistic](https://youyanggu.com/blog/a-dose-of-optimism) for a better 2021.
 
 With my sincerest gratitude,
 
