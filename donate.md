@@ -41,9 +41,13 @@ Any excess funds will be saved for future public health modeling efforts. I hope
 ## Donate Now
 
 - You should receive an email confirmation after you donate.
-- If you would like to send a check, please [reach out](/contact) for an address.
+- If you would like to send a check, please [reach out](/contact) and I will send you an address.
 - At this time, we are not a recognized 501(c)(3) non-profit. We are currently in the process of exploring this option.
+
+If you have any questions, please don't hesitate to [contact me](/contact).
 
 I am very much appreciative and grateful for all of your support over the past year.
 
-If you have any questions, please don't hesitate to [contact me](/contact).
+With my sincerest gratitude,
+
+- Youyang
