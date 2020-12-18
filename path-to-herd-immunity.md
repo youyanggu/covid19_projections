@@ -28,7 +28,8 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 - We estimate around one-third of the US population (~105 million) will have been infected by the SARS-CoV-2 virus by the end of 2021. That is an additional 40 million infections since mid-December 2020.
 - This translates to a final US COVID-19 death toll of roughly 500,000 (±100,000) reported deaths, or ~200,000 additional deaths since mid-December 2020.
 
-*Plots Last Updated: December 15, 2020*{% include iframe_vaccination.html %}
+*Plots Last Updated: December 15, 2020*
+{% include iframe_vaccination.html %}
 [Back to Top](#top)
 
 ## Relevant Twitter Threads
