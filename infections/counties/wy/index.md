@@ -6,30 +6,30 @@ Click on a county name to view the infections estimates for that county.
 
 *Note: Due to the inherent lag between infections and reporting of cases, our estimates of infections are as of 14 days ago.*
 
-*Last updated: December 21, 2020*
+*Last updated: December 22, 2020*
 
 |   FIPS Code |                     County |   Population |   Confirmed Cases |   % Currently Infected |   % Total Infected |
 |-------------|----------------------------|--------------|-------------------|------------------------|--------------------|
-|       56021 |         [Laramie](laramie) |       99,500 |             6,679 |                    3.9 |               21.6 |
-|       56025 |         [Natrona](natrona) |       79,858 |             6,147 |                    3.7 |               24.5 |
-|       56005 |       [Campbell](campbell) |       46,341 |             3,917 |                    3.7 |               25.2 |
-|       56037 |   [Sweetwater](sweetwater) |       42,343 |             2,718 |                    5.1 |               20.2 |
-|       56013 |         [Fremont](fremont) |       39,261 |             3,814 |                    3.1 |               31.5 |
-|       56001 |           [Albany](albany) |       38,880 |             3,380 |                    1.8 |               26.8 |
-|       56033 |       [Sheridan](sheridan) |       30,485 |             2,401 |                    3.4 |               25.0 |
-|       56029 |               [Park](park) |       29,194 |             1,784 |                    3.9 |               18.5 |
-|       56039 |             [Teton](teton) |       23,464 |             2,002 |                    4.0 |               27.7 |
-|       56041 |             [Uinta](uinta) |       20,226 |             1,416 |                    4.1 |               22.0 |
-|       56023 |         [Lincoln](lincoln) |       19,830 |               823 |                    2.2 |               12.8 |
-|       56007 |           [Carbon](carbon) |       14,800 |               885 |                    3.3 |               19.2 |
-|       56009 |       [Converse](converse) |       13,822 |               750 |                    2.3 |               17.0 |
-|       56015 |           [Goshen](goshen) |       13,211 |               938 |                    4.1 |               22.9 |
-|       56003 |       [Big Horn](big-horn) |       11,790 |               675 |                    3.3 |               17.4 |
-|       56035 |       [Sublette](sublette) |        9,831 |               565 |                    3.1 |               18.3 |
-|       56019 |         [Johnson](johnson) |        8,445 |               495 |                    3.8 |               17.6 |
-|       56031 |           [Platte](platte) |        8,393 |               410 |                    2.3 |               14.9 |
-|       56043 |       [Washakie](washakie) |        7,805 |               699 |                    8.0 |               28.5 |
-|       56011 |             [Crook](crook) |        7,584 |               372 |                    2.2 |               15.2 |
-|       56045 |           [Weston](weston) |        6,927 |               446 |                    1.3 |               19.4 |
-|       56017 | [Hot Springs](hot-springs) |        4,413 |               209 |                    3.2 |               15.2 |
-|       56027 |       [Niobrara](niobrara) |        2,356 |               137 |                    1.9 |               19.4 |
+|       56021 |         [Laramie](laramie) |       99,500 |             6,737 |                    3.6 |               21.7 |
+|       56025 |         [Natrona](natrona) |       79,858 |             6,192 |                    3.4 |               24.6 |
+|       56005 |       [Campbell](campbell) |       46,341 |             3,990 |                    3.9 |               25.6 |
+|       56037 |   [Sweetwater](sweetwater) |       42,343 |             2,762 |                    4.9 |               20.5 |
+|       56013 |         [Fremont](fremont) |       39,261 |             3,842 |                    2.9 |               31.6 |
+|       56001 |           [Albany](albany) |       38,880 |             3,397 |                    1.7 |               26.8 |
+|       56033 |       [Sheridan](sheridan) |       30,485 |             2,420 |                    3.2 |               25.1 |
+|       56029 |               [Park](park) |       29,194 |             1,812 |                    3.8 |               18.7 |
+|       56039 |             [Teton](teton) |       23,464 |             2,019 |                    3.8 |               27.8 |
+|       56041 |             [Uinta](uinta) |       20,226 |             1,446 |                    3.9 |               22.2 |
+|       56023 |         [Lincoln](lincoln) |       19,830 |               827 |                    2.1 |               12.9 |
+|       56007 |           [Carbon](carbon) |       14,800 |               906 |                    3.1 |               19.2 |
+|       56009 |       [Converse](converse) |       13,822 |               752 |                    2.2 |               17.1 |
+|       56015 |           [Goshen](goshen) |       13,211 |               954 |                    3.8 |               23.1 |
+|       56003 |       [Big Horn](big-horn) |       11,790 |               694 |                    3.3 |               17.7 |
+|       56035 |       [Sublette](sublette) |        9,831 |               567 |                    2.9 |               18.4 |
+|       56019 |         [Johnson](johnson) |        8,445 |               507 |                    3.9 |               17.9 |
+|       56031 |           [Platte](platte) |        8,393 |               412 |                    2.2 |               15.0 |
+|       56043 |       [Washakie](washakie) |        7,805 |               713 |                    7.6 |               28.8 |
+|       56011 |             [Crook](crook) |        7,584 |               372 |                    2.1 |               15.3 |
+|       56045 |           [Weston](weston) |        6,927 |               447 |                    1.3 |               19.5 |
+|       56017 | [Hot Springs](hot-springs) |        4,413 |               213 |                    3.1 |               15.3 |
+|       56027 |       [Niobrara](niobrara) |        2,356 |               137 |                    1.7 |               19.4 |
