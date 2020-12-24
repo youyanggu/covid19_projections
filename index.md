@@ -16,9 +16,9 @@ For regular updates and insights, follow Youyang Gu on Twitter:&nbsp; <a href="h
 
 **New!** I've self-funded this project over the past 9 months. Help me keep *covid19-projections.com* running:&nbsp; [Donate](/donate){: .btn .btn_html}
 
-* **December 9:** See an initial draft of our latest writeup, [Path to Herd Immunity: 2021 Outlook of COVID-19 in the US](/path-to-herd-immunity), which models how the COVID-19 vaccine can help the US achieve herd immunity.
-* *December 3:* New updates this week: [maps over time](/maps-infections), plots of reported cases and deaths on every page, and [downloadable](https://github.com/youyanggu/covid19-infection-estimates-latest/tree/main/counties) daily infection estimates for every US county. We also added plots of reported tests and hospitalizations to the bottom of every page.
-* **November 25:** We have released a writeup of our methodology: [Estimating True Infections Revisited: A Simple Nowcasting Model to Estimate Prevalent Cases in the US](/estimating-true-infections-revisited).
+* **December 24:** We added the latest vaccination data from the CDC to our [Path to Herd Immunity](/path-to-herd-immunity) page.
+* *December 9:* See our latest writeup, [Path to Herd Immunity: 2021 Outlook of COVID-19 in the US](/path-to-herd-immunity), which models how the COVID-19 vaccine can help the US achieve herd immunity.
+* *November 25:* We have released a writeup of our methodology: [Estimating True Infections Revisited: A Simple Nowcasting Model to Estimate Prevalent Cases in the US](/estimating-true-infections-revisited).
 * *November 23:* We released detailed county-by-county estimates for every US county. You can view them [below](#us-counties-infections-estimates). You can view maps of these estimates on the new [Maps](/maps-infections) page.
 * *November 18:* We are re-launching this website with nowcasting of infections estimates in the US (what has happened/is happening). You can download all of our estimates [here](https://github.com/youyanggu/covid19-infection-estimates-latest).
 
