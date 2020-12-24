@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Path to Herd Immunity: COVID-19 Vaccine Projections
+title: Path to Herd Immunity - COVID-19 Vaccine Projections
 permalink: /path-to-herd-immunity/
 ---
 
