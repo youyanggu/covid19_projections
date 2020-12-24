@@ -8,7 +8,9 @@ permalink: /path-to-herd-immunity/
 By: [Youyang Gu](https://youyanggu.com)
 <br>December 9, 2020 *(Last Updated: December 23, 2020)*
 
-*December 23 Update:* For the latest data on the number of vaccine doses given, see the [CDC COVID Data Tracker](https://covid.cdc.gov/covid-data-tracker/#vaccinations) (US only) or the [Bloomberg Vaccine Tracker](https://www.bloomberg.com/graphics/covid-vaccine-tracker-global-distribution/?srnd=premium) (US states and international).
+*December 24 Update:* We added a plot of the most up-to-date information on doses distributed and people vaccinated, based on [CDC data](https://covid.cdc.gov/covid-data-tracker/#vaccinations).
+
+*December 20 Update:* For the latest data on the number of vaccine doses given, see the [CDC COVID Data Tracker](https://covid.cdc.gov/covid-data-tracker/#vaccinations) (US only) or the [Bloomberg Vaccine Tracker](https://www.bloomberg.com/graphics/covid-vaccine-tracker-global-distribution/?srnd=premium) (US states and international).
 
 With the availability of the COVID-19 vaccine, we present our best estimate of the path to COVID-19 herd immunity in the United States. Herd immunity will be reached through immunity from two sources: vaccination and natural infection. On this page, we provide the latest COVID-19 vaccine projections.
 
@@ -30,7 +32,7 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 - We estimate around one-third of the US population (~105 million) will have been infected by the SARS-CoV-2 virus by the end of 2021. That is an additional 40 million infections since mid-December 2020.
 - This translates to a final US COVID-19 death toll of roughly 500,000 (±100,000) reported deaths, or ~200,000 additional deaths since mid-December 2020.
 
-*Plots Last Updated: December 23, 2020*
+*Plots Last Updated: December 24, 2020*
 {% include iframe_vaccination.html %}
 [Back to Top](#top)
 
