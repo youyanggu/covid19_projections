@@ -6,9 +6,9 @@ permalink: /path-to-herd-immunity/
 
 # Path to Herd Immunity: 2021 Outlook of COVID-19 in the US
 By: [Youyang Gu](https://youyanggu.com)
-<br>December 9, 2020 *(Last Updated: December 23, 2020)*
+<br>December 9, 2020 *(Last Updated: December 24, 2020)*
 
-*December 24 Update:* We added a plot of the most up-to-date information on doses distributed and people vaccinated, based on [CDC data](https://covid.cdc.gov/covid-data-tracker/#vaccinations).
+**December 24 Update:** We added a plot of the most up-to-date information on doses distributed and people vaccinated, based on [CDC data](https://covid.cdc.gov/covid-data-tracker/#vaccinations) (scroll down to see).
 
 *December 20 Update:* For the latest data on the number of vaccine doses given, see the [CDC COVID Data Tracker](https://covid.cdc.gov/covid-data-tracker/#vaccinations) (US only) or the [Bloomberg Vaccine Tracker](https://www.bloomberg.com/graphics/covid-vaccine-tracker-global-distribution/?srnd=premium) (US states and international).
 
