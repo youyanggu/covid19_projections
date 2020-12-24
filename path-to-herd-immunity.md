@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Path to Herd Immunity
+title: Path to Herd Immunity: COVID-19 Vaccine Projections
 permalink: /path-to-herd-immunity/
 ---
 
@@ -10,7 +10,7 @@ By: [Youyang Gu](https://youyanggu.com)
 
 *December 23 Update:* For the latest data on the number of vaccine doses given, see the [CDC COVID Data Tracker](https://covid.cdc.gov/covid-data-tracker/#vaccinations) (US only) or the [Bloomberg Vaccine Tracker](https://www.bloomberg.com/graphics/covid-vaccine-tracker-global-distribution/?srnd=premium) (US states and international).
 
-With the availability of the COVID-19 vaccine, we present our best estimate of the path to COVID-19 herd immunity in the United States. Herd immunity will be reached through immunity from two sources: vaccination and natural infection.
+With the availability of the COVID-19 vaccine, we present our best estimate of the path to COVID-19 herd immunity in the United States. Herd immunity will be reached through immunity from two sources: vaccination and natural infection. On this page, we provide the latest COVID-19 vaccine projections.
 
 ## Table of Contents
 * [Summary](#summary)
