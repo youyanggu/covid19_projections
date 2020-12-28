@@ -6,7 +6,7 @@ permalink: /path-to-herd-immunity/
 
 # Path to Herd Immunity: 2021 Outlook of COVID-19 in the US
 By: [Youyang Gu](https://youyanggu.com)
-<br>December 9, 2020 *(Last Updated: December 27, 2020)*
+<br>December 9, 2020 *(Last Updated: December 28, 2020)*
 
 **December 24 Update:** We added a plot of the most up-to-date information on doses distributed and people vaccinated, based on [CDC data](https://covid.cdc.gov/covid-data-tracker/#vaccinations) (scroll down to see).
 
@@ -32,7 +32,6 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 - We estimate around one-third of the US population (~105 million) will have been infected by the SARS-CoV-2 virus by the end of 2021. That is an additional 40 million infections since mid-December 2020.
 - This translates to a final US COVID-19 death toll of roughly 500,000 (±100,000) reported deaths, or ~200,000 additional deaths since mid-December 2020.
 
-*Plots Last Updated: December 27, 2020*
 {% include iframe_vaccination.html %}
 [Back to Top](#top)
 
