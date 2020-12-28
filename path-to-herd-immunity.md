@@ -40,6 +40,7 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 - [Potential ways to speed up herd immunity](https://twitter.com/youyanggu/status/1337506967095369728) - Dec 11
 - [Vaccine side effects](https://twitter.com/youyanggu/status/1338587017966284800) - Dec 14
 - [Vaccine misinformation](https://twitter.com/youyanggu/status/1338952594492813312) - Dec 15
+- [Vaccination rollout](https://twitter.com/youyanggu/status/1343675401436971008) - Dec 28
 
 [Back to Top](#top)
 
