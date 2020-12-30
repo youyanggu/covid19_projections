@@ -83,12 +83,13 @@ The underlying assumptions behind our estimates are presented below:
 - We assume the general population will begin receiving vaccinations in late spring/early summer (Apr-Jun 2021).
 - We assume children and adolescents will begin receiving vaccinations in late summer/early fall (Aug-Oct 2021).
 - We assume a 85% vaccine efficacy. While the trial data demonstrate >90% efficacy, we believe that the efficacy in the general population will be slightly lower due to the fact that a sizable proportion of the population may miss the second vaccine dose.
+- We assume that if effective, the vaccine will provide individuals immunity through at least 2021.
 - While it is still unclear if the vaccine provides sterilizing immunity, we assume that the vaccine, if effective, can provide functional immunity for the individual and significantly reduce their likelihood of being infectious for at least the duration of 2021. Pfizer expects to report data on whether or not its vaccine stops virus transmission in the first quarter of 2021.
 - We assume vaccinations will begin in mid-December following the FDA Emergency Use Authorization (EUA) approval. Due to distribution issues, constraints with storage, and vaccine hesitancy, we believe the initial rollout will be slower than what Operation Warp Speed estimates.
 - Many of the assumptions in this writeup come from the [December 10 FDA Briefing Document](https://www.fda.gov/media/144245/download) for the Pfizer vaccine.
 - We assume a smooth but conservative vaccine rollout, with no major issues or halts. If rollout and uptake is quicker than estimated, then we may reach herd immunity sooner. If rollout and uptake is slower than estimated, we may reach herd immunity later.
-- We assume that at its peak, around 2 million doses will be given per day (enough for innoculate 1.25 million people). This is slightly lower than the peak vaccine distribution for influenza (~3 million doses per day).
-- We assume a proportion of the vaccinated population already possess immunity via infection. For simplicity, we assume individuals who already possess immunity from natural infection will get vaccinated at the same rate as susceptible individuals. If an individual possesses immunity from both vaccination and infection, we only count this individual as "immune via infection".
+- We assume that at its peak, around 2 million doses will be given per day (enough for innoculate ~1.25 million people). This is slightly lower than the peak vaccine distribution for influenza (~3 million doses per day).
+- We assume a proportion of the vaccinated population already possesses immunity via infection. For simplicity, we assume individuals who already possess immunity from natural infection will get vaccinated at the same rate as susceptible individuals. If an individual possesses immunity from both vaccination and infection, we only count this individual as "immune via infection".
 - We compute the population "immune via vaccination" by taking the total vaccinated, subtracting the estimated number of individuals who already possess immunity via infection, and multiplying the resulting number by the vaccine efficacy (85%).
 
 [Back to Top](#top)
@@ -97,7 +98,7 @@ The underlying assumptions behind our estimates are presented below:
 
 - We assume roughly 65 million people in the US (20% of the population) have already been infected by the time the first COVID-19 vaccine is authorized in mid-December 2020 (based on our latest [covid19-projections.com](/) model). We assume ~99.9% of these individuals possess immunity as of mid-December 2020.
 - We assume a small proportion (10-15%) of the infected population will lose their immunity by the end of 2021. The longer the time from infection, the higher the likelihood of immunity being lost. While it's still unclear if prior infection confers long-term immunity, [recent research](https://www.nejm.org/doi/full/10.1056/NEJMoa2034545?s=09) indicates that short-term reinfections are rare.
-- If an individual loses immunity but gets vaccinated, they are counted as "immune via vaccination".
+- If an individual loses immunity but has already been vaccinated, his/her status is moved from "immune via infection" to "immune via vaccination".
 - We assume that the infection rate will fall as the number of individuals who are inoculated/vaccinated increases.
 - We assume new infections will undergo a steady decrease from mid-December 2020 to March 2021. We account for the possibility of another wave of infections in late winter/early spring (March/April) as states relax restrictions from the fall wave. This final wave may not happen if vaccine rollout is quicker than expected.
 - To simplify the modeling, we count an individual as "immune via infection" when they are first infected with the virus. Though in reality, it takes roughly 2-3 weeks after infection to develop antibodies.
