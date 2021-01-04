@@ -35,6 +35,8 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 - This translates to a final US COVID-19 death toll of roughly 500,000 (±100,000) reported deaths, or ~200,000 additional deaths since mid-December 2020.
 
 {% include iframe_vaccination.html %}
+*Note:* Our "New Infections" estimates include all new infected individuals of the SARS-CoV-2 virus, not just those that took a COVID-19 test and tested positive. As of January 2021, we estimate the true number of infected individuals in the US to be roughly 2-4x higher than the reported cases (25-50% detection rate). See our writeup, [Estimating True Infections](/estimating-true-infections-revisited), for a more detailed look into this subject.
+
 [Back to Top](#top)
 
 ## Relevant Twitter Threads
