@@ -16,8 +16,9 @@ For regular updates and insights, follow Youyang Gu on Twitter:&nbsp; <a href="h
 
 **New!** I've self-funded this project over the past 9 months. Help me keep *covid19-projections.com* running:&nbsp; [Donate](/donate){: .btn .btn_html}
 
-* **December 29:** See why our total infected estimates [differ from the CDC](https://twitter.com/youyanggu/status/1344002411556339712).
-* **December 24:** We added the latest vaccination data from the CDC to our [Path to Herd Immunity](/path-to-herd-immunity) page.
+* *January 4:* See our new [county-level summary](/summary-counties) page, where we present the best and worst-impacted counties in a sortable table format.
+* *December 29:* See why our total infected estimates [differ from the CDC](https://twitter.com/youyanggu/status/1344002411556339712).
+* *December 24:* We added the latest vaccination data from the CDC to our [Path to Herd Immunity](/path-to-herd-immunity) page.
 * *December 9:* See our latest writeup, [Path to Herd Immunity: 2021 Outlook of COVID-19 in the US](/path-to-herd-immunity), which models how the COVID-19 vaccine can help the US achieve herd immunity.
 * *November 25:* We have released a writeup of our methodology: [Estimating True Infections Revisited: A Simple Nowcasting Model to Estimate Prevalent Cases in the US](/estimating-true-infections-revisited).
 * *November 23:* We released detailed county-by-county estimates for every US county. You can view them [below](#us-counties-infections-estimates). You can view maps of these estimates on the new [Maps](/maps-infections) page.
@@ -65,7 +66,7 @@ Below, we have infection estimates for the US, all 50 states, DC, and 4 US terri
 
 We have infections estimates for all 3,000+ US counties (and county equivalents). Click on a state to view the counties in that state. You can then select the county to view detailed infection estimates.
 
-| US Counties |  |  |
+| US Counties ([Summary](/summary-counties)) |  |  |
 | --- | --- | --- |
 | [Alaska](/infections/counties/ak/) | [Kentucky](/infections/counties/ky/) | [New York](/infections/counties/ny/) |
 | [Alabama](/infections/counties/al/) | [Louisiana](/infections/counties/la/) | [Ohio](/infections/counties/oh/) |
