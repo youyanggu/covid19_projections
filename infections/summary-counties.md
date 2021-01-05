@@ -5,7 +5,7 @@ permalink: /infections/summary-counties/
 ---
 ## Summary - US Counties
 
-View and sort counties by newly infected, currently infected (default), and total infected. You can also copy, download, or print the data. For the full data, see our [GitHub repository](https://github.com/youyanggu/covid19-infection-estimates-latest/blob/main/counties/1_latest_percent_infected_counties.csv).
+View and sort counties by newly infected, currently infected (default), and total infected. Scroll to the bottom to see the table for all counties. You can also copy, download, or print the data. For the full data, see our [GitHub repository](https://github.com/youyanggu/covid19-infection-estimates-latest/blob/main/counties/1_latest_percent_infected_counties.csv).
 
 *Data source: [The COVID Tracking Project](https://covidtracking.com/) and [Johns Hopkins CSSE](https://coronavirus.jhu.edu/). Due to the inherent lag in the reporting of cases, our estimates of infections is for 14 days ago.*
 
