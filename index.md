@@ -14,7 +14,7 @@ Jump to section:
 
 For regular updates and insights, follow Youyang Gu on Twitter:&nbsp; <a href="https://twitter.com/youyanggu" class="twitter-follow-button" data-show-count="false">@youyanggu</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-**New!** I've self-funded this project over the past 9 months. Help me keep *covid19-projections.com* running:&nbsp; [Donate](/donate){: .btn .btn_html}
+I've self-funded this project over the past 9 months. Help me keep *covid19-projections.com* running:&nbsp; [Donate](/donate){: .btn .btn_html}
 
 * **January 5:** See our new [county-level summary](/infections/summary-counties) page, where we present the best and worst-impacted counties in a sortable table format.
 * *December 29:* See why our total infected estimates [differ from the CDC](https://twitter.com/youyanggu/status/1344002411556339712).
