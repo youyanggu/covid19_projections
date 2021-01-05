@@ -8,7 +8,9 @@ permalink: /path-to-herd-immunity/
 By: [Youyang Gu](https://youyanggu.com)
 <br>December 9, 2020 *(Last Updated: January 5, 2021)*
 
-**January 4 Update:** We are actively monitoring the [new COVID-19 variant](https://www.nytimes.com/live/2021/01/01/world/covid-19-coronavirus-updates) that was first detected in the UK. We currently do not have enough data to incorporate this strain into our modeling, but we hope to see more research/information in the coming days and weeks.
+**January 5 Update:** We added a plot of daily US vaccinations as reported by the CDC (see below). We also increased our herd immunity threshold from 60%+ to 65%+ in response to the new COVID-19 variant (preliminary study [here](https://cmmid.github.io/topics/covid19/uk-novel-variant.html)).
+
+*January 4 Update:* We are actively monitoring the [new COVID-19 variant](https://www.nytimes.com/live/2021/01/01/world/covid-19-coronavirus-updates) that was first detected in the UK. We currently do not have enough data to incorporate this strain into our modeling, but we hope to see more research/information in the coming days and weeks.
 
 *December 24 Update:* We added a plot of the most up-to-date information on doses distributed and people vaccinated, based on [CDC data](https://covid.cdc.gov/covid-data-tracker/#vaccinations) (scroll down to see). To track global vaccination progress, see the [Bloomberg Vaccine Tracker](https://www.bloomberg.com/graphics/covid-vaccine-tracker-global-distribution/?srnd=premium).
 
@@ -23,13 +25,13 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 * [Questions? Comments? Feedback?](#questions-comments-feedback)
 
 ## Summary
-- We estimate COVID-19 herd immunity (>60% of population immune) will be reached in the US during summer 2021 (Jun-Aug 2021). At a high level, [herd immunity](https://jamanetwork.com/journals/jama/fullarticle/2772168) is a concept in which a population can be protected from a virus if enough people possess immunity.
+- We estimate COVID-19 herd immunity (>65% of population immune) will be reached in the US during summer 2021 (Jun-Aug 2021). At a high level, [herd immunity](https://jamanetwork.com/journals/jama/fullarticle/2772168) is a concept in which a population can be protected from a virus if enough people possess immunity.
 - At the time herd immunity is reached, roughly half of the immunity will be achieved through natural infection, and the other half will be achieved through vaccination.
 - New infections may become minimal before herd immunity is reached. But due to imported cases and localized clusters, it is unlikely that new infections will drop to zero until at least 2022.
 - Deaths may drop to low levels even earlier (May-Jul 2021), in part due to a vaccine distribution strategy that initially prioritizes high-risk individuals. Once deaths fall to minimal levels, we may see a relaxation of restrictions.
 - Summarizing the above findings, our best estimate of a complete "return to normal" in the US is mid-summer 2021 (June/July 2021).
-- We estimate roughly 70% of the US population (~235 million) will receive at least one dose of the vaccine by the end of 2021, with children and adolescents being the last group to receive it (Aug-Nov 2021).
-- We estimate around one-third of the US population (~105 million) will have been infected by the SARS-CoV-2 virus by the end of 2021. That is an additional 40 million infections since mid-December 2020.
+- We estimate roughly 75% of the US population (~250 million) will receive at least one dose of the vaccine by the end of 2021, with children and adolescents being the last group to receive it (Aug-Nov 2021).
+- We estimate around one-third of the US population (~110 million) will have been infected by the SARS-CoV-2 virus by the end of 2021. That is an additional 45 million infections since mid-December 2020.
 - This translates to a final US COVID-19 death toll of roughly 500,000 (±100,000) reported deaths, or ~200,000 additional deaths since mid-December 2020.
 
 {% include iframe_vaccination.html %}
@@ -66,7 +68,7 @@ The underlying assumptions behind our estimates are presented below:
 ### Basic Assumptions
 
 - We assume immunity can be achieved through either natural infection or vaccination.
-- We assume herd immunity is achieved when at least 60% of the population possess immunity from the SARS-CoV-2 virus (HIT = 60%). This corresponds to 200 million individuals in the US. Due to population heterogeneity, variation in susceptibility and/or pre-existing immunity, it is possible that the herd immunity threshold (HIT) can be lower. But HIT can also be higher due to the targeted approach of vaccine distribution (e.g. individuals with the greatest impact on transmission are vaccinated last).
+- We assume herd immunity is achieved when at least 65% of the population possess immunity from the SARS-CoV-2 virus (HIT = 65%). This corresponds to 215 million individuals in the US. Due to population heterogeneity, variation in susceptibility and/or pre-existing immunity, it is possible that the herd immunity threshold (HIT) can be lower. But HIT can also be higher due to the targeted approach of vaccine distribution (e.g. individuals with the greatest impact on transmission are vaccinated last).
 - **Important:** We only count the immunity that was acquired first (e.g. if an individual has both immunity from natural infection and immunity from vaccination, we only count the immunity from infection).
 - We assume states will continue to impose varying degrees of restrictions and interventions until herd immunity is reached.
 - We define "normality" as the removal of all COVID-19-related restrictions and interventions.
@@ -80,7 +82,7 @@ The underlying assumptions behind our estimates are presented below:
 - We count an individual as vaccinated after they receive their first dose. We assume it takes 21 days for an individual to gain immunity.
 - **Important:** We currently only model the rollout of two vaccines: Pfizer and Moderna. More vaccines will be approved in 2021 (e.g. Johnson & Johnson, AstraZeneca), but the exact timelines are still unclear. The rollouts of additional vaccines in early 2021 will likely increase vaccine uptake.
 - We are estimating how many individuals gain immunity after being vaccinated, not how many vaccine doses are distributed. The difference is subtle, but significant.
-- We assume roughly 70-75% of the US population (240 million) will take at least one dose of the vaccine by the end of 2021. This is higher than the ~50% vaccine coverage for the common flu.
+- We assume roughly 75% of the US population (~250 million) will take at least one dose of the vaccine by the end of 2021. This is higher than the ~50% vaccine coverage for the common flu.
 - We assume the majority of individuals (but not all) will receive the second dose.
 - We assume the general population will begin receiving vaccinations in late spring/early summer (Apr-Jun 2021).
 - We assume children and adolescents will begin receiving vaccinations in late summer/early fall (Aug-Oct 2021).
@@ -113,7 +115,7 @@ The underlying assumptions behind our estimates are presented below:
 
 ## Corollaries
 
-- Our estimates show that roughly one-third of the US population (~105 million) will have been infected by the SARS-CoV-2 virus by the end of 2021. That is an additional 40 million infections since mid-December 2020.
+- Our estimates show that roughly one-third of the US population (~110 million) will have been infected by the SARS-CoV-2 virus by the end of 2021. That is an additional 45 million infections since mid-December 2020.
 - A 30% prevalence estimate translates to a final US COVID-19 death toll of roughly 400,000 to 600,000 reported deaths, with 500,000 deaths being the best estimate. Given a mid-December 2020 death toll of 300,000, that is an additional 200,000 deaths. This estimate may change if the assumptions presented above are no longer true (e.g. deaths will be lower if vaccine rollout is faster than expected; deaths will be higher if the efficacy is lower than expected).
 - Due to the high prevalence, a targeted approach for vaccination that prioritizes individuals who are more likely to be susceptible may improve the time to reach herd immunity.
 - Due to possible low vaccine acceptance/uptake and waning immunity from natural infection, it is possible that the US will not reach immunity levels above 70%. In most scenarios, even 50-70% immunity should be sufficient to prevent new outbreaks.
