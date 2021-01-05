@@ -8,7 +8,7 @@ permalink: /path-to-herd-immunity/
 By: [Youyang Gu](https://youyanggu.com)
 <br>December 9, 2020 *(Last Updated: January 5, 2021)*
 
-**January 5 Update:** We added a plot of daily US vaccinations as reported by the CDC (see below). We also increased our herd immunity threshold from 60%+ to 65%+ in response to the [new COVID-19 variant](https://www.nytimes.com/live/2021/01/01/world/covid-19-coronavirus-updates) (preliminary study [here](https://cmmid.github.io/topics/covid19/uk-novel-variant.html)).
+**January 5 Update:** We added a plot of daily US vaccinations based on the data from the CDC (see below). We also increased our herd immunity threshold from 60%+ to 65%+ in response to the [new COVID-19 variant](https://www.nytimes.com/live/2021/01/01/world/covid-19-coronavirus-updates) (preliminary study [here](https://cmmid.github.io/topics/covid19/uk-novel-variant.html)).
 
 *January 4 Update:* We are actively monitoring the [new COVID-19 variant](https://www.nytimes.com/live/2021/01/01/world/covid-19-coronavirus-updates) that was first detected in the UK. We currently do not have enough data to incorporate this strain into our modeling, but we hope to see more research/information in the coming days and weeks.
 
