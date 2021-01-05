@@ -6,13 +6,11 @@ permalink: /path-to-herd-immunity/
 
 # Path to Herd Immunity: 2021 Outlook of COVID-19 in the US
 By: [Youyang Gu](https://youyanggu.com)
-<br>December 9, 2020 *(Last Updated: January 4, 2021)*
+<br>December 9, 2020 *(Last Updated: January 5, 2021)*
 
 **January 4 Update:** We are actively monitoring the [new COVID-19 variant](https://www.nytimes.com/live/2021/01/01/world/covid-19-coronavirus-updates) that was first detected in the UK. We currently do not have enough data to incorporate this strain into our modeling, but we hope to see more research/information in the coming days and weeks.
 
-*December 24 Update:* We added a plot of the most up-to-date information on doses distributed and people vaccinated, based on [CDC data](https://covid.cdc.gov/covid-data-tracker/#vaccinations) (scroll down to see).
-
-*December 20 Update:* For the latest data on the number of vaccine doses given, see the [CDC COVID Data Tracker](https://covid.cdc.gov/covid-data-tracker/#vaccinations) (US only) or the [Bloomberg Vaccine Tracker](https://www.bloomberg.com/graphics/covid-vaccine-tracker-global-distribution/?srnd=premium) (US states and international).
+*December 24 Update:* We added a plot of the most up-to-date information on doses distributed and people vaccinated, based on [CDC data](https://covid.cdc.gov/covid-data-tracker/#vaccinations) (scroll down to see). To track global vaccination progress, see the [Bloomberg Vaccine Tracker](https://www.bloomberg.com/graphics/covid-vaccine-tracker-global-distribution/?srnd=premium).
 
 With the availability of the COVID-19 vaccine, we present our best estimate of the path to COVID-19 herd immunity in the United States. Herd immunity will be reached through immunity from two sources: vaccination and natural infection. On this page, we provide the latest COVID-19 vaccine projections.
 
