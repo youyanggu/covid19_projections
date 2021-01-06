@@ -6,65 +6,65 @@ Click on a county name to view the infections estimates for that county.
 
 *Note: Due to the inherent lag between infections and reporting of cases, our estimates of infections are as of 14 days ago.*
 
-*Last updated: January 5, 2021*
+*Last updated: January 6, 2021*
 
 |   FIPS Code |                         County |   Population |   Confirmed Cases |   % Currently Infected |   % Total Infected |
 |-------------|--------------------------------|--------------|-------------------|------------------------|--------------------|
-|       36061 | [New York City](new-york-city) |    8,336,817 |           450,389 |                    1.7 |               31.7 |
-|       36103 |             [Suffolk](suffolk) |    1,476,601 |           102,465 |                    3.2 |               36.5 |
-|       36059 |               [Nassau](nassau) |    1,356,924 |            93,106 |                    2.8 |               39.7 |
-|       36119 |     [Westchester](westchester) |      967,506 |            72,762 |                    2.4 |               45.1 |
-|       36029 |                   [Erie](erie) |      918,702 |            43,442 |                    1.9 |               14.6 |
-|       36055 |               [Monroe](monroe) |      741,770 |            36,258 |                    2.9 |               13.3 |
-|       36067 |           [Onondaga](onondaga) |      460,528 |            22,697 |                    2.7 |               13.5 |
-|       36071 |               [Orange](orange) |      384,940 |            24,370 |                    2.1 |               34.7 |
-|       36087 |           [Rockland](rockland) |      325,789 |            28,335 |                    2.3 |               52.8 |
-|       36001 |               [Albany](albany) |      305,506 |            12,593 |                    2.7 |               12.8 |
-|       36027 |           [Dutchess](dutchess) |      294,218 |            13,020 |                    2.2 |               19.3 |
-|       36091 |           [Saratoga](saratoga) |      229,863 |             6,360 |                    2.2 |                7.6 |
-|       36065 |               [Oneida](oneida) |      228,671 |            13,269 |                    4.1 |               15.3 |
-|       36063 |             [Niagara](niagara) |      209,281 |             9,259 |                    2.7 |               12.3 |
-|       36007 |               [Broome](broome) |      190,488 |             8,672 |                    2.0 |               12.0 |
-|       36111 |               [Ulster](ulster) |      177,573 |             6,089 |                    1.6 |               14.2 |
-|       36083 |       [Rensselaer](rensselaer) |      158,714 |             4,796 |                    2.4 |                8.5 |
-|       36093 |     [Schenectady](schenectady) |      155,299 |             6,501 |                    3.1 |               12.2 |
-|       36013 |       [Chautauqua](chautauqua) |      126,903 |             3,915 |                    2.1 |                7.3 |
-|       36075 |               [Oswego](oswego) |      117,124 |             3,720 |                    1.9 |                7.9 |
-|       36045 |         [Jefferson](jefferson) |      109,834 |             2,032 |                    1.5 |                4.6 |
-|       36069 |             [Ontario](ontario) |      109,777 |             3,652 |                    2.4 |                8.4 |
-|       36089 |   [St. Lawrence](st.-lawrence) |      107,740 |             2,375 |                    1.6 |                6.3 |
-|       36109 |           [Tompkins](tompkins) |      102,180 |             2,152 |                    1.0 |                6.3 |
-|       36079 |               [Putnam](putnam) |       98,320 |             5,162 |                    2.4 |               20.9 |
-|       36101 |             [Steuben](steuben) |       95,379 |             3,665 |                    2.2 |               10.8 |
-|       36117 |                 [Wayne](wayne) |       89,918 |             2,827 |                    2.2 |                7.9 |
-|       36015 |             [Chemung](chemung) |       83,456 |             4,753 |                    2.0 |               14.4 |
-|       36019 |             [Clinton](clinton) |       80,485 |             1,312 |                    1.3 |                4.3 |
-|       36011 |               [Cayuga](cayuga) |       76,576 |             3,294 |                    3.8 |               10.1 |
-|       36009 |     [Cattaraugus](cattaraugus) |       76,117 |             2,699 |                    2.1 |                8.8 |
-|       36105 |           [Sullivan](sullivan) |       75,432 |             3,249 |                    1.9 |               20.2 |
-|       36053 |             [Madison](madison) |       70,941 |             2,458 |                    2.1 |               10.5 |
-|       36113 |               [Warren](warren) |       63,944 |             1,346 |                    1.7 |                6.9 |
-|       36051 |       [Livingston](livingston) |       62,914 |             2,042 |                    2.6 |                8.5 |
-|       36043 |           [Herkimer](herkimer) |       61,319 |             2,473 |                    3.7 |               10.0 |
-|       36115 |       [Washington](washington) |       61,204 |               940 |                    1.0 |                5.4 |
-|       36077 |               [Otsego](otsego) |       59,493 |             1,283 |                    1.1 |                6.0 |
-|       36021 |           [Columbia](columbia) |       59,461 |             1,768 |                    1.6 |               10.2 |
-|       36037 |             [Genesee](genesee) |       57,280 |             2,906 |                    4.0 |               13.9 |
-|       36035 |               [Fulton](fulton) |       53,383 |             1,409 |                    1.7 |                7.5 |
-|       36033 |           [Franklin](franklin) |       50,022 |               812 |                    1.3 |                4.1 |
-|       36057 |       [Montgomery](montgomery) |       49,221 |             1,516 |                    2.6 |                7.9 |
-|       36107 |                 [Tioga](tioga) |       48,203 |             1,792 |                    1.5 |                9.9 |
-|       36023 |           [Cortland](cortland) |       47,581 |             2,200 |                    2.6 |               11.3 |
-|       36017 |           [Chenango](chenango) |       47,207 |             1,326 |                    1.7 |                8.4 |
-|       36039 |               [Greene](greene) |       47,188 |             1,491 |                    2.3 |                9.7 |
-|       36003 |           [Allegany](allegany) |       46,091 |             1,947 |                    2.1 |               10.5 |
-|       36025 |           [Delaware](delaware) |       44,135 |               760 |                    1.0 |                5.3 |
-|       36073 |             [Orleans](orleans) |       40,352 |             1,464 |                    2.6 |               10.6 |
-|       36121 |             [Wyoming](wyoming) |       39,859 |             1,533 |                    2.7 |               10.1 |
-|       36031 |                 [Essex](essex) |       36,885 |               651 |                    1.3 |                4.6 |
-|       36099 |               [Seneca](seneca) |       34,016 |               905 |                    2.1 |                6.9 |
-|       36095 |         [Schoharie](schoharie) |       30,999 |               628 |                    1.5 |                5.6 |
-|       36049 |                 [Lewis](lewis) |       26,296 |             1,001 |                    3.0 |                9.1 |
-|       36123 |                 [Yates](yates) |       24,913 |               572 |                    1.4 |                5.7 |
-|       36097 |           [Schuyler](schuyler) |       17,807 |               571 |                    1.8 |                7.8 |
-|       36041 |           [Hamilton](hamilton) |        4,416 |               120 |                    1.9 |                7.0 |
+|       36061 | [New York City](new-york-city) |    8,336,817 |           455,726 |                    1.8 |               31.8 |
+|       36103 |             [Suffolk](suffolk) |    1,476,601 |           104,019 |                    3.3 |               36.8 |
+|       36059 |               [Nassau](nassau) |    1,356,924 |            94,379 |                    3.0 |               39.9 |
+|       36119 |     [Westchester](westchester) |      967,506 |            73,381 |                    2.5 |               45.3 |
+|       36029 |                   [Erie](erie) |      918,702 |            43,816 |                    1.9 |               14.7 |
+|       36055 |               [Monroe](monroe) |      741,770 |            36,705 |                    2.9 |               13.6 |
+|       36067 |           [Onondaga](onondaga) |      460,528 |            22,880 |                    2.7 |               13.7 |
+|       36071 |               [Orange](orange) |      384,940 |            24,579 |                    2.2 |               34.8 |
+|       36087 |           [Rockland](rockland) |      325,789 |            28,568 |                    2.3 |               53.0 |
+|       36001 |               [Albany](albany) |      305,506 |            12,852 |                    2.7 |               13.0 |
+|       36027 |           [Dutchess](dutchess) |      294,218 |            13,190 |                    2.2 |               19.5 |
+|       36091 |           [Saratoga](saratoga) |      229,863 |             6,543 |                    2.3 |                7.8 |
+|       36065 |               [Oneida](oneida) |      228,671 |            13,420 |                    4.1 |               15.7 |
+|       36063 |             [Niagara](niagara) |      209,281 |             9,393 |                    2.8 |               12.5 |
+|       36007 |               [Broome](broome) |      190,488 |             8,788 |                    2.1 |               12.2 |
+|       36111 |               [Ulster](ulster) |      177,573 |             6,186 |                    1.7 |               14.3 |
+|       36083 |       [Rensselaer](rensselaer) |      158,714 |             4,933 |                    2.5 |                8.7 |
+|       36093 |     [Schenectady](schenectady) |      155,299 |             6,619 |                    3.2 |               12.5 |
+|       36013 |       [Chautauqua](chautauqua) |      126,903 |             4,017 |                    2.2 |                7.5 |
+|       36075 |               [Oswego](oswego) |      117,124 |             3,807 |                    2.0 |                8.0 |
+|       36045 |         [Jefferson](jefferson) |      109,834 |             2,091 |                    1.6 |                4.8 |
+|       36069 |             [Ontario](ontario) |      109,777 |             3,710 |                    2.5 |                8.6 |
+|       36089 |   [St. Lawrence](st.-lawrence) |      107,740 |             2,528 |                    1.7 |                6.5 |
+|       36109 |           [Tompkins](tompkins) |      102,180 |             2,166 |                    1.0 |                6.3 |
+|       36079 |               [Putnam](putnam) |       98,320 |             5,235 |                    2.5 |               21.1 |
+|       36101 |             [Steuben](steuben) |       95,379 |             3,702 |                    2.3 |               11.0 |
+|       36117 |                 [Wayne](wayne) |       89,918 |             2,886 |                    2.3 |                8.1 |
+|       36015 |             [Chemung](chemung) |       83,456 |             4,791 |                    2.0 |               14.6 |
+|       36019 |             [Clinton](clinton) |       80,485 |             1,352 |                    1.4 |                4.5 |
+|       36011 |               [Cayuga](cayuga) |       76,576 |             3,381 |                    3.9 |               10.5 |
+|       36009 |     [Cattaraugus](cattaraugus) |       76,117 |             2,737 |                    2.2 |                9.0 |
+|       36105 |           [Sullivan](sullivan) |       75,432 |             3,276 |                    2.0 |               20.4 |
+|       36053 |             [Madison](madison) |       70,941 |             2,482 |                    2.1 |               10.6 |
+|       36113 |               [Warren](warren) |       63,944 |             1,387 |                    1.8 |                7.1 |
+|       36051 |       [Livingston](livingston) |       62,914 |             2,079 |                    2.6 |                8.7 |
+|       36043 |           [Herkimer](herkimer) |       61,319 |             2,542 |                    3.9 |               10.3 |
+|       36115 |       [Washington](washington) |       61,204 |               982 |                    1.1 |                5.5 |
+|       36077 |               [Otsego](otsego) |       59,493 |             1,294 |                    1.2 |                6.1 |
+|       36021 |           [Columbia](columbia) |       59,461 |             1,792 |                    1.7 |               10.3 |
+|       36037 |             [Genesee](genesee) |       57,280 |             2,969 |                    4.0 |               14.2 |
+|       36035 |               [Fulton](fulton) |       53,383 |             1,450 |                    1.7 |                7.6 |
+|       36033 |           [Franklin](franklin) |       50,022 |               822 |                    1.3 |                4.2 |
+|       36057 |       [Montgomery](montgomery) |       49,221 |             1,559 |                    2.7 |                8.2 |
+|       36107 |                 [Tioga](tioga) |       48,203 |             1,812 |                    1.6 |               10.1 |
+|       36023 |           [Cortland](cortland) |       47,581 |             2,217 |                    2.6 |               11.5 |
+|       36017 |           [Chenango](chenango) |       47,207 |             1,337 |                    1.7 |                8.5 |
+|       36039 |               [Greene](greene) |       47,188 |             1,535 |                    2.5 |                9.9 |
+|       36003 |           [Allegany](allegany) |       46,091 |             1,961 |                    2.1 |               10.7 |
+|       36025 |           [Delaware](delaware) |       44,135 |               771 |                    1.0 |                5.4 |
+|       36073 |             [Orleans](orleans) |       40,352 |             1,499 |                    2.6 |               10.8 |
+|       36121 |             [Wyoming](wyoming) |       39,859 |             1,567 |                    2.8 |               10.3 |
+|       36031 |                 [Essex](essex) |       36,885 |               663 |                    1.3 |                4.7 |
+|       36099 |               [Seneca](seneca) |       34,016 |               920 |                    2.2 |                7.1 |
+|       36095 |         [Schoharie](schoharie) |       30,999 |               638 |                    1.6 |                5.7 |
+|       36049 |                 [Lewis](lewis) |       26,296 |             1,033 |                    3.1 |                9.3 |
+|       36123 |                 [Yates](yates) |       24,913 |               583 |                    1.5 |                5.9 |
+|       36097 |           [Schuyler](schuyler) |       17,807 |               573 |                    1.8 |                8.0 |
+|       36041 |           [Hamilton](hamilton) |        4,416 |               121 |                    2.0 |                7.2 |
