@@ -8,9 +8,9 @@ permalink: /path-to-herd-immunity/
 By: [Youyang Gu](https://youyanggu.com)
 <br>December 9, 2020 *(Last Updated: January 5, 2021)*
 
-**January 5 Update:** In response to the [new COVID-19 variant](https://www.nytimes.com/live/2021/01/01/world/covid-19-coronavirus-updates) (preliminary study [here](https://cmmid.github.io/topics/covid19/uk-novel-variant.html)), we increased our herd immunity threshold from 60%+ to 65%+ . We have also increased our total infections estimates (33% -> 35%) and deaths estimates (500k -> 525k). We are in the process of gathering more data to better incorporate this strain into our modeling.
+**January 5 Update:** We added a plot of daily US vaccinations based on [CDC data](https://covid.cdc.gov/covid-data-tracker/#vaccinations) (see below).
 
-**January 5 Update #2:** We added a plot of daily US vaccinations based on the data from the CDC (see below).
+**January 5 Update #2:** In response to the [new COVID-19 variant](https://www.nytimes.com/live/2021/01/01/world/covid-19-coronavirus-updates) (preliminary study [here](https://cmmid.github.io/topics/covid19/uk-novel-variant.html)), we increased our herd immunity threshold from 60%+ to 65%+ . We have also increased our total infections estimates (33% -> 35%) and deaths estimates (500k -> 525k ±100k). We are in the process of gathering more data to better incorporate this strain into our modeling.
 
 *December 24 Update:* We added a plot of the most up-to-date information on doses distributed and people vaccinated, based on [CDC data](https://covid.cdc.gov/covid-data-tracker/#vaccinations) (scroll down to see). To track global vaccination progress, see the [Bloomberg Vaccine Tracker](https://www.bloomberg.com/graphics/covid-vaccine-tracker-global-distribution/?srnd=premium).
 
@@ -51,7 +51,7 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 
 ## Disclaimers
 
-- The author is not an epidemiologist, an immunologist, or a public health expert.
+- The author is a data scientist and is not an epidemiologist, an immunologist, or a public health expert.
 - This writeup has not been peer-reviewed in an academic journal.
 - Only publicly available data are used.
 - There is a very high amount of uncertainty with any model that makes outlooks for 6-12 months out. We fully acknowledge the possibility of these results may not reflect reality. The results presented here are merely estimates based on a set of assumptions, so please use caution when utilizing the results.
