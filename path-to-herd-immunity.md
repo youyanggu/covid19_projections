@@ -24,7 +24,9 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 * [Corollaries](#corollaries)
 * [Questions? Comments? Feedback?](#questions-comments-feedback)
 {% include iframe_vaccination.html %}
-*Note:* Our "New Infections" and "Total Infections" estimates include all new infected individuals of the SARS-CoV-2 virus, not just those that took a COVID-19 test and tested positive. As of January 2021, we estimate the true number of infected individuals in the US to be roughly 2-4x higher than the reported cases (25-50% detection rate). See our writeup, [Estimating True Infections](/estimating-true-infections-revisited), for a more detailed look into this subject.
+*Note:* Our infections estimates include all new infected individuals of the SARS-CoV-2 virus, not just those that took a COVID-19 test and tested positive. As of January 2021, we estimate the true number of infected individuals in the US to be roughly 2-4x higher than the reported cases (25-50% detection rate). See our writeup, [Estimating True Infections](/estimating-true-infections-revisited), for a more detailed look into this subject.
+
+[Back to Top](#top)
 
 ## Summary
 - We estimate COVID-19 herd immunity (>65% of population immune) will be reached in the US during summer 2021 (Jun-Aug 2021). At a high level, [herd immunity](https://jamanetwork.com/journals/jama/fullarticle/2772168) is a concept in which a population can be protected from a virus if enough people possess immunity.
