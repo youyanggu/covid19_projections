@@ -36,7 +36,7 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 - Summarizing the above findings, our best estimate of a complete "return to normal" in the US is mid-summer 2021 (June/July 2021).
 - We estimate roughly 75% of the US population (~250 million) will receive at least one dose of the vaccine by the end of 2021, with children and adolescents being the last group to receive it (Aug-Nov 2021).
 - We estimate around 35% of the US population (~120 million) will have been infected by the SARS-CoV-2 virus by the end of 2021. That is an additional 55 million infections since mid-December 2020.
-- This translates to a final US COVID-19 death toll of roughly 525,000 (±100,000) reported deaths, or ~225,000 additional deaths since mid-December 2020.
+- This translates to a final US COVID-19 death toll of roughly 600,000 (±100,000) reported deaths, or ~300,000 additional deaths since mid-December 2020.
 
 [Back to Top](#top)
 
@@ -117,7 +117,7 @@ The underlying assumptions behind our estimates are presented below:
 ## Corollaries
 
 - Our estimates show that roughly 35% of the US population (~120 million) will have been infected by the SARS-CoV-2 virus by the end of 2021. That is an additional 55 million infections since mid-December 2020.
-- A 35% prevalence estimate translates to a final US COVID-19 death toll of roughly 425,000 to 625,000 reported deaths, with 525,000 deaths being the best estimate. Given a mid-December 2020 death toll of 300,000, that is an additional 225,000 deaths. This estimate may change if the assumptions presented above are no longer true (e.g. deaths will be lower if vaccine rollout is faster than expected; deaths will be higher if the efficacy is lower than expected).
+- A 35% prevalence estimate translates to a final US COVID-19 death toll of roughly 500,000 to 700,000 reported deaths, with 600,000 deaths being the best estimate. Given a mid-December 2020 death toll of 300,000, that is an additional 300,000 deaths. This estimate may change if the assumptions presented above are no longer true (e.g. deaths will be lower if vaccine rollout is faster than expected; deaths will be higher if the efficacy is lower than expected or if the virus is more transmissible).
 - Due to the high prevalence, a targeted approach for vaccination that prioritizes individuals who are more likely to be susceptible may improve the time to reach herd immunity.
 - Due to possible low vaccine acceptance/uptake and waning immunity from natural infection, it is possible that the US will not reach immunity levels above 75%. In most scenarios, even 50-75% immunity could be sufficient to prevent large outbreaks.
 - Due to the seasonality of the virus, the herd immunity threshold may be higher in the winter. Furthermore, herd immunity can be lost due to waning immunity. Therefore, it is important that we continue to vaccinate individuals even after herd immunity has been reached.
