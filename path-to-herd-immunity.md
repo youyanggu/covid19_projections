@@ -6,11 +6,11 @@ permalink: /path-to-herd-immunity/
 
 # Path to Herd Immunity: 2021 Outlook of COVID-19 in the US
 By: [Youyang Gu](https://youyanggu.com)
-<br>December 9, 2020 *(Last Updated: January 5, 2021; CDC plots updated daily)*
+<br>December 9, 2020 *(Last Updated: January 7, 2021; CDC plots updated daily)*
 
 **January 5 Update:** We added a plot of daily US vaccinations based on [CDC data](https://covid.cdc.gov/covid-data-tracker/#vaccinations) (see below).
 
-**January 5 Update #2:** In response to the [new COVID-19 variant](https://www.nytimes.com/live/2021/01/01/world/covid-19-coronavirus-updates) (preliminary study [here](https://cmmid.github.io/topics/covid19/uk-novel-variant.html)), we increased our herd immunity threshold from 60%+ to 65%+ . We have also increased our total infections estimates (33% -> 35%) and deaths estimates (500k -> 525k ±100k). We are in the process of gathering more data to better incorporate this strain into our modeling.
+**January 5 Update #2:** In response to the [new COVID-19 variant](https://www.nytimes.com/live/2021/01/01/world/covid-19-coronavirus-updates) (preliminary study [here](https://cmmid.github.io/topics/covid19/uk-novel-variant.html)), we increased our herd immunity threshold from 60%+ to 65%+ . We have also increased our total infections estimates (30% -> 35%) and deaths estimates (500k -> 600k ±100k). We are in the process of gathering more data to better incorporate this strain into our modeling.
 
 *December 24 Update:* We added a plot of the most up-to-date information on doses distributed and people vaccinated, based on [CDC data](https://covid.cdc.gov/covid-data-tracker/#vaccinations) (scroll down to see). To track global vaccination progress, see the [Bloomberg Vaccine Tracker](https://www.bloomberg.com/graphics/covid-vaccine-tracker-global-distribution/?srnd=premium).
 
