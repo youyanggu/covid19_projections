@@ -8,7 +8,7 @@ permalink: /path-to-herd-immunity/
 By: [Youyang Gu](https://youyanggu.com)
 <br>December 9, 2020 *(Last Updated: January 11, 2021; CDC plots updated every weekday)*
 
-**January 11:** In response to the [new COVID-19 variant](https://www.nytimes.com/live/2021/01/01/world/covid-19-coronavirus-updates) (preliminary study [here](https://cmmid.github.io/topics/covid19/uk-novel-variant.html)), we increased our herd immunity threshold from 60%+ to 70%+. We have also increased our total infections estimates (30% -> 35-40%) and deaths estimates (500k -> 600k ±100k) in response to this new strain and a slower-than-expected vaccination rollout. We are in the process of gathering more data to better incorporate this strain into our modeling.
+**January 11 Update:** In response to the [new COVID-19 variant](https://www.nytimes.com/live/2021/01/01/world/covid-19-coronavirus-updates) (preliminary study [here](https://cmmid.github.io/topics/covid19/uk-novel-variant.html)), we increased our herd immunity threshold from 60%+ to 70%+. We have also increased our total infections estimates (30% -> 35-40%) and deaths estimates (500k -> 600k ±100k) in response to this new strain and a slower-than-expected vaccination rollout. We are in the process of gathering more data to better incorporate this strain into our modeling.
 
 **January 5 Update:** We added a plot of daily US vaccinations based on [CDC data](https://covid.cdc.gov/covid-data-tracker/#vaccinations) (see below).
 
@@ -46,6 +46,7 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 - [Vaccine side effects](https://twitter.com/youyanggu/status/1338587017966284800) - Dec 14
 - [Vaccine misinformation](https://twitter.com/youyanggu/status/1338952594492813312) - Dec 15
 - [Vaccination rollout](https://twitter.com/youyanggu/status/1343675401436971008) - Dec 28
+- [Jan 11 Update](https://twitter.com/youyanggu/status/1348723790017007617) - Jan 11
 
 [Back to Top](#top)
 
