@@ -2,12 +2,12 @@
 
 See state-wide estimates [here](/infections/us-dc).
 
-Click on a county name to view the infections estimates for that county.
+Click on a county name to view the infections estimates for that county.See the [Counties Summary](/infections/summary-counties) page for a sortable table.
 
 *Note: Due to the inherent lag between infections and reporting of cases, our estimates of infections are as of 14 days ago.*
 
-*Last updated: January 12, 2021*
+*Last updated: January 13, 2021*
 
 |   FIPS Code |                                       County |   Population |   Confirmed Cases |   % Currently Infected |   % Total Infected |
 |-------------|----------------------------------------------|--------------|-------------------|------------------------|--------------------|
-|       11001 | [District of Columbia](district-of-columbia) |      705,749 |            31,993 |                    1.3 |               17.1 |
+|       11001 | [District of Columbia](district-of-columbia) |      705,749 |            32,423 |                    1.3 |               17.2 |
