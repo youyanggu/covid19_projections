@@ -8,7 +8,7 @@ permalink: /path-to-herd-immunity/
 By: [Youyang Gu](https://youyanggu.com)
 <br>December 9, 2020 *(Last Updated: January 14, 2021; CDC plots updated every weekday)*
 
-**January 14 Update:** We decoupled CDC's data for "Doses Administered" into 1st and 2nd doses.
+**January 14 Update:** We separated CDC's data for "Doses Administered" into 1st and 2nd doses. Contrary to what is stated on the [CDC website](https://covid.cdc.gov/covid-data-tracker/#vaccinations), the number under *Total Number of People Initiating Vaccination* includes both 1st and 2nd doses. Hence, we must apply some heuristics and interpolation to separate out this number.
 
 **January 12 Update:** We added vaccination plots to the infections page for every US state (and nationally) based on the latest [CDC data](https://covid.cdc.gov/covid-data-tracker/#vaccinations). For example, see the vaccination progress for [California](/infections/us-ca). To find another state, [click here](/#view-us-infections-estimates). See a map of the vaccination progress for all 50 states [here](/maps-infections).
 
