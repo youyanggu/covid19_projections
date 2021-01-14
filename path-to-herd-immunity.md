@@ -49,6 +49,7 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 - [Vaccine misinformation](https://twitter.com/youyanggu/status/1338952594492813312) - Dec 15
 - [Vaccination rollout](https://twitter.com/youyanggu/status/1343675401436971008) - Dec 28
 - [Jan 11 Update](https://twitter.com/youyanggu/status/1348723790017007617) - Jan 11
+- [CDC Data Error](https://twitter.com/youyanggu/status/1349817775909269505) - Jan 14
 
 [Back to Top](#top)
 
