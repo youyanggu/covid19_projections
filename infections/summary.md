@@ -1,4 +1,4 @@
-### Last Updated: Thursday, January 14, 2021 (4am ET)
+### Last Updated: Thursday, January 14, 2021 (6am ET)
 <p align="center">
 Newly Vaccinated (as of Jan 13): <b>577,000 / day</b>
 (214 / 100k)<br>
