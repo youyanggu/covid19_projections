@@ -1,9 +1,9 @@
-### Last Updated: Thursday, January 14, 2021 (3am ET)
+### Last Updated: Thursday, January 14, 2021 (4am ET)
 <p align="center">
-Newly Vaccinated (as of Jan 13): <b>710,000 / day</b>
+Newly Vaccinated (as of Jan 13): <b>577,000 / day</b>
 (214 / 100k)<br>
-Total Vaccinated (as of Jan 13): <b>3.1%</b>
-(1 in 32 | 10.3 million)<br>
+Total Vaccinated (as of Jan 13): <b>2.7%</b>
+(1 in 36 | 9.1 million)<br>
 <br>
 Newly Infected (as of Dec 30): <b>718,000 / day</b> 
 (220 / 100k)<br>
