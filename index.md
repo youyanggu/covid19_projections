@@ -95,6 +95,8 @@ The below sections are from our old COVID-19 projections model, and are no longe
 
 ## COVID-19 Projections (Not Actively Updated)
 
+**Note: We ended our death forecasting project on October 5, 2020. You can find the old project below.**
+
 We present an intuitive COVID-19 model that adds machine learning techniques on top of a classic infectious disease model to make projections for infections and deaths for the US and 70 other countries. The countries our projections cover encompass 6.4 billion people and account for more than 95% of all global reported COVID-19 deaths.
 
 ## Old Updates
