@@ -87,7 +87,7 @@ The underlying assumptions behind our estimates are presented below:
 - We count an individual as vaccinated after they receive the first dose. We assume it takes three weeks after the first dose for an individual to gain immunity.
 - **Important:** We currently only model the rollout of two vaccines: Pfizer and Moderna. More vaccines will be approved in 2021 (e.g. Johnson & Johnson, AstraZeneca), but the exact timelines are still unclear. The rollouts of additional vaccines in early 2021 will likely increase vaccine uptake. We will incorporate additional vaccines as more data becomes available.
 - We are estimating how many individuals gain immunity after being vaccinated, not how many vaccine doses are distributed. The difference is subtle, but significant.
-- We assume roughly 80-85% of the US population (~275 million) will take at least one dose of the vaccine by the end of 2021. This is higher than the ~50% vaccine coverage for the common flu.
+- We assume roughly 80-85% of the US population (~275 million) will take at least one dose of the vaccine by the end of 2021. This is higher than the ~50% vaccine coverage for the common flu. While this is a higher proportion than many current surveys imply, vaccine acceptance has been trending upwards over time.
 - We assume the majority of individuals (but not all) will receive the second dose.
 - We assume the general population will begin receiving vaccinations in late spring/early summer (Apr-Jun 2021).
 - We assume children and adolescents will begin receiving vaccinations in late summer/early fall (Aug-Oct 2021).
@@ -111,7 +111,7 @@ The underlying assumptions behind our estimates are presented below:
 - We assume that the infection rate will fall as the number of individuals who are inoculated/vaccinated increases.
 - We assume new infections will undergo a steady decrease from mid-December 2020 to March 2021. We account for the possibility of another wave of infections in late winter/early spring (March/April) as states relax restrictions from the fall wave. This final wave may not happen if vaccine rollout is quicker than expected.
 - To simplify the modeling, we count an individual as "immune via infection" when they are first infected with the virus. Though in reality, it takes roughly 2-3 weeks after infection to develop antibodies.
-- We use a basic SEIR model to estimate infections over time. This incorporates a reduction in the susceptible pool of individuals (and hence a lower infection rate) as the number of immune individuals increase.
+- We use a basic SEIR model to estimate infections over time. This incorporates a reduction in the susceptible pool of individuals (and hence a lower infection rate) as the number of immune individuals increases.
 - We factor in seasonality to a small extent.
 - We assume a small number of imported cases per day. Due to the possible high number of imported cases, daily infections in the US will likely not reach zero in 2021, even if herd immunity is reached.
 - We compute the population "immune via infection" by taking the total number of infected individuals and subtracting the estimated number of individuals who lost their immunity.
