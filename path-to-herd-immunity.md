@@ -6,7 +6,7 @@ permalink: /path-to-herd-immunity/
 
 # Path to Herd Immunity: 2021 Outlook of COVID-19 in the US
 By: [Youyang Gu](https://youyanggu.com)
-<br>December 9, 2020 *(Last Updated: January 14, 2021; CDC plots updated every weekday)*
+<br>December 9, 2020 *(Last Updated: January 15, 2021; CDC plots updated every weekday)*
 
 With the availability of the COVID-19 vaccine, we present our best estimate of the path to COVID-19 herd immunity in the United States. Herd immunity will be reached through immunity from two sources: vaccination and natural infection. On this page, we provide the latest COVID-19 vaccine projections and current vaccination progress.
 
@@ -111,7 +111,7 @@ The underlying assumptions behind our estimates are presented below:
 - We assume that the infection rate will fall as the number of individuals who are inoculated/vaccinated increases.
 - We assume new infections will undergo a steady decrease from mid-December 2020 to March 2021. We account for the possibility of another wave of infections in late winter/early spring (March/April) as states relax restrictions from the fall wave. This final wave may not happen if vaccine rollout is quicker than expected.
 - To simplify the modeling, we count an individual as "immune via infection" when they are first infected with the virus. Though in reality, it takes roughly 2-3 weeks after infection to develop antibodies.
-- We use a basic SEIR model to estimate infections over time.
+- We use a basic SEIR model to estimate infections over time. This incorporates a reduction in the susceptible pool of individuals (and hence a lower infection rate) as the number of immune individuals increase.
 - We factor in seasonality to a small extent.
 - We assume a small number of imported cases per day. Due to the possible high number of imported cases, daily infections in the US will likely not reach zero in 2021, even if herd immunity is reached.
 - We compute the population "immune via infection" by taking the total number of infected individuals and subtracting the estimated number of individuals who lost their immunity.
