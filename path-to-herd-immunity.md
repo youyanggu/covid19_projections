@@ -19,13 +19,16 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 * *December 24:* We added a plot of the most up-to-date information on doses distributed and people vaccinated, based on [CDC data](https://covid.cdc.gov/covid-data-tracker/#vaccinations) (scroll down to see). To track global vaccination progress, see the [Bloomberg Vaccine Tracker](https://www.bloomberg.com/graphics/covid-vaccine-tracker-global-distribution/?srnd=premium).
 
 ## Table of Contents
+* [Plots](#plots)
 * [Summary](#summary)
 * [Relevant Twitter Threads](#relevant-twitter-threads)
 * [Disclaimers](#disclaimers)
 * [Assumptions](#assumptions)
 * [Corollaries](#corollaries)
 * [Questions? Comments? Feedback?](#questions-comments-feedback)
-<br>{% include_relative vaccination-last-updated.md %}
+
+## Plots
+{% include_relative vaccination-last-updated.md %}
 {% include iframe_vaccination.html %}
 *Note:* Our infections estimates include all new infected individuals of the SARS-CoV-2 virus, not just those that took a COVID-19 test and tested positive. As of January 2021, we estimate the true number of infected individuals in the US to be roughly 2-4x higher than the reported cases (25-50% detection rate). See our writeup, [Estimating True Infections](/estimating-true-infections-revisited), for a more detailed look into this subject.
 
