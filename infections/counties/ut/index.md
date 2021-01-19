@@ -6,29 +6,29 @@ Click on a county name to view the infections estimates for that county.See the 
 
 *Note: Due to the inherent lag between infections and reporting of cases, our estimates of infections are as of 14 days ago.*
 
-*Last updated: January 18, 2021*
+*Last updated: January 19, 2021*
 
 **Utah Note**: Some Utah counties do not report data because they report cases by [local health departments](https://ualhd.org/) rather than by county.
 
 |   FIPS Code |                 County |   Population |   Confirmed Cases |   % Currently Infected |   % Total Infected |
 |-------------|------------------------|--------------|-------------------|------------------------|--------------------|
-|       49035 | [Salt Lake](salt-lake) |    1,160,437 |           122,400 |                    3.3 |               28.9 |
-|       49049 |           [Utah](utah) |      636,235 |            79,143 |                    4.6 |               33.4 |
-|       49011 |         [Davis](davis) |      355,481 |            29,666 |                    3.4 |               22.6 |
+|       49035 | [Salt Lake](salt-lake) |    1,160,437 |           122,887 |                    3.2 |               29.1 |
+|       49049 |           [Utah](utah) |      636,235 |            79,372 |                    4.7 |               33.7 |
+|       49011 |         [Davis](davis) |      355,481 |            29,735 |                    3.4 |               22.7 |
 |       49057 |                  Weber |      260,213 |                 0 |                    0.0 |                0.0 |
 |       49053 |             Washington |      177,556 |                 0 |                    0.0 |                0.0 |
 |       49005 |                  Cache |      128,289 |                 0 |                    0.0 |                0.0 |
-|       49045 |       [Tooele](tooele) |       72,259 |             5,513 |                    3.4 |               20.5 |
+|       49045 |       [Tooele](tooele) |       72,259 |             5,531 |                    3.4 |               20.7 |
 |       49003 |              Box Elder |       56,046 |                 0 |                    0.0 |                0.0 |
 |       49021 |                   Iron |       54,839 |                 0 |                    0.0 |                0.0 |
-|       49043 |       [Summit](summit) |       42,145 |             4,146 |                    5.4 |               28.0 |
+|       49043 |       [Summit](summit) |       42,145 |             4,163 |                    5.4 |               28.3 |
 |       49047 |                 Uintah |       35,734 |                 0 |                    0.0 |                0.0 |
-|       49051 |     [Wasatch](wasatch) |       34,091 |             3,736 |                    3.9 |               30.3 |
+|       49051 |     [Wasatch](wasatch) |       34,091 |             3,761 |                    3.9 |               30.5 |
 |       49039 |                Sanpete |       30,939 |                 0 |                    0.0 |                0.0 |
 |       49041 |                 Sevier |       21,620 |                 0 |                    0.0 |                0.0 |
 |       49007 |                 Carbon |       20,463 |                 0 |                    0.0 |                0.0 |
 |       49013 |               Duchesne |       19,938 |                 0 |                    0.0 |                0.0 |
-|       49037 |   [San Juan](san-juan) |       15,308 |             1,662 |                    3.8 |               30.1 |
+|       49037 |   [San Juan](san-juan) |       15,308 |             1,665 |                    3.9 |               30.4 |
 |       49027 |                Millard |       13,188 |                 0 |                    0.0 |                0.0 |
 |       49029 |                 Morgan |       12,124 |                 0 |                    0.0 |                0.0 |
 |       49023 |                   Juab |       12,017 |                 0 |                    0.0 |                0.0 |
