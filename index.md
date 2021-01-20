@@ -14,11 +14,11 @@ Jump to section:
 
 For regular updates and insights, follow Youyang Gu on Twitter:&nbsp; <a href="https://twitter.com/youyanggu" class="twitter-follow-button" data-show-count="false">@youyanggu</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+* **January 20:** Our new [county-level summary](/infections/summary-counties) page is now searchable, allowing for fast lookup of specific counties. Originally created on Jan 5, we present the best and worst-impacted counties in a sortable, downloadable table format.
 * **January 14:** We broke down vaccine doses administered into 1st and 2nd doses. You can find this on our [Path to Herd Immunity](/path-to-herd-immunity) page, or on all of our plots.
-* **January 12:** We added vaccination plots to the infections page for every US state (and nationally) based on the latest [CDC data](https://covid.cdc.gov/covid-data-tracker/#vaccinations). For example, see the vaccination progress for the [US](/infections/us). Scroll down or [click here](#view-us-infections-estimates) to find your state. See a map of the vaccination progress for all 50 states [here](/maps-infections).
+* *January 12:* We added vaccination plots to the infections page for every US state (and nationally) based on the latest [CDC data](https://covid.cdc.gov/covid-data-tracker/#vaccinations). For example, see the vaccination progress for the [US](/infections/us). Scroll down or [click here](#view-us-infections-estimates) to find your state. See a map of the vaccination progress for all 50 states [here](/maps-infections).
 * *January 7:* See our [new thread](https://twitter.com/youyanggu/status/1347266544946929665) for an analysis of existing COVID-19 population immunity and its correlation with the severity of this current wave. 
-* *January 5:* See our new [county-level summary](/infections/summary-counties) page, where we present the best and worst-impacted counties in a sortable table format.
-* *January 5 (#2):* We made a major update to our [Path to Herd Immunity](/path-to-herd-immunity) page, incorporating the latest vaccination data from the CDC and preliminary information on the new COVID-19 strain.
+* *January 5:* We made a major update to our [Path to Herd Immunity](/path-to-herd-immunity) page, incorporating the latest vaccination data from the CDC and preliminary information on the new COVID-19 strain.
 
 See more past updates [here](/past-updates).
 
@@ -63,6 +63,8 @@ Below, we have infection estimates for the US, all 50 states, DC, and 4 US terri
 [Back to Top](#top)
 
 ## US Counties Infections Estimates
+
+**New January 20**: Our new [county-level summary](/infections/summary-counties) page is now searchable, allowing for fast lookup of specific counties.
 
 We have infections estimates for all 3,000+ US counties (and county equivalents). Click on a state to view the counties in that state. You can then select the county to view detailed infection estimates.
 
