@@ -9,6 +9,20 @@ By: [Youyang Gu](https://youyanggu.com)
 <br>December 9, 2020 *(Last Updated: January 19, 2021; CDC plots updated every weekday)*
 
 With the availability of the COVID-19 vaccine, we present our best estimate of the path to COVID-19 herd immunity in the United States. Herd immunity will be reached through immunity from two sources: vaccination and natural infection. On this page, we provide the latest COVID-19 vaccine projections and current vaccination progress.
+{% include_relative vaccination-last-updated.md %}
+{% include iframe_vaccination.html %}
+*Note:* Our infections estimates include all new infected individuals of the SARS-CoV-2 virus, not just those that took a COVID-19 test and tested positive. As of January 2021, we estimate the true number of infected individuals in the US to be roughly 2-4x higher than the reported cases (25-50% detection rate). See our writeup, [Estimating True Infections](/estimating-true-infections-revisited), for a more detailed look into this subject.
+
+[Back to Top](#top)
+
+## Table of Contents
+* [Updates](#updates)
+* [Summary](#summary)
+* [Relevant Twitter Threads](#relevant-twitter-threads)
+* [Disclaimers](#disclaimers)
+* [Assumptions](#assumptions)
+* [Corollaries](#corollaries)
+* [Questions? Comments? Feedback?](#questions-comments-feedback)
 
 ## Updates
 
@@ -17,22 +31,6 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 * *January 11:* In response to the [new COVID-19 variant](https://www.nytimes.com/live/2021/01/01/world/covid-19-coronavirus-updates) (preliminary study [here](https://cmmid.github.io/topics/covid19/uk-novel-variant.html)), we increased our herd immunity threshold from 60%+ to 70%+. We have also increased our total infections estimates (30% -> 35-40%) and deaths estimates (500k -> 600k ±100k) in response to this new strain and a slower-than-expected vaccination rollout. We are in the process of gathering more data to better incorporate this strain into our modeling.
 * *January 5:* We added a plot of daily US vaccinations based on [CDC data](https://covid.cdc.gov/covid-data-tracker/#vaccinations) (see below).
 * *December 24:* We added a plot of the most up-to-date information on doses distributed and people vaccinated, based on [CDC data](https://covid.cdc.gov/covid-data-tracker/#vaccinations) (scroll down to see). To track global vaccination progress, see the [Bloomberg Vaccine Tracker](https://www.bloomberg.com/graphics/covid-vaccine-tracker-global-distribution/?srnd=premium).
-
-## Table of Contents
-* [Plots](#plots)
-* [Summary](#summary)
-* [Relevant Twitter Threads](#relevant-twitter-threads)
-* [Disclaimers](#disclaimers)
-* [Assumptions](#assumptions)
-* [Corollaries](#corollaries)
-* [Questions? Comments? Feedback?](#questions-comments-feedback)
-
-## Plots
-{% include_relative vaccination-last-updated.md %}
-{% include iframe_vaccination.html %}
-*Note:* Our infections estimates include all new infected individuals of the SARS-CoV-2 virus, not just those that took a COVID-19 test and tested positive. As of January 2021, we estimate the true number of infected individuals in the US to be roughly 2-4x higher than the reported cases (25-50% detection rate). See our writeup, [Estimating True Infections](/estimating-true-infections-revisited), for a more detailed look into this subject.
-
-[Back to Top](#top)
 
 ## Summary
 - We estimate COVID-19 herd immunity (>70% of population immune) will be reached in the US during summer 2021 (Jun-Aug 2021). At a high level, [herd immunity](https://jamanetwork.com/journals/jama/fullarticle/2772168) is a concept in which a population can be protected from a virus if enough people possess immunity.
