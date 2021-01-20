@@ -41,7 +41,7 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 - New infections may become minimal before herd immunity is reached. But due to imported cases and localized clusters, it is unlikely that new infections will drop to zero until at least 2022.
 - Deaths may drop to low levels even earlier (May-Jul 2021), in part due to a vaccine distribution strategy that initially prioritizes high-risk individuals. Once deaths fall to minimal levels, we may see a relaxation of restrictions.
 - Summarizing the above findings, our best estimate of a complete "return to normal" in the US is mid-summer 2021 (June/July 2021).
-- We estimate roughly 80% of the US population (~265 million) will receive at least one dose of the vaccine by the end of 2021, with children and adolescents being the last group to receive it (late summer to fall 2021).
+- We estimate roughly 75-80% of the US population (~260 million) will receive at least one dose of the vaccine by the end of 2021, with children and adolescents being the last group to receive it (late summer to fall 2021).
 - We estimate around 35-40% of the US population (~125 million) will have been infected by the SARS-CoV-2 virus by the end of 2021. That is an additional 60 million infections since mid-December 2020.
 - This translates to a final US COVID-19 death toll of roughly 600,000 (±100,000) reported deaths, or ~300,000 additional deaths since mid-December 2020.
 
@@ -92,7 +92,7 @@ The underlying assumptions behind our estimates are presented below:
 - We count an individual as vaccinated after they receive the first dose. We assume it takes three weeks after the first dose for an individual to gain immunity.
 - **Important:** We currently only model the rollout of two vaccines: Pfizer and Moderna. More vaccines will be approved in 2021 (e.g. Johnson & Johnson, AstraZeneca), but the exact timelines are still unclear. The rollouts of additional vaccines in early 2021 will likely increase vaccine uptake. We will incorporate additional vaccines as more data becomes available.
 - We are estimating how many individuals gain immunity after being vaccinated, not how many vaccine doses are distributed. The difference is subtle, but significant.
-- We assume roughly 80% of the US population (~265 million) will take at least one dose of the vaccine by the end of 2021. This is higher than the ~50% vaccine coverage for the common flu. While this is a higher proportion than many current surveys imply, the overall trend of vaccine acceptance appears to be trending upwards.
+- We assume roughly 75-80% of the US population (~260 million) will take at least one dose of the vaccine by the end of 2021. This is higher than the ~50% vaccine coverage for the common flu. While this is a higher proportion than many current surveys imply, the overall trend of vaccine acceptance appears to be trending upwards.
 - We assume the majority of individuals (but not all) will receive the second dose.
 - We assume the general population will begin receiving vaccinations in late spring/early summer (Apr-Jun 2021).
 - We assume children and adolescents will begin receiving vaccinations in late summer/early fall (Aug-Oct 2021).
