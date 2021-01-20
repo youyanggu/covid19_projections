@@ -8,7 +8,7 @@ permalink: /maps-infections/
 
 Here you will find maps of our infection estimates. If you're viewing from a mobile device, we recommend viewing these maps on the browser or in landscape mode.
 
-**\*New Feature (Nov 30):\*** Drag the slider at the bottom of each map (if on mobile, touch a date) to see how the values change over time.
+To see how the values change over time, drag the slider at the bottom of each map (if on mobile, touch a date).
 
 For county-level maps, visit the links below:
 * [US Counties Currently Infected](/infections/map_county_current_infected) \| [Time Lapse](/infections/map_slider_county_current_infected) (may take a while to load)
