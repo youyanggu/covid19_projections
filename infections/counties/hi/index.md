@@ -2,16 +2,18 @@
 
 See state-wide estimates [here](/infections/us-hi).
 
-Click on a county name to view the infections estimates for that county.See the [Counties Summary](/infections/summary-counties) page for a sortable table.
+Click on a county name to view the infections estimates for that county.
+
+See the [Counties Summary](/infections/summary-counties) page for a searchable and sortable table.
 
 *Note: Due to the inherent lag between infections and reporting of cases, our estimates of infections are as of 14 days ago.*
 
-*Last updated: January 19, 2021*
+*Last updated: January 20, 2021*
 
 |   FIPS Code |               County |   Population |   Confirmed Cases |   % Currently Infected |   % Total Infected |
 |-------------|----------------------|--------------|-------------------|------------------------|--------------------|
-|       15003 | [Honolulu](honolulu) |      974,563 |            20,138 |                    0.5 |                5.8 |
-|       15001 |     [Hawaii](hawaii) |      201,513 |             2,107 |                    0.2 |                2.8 |
-|       15009 |         [Maui](maui) |      167,417 |             2,003 |                    0.8 |                3.1 |
+|       15003 | [Honolulu](honolulu) |      974,563 |            20,182 |                    0.5 |                5.8 |
+|       15001 |     [Hawaii](hawaii) |      201,513 |             2,113 |                    0.2 |                2.8 |
+|       15009 |         [Maui](maui) |      167,417 |             2,012 |                    0.8 |                3.2 |
 |       15007 |       [Kauai](kauai) |       72,293 |               176 |                    0.1 |                0.7 |
 |       15005 |   [Kalawao](kalawao) |           86 |                 0 |                    0.0 |                0.0 |
