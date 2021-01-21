@@ -1,4 +1,4 @@
 <p align="center">
     <b>Last updated - <a href="https://covid.cdc.gov/covid-data-tracker/#vaccinations" target="_blank">CDC vaccination data</a> plots</b>: Wed, Jan 20 2021 11pm ET<br>
-    <b>Last updated - Path to Herd Immunity plots</b>: Thu, Jan 21 2021 4am ET
+    <b>Last updated - Path to Herd Immunity plots</b>: Thu, Jan 21 2021 5am ET
     </p>
