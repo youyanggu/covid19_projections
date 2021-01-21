@@ -25,7 +25,9 @@ See more past updates [here](/past-updates).
 [Back to Top](#top)
 
 ## US Infections Estimates (Updated Daily)
-*Note: Data from [The COVID Tracking Project](https://covidtracking.com/). Due to the inherent lag in the reporting of cases, we do not have estimates of infections for the last 14 days.*
+[More details](/infections/us)
+
+Data from [The COVID Tracking Project](https://covidtracking.com/). Due to the inherent lag in the reporting of cases, we do not have estimates of infections for the last 14 days.*
 {% include_relative infections/summary.md %}{% include iframe_infections.html %}
 
 Our infections estimates include all infected individuals of the SARS-CoV-2 virus, not just those that took a COVID-19 test and tested positive. As of January 2021, we estimate the true number of infected individuals in the US to be roughly 2-4x higher than the reported cases (25-50% detection rate). See our writeup, [Estimating True Infections](/estimating-true-infections-revisited), for a more detailed look into this subject. Because not all currently *infected* individuals are *infectious*, we recommend dividing the *"currently infected"* estimate by 2-4 to get a sense of the number of currently infectious individuals.
