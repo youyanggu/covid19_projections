@@ -6,7 +6,7 @@ permalink: /path-to-herd-immunity/
 
 # Path to Herd Immunity: 2021 Outlook of COVID-19 in the US
 By: [Youyang Gu](https://youyanggu.com)
-<br>December 9, 2020 *(Last Updated: January 20, 2021; CDC plots updated every weekday)*
+<br>December 9, 2020 *(Last Updated: January 21, 2021; CDC plots updated every weekday)*
 
 With the availability of the COVID-19 vaccine, we present our best estimate of the path to COVID-19 herd immunity in the United States. Herd immunity will be reached through immunity from two sources: vaccination and natural infection. On this page, we provide the latest COVID-19 vaccine projections and current vaccination progress.
 {% include_relative vaccination-last-updated.md %}
@@ -90,7 +90,7 @@ The underlying assumptions behind our estimates are presented below:
 ### Vaccination Assumptions
 
 - We count an individual as vaccinated after they receive the first dose. We assume it takes three weeks after the first dose for an individual to gain immunity.
-- **Important:** We currently only model the rollout of two vaccines: Pfizer and Moderna. More vaccines will be approved in 2021 (e.g. Johnson & Johnson, AstraZeneca), but the exact timelines are still unclear. The rollouts of additional vaccines in early 2021 will likely increase vaccine uptake. We will incorporate additional vaccines as more data becomes available.
+- We currently only model the rollout of two vaccines: Pfizer and Moderna. We are also factoring in the rollout of the single-dose Johnson & Johnson vaccine starting in late February/early March. More vaccines may be approved in 2021 (e.g. AstraZeneca), but the exact timelines are still unclear. We will incorporate additional vaccines as more data becomes available.
 - We are estimating how many individuals gain immunity after being vaccinated, not how many vaccine doses are distributed. The difference is subtle, but significant.
 - We assume roughly 75-80% of the US population (~260 million) will take at least one dose of the vaccine by the end of 2021. This is higher than the ~50% vaccine coverage for the common flu. While this is a higher proportion than many current surveys imply, the overall trend of vaccine acceptance appears to be trending upwards.
 - We assume the majority of individuals (but not all) will receive the second dose.
