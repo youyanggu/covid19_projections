@@ -188,7 +188,7 @@ As an example, let's say that the US reported 67,000 new cases with a 8.5% posit
 
 Because reported cases lag infections by roughly two weeks, we must shift the result back to more realistically pinpoint when a new infection occurred. So the 275,000 true infections from the example above actually took place approximately 14 days before July 22, on July 8. While we use a constant lag for simplicity, we understand that the lag could be greater towards the beginning of the pandemic due to the slower average time to detection.
 
-To further smooth the data, we take the 7-day moving average of the true new daily infections.
+To further smooth the data, we take the 7-day moving average of the true new daily infections. Starting on January 21, 2021, we apply an additional smoothing step around holidays to minimize reporting dips.
 
 [Back to Top](#top)
 
