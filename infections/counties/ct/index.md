@@ -8,15 +8,15 @@ See the [Counties Summary](/infections/summary-counties) page for a searchable a
 
 *Note: Due to the inherent lag between infections and reporting of cases, our estimates of infections are as of 14 days ago.*
 
-*Last updated: January 21, 2021*
+*Last updated: January 22, 2021*
 
 |   FIPS Code |                   County |   Population |   Confirmed Cases |   % Currently Infected |   % Total Infected |
 |-------------|--------------------------|--------------|-------------------|------------------------|--------------------|
-|       09001 |   [Fairfield](fairfield) |      943,332 |            68,079 |                    2.3 |               27.7 |
-|       09003 |     [Hartford](hartford) |      891,720 |            59,147 |                    2.6 |               21.8 |
-|       09009 |   [New Haven](new-haven) |      854,757 |            59,168 |                    2.5 |               24.2 |
-|       09011 | [New London](new-london) |      265,206 |            15,298 |                    3.2 |               15.6 |
-|       09005 | [Litchfield](litchfield) |      180,333 |             9,266 |                    1.8 |               16.9 |
-|       09007 |   [Middlesex](middlesex) |      162,436 |             8,563 |                    2.3 |               16.3 |
-|       09013 |       [Tolland](tolland) |      150,721 |             6,300 |                    1.7 |               12.8 |
-|       09015 |       [Windham](windham) |      116,782 |             7,480 |                    3.7 |               16.8 |
+|       09001 |   [Fairfield](fairfield) |      943,332 |            68,512 |                    2.3 |               27.7 |
+|       09003 |     [Hartford](hartford) |      891,720 |            59,573 |                    2.5 |               21.9 |
+|       09009 |   [New Haven](new-haven) |      854,757 |            59,585 |                    2.4 |               24.3 |
+|       09011 | [New London](new-london) |      265,206 |            15,483 |                    3.2 |               15.8 |
+|       09005 | [Litchfield](litchfield) |      180,333 |             9,317 |                    1.8 |               17.0 |
+|       09007 |   [Middlesex](middlesex) |      162,436 |             8,646 |                    2.2 |               16.4 |
+|       09013 |       [Tolland](tolland) |      150,721 |             6,342 |                    1.7 |               12.9 |
+|       09015 |       [Windham](windham) |      116,782 |             7,534 |                    3.6 |               17.0 |
