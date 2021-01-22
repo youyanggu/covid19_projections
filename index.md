@@ -15,7 +15,7 @@ Jump to section:
 For regular updates and insights, follow Youyang Gu on Twitter:&nbsp; <a href="https://twitter.com/youyanggu" class="twitter-follow-button" data-show-count="false">@youyanggu</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 * **January 20:** Our new [county-level summary](/infections/summary-counties) page is now searchable, allowing for fast lookup of specific counties. Originally created on Jan 5, we present the best and worst-impacted counties in a sortable, downloadable table format.
-* **January 14:** We broke down vaccine doses administered into 1st and 2nd doses. You can find this on our [Path to Herd Immunity](/path-to-herd-immunity) page, or on all of our plots.
+* *January 14:* We broke down vaccine doses administered into 1st and 2nd doses. You can find this on our [Path to Herd Immunity](/path-to-herd-immunity) page, or on all of our plots.
 * *January 12:* We added vaccination plots to the infections page for every US state (and nationally) based on the latest [CDC data](https://covid.cdc.gov/covid-data-tracker/#vaccinations). For example, see the vaccination progress for the [US](/infections/us). Scroll down or [click here](#view-us-infections-estimates) to find your state. See a map of the vaccination progress for all 50 states [here](/maps-infections).
 * *January 7:* See our [new thread](https://twitter.com/youyanggu/status/1347266544946929665) for an analysis of existing COVID-19 population immunity and its correlation with the severity of this current wave. 
 * *January 5:* We made a major update to our [Path to Herd Immunity](/path-to-herd-immunity) page, incorporating the latest vaccination data from the CDC and preliminary information on the new COVID-19 strain.
@@ -27,7 +27,7 @@ See more past updates [here](/past-updates).
 ## US Infections Estimates (Updated Daily)
 [More details](/infections/us)
 
-Data from [The COVID Tracking Project](https://covidtracking.com/). Due to the inherent lag in the reporting of cases, we do not have estimates of infections for the last 14 days.*
+*Data from [The COVID Tracking Project](https://covidtracking.com/). Due to the inherent lag in the reporting of cases, we do not have estimates of infections for the last 14 days.*
 {% include_relative infections/summary.md %}{% include iframe_infections.html %}
 
 Our infections estimates include all infected individuals of the SARS-CoV-2 virus, not just those that took a COVID-19 test and tested positive. As of January 2021, we estimate the true number of infected individuals in the US to be roughly 2-4x higher than the reported cases (25-50% detection rate). See our writeup, [Estimating True Infections](/estimating-true-infections-revisited), for a more detailed look into this subject. Because not all currently *infected* individuals are *infectious*, we recommend dividing the *"currently infected"* estimate by 2-4 to get a sense of the number of currently infectious individuals.
