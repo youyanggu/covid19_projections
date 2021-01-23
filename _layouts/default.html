@@ -24,14 +24,12 @@
     <meta name="twitter:creator" content="@youyanggu">
     <meta name="twitter:title" content="{% if page.url == "/" %}{{ site.title }} – covid19-projections.com{% else %}{{ page.title }} – {{ site.title }}{% endif %}">
     <meta name="twitter:description" content="{% if page.description %}{{ page.description | strip_html | xml_escape }}{% else %}{{ site.description | strip_html | xml_escape }}{% endif %}">
-    <meta name="twitter:image" content="{% if page.url == "/donate/" %}https://youyanggu.com/images/c19pro_donate.png{% else %}https://youyanggu.com/images/c19pro_home_2020-12-16.png{% endif %}">
+    <meta name="twitter:image" content="{% if page.url == "/donate/" %}https://youyanggu.com/images/c19pro_donate.png{% elsif page.url == "/path-to-herd-immunity/" %}https://youyanggu.com/images/c19pro_path_to_herd_immunity.png{% else %}https://youyanggu.com/images/c19pro_home_2020-12-16.png{% endif %}" />
 
     <!-- Facebook OpenGraph -->
     <meta property="og:title" content="{% if page.url == "/" %}{{ site.title }} – covid19-projections.com{% else %}{{ page.title }} – {{ site.title }}{% endif %}" />
     <meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | xml_escape }}{% else %}{{ site.description | strip_html | xml_escape }}{% endif %}" />
-    <meta property="og:image" content="{% if page.url == "/donate/" %}https://youyanggu.com/images/c19pro_donate.png
-    {% elsif page.url == "/path-to-herd-immunity/" %}https://youyanggu.com/images/c19pro_path_to_herd_immunity.png
-    {% else %}https://youyanggu.com/images/c19pro_home_2020-12-16.png{% endif %}" />
+    <meta property="og:image" content="{% if page.url == "/donate/" %}https://youyanggu.com/images/c19pro_donate.png{% elsif page.url == "/path-to-herd-immunity/" %}https://youyanggu.com/images/c19pro_path_to_herd_immunity.png{% else %}https://youyanggu.com/images/c19pro_home_2020-12-16.png{% endif %}" />
 
 	<script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=5fd614b8bd937f001265f4d9&product=inline-share-buttons' async='async'></script>
   </head>
