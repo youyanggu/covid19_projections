@@ -8,17 +8,17 @@ See the [Counties Summary](/infections/summary-counties) page for a searchable a
 
 *Note: Due to the inherent lag between infections and reporting of cases, our estimates of infections are as of 14 days ago.*
 
-*Last updated: January 24, 2021*
+*Last updated: January 25, 2021*
 
 |   FIPS Code |                       County |   Population |   Confirmed Cases |   % Currently Infected |   % Total Infected |
 |-------------|------------------------------|--------------|-------------------|------------------------|--------------------|
-|       33011 | [Hillsborough](hillsborough) |      417,025 |            24,175 |                    2.9 |               17.3 |
-|       33015 |     [Rockingham](rockingham) |      309,769 |            15,012 |                    2.5 |               14.6 |
-|       33013 |       [Merrimack](merrimack) |      151,391 |             6,292 |                    1.9 |               12.3 |
-|       33017 |       [Strafford](strafford) |      130,633 |             5,181 |                    2.4 |               11.5 |
-|       33009 |           [Grafton](grafton) |       89,886 |             1,773 |                    1.3 |                5.6 |
-|       33005 |         [Cheshire](cheshire) |       76,085 |             2,088 |                    2.3 |                7.8 |
-|       33001 |           [Belknap](belknap) |       61,303 |             2,614 |                    2.1 |               12.2 |
-|       33003 |           [Carroll](carroll) |       48,910 |             1,342 |                    1.8 |                7.9 |
-|       33019 |         [Sullivan](sullivan) |       43,146 |               966 |                    2.4 |                6.0 |
-|       33007 |                 [Coos](coos) |       31,563 |             1,080 |                    2.4 |                9.2 |
+|       33011 | [Hillsborough](hillsborough) |      417,025 |            24,464 |                    2.9 |               17.5 |
+|       33015 |     [Rockingham](rockingham) |      309,769 |            15,209 |                    2.5 |               14.7 |
+|       33013 |       [Merrimack](merrimack) |      151,391 |             6,358 |                    1.8 |               12.4 |
+|       33017 |       [Strafford](strafford) |      130,633 |             5,256 |                    2.4 |               11.6 |
+|       33009 |           [Grafton](grafton) |       89,886 |             1,796 |                    1.3 |                5.7 |
+|       33005 |         [Cheshire](cheshire) |       76,085 |             2,123 |                    2.3 |                7.9 |
+|       33001 |           [Belknap](belknap) |       61,303 |             2,642 |                    2.0 |               12.4 |
+|       33003 |           [Carroll](carroll) |       48,910 |             1,378 |                    1.8 |                8.0 |
+|       33019 |         [Sullivan](sullivan) |       43,146 |               979 |                    2.4 |                6.1 |
+|       33007 |                 [Coos](coos) |       31,563 |             1,091 |                    2.5 |                9.4 |
