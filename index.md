@@ -14,6 +14,7 @@ Jump to section:
 
 For regular updates and insights, follow Youyang Gu on Twitter:&nbsp; <a href="https://twitter.com/youyanggu" class="twitter-follow-button" data-show-count="false">@youyanggu</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+* **January 25:** In December, we reported on why the CDC [overestimates true infections](https://twitter.com/youyanggu/status/1344002411556339712). They have since [adjusted their estimates](https://twitter.com/youyanggu/status/1353803329814503425) to more closely match *covid19-projections.com*.
 * **January 20:** Our new [county-level summary](/infections/summary-counties) page is now searchable, allowing for fast lookup of specific counties. Originally created on Jan 5, we present the best and worst-impacted counties in a sortable, downloadable table format.
 * *January 14:* We broke down vaccine doses administered into 1st and 2nd doses. You can find this on our [Path to Herd Immunity](/path-to-herd-immunity) page, or on all of our plots.
 * *January 12:* We added vaccination plots to the infections page for every US state (and nationally) based on the latest [CDC data](https://covid.cdc.gov/covid-data-tracker/#vaccinations). For example, see the vaccination progress for the [US](/infections/us). Scroll down or [click here](#view-us-infections-estimates) to find your state. See a map of the vaccination progress for all 50 states [here](/maps-infections).
