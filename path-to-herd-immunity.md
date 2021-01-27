@@ -10,7 +10,7 @@ By: [Youyang Gu](https://youyanggu.com)
 
 With the availability of the COVID-19 vaccine, we present our best estimate of the path to COVID-19 herd immunity in the United States. Herd immunity will be reached through immunity from two sources: vaccination and natural infection. On this page, we provide the latest COVID-19 vaccine projections and current vaccination progress.
 
-**January 24 Update:** We are factoring in rollout of the single-dose Johnson & Johnson vaccine starting in late February/early March. In the past week, over 1 million doses were administered per day. Given no unforeseen supply issue from Pfizer/Moderna, we now estimate that the general public can receive the vaccine by April, and over 60% of the US adult population will be fully vaccinated by June. We also estimate that 200 million doses will be administered in the first 100 days of the new presidential administration, roughly double the "100 million shots in 100 days" goal. Our timeline for a "return to normal" remains unchanged (June/July 2021). [Older updates](#updates)
+**January 26 Update:** We are factoring in rollout of the single-dose Johnson & Johnson vaccine starting in late February/early March. In the past week, over 1 million doses were administered per day. Given no unforeseen supply issue from Pfizer/Moderna, we now estimate that the general public can receive the vaccine by April, and over 60% of the US adult population will be fully vaccinated by June. We also estimate that over 200 million doses will be administered in the first 100 days of the new presidential administration, more than double the administratoin's original "100 million shots in 100 days" goal. Our timeline for a complete "return to normal" remains unchanged (June/July 2021). [Older updates](#updates)
 {% include_relative vaccination-last-updated.md %}
 {% include iframe_vaccination.html %}
 *Note:* Our infections estimates include all new infected individuals of the SARS-CoV-2 virus, not just those that took a COVID-19 test and tested positive. As of January 2021, we estimate the true number of infected individuals in the US to be roughly 2-4x higher than the reported cases (25-50% detection rate). See our writeup, [Estimating True Infections](/estimating-true-infections-revisited), for a more detailed look into this subject.
@@ -44,7 +44,7 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 - Deaths may drop to low levels even earlier (May-Jul 2021), in part due to a vaccine distribution strategy that initially prioritizes high-risk individuals. Once deaths fall to minimal levels, we may see a relaxation of restrictions.
 - Summarizing the above findings, our best estimate of a complete "return to normal" in the US is mid-summer 2021 (June/July 2021).
 - We estimate roughly 70-75% of the US population (230-250 million) will receive at least one dose of the vaccine by the end of 2021, with children being the last group to receive it (fall 2021).
-- We estimate around 35-40% of the US population (~125 million) will have been infected by the SARS-CoV-2 virus by the end of 2021. That is an additional 60 million infections since mid-December 2020.
+- We estimate around 30-40% of the US population (~115 million) will have been infected by the SARS-CoV-2 virus by the end of 2021. That is an additional 50 million infections since mid-December 2020.
 - This translates to a final US COVID-19 death toll of roughly 600,000 (±100,000) reported deaths, or ~300,000 additional deaths since mid-December 2020.
 
 [Back to Top](#top)
@@ -95,7 +95,7 @@ The underlying assumptions behind our estimates are presented below:
 - We count an individual as vaccinated after they receive the first dose. We assume it takes three weeks after the first dose for an individual to gain immunity.
 - We currently only model the rollout of two vaccines: Pfizer and Moderna. We are also factoring in the rollout of the single-dose Johnson & Johnson vaccine starting in late February/early March. More vaccines may be approved in 2021 (e.g. AstraZeneca), but the exact timelines are still unclear. We will incorporate additional vaccines as more data becomes available.
 - **Important:** We assume a proportion of the vaccinated population already possesses immunity via infection. For simplicity, we assume individuals who already possess immunity from natural infection will get vaccinated at the same rate as susceptible individuals. If an individual possesses immunity from both vaccination and infection, we only count this individual as "immune via infection".
-- We assume roughly 70-75% of the US population (230-250 million) will take at least one dose of the vaccine by the end of 2021. This is higher than the ~50% vaccine coverage for the common flu. While this is a higher proportion than many current surveys imply, the overall trend of vaccine acceptance appears to be trending upwards.
+- We assume roughly 70-75% of the US population (230-250 million) will take at least one dose of the vaccine by the end of 2021. This is higher than the ~50% vaccine coverage for the common flu. While this is a higher proportion than many current surveys imply, the overall trend of vaccine acceptance appears to be trending upwards (based on [surveys](https://delphi.cmu.edu/covidcast/survey-results/)).
 - We assume the majority of individuals (but not all) will receive the second dose.
 - We assume the general population will begin receiving vaccinations in late spring/early summer (Apr-Jun 2021).
 - We assume children will begin receiving vaccinations in fall 2021.
@@ -106,8 +106,8 @@ The underlying assumptions behind our estimates are presented below:
 - We assume vaccinations will begin in mid-December following the FDA Emergency Use Authorization (EUA) approval. Due to distribution issues, constraints with storage, and vaccine hesitancy, we believe the initial rollout will be slower than Operation Warp Speed's estimates of 20 million doses by end of 2020.
 - Many of the assumptions in this writeup come from the [December 10 FDA Briefing Document](https://www.fda.gov/media/144245/download) for the Pfizer vaccine.
 - We assume a smooth but conservative vaccine rollout, with no major issues or halts. If rollout and uptake is quicker than estimated, then we may reach herd immunity sooner. If rollout and uptake is slower than estimated, we may reach herd immunity later.
-- We assume that at its peak, around 3 million doses will be given per day (enough for innoculate ~1.5 million people). This is roughly equal to the peak vaccine distribution for influenza (~3 million doses per day).
-- We compute the population "immune via vaccination" by taking the total vaccinated, subtracting the estimated number of individuals who already possess immunity via infection, and multiplying the resulting number by the vaccine efficacy (85%).
+- We assume that at its peak, around 3 million doses will be given per day (enough for innoculate ~2 million people). This is roughly equal to the peak vaccine distribution for influenza (~3 million doses per day).
+- We compute the population "immune via vaccination" by taking the total vaccinated, subtracting the estimated number of individuals who already possess immunity via infection, and multiplying the resulting number by the vaccine efficacy (90%).
 
 [Back to Top](#top)
 
@@ -128,8 +128,8 @@ The underlying assumptions behind our estimates are presented below:
 
 ## Corollaries
 
-- Our estimates show that roughly 35-40% of the US population (~125 million) will have been infected by the SARS-CoV-2 virus by the end of 2021. That is an additional 60 million infections since mid-December 2020.
-- A 35-40% prevalence estimate translates to a final US COVID-19 death toll of roughly 500,000 to 700,000 reported deaths, with 600,000 deaths being the best estimate. Given a mid-December 2020 death toll of 300,000, that is an additional 300,000 deaths. This estimate may change if the assumptions presented above are no longer true (e.g. deaths will be lower if vaccine rollout is faster than expected; deaths will be higher if the efficacy is lower than expected or if the virus is more transmissible).
+- Our estimates show that roughly 30-40% of the US population (~115 million) will have been infected by the SARS-CoV-2 virus by the end of 2021. That is an additional 50 million infections since mid-December 2020.
+- A 30-40% prevalence estimate translates to a final US COVID-19 death toll of roughly 500,000 to 700,000 reported deaths, with 600,000 deaths being the best estimate. Given a mid-December 2020 death toll of 300,000, that is an additional 300,000 deaths. This estimate may change if the assumptions presented above are no longer true (e.g. deaths will be lower if vaccine rollout is faster than expected; deaths will be higher if the efficacy is lower than expected or if the virus is more transmissible).
 - Due to the high prevalence, a targeted approach for vaccination that prioritizes individuals who are more likely to be susceptible may improve the time to reach herd immunity.
 - Due to possible low vaccine acceptance/uptake and waning immunity from natural infection, it is possible that the US will not reach immunity levels above 80%. In most scenarios, even 50-80% immunity could be sufficient to prevent large outbreaks.
 - Due to the seasonality of the virus, the herd immunity threshold may be higher in the winter. Furthermore, herd immunity can be lost due to waning immunity. Therefore, it is important that we continue to vaccinate individuals even after herd immunity has been reached.
