@@ -8,22 +8,22 @@ See the [Counties Summary](/infections/summary-counties) page for a searchable a
 
 *Note: Due to the inherent lag between infections and reporting of cases, our estimates of infections are as of 14 days ago.*
 
-*Last updated: January 26, 2021*
+*Last updated: January 27, 2021*
 
 |   FIPS Code |                   County |   Population |   Confirmed Cases |   % Currently Infected |   % Total Infected |
 |-------------|--------------------------|--------------|-------------------|------------------------|--------------------|
-|       04013 |     [Maricopa](maricopa) |    4,485,414 |           452,925 |                    5.0 |               33.8 |
-|       04019 |             [Pima](pima) |    1,047,279 |            97,474 |                    4.6 |               30.1 |
-|       04021 |           [Pinal](pinal) |      462,789 |            39,842 |                    4.6 |               28.2 |
-|       04025 |       [Yavapai](yavapai) |      235,099 |            15,838 |                    3.2 |               21.2 |
-|       04027 |             [Yuma](yuma) |      213,787 |            34,422 |                    5.4 |               56.1 |
-|       04015 |         [Mohave](mohave) |      212,181 |            18,398 |                    4.4 |               27.5 |
-|       04005 |     [Coconino](coconino) |      143,476 |            14,844 |                    4.6 |               34.1 |
-|       04003 |       [Cochise](cochise) |      125,922 |            10,216 |                    3.6 |               26.1 |
-|       04017 |         [Navajo](navajo) |      110,924 |            14,066 |                    4.3 |               45.7 |
-|       04001 |         [Apache](apache) |       71,887 |             9,229 |                    3.6 |               44.4 |
-|       04007 |             [Gila](gila) |       54,018 |             5,805 |                    4.0 |               33.7 |
-|       04023 | [Santa Cruz](santa-cruz) |       46,498 |             7,312 |                    4.7 |               55.6 |
-|       04009 |         [Graham](graham) |       38,837 |             4,833 |                    7.2 |               38.1 |
-|       04012 |         [La Paz](la-paz) |       21,108 |             2,183 |                    5.3 |               33.7 |
-|       04011 |     [Greenlee](greenlee) |        9,498 |               508 |                    1.9 |               17.0 |
+|       04013 |     [Maricopa](maricopa) |    4,485,414 |           455,830 |                    4.8 |               34.1 |
+|       04019 |             [Pima](pima) |    1,047,279 |            98,034 |                    4.5 |               30.3 |
+|       04021 |           [Pinal](pinal) |      462,789 |            40,533 |                    4.5 |               28.5 |
+|       04025 |       [Yavapai](yavapai) |      235,099 |            15,929 |                    3.1 |               21.4 |
+|       04027 |             [Yuma](yuma) |      213,787 |            34,543 |                    5.1 |               56.3 |
+|       04015 |         [Mohave](mohave) |      212,181 |            18,528 |                    4.4 |               27.9 |
+|       04005 |     [Coconino](coconino) |      143,476 |            14,894 |                    4.4 |               34.3 |
+|       04003 |       [Cochise](cochise) |      125,922 |            10,248 |                    3.4 |               26.2 |
+|       04017 |         [Navajo](navajo) |      110,924 |            14,120 |                    4.2 |               45.9 |
+|       04001 |         [Apache](apache) |       71,887 |             9,283 |                    3.6 |               44.7 |
+|       04007 |             [Gila](gila) |       54,018 |             5,824 |                    4.0 |               34.0 |
+|       04023 | [Santa Cruz](santa-cruz) |       46,498 |             7,355 |                    4.5 |               55.9 |
+|       04009 |         [Graham](graham) |       38,837 |             4,832 |                    6.9 |               38.6 |
+|       04012 |         [La Paz](la-paz) |       21,108 |             2,177 |                    5.0 |               34.0 |
+|       04011 |     [Greenlee](greenlee) |        9,498 |               513 |                    1.8 |               17.1 |

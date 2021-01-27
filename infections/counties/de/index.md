@@ -8,10 +8,10 @@ See the [Counties Summary](/infections/summary-counties) page for a searchable a
 
 *Note: Due to the inherent lag between infections and reporting of cases, our estimates of infections are as of 14 days ago.*
 
-*Last updated: January 26, 2021*
+*Last updated: January 27, 2021*
 
 |   FIPS Code |                   County |   Population |   Confirmed Cases |   % Currently Infected |   % Total Infected |
 |-------------|--------------------------|--------------|-------------------|------------------------|--------------------|
-|       10003 | [New Castle](new-castle) |      558,753 |            42,872 |                    2.7 |               22.9 |
-|       10005 |         [Sussex](sussex) |      234,225 |            19,903 |                    3.2 |               29.5 |
-|       10001 |             [Kent](kent) |      180,786 |            12,241 |                    2.6 |               21.0 |
+|       10003 | [New Castle](new-castle) |      558,753 |            43,025 |                    2.6 |               23.1 |
+|       10005 |         [Sussex](sussex) |      234,225 |            19,985 |                    3.1 |               29.7 |
+|       10001 |             [Kent](kent) |      180,786 |            12,306 |                    2.5 |               21.1 |
