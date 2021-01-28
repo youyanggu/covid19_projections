@@ -6,9 +6,11 @@ permalink: /path-to-herd-immunity/
 
 # Path to Herd Immunity: 2021 Outlook of COVID-19 in the US
 By: [Youyang Gu](https://youyanggu.com)
-<br>Last Updated: January 26, 2021 (*First posted December 9, 2020; CDC plots updated daily)*
+<br>Last Updated: January 27, 2021 (*First posted December 9, 2020; CDC plots updated daily)*
 
 With the availability of the COVID-19 vaccine, we present our best estimate of the path to COVID-19 herd immunity in the United States. Herd immunity will be reached through immunity from two sources: vaccination and natural infection. On this page, we provide the latest COVID-19 vaccine projections and current vaccination progress.
+
+**January 27 Update:** We separated our herd immunity plot into three categories: immunity from vaccination only, immunity from vaccination & past infection, and immunity from past infection only. Previously, we assign immunity to the one that was acquired first.
 
 **January 26 Update:** We are factoring in rollout of the single-dose Johnson & Johnson vaccine starting in late February/early March. In the past week, over 1 million doses were administered per day. Given no unforeseen supply issue from Pfizer/Moderna, we now estimate that the general public can receive the vaccine by April, and over 60% of the US adult population will be fully vaccinated by June. We also estimate that over 200 million doses will be administered in the first 100 days of the new presidential administration, more than double the administratoin's original "100 million shots in 100 days" goal. Our timeline for a complete "return to normal" remains unchanged (June/July 2021). [Older updates](#updates)
 {% include_relative vaccination-last-updated.md %}
@@ -48,6 +50,7 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 - [Jan 11 Update](https://twitter.com/youyanggu/status/1348723790017007617) - Jan 11
 - [CDC Data Error](https://twitter.com/youyanggu/status/1349817775909269505) - Jan 14
 - [Jan 20 Update](https://twitter.com/youyanggu/status/1352008093652066304) - Jan 20
+- [Jan 27 Update](https://twitter.com/youyanggu/status/1354488024726290439) - Jan 27
 
 [Back to Top](#top)
 
@@ -72,7 +75,6 @@ The underlying assumptions behind our estimates are presented below:
 
 - We assume immunity can be achieved through either natural infection or vaccination. We assume this immunity can be lost over time.
 - We assume herd immunity is achieved when at least 70% of the population possess immunity from the SARS-CoV-2 virus (HIT = 70%). This corresponds to 230 million individuals in the US. Due to population heterogeneity, variation in susceptibility and/or pre-existing immunity, it is possible that the herd immunity threshold (HIT) can be lower. But HIT can also be higher due to the targeted approach of vaccine distribution (e.g. individuals with the greatest impact on transmission are vaccinated last).
-- **Important:** We only count the immunity that was acquired first (e.g. if an individual has both immunity from natural infection and immunity from vaccination, we only count the immunity from infection).
 - We assume states will continue to impose varying degrees of restrictions and interventions until herd immunity is reached.
 - We define "normality" as the removal of all COVID-19-related restrictions and interventions.
 - Herd immunity is not permanent. It can be lost due to waning immunity, both from infection and vaccination.
@@ -89,7 +91,7 @@ The underlying assumptions behind our estimates are presented below:
 - We assume the majority of individuals (but not all) will receive the second dose.
 - We assume the general population will begin receiving vaccinations in late spring/early summer (Apr-Jun 2021).
 - We assume children will begin receiving vaccinations in fall 2021.
-- We assume a 90% vaccine efficacy (changed from 85% on Jan 21 2021). While the trial data for Pfizer and Moderna demonstrate ~95% efficacy, we believe that the efficacy in the general population will be slightly lower, mainly due to the fact that a non-insignificant proportion of the population may miss the second vaccine dose.
+- We assume a 90% vaccine efficacy (changed from 85% on Jan 21, 2021). Hence, if 100 individuals are vaccinated, we assume 90 will develop immunity. While the trial data for Pfizer and Moderna demonstrate ~95% efficacy, we believe that the efficacy in the general population will be slightly lower, mainly due to the fact that a non-insignificant proportion of the population may miss the second vaccine dose.
 - We assume the vaccine is effective on new SARS-CoV-2 variants (preliminary research [here](https://www.biorxiv.org/content/10.1101/2021.01.18.426984v1) and [here](https://www.biorxiv.org/content/10.1101/2021.01.15.426911v1)).
 - We assume that if effective, the vaccine will provide individuals immunity through at least 2021.
 - While it is still unclear if the vaccine provides sterilizing immunity, we assume that the vaccine, if effective, can provide functional immunity for the individual and significantly reduce their likelihood of being infectious for at least the duration of 2021. Pfizer expects to report data on whether or not its vaccine stops virus transmission in the first quarter of 2021.
@@ -97,7 +99,6 @@ The underlying assumptions behind our estimates are presented below:
 - Many of the assumptions in this writeup come from the [December 10 FDA Briefing Document](https://www.fda.gov/media/144245/download) for the Pfizer vaccine.
 - We assume a smooth but conservative vaccine rollout, with no major issues or halts. If rollout and uptake is quicker than estimated, then we may reach herd immunity sooner. If rollout and uptake is slower than estimated, we may reach herd immunity later.
 - We assume that at its peak, around 3 million doses will be given per day (enough for innoculate ~2 million people). This is roughly equal to the peak vaccine distribution for influenza (~3 million doses per day).
-- We compute the population "immune via vaccination" by taking the total vaccinated, subtracting the estimated number of individuals who already possess immunity via infection, and multiplying the resulting number by the vaccine efficacy (90%).
 
 [Back to Top](#top)
 
@@ -105,7 +106,6 @@ The underlying assumptions behind our estimates are presented below:
 
 - We assume roughly 65 million people in the US (20% of the population) have already been infected by the time the first COVID-19 vaccine is authorized in mid-December 2020 (based on our latest [covid19-projections.com](/) model). We assume ~99.9% of these individuals possess immunity as of mid-December 2020.
 - We assume a small proportion (10-15%) of the infected population will lose their immunity by the end of 2021. The longer the time from infection, the higher the likelihood of immunity being lost. While it's still unclear if prior infection confers long-term immunity, recent research ([here](https://www.nejm.org/doi/full/10.1056/NEJMoa2034545?s=09) and [here](https://science.sciencemag.org/content/early/2021/01/06/science.abf4063)) indicates that short-term reinfections are rare.
-- If an individual loses immunity but has already been vaccinated, his/her status is moved from "immune via infection" to "immune via vaccination".
 - We assume that the infection rate will fall as the number of individuals who are inoculated/vaccinated increases.
 - We assume new infections will undergo a steady decrease from mid-December 2020 to March 2021. We account for the possibility of another wave of infections in late winter/early spring (March/April) as states relax restrictions from the fall wave. This final wave may not happen if vaccine rollout is quicker than expected.
 - To simplify the modeling, we count an individual as "immune via infection" when they are first infected with the virus. Though in reality, it takes roughly 2-3 weeks after infection to develop antibodies.
