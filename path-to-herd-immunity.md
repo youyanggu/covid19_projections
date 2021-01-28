@@ -86,11 +86,11 @@ The underlying assumptions behind our estimates are presented below:
 
 - We count an individual as vaccinated after they receive the first dose. We assume it takes three weeks after the first dose for an individual to gain immunity.
 - We currently only model the rollout of two vaccines: Pfizer and Moderna. We are also factoring in the rollout of the single-dose Johnson & Johnson vaccine starting in late February/early March. More vaccines may be approved in 2021 (e.g. AstraZeneca), but the exact timelines are still unclear. We will incorporate additional vaccines as more data becomes available.
-- **Important:** We assume a proportion of the vaccinated population already possesses immunity via infection. For simplicity, we assume individuals who already possess immunity from natural infection will get vaccinated at the same rate as susceptible individuals. If an individual possesses immunity from both vaccination and infection, we only count this individual as "immune via infection".
+- We assume a proportion of the vaccinated population already possesses immunity via infection. For simplicity, we assume individuals who already possess immunity from natural infection will get vaccinated at the same rate as susceptible individuals.
 - We assume roughly 70-75% of the US population (230-250 million) will take at least one dose of the vaccine by the end of 2021. This is higher than the ~50% vaccine coverage for the common flu. While this is a higher proportion than many current surveys imply, the overall trend of vaccine acceptance appears to be trending upwards (based on [surveys](https://delphi.cmu.edu/covidcast/survey-results/)).
 - We assume the majority of individuals (but not all) will receive the second dose.
 - We assume the general population will begin receiving vaccinations in late spring/early summer (Apr-Jun 2021).
-- We assume children will begin receiving vaccinations in fall 2021.
+- We assume children will begin receiving vaccinations in fall 2021. It is possible that this does not happen until 2022. If herd immunity is reached before fall 2021, an absence of a children vaccine in 2021 may not signficantly affect the infection rate.
 - We assume a 90% vaccine efficacy (changed from 85% on Jan 21, 2021). Hence, if 100 individuals are vaccinated, we assume 90 will develop immunity. While the trial data for Pfizer and Moderna demonstrate ~95% efficacy, we believe that the efficacy in the general population will be slightly lower, mainly due to the fact that a non-insignificant proportion of the population may miss the second vaccine dose.
 - We assume the vaccine is effective on new SARS-CoV-2 variants (preliminary research [here](https://www.biorxiv.org/content/10.1101/2021.01.18.426984v1) and [here](https://www.biorxiv.org/content/10.1101/2021.01.15.426911v1)).
 - We assume that if effective, the vaccine will provide individuals immunity through at least 2021.
@@ -111,8 +111,7 @@ The underlying assumptions behind our estimates are presented below:
 - To simplify the modeling, we count an individual as "immune via infection" when they are first infected with the virus. Though in reality, it takes roughly 2-3 weeks after infection to develop antibodies.
 - We use a basic SEIR model to estimate infections over time. This incorporates a reduction in the susceptible pool of individuals (and hence a lower infection rate) as the number of immune individuals increases.
 - We factor in seasonality to a small extent.
-- We assume a small number of imported cases per day. Due to the possible high number of imported cases, daily infections in the US will likely not reach zero in 2021, even if herd immunity is reached.
-- We compute the population "immune via infection" by taking the total number of infected individuals and subtracting the estimated number of individuals who lost their immunity.
+- We assume a small number of imported cases per day. Due to a combination of imported cases and community spread, we believe daily infections in the US will likely not reach zero in 2021, even if herd immunity is reached.
 
 [Back to Top](#top)
 
