@@ -28,6 +28,14 @@ Our projections are featured on the [CDC website](https://www.cdc.gov/coronaviru
 
 We have also open-sourced our evaluation of our model and other CDC models: https://github.com/youyanggu/covid19-forecast-hub-evaluation.
 
+## Other Repositories
+
+- [Historical CDC Vaccination Data](https://github.com/youyanggu/covid19-cdc-vaccination-data)
+- [Latest Infections Estimates](https://github.com/youyanggu/covid19-infection-estimates-latest)
+- [COVID-19 Datasets](https://github.com/youyanggu/covid19-datasets)
+- [SEIR Simulator](https://github.com/youyanggu/yyg-seir-simulator)
+- [Model Evaluations](https://github.com/youyanggu/covid19-forecast-hub-evaluation)
+
 Questions? Contact me on Twitter at [@youyanggu](https://twitter.com/youyanggu).
 
 Site powered by [GitHub Pages](https://pages.github.com/).
