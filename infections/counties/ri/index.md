@@ -8,12 +8,12 @@ See the [Counties Summary](/infections/summary-counties) page for a searchable a
 
 *Note: Due to the inherent lag between infections and reporting of cases, our estimates of infections are as of 14 days ago.*
 
-*Last updated: January 27, 2021*
+*Last updated: January 28, 2021*
 
 |   FIPS Code |                   County |   Population |   Confirmed Cases |   % Currently Infected |   % Total Infected |
 |-------------|--------------------------|--------------|-------------------|------------------------|--------------------|
-|       44007 | [Providence](providence) |      638,931 |            71,172 |                    3.1 |               32.8 |
-|       44003 |             [Kent](kent) |      164,292 |            12,645 |                    2.7 |               20.8 |
-|       44009 | [Washington](washington) |      125,577 |             5,887 |                    1.7 |               12.7 |
-|       44005 |       [Newport](newport) |       82,082 |             3,999 |                    2.7 |               12.8 |
-|       44001 |       [Bristol](bristol) |       48,479 |             3,499 |                    3.3 |               18.9 |
+|       44007 | [Providence](providence) |      638,931 |            74,238 |                    3.0 |               33.0 |
+|       44003 |             [Kent](kent) |      164,292 |            13,459 |                    2.6 |               20.9 |
+|       44009 | [Washington](washington) |      125,577 |             6,298 |                    1.7 |               12.8 |
+|       44005 |       [Newport](newport) |       82,082 |             4,336 |                    2.6 |               12.9 |
+|       44001 |       [Bristol](bristol) |       48,479 |             3,715 |                    3.2 |               19.1 |
