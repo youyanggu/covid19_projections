@@ -73,6 +73,7 @@ The underlying assumptions behind our estimates are presented below:
 
 ### Basic Assumptions
 
+- **Important:** The only SARS-CoV-2 variant we are currently modeling is the B.1.1.7 variant that was first detected in the UK. If other variants become more prevalent, these estimates may no longer hold.
 - We assume immunity can be achieved through either natural infection or vaccination. We assume this immunity can be lost over time.
 - We assume herd immunity is achieved when at least 70% of the population possess immunity from the SARS-CoV-2 virus (HIT = 70%). This corresponds to 230 million individuals in the US. Due to population heterogeneity, variation in susceptibility and/or pre-existing immunity, it is possible that the herd immunity threshold (HIT) can be lower. But HIT can also be higher due to the targeted approach of vaccine distribution (e.g. individuals with the greatest impact on transmission are vaccinated last).
 - We assume states will continue to impose varying degrees of restrictions and interventions until herd immunity is reached.
