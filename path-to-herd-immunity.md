@@ -23,6 +23,7 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 * [Summary](#summary)
 * [Relevant Twitter Threads](#relevant-twitter-threads)
 * [Disclaimers](#disclaimers)
+* [Data](#data)
 * [Assumptions](#assumptions)
 * [Corollaries](#corollaries)
 * [Questions? Comments? Feedback?](#questions-comments-feedback)
@@ -66,6 +67,10 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 - From [*'Herd Immunity': A Rough Guide*](https://academic.oup.com/cid/article/52/7/911/299077): "[We must] be wary of target thresholds for vaccination, insofar as thresholds are based on assumptions that greatly simplify the complexity of actual populations. In most circumstances, the sensible public health practice is to aim for 100% coverage, with all the doses recommended, recognizing that 100% is never achievable, hoping to reach whatever is the 'real' herd immunity threshold in the population concerned."
 
 [Back to Top](#top)
+
+## Data
+
+We use vaccination data from the [Centers for Disease Control and Prevention (CDC)](https://covid.cdc.gov/covid-data-tracker/#vaccinations). We upload the raw and adjusted CDC vaccination time series data for download [on GitHub](https://github.com/youyanggu/covid19-cdc-vaccination-data). It contains every CDC vaccination update since they started releasing data on Dec 20, 2020. The data is updated daily.
 
 ## Assumptions
 
