@@ -10,9 +10,7 @@ By: [Youyang Gu](https://youyanggu.com)
 
 With the availability of the COVID-19 vaccine, we present our best estimate of the path to COVID-19 herd immunity in the United States. Herd immunity will be reached through immunity from two sources: vaccination and natural infection. On this page, we provide the latest COVID-19 vaccine projections and current vaccination progress.
 
-**January 28 Update:** We are releasing raw and adjusted CDC vaccination time series data for download [on GitHub](https://github.com/youyanggu/covid19-cdc-vaccination-data). It contains every CDC vaccination update since they started releasing data on Dec 20, 2020. They will be updated daily. In addition, we separated our Path to Herd Immunity plot into three categories: immunity from vaccination only, immunity from vaccination & past infection, and immunity from past infection only. Previously, we assigned immunity to the one that was acquired first (either prior infection or vaccination).
-
-**January 26 Update:** We are factoring in rollout of the single-dose Johnson & Johnson vaccine starting in late February/early March. In the past week, over 1 million doses were administered per day. Given no unforeseen supply issue from Pfizer/Moderna, we now estimate that the general public can receive the vaccine by April, and over 60% of the US adult population will be fully vaccinated by June. We also estimate that over 200 million doses will be administered in the first 100 days of the new presidential administration, more than double the administratoin's original "100 million shots in 100 days" goal. Our timeline for a complete "return to normal" remains unchanged (June/July 2021). [Older updates](#updates)
+**January 28 Update:** We are releasing raw and adjusted CDC vaccination time series data for download [on GitHub](https://github.com/youyanggu/covid19-cdc-vaccination-data). It contains every CDC vaccination update since they started releasing data on Dec 20, 2020. They will be updated daily. In addition, we separated our Path to Herd Immunity plot into three categories: immunity from vaccination only, immunity from vaccination & past infection, and immunity from past infection only. Previously, we assigned immunity to the one that was acquired first (either prior infection or vaccination). [Older updates](#updates)
 {% include_relative vaccination-last-updated.md %}
 {% include iframe_vaccination.html %}
 *Note:* Our infections estimates include all new infected individuals of the SARS-CoV-2 virus, not just those that took a COVID-19 test and tested positive. As of January 2021, we estimate the true number of infected individuals in the US to be roughly 2-4x higher than the reported cases (25-50% detection rate). See our writeup, [Estimating True Infections](/estimating-true-infections-revisited), for a more detailed look into this subject.
@@ -71,6 +69,8 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 ## Data
 
 We use vaccination data from the [Centers for Disease Control and Prevention (CDC)](https://covid.cdc.gov/covid-data-tracker/#vaccinations). We upload the raw and adjusted CDC vaccination time series data for download [on GitHub](https://github.com/youyanggu/covid19-cdc-vaccination-data). It contains every CDC vaccination update since they started releasing data on Dec 20, 2020. The data is updated daily.
+
+[Back to Top](#top)
 
 ## Assumptions
 
@@ -140,6 +140,7 @@ You can reach out to Youyang Gu via the [Contact](/contact) page.
 
 ## Updates
 
+* *January 26:* We are factoring in rollout of the single-dose Johnson & Johnson vaccine starting in late February/early March. In the past week, over 1 million doses were administered per day. Given no unforeseen supply issue from Pfizer/Moderna, we now estimate that the general public can receive the vaccine by April, and over 60% of the US adult population will be fully vaccinated by June. We also estimate that over 200 million doses will be administered in the first 100 days of the new presidential administration, more than double the administratoin's original "100 million shots in 100 days" goal. Our timeline for a complete "return to normal" remains unchanged (June/July 2021).
 * *January 14:* We separated CDC data for vaccine doses into 1st and 2nd doses. As complete data is not available, we applied interpolation and heuristics to fill in any missing data.
 * *January 12:* We added vaccination plots to the infections page for every US state (and nationally) based on the latest [CDC data](https://covid.cdc.gov/covid-data-tracker/#vaccinations). For example, see the vaccination progress for [California](/infections/us-ca). To find another state, [click here](/#view-us-infections-estimates). See maps of the vaccination progress for all 50 states [here](/maps-infections).
 * *January 11:* In response to the [new COVID-19 B.1.1.7 variant](https://www.nytimes.com/live/2021/01/01/world/covid-19-coronavirus-updates) (preliminary study [here](https://cmmid.github.io/topics/covid19/uk-novel-variant.html)), we increased our herd immunity threshold from 60%+ to 70%+. We have also increased our total infections estimates (30% -> 35-40%) and deaths estimates (500k -> 600k ±100k) in response to this new strain and a slower-than-expected vaccination rollout. We are in the process of gathering more data to better incorporate this variant into our modeling (e.g. [Jan 15 CDC modeling](https://www.cdc.gov/mmwr/volumes/70/wr/mm7003e2.htm)).
