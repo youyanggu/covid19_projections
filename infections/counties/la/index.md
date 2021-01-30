@@ -8,71 +8,71 @@ See the [Counties Summary](/infections/summary-counties) page for a searchable a
 
 *Note: Due to the inherent lag between infections and reporting of cases, our estimates of infections are as of 14 days ago.*
 
-*Last updated: January 29, 2021*
+*Last updated: January 30, 2021*
 
 |   FIPS Code |                                       Parish |   Population |   Confirmed Cases |   % Currently Infected |   % Total Infected |
 |-------------|----------------------------------------------|--------------|-------------------|------------------------|--------------------|
-|       22033 |         [East Baton Rouge](east-baton-rouge) |      440,059 |            32,101 |                    2.3 |               25.4 |
-|       22051 |                       [Jefferson](jefferson) |      432,493 |            40,450 |                    3.0 |               37.3 |
-|       22071 |                           [Orleans](orleans) |      390,144 |            26,039 |                    1.8 |               30.8 |
-|       22103 |                   [St. Tammany](st.-tammany) |      260,419 |            21,126 |                    3.6 |               27.2 |
-|       22055 |                       [Lafayette](lafayette) |      244,390 |            20,386 |                    2.0 |               27.6 |
-|       22017 |                               [Caddo](caddo) |      240,204 |            22,539 |                    2.8 |               32.3 |
-|       22019 |                       [Calcasieu](calcasieu) |      203,436 |            17,525 |                    2.5 |               28.3 |
-|       22073 |                         [Ouachita](ouachita) |      153,279 |            16,935 |                    2.6 |               36.6 |
-|       22063 |                     [Livingston](livingston) |      140,789 |            11,115 |                    2.4 |               24.9 |
-|       22105 |                     [Tangipahoa](tangipahoa) |      134,758 |            10,937 |                    2.2 |               27.4 |
-|       22079 |                           [Rapides](rapides) |      129,648 |            10,602 |                    2.4 |               26.5 |
-|       22015 |                           [Bossier](bossier) |      127,039 |            11,600 |                    3.0 |               28.5 |
-|       22005 |                       [Ascension](ascension) |      126,604 |            10,153 |                    2.6 |               27.2 |
-|       22109 |                     [Terrebonne](terrebonne) |      110,461 |             8,468 |                    2.8 |               26.0 |
-|       22057 |                       [Lafourche](lafourche) |       97,614 |             8,120 |                    2.8 |               29.4 |
-|       22097 |                     [St. Landry](st.-landry) |       82,124 |             7,794 |                    2.0 |               31.0 |
-|       22045 |                             [Iberia](iberia) |       69,830 |             5,948 |                    2.2 |               29.4 |
-|       22001 |                             [Acadia](acadia) |       62,045 |             5,788 |                    1.4 |               31.7 |
-|       22113 |                       [Vermilion](vermilion) |       59,511 |             4,520 |                    2.5 |               24.3 |
-|       22099 |                     [St. Martin](st.-martin) |       53,431 |             4,574 |                    2.2 |               29.4 |
-|       22089 |                   [St. Charles](st.-charles) |       53,100 |             4,720 |                    3.2 |               33.3 |
-|       22101 |                         [St. Mary](st.-mary) |       49,348 |             3,792 |                    2.1 |               26.7 |
-|       22115 |                             [Vernon](vernon) |       47,429 |             2,676 |                    1.4 |               17.8 |
-|       22087 |                   [St. Bernard](st.-bernard) |       47,244 |             3,214 |                    2.5 |               26.5 |
-|       22061 |                           [Lincoln](lincoln) |       46,742 |             4,009 |                    2.2 |               26.6 |
-|       22117 |                     [Washington](washington) |       46,194 |             3,773 |                    2.1 |               28.7 |
-|       22095 | [St. John the Baptist](st.-john-the-baptist) |       42,837 |             3,246 |                    1.9 |               33.7 |
-|       22009 |                       [Avoyelles](avoyelles) |       40,144 |             3,440 |                    2.7 |               27.7 |
-|       22119 |                           [Webster](webster) |       38,340 |             3,677 |                    2.9 |               30.4 |
-|       22069 |                 [Natchitoches](natchitoches) |       38,158 |             3,645 |                    2.8 |               30.1 |
-|       22011 |                     [Beauregard](beauregard) |       37,497 |             2,574 |                    2.2 |               22.0 |
-|       22039 |                     [Evangeline](evangeline) |       33,395 |             3,047 |                    1.9 |               29.8 |
-|       22047 |                       [Iberville](iberville) |       32,511 |             3,202 |                    2.4 |               38.0 |
-|       22053 |           [Jefferson Davis](jefferson-davis) |       31,368 |             2,716 |                    2.1 |               28.5 |
-|       22031 |                           [De Soto](de-soto) |       27,463 |             2,390 |                    3.4 |               29.7 |
-|       22121 |         [West Baton Rouge](west-baton-rouge) |       26,465 |             2,273 |                    2.6 |               28.9 |
-|       22003 |                               [Allen](allen) |       25,627 |             2,780 |                    1.9 |               37.2 |
-|       22067 |                       [Morehouse](morehouse) |       24,874 |             2,579 |                    2.6 |               32.6 |
-|       22085 |                             [Sabine](sabine) |       23,884 |             2,557 |                    2.8 |               33.1 |
-|       22075 |                   [Plaquemines](plaquemines) |       23,197 |             2,102 |                    2.4 |               31.5 |
-|       22043 |                               [Grant](grant) |       22,389 |             1,833 |                    1.8 |               25.1 |
-|       22111 |                               [Union](union) |       22,108 |             2,204 |                    2.1 |               34.3 |
-|       22007 |                     [Assumption](assumption) |       21,891 |             1,904 |                    3.8 |               30.4 |
-|       22077 |               [Pointe Coupee](pointe-coupee) |       21,730 |             2,253 |                    2.1 |               35.2 |
-|       22093 |                       [St. James](st.-james) |       21,096 |             1,700 |                    2.5 |               32.2 |
-|       22083 |                         [Richland](richland) |       20,122 |             2,187 |                    3.3 |               34.9 |
-|       22041 |                         [Franklin](franklin) |       20,015 |             2,327 |                    2.0 |               40.9 |
-|       22029 |                       [Concordia](concordia) |       19,259 |             1,693 |                    1.8 |               27.8 |
-|       22037 |             [East Feliciana](east-feliciana) |       19,135 |             2,805 |                    2.4 |               47.9 |
-|       22049 |                           [Jackson](jackson) |       15,744 |             1,632 |                    2.0 |               32.4 |
-|       22027 |                       [Claiborne](claiborne) |       15,670 |             1,330 |                    2.0 |               27.8 |
-|       22125 |             [West Feliciana](west-feliciana) |       15,568 |             1,058 |                    1.2 |               25.6 |
-|       22059 |                           [LaSalle](lasalle) |       14,892 |             1,341 |                    1.5 |               28.1 |
-|       22127 |                                 [Winn](winn) |       13,904 |             1,378 |                    2.0 |               32.3 |
-|       22013 |                       [Bienville](bienville) |       13,241 |             1,503 |                    3.4 |               37.4 |
-|       22065 |                           [Madison](madison) |       10,951 |             1,510 |                    2.2 |               45.4 |
-|       22123 |                 [West Carroll](west-carroll) |       10,830 |             1,110 |                    2.4 |               32.3 |
-|       22091 |                     [St. Helena](st.-helena) |       10,132 |               843 |                    2.0 |               27.5 |
-|       22021 |                         [Caldwell](caldwell) |        9,918 |             1,044 |                    1.7 |               33.8 |
-|       22025 |                       [Catahoula](catahoula) |        9,494 |             1,016 |                    1.9 |               35.7 |
-|       22081 |                       [Red River](red-river) |        8,442 |               791 |                    2.0 |               30.3 |
-|       22023 |                           [Cameron](cameron) |        6,973 |               481 |                    2.1 |               22.1 |
-|       22035 |                 [East Carroll](east-carroll) |        6,861 |             1,078 |                    2.2 |               52.1 |
-|       22107 |                             [Tensas](tensas) |        4,334 |               342 |                    3.2 |               24.7 |
+|       22033 |         [East Baton Rouge](east-baton-rouge) |      440,059 |            32,307 |                    2.2 |               25.5 |
+|       22051 |                       [Jefferson](jefferson) |      432,493 |            40,755 |                    2.9 |               37.5 |
+|       22071 |                           [Orleans](orleans) |      390,144 |            26,177 |                    1.8 |               30.9 |
+|       22103 |                   [St. Tammany](st.-tammany) |      260,419 |            21,444 |                    3.5 |               27.4 |
+|       22055 |                       [Lafayette](lafayette) |      244,390 |            20,457 |                    1.9 |               27.7 |
+|       22017 |                               [Caddo](caddo) |      240,204 |            22,644 |                    2.7 |               32.5 |
+|       22019 |                       [Calcasieu](calcasieu) |      203,436 |            17,614 |                    2.5 |               28.5 |
+|       22073 |                         [Ouachita](ouachita) |      153,279 |            16,992 |                    2.4 |               36.7 |
+|       22063 |                     [Livingston](livingston) |      140,789 |            11,174 |                    2.3 |               25.1 |
+|       22105 |                     [Tangipahoa](tangipahoa) |      134,758 |            11,002 |                    2.1 |               27.6 |
+|       22079 |                           [Rapides](rapides) |      129,648 |            10,648 |                    2.3 |               26.7 |
+|       22015 |                           [Bossier](bossier) |      127,039 |            11,695 |                    2.9 |               28.7 |
+|       22005 |                       [Ascension](ascension) |      126,604 |            10,205 |                    2.5 |               27.3 |
+|       22109 |                     [Terrebonne](terrebonne) |      110,461 |             8,563 |                    2.9 |               26.2 |
+|       22057 |                       [Lafourche](lafourche) |       97,614 |             8,218 |                    2.8 |               29.6 |
+|       22097 |                     [St. Landry](st.-landry) |       82,124 |             7,830 |                    2.0 |               31.2 |
+|       22045 |                             [Iberia](iberia) |       69,830 |             5,981 |                    2.1 |               29.6 |
+|       22001 |                             [Acadia](acadia) |       62,045 |             5,798 |                    1.3 |               31.8 |
+|       22113 |                       [Vermilion](vermilion) |       59,511 |             4,551 |                    2.4 |               24.4 |
+|       22099 |                     [St. Martin](st.-martin) |       53,431 |             4,582 |                    2.1 |               29.5 |
+|       22089 |                   [St. Charles](st.-charles) |       53,100 |             4,752 |                    3.0 |               33.4 |
+|       22101 |                         [St. Mary](st.-mary) |       49,348 |             3,808 |                    2.0 |               26.9 |
+|       22115 |                             [Vernon](vernon) |       47,429 |             2,686 |                    1.4 |               17.9 |
+|       22087 |                   [St. Bernard](st.-bernard) |       47,244 |             3,226 |                    2.4 |               26.6 |
+|       22061 |                           [Lincoln](lincoln) |       46,742 |             4,017 |                    2.2 |               26.8 |
+|       22117 |                     [Washington](washington) |       46,194 |             3,803 |                    2.0 |               28.8 |
+|       22095 | [St. John the Baptist](st.-john-the-baptist) |       42,837 |             3,270 |                    1.8 |               33.9 |
+|       22009 |                       [Avoyelles](avoyelles) |       40,144 |             3,458 |                    2.6 |               27.8 |
+|       22119 |                           [Webster](webster) |       38,340 |             3,685 |                    2.8 |               30.6 |
+|       22069 |                 [Natchitoches](natchitoches) |       38,158 |             3,661 |                    2.6 |               30.2 |
+|       22011 |                     [Beauregard](beauregard) |       37,497 |             2,595 |                    2.1 |               22.1 |
+|       22039 |                     [Evangeline](evangeline) |       33,395 |             3,067 |                    1.8 |               29.8 |
+|       22047 |                       [Iberville](iberville) |       32,511 |             3,209 |                    2.3 |               38.1 |
+|       22053 |           [Jefferson Davis](jefferson-davis) |       31,368 |             2,727 |                    2.0 |               28.7 |
+|       22031 |                           [De Soto](de-soto) |       27,463 |             2,402 |                    3.6 |               30.1 |
+|       22121 |         [West Baton Rouge](west-baton-rouge) |       26,465 |             2,288 |                    2.5 |               29.0 |
+|       22003 |                               [Allen](allen) |       25,627 |             2,793 |                    1.9 |               37.3 |
+|       22067 |                       [Morehouse](morehouse) |       24,874 |             2,583 |                    2.5 |               32.7 |
+|       22085 |                             [Sabine](sabine) |       23,884 |             2,573 |                    2.8 |               33.3 |
+|       22075 |                   [Plaquemines](plaquemines) |       23,197 |             2,112 |                    2.3 |               31.7 |
+|       22043 |                               [Grant](grant) |       22,389 |             1,830 |                    1.7 |               25.2 |
+|       22111 |                               [Union](union) |       22,108 |             2,205 |                    2.0 |               34.4 |
+|       22007 |                     [Assumption](assumption) |       21,891 |             1,922 |                    4.0 |               30.7 |
+|       22077 |               [Pointe Coupee](pointe-coupee) |       21,730 |             2,258 |                    2.0 |               35.3 |
+|       22093 |                       [St. James](st.-james) |       21,096 |             1,709 |                    2.4 |               32.3 |
+|       22083 |                         [Richland](richland) |       20,122 |             2,200 |                    3.3 |               35.2 |
+|       22041 |                         [Franklin](franklin) |       20,015 |             2,335 |                    1.9 |               40.9 |
+|       22029 |                       [Concordia](concordia) |       19,259 |             1,700 |                    1.7 |               27.9 |
+|       22037 |             [East Feliciana](east-feliciana) |       19,135 |             2,811 |                    2.3 |               48.1 |
+|       22049 |                           [Jackson](jackson) |       15,744 |             1,632 |                    2.0 |               32.6 |
+|       22027 |                       [Claiborne](claiborne) |       15,670 |             1,342 |                    1.9 |               27.9 |
+|       22125 |             [West Feliciana](west-feliciana) |       15,568 |             1,078 |                    1.2 |               25.7 |
+|       22059 |                           [LaSalle](lasalle) |       14,892 |             1,347 |                    1.5 |               28.2 |
+|       22127 |                                 [Winn](winn) |       13,904 |             1,383 |                    1.9 |               32.4 |
+|       22013 |                       [Bienville](bienville) |       13,241 |             1,508 |                    3.3 |               37.5 |
+|       22065 |                           [Madison](madison) |       10,951 |             1,517 |                    2.1 |               45.5 |
+|       22123 |                 [West Carroll](west-carroll) |       10,830 |             1,112 |                    2.2 |               32.4 |
+|       22091 |                     [St. Helena](st.-helena) |       10,132 |               848 |                    1.9 |               27.6 |
+|       22021 |                         [Caldwell](caldwell) |        9,918 |             1,048 |                    1.5 |               33.9 |
+|       22025 |                       [Catahoula](catahoula) |        9,494 |             1,020 |                    1.8 |               35.8 |
+|       22081 |                       [Red River](red-river) |        8,442 |               799 |                    2.1 |               30.5 |
+|       22023 |                           [Cameron](cameron) |        6,973 |               480 |                    2.0 |               22.2 |
+|       22035 |                 [East Carroll](east-carroll) |        6,861 |             1,083 |                    2.1 |               52.3 |
+|       22107 |                             [Tensas](tensas) |        4,334 |               342 |                    3.0 |               24.8 |

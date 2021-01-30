@@ -8,28 +8,28 @@ See the [Counties Summary](/infections/summary-counties) page for a searchable a
 
 *Note: Due to the inherent lag between infections and reporting of cases, our estimates of infections are as of 14 days ago.*
 
-*Last updated: January 29, 2021*
+*Last updated: January 30, 2021*
 
 |   FIPS Code |                   County |   Population |   Confirmed Cases |   % Currently Infected |   % Total Infected |
 |-------------|--------------------------|--------------|-------------------|------------------------|--------------------|
-|       34003 |         [Bergen](bergen) |      932,202 |            65,850 |                    2.2 |               36.3 |
-|       34023 |   [Middlesex](middlesex) |      825,062 |            62,445 |                    2.6 |               35.1 |
-|       34013 |           [Essex](essex) |      798,975 |            63,524 |                    2.4 |               39.2 |
-|       34017 |         [Hudson](hudson) |      672,391 |            60,138 |                    2.8 |               46.9 |
-|       34025 |     [Monmouth](monmouth) |      618,795 |            47,835 |                    3.1 |               31.4 |
-|       34029 |           [Ocean](ocean) |      607,186 |            48,944 |                    3.2 |               32.8 |
-|       34039 |           [Union](union) |      556,341 |            50,429 |                    2.5 |               47.5 |
-|       34007 |         [Camden](camden) |      506,471 |            39,614 |                    2.4 |               29.4 |
-|       34031 |       [Passaic](passaic) |      501,826 |            50,455 |                    2.2 |               52.3 |
-|       34027 |         [Morris](morris) |      491,845 |            31,316 |                    2.4 |               28.2 |
-|       34005 | [Burlington](burlington) |      445,349 |            30,835 |                    2.5 |               25.7 |
-|       34021 |         [Mercer](mercer) |      367,430 |            24,533 |                    2.0 |               30.1 |
-|       34035 |     [Somerset](somerset) |      328,934 |            19,508 |                    2.0 |               26.9 |
-|       34015 | [Gloucester](gloucester) |      291,636 |            21,434 |                    2.7 |               24.9 |
-|       34001 |     [Atlantic](atlantic) |      263,670 |            21,053 |                    3.5 |               26.2 |
-|       34011 | [Cumberland](cumberland) |      149,527 |            12,554 |                    3.3 |               29.6 |
-|       34037 |         [Sussex](sussex) |      140,488 |             7,649 |                    2.9 |               21.4 |
-|       34019 |   [Hunterdon](hunterdon) |      124,371 |             5,746 |                    2.0 |               18.0 |
-|       34041 |         [Warren](warren) |      105,267 |             5,929 |                    2.3 |               23.9 |
-|       34009 |     [Cape May](cape-may) |       92,039 |             6,079 |                    2.5 |               22.2 |
-|       34033 |           [Salem](salem) |       62,385 |             4,241 |                    2.5 |               23.7 |
+|       34003 |         [Bergen](bergen) |      932,202 |            66,318 |                    2.2 |               36.4 |
+|       34023 |   [Middlesex](middlesex) |      825,062 |            63,029 |                    2.6 |               35.3 |
+|       34013 |           [Essex](essex) |      798,975 |            64,264 |                    2.3 |               39.4 |
+|       34017 |         [Hudson](hudson) |      672,391 |            60,568 |                    2.8 |               47.1 |
+|       34025 |     [Monmouth](monmouth) |      618,795 |            48,350 |                    3.1 |               31.6 |
+|       34029 |           [Ocean](ocean) |      607,186 |            49,418 |                    3.2 |               33.0 |
+|       34039 |           [Union](union) |      556,341 |            50,685 |                    2.4 |               47.6 |
+|       34007 |         [Camden](camden) |      506,471 |            39,956 |                    2.4 |               29.5 |
+|       34031 |       [Passaic](passaic) |      501,826 |            50,725 |                    2.2 |               52.4 |
+|       34027 |         [Morris](morris) |      491,845 |            31,732 |                    2.4 |               28.4 |
+|       34005 | [Burlington](burlington) |      445,349 |            31,111 |                    2.4 |               25.8 |
+|       34021 |         [Mercer](mercer) |      367,430 |            24,726 |                    1.9 |               30.2 |
+|       34035 |     [Somerset](somerset) |      328,934 |            19,678 |                    1.9 |               27.0 |
+|       34015 | [Gloucester](gloucester) |      291,636 |            21,650 |                    2.7 |               25.1 |
+|       34001 |     [Atlantic](atlantic) |      263,670 |            21,293 |                    3.5 |               26.4 |
+|       34011 | [Cumberland](cumberland) |      149,527 |            12,682 |                    3.3 |               29.8 |
+|       34037 |         [Sussex](sussex) |      140,488 |             7,724 |                    2.8 |               21.6 |
+|       34019 |   [Hunterdon](hunterdon) |      124,371 |             5,795 |                    2.0 |               18.1 |
+|       34041 |         [Warren](warren) |      105,267 |             5,985 |                    2.2 |               24.0 |
+|       34009 |     [Cape May](cape-may) |       92,039 |             6,133 |                    2.5 |               22.4 |
+|       34033 |           [Salem](salem) |       62,385 |             4,275 |                    2.4 |               23.8 |
