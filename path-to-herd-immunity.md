@@ -6,7 +6,7 @@ permalink: /path-to-herd-immunity/
 
 # Path to Herd Immunity: 2021 Outlook of COVID-19 in the US
 By: [Youyang Gu](https://youyanggu.com)
-<br>Last Updated: January 29, 2021 (*First posted December 9, 2020; CDC plots updated daily)*
+<br>Last Updated: February 1, 2021 (*First posted December 9, 2020; CDC plots updated daily)*
 
 With the availability of the COVID-19 vaccine, we present our best estimate of the path to COVID-19 herd immunity in the United States. Herd immunity will be reached through immunity from two sources: vaccination and natural infection. On this page, we provide the latest COVID-19 vaccine projections and current vaccination progress.
 
@@ -61,7 +61,7 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 - There is a very high amount of uncertainty with any model that makes outlooks for 6-12 months out. We fully acknowledge the possibility that these results may not reflect reality. The results presented here are merely estimates based on a set of assumptions (listed below), so please use caution when utilizing the results.
 - For the majority of the assumptions, the exact numerical values have relatively minor impacts on the final results (e.g. changing vaccine efficacy from 85% to 90% results in a 10-day shift in when herd immunity is reached).
 - If any of the assumptions used to generate these estimates do not hold, then the results may be drastically different.
-- These are the best estimates given what is known in mid-December 2020, but are subject to change based on new data/evidence. For example, if vaccine rollout and uptake is quicker than estimated, then we may reach herd immunity sooner. If rollout and uptake is slower than estimated, we may reach herd immunity later.
+- These are the best estimates given what is known at the time this was written, but are subject to change based on new data/evidence. For example, if vaccine rollout and uptake is quicker than estimated, then we may reach herd immunity sooner. If rollout and uptake is slower than estimated, we may reach herd immunity later.
 - From [*'Herd Immunity': A Rough Guide*](https://academic.oup.com/cid/article/52/7/911/299077): "[We must] be wary of target thresholds for vaccination, insofar as thresholds are based on assumptions that greatly simplify the complexity of actual populations. In most circumstances, the sensible public health practice is to aim for 100% coverage, with all the doses recommended, recognizing that 100% is never achievable, hoping to reach whatever is the 'real' herd immunity threshold in the population concerned."
 
 [Back to Top](#top)
@@ -78,7 +78,7 @@ The underlying assumptions behind our estimates are presented below:
 
 ### Basic Assumptions
 
-- **Important:** The only SARS-CoV-2 variant we are currently modeling is the B.1.1.7 variant that was first detected in the UK. If other variants become more prevalent, these estimates may no longer hold.
+- **Important:** The only SARS-CoV-2 variant we are currently modeling is the B.1.1.7 variant that was first detected in the UK (see Jan 11 update [below](#updates)). If other variants become more prevalent in the US, these estimates may no longer hold.
 - We assume immunity can be achieved through either natural infection or vaccination. We assume this immunity can be lost over time.
 - We assume herd immunity is achieved when at least 70% of the population possess immunity from the SARS-CoV-2 virus (HIT = 70%). This corresponds to 230 million individuals in the US. Due to population heterogeneity, variation in susceptibility and/or pre-existing immunity, it is possible that the herd immunity threshold (HIT) can be lower. But HIT can also be higher due to the targeted approach of vaccine distribution (e.g. individuals with the greatest impact on transmission are vaccinated last).
 - We assume states will continue to impose varying degrees of restrictions and interventions until herd immunity is reached.
@@ -140,7 +140,7 @@ You can reach out to Youyang Gu via the [Contact](/contact) page.
 
 ## Updates
 
-* *January 26:* We are factoring in rollout of the single-dose Johnson & Johnson vaccine starting in late February/early March. In the past week, over 1 million doses were administered per day. Given no unforeseen supply issue from Pfizer/Moderna, we now estimate that the general public can receive the vaccine by April, and over 60% of the US adult population will be fully vaccinated by June. We also estimate that over 200 million doses will be administered in the first 100 days of the new presidential administration, more than double the administratoin's original "100 million shots in 100 days" goal. Our timeline for a complete "return to normal" remains unchanged (June/July 2021).
+* *January 26:* We are factoring in rollout of the single-dose Johnson & Johnson vaccine starting in late February/early March. In the past week, over 1 million doses were administered per day. Given no unforeseen supply issue from Pfizer/Moderna, we now estimate that the general public can receive the vaccine by April, and over 60% of the US adult population will be fully vaccinated by June. We also estimate that over 200 million doses will be administered in the first 100 days of the new presidential administration, more than double the administratoin's original "100 million shots in 100 days" goal. Our timeline for a "return to normal" remains unchanged (June/July 2021).
 * *January 14:* We separated CDC data for vaccine doses into 1st and 2nd doses. As complete data is not available, we applied interpolation and heuristics to fill in any missing data.
 * *January 12:* We added vaccination plots to the infections page for every US state (and nationally) based on the latest [CDC data](https://covid.cdc.gov/covid-data-tracker/#vaccinations). For example, see the vaccination progress for [California](/infections/us-ca). To find another state, [click here](/#view-us-infections-estimates). See maps of the vaccination progress for all 50 states [here](/maps-infections).
 * *January 11:* In response to the [new COVID-19 B.1.1.7 variant](https://www.nytimes.com/live/2021/01/01/world/covid-19-coronavirus-updates) (preliminary study [here](https://cmmid.github.io/topics/covid19/uk-novel-variant.html)), we increased our herd immunity threshold from 60%+ to 70%+. We have also increased our total infections estimates (30% -> 35-40%) and deaths estimates (500k -> 600k ±100k) in response to this new strain and a slower-than-expected vaccination rollout. We are in the process of gathering more data to better incorporate this variant into our modeling (e.g. [Jan 15 CDC modeling](https://www.cdc.gov/mmwr/volumes/70/wr/mm7003e2.htm)).
