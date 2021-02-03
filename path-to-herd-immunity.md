@@ -50,6 +50,7 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 - [CDC Data Error](https://twitter.com/youyanggu/status/1349817775909269505) - Jan 14
 - [Jan 20 Update](https://twitter.com/youyanggu/status/1352008093652066304) - Jan 20
 - [Jan 27 Update](https://twitter.com/youyanggu/status/1354488024726290439) - Jan 27
+- [Feb 3 Update](https://twitter.com/youyanggu/status/1357045475526991873) - Feb 3
 
 [Back to Top](#top)
 
@@ -97,7 +98,7 @@ The underlying assumptions behind our estimates are presented below:
 - We assume the majority of individuals (but not all) will receive the second dose.
 - We assume the general population will begin receiving vaccinations in late spring/early summer (Apr-Jun 2021).
 - We assume children will begin receiving vaccinations in fall 2021. It is possible that this does not happen until 2022. If herd immunity is reached before fall 2021, an absence of a children vaccine in 2021 may not signficantly affect the infection rate.
-- We assume a 90% vaccine efficacy (changed from 85% on Jan 21, 2021). Hence, if 100 individuals are vaccinated, we assume 90 will develop immunity. While the trial data for Pfizer and Moderna demonstrate ~95% efficacy, we believe that the efficacy in the general population will be slightly lower, mainly due to the fact that a non-insignificant proportion of the population may miss the second vaccine dose.
+- We assume a 90% vaccine efficacy (changed from 85% on Jan 21, 2021). Hence, if 100 individuals are vaccinated, we assume 90 will develop immunity. While the trial data for Pfizer and Moderna demonstrate ~95% efficacy, we believe that the efficacy in the general population will be slightly lower, mainly due to the fact that a non-insignificant proportion of the population may miss the second vaccine dose. We are also workign to better incorporate the efficacy of the J&J vaccine, pending more data.
 - We assume the vaccine is effective on new SARS-CoV-2 variants (preliminary research [here](https://www.biorxiv.org/content/10.1101/2021.01.18.426984v1) and [here](https://www.biorxiv.org/content/10.1101/2021.01.15.426911v1)).
 - We assume that if effective, the vaccine will provide individuals immunity through at least 2021.
 - While it is still unclear if the vaccine provides sterilizing immunity, we assume that the vaccine, if effective, can provide functional immunity for the individual and significantly reduce their likelihood of being infectious for at least the duration of 2021. Pfizer expects to report data on whether or not its vaccine stops virus transmission in the first quarter of 2021.
