@@ -11,6 +11,7 @@ By: [Youyang Gu](https://youyanggu.com)
 With the availability of the COVID-19 vaccine, we present our best estimate of the path to COVID-19 herd immunity in the United States. Herd immunity will be reached through immunity from two sources: vaccination and natural infection. On this page, we provide the latest COVID-19 vaccine projections and current vaccination progress.
 
 **February 4 Update:** See our weekly update [on Twitter](https://twitter.com/youyanggu/status/1357045475526991873).
+
 **January 28 Update:** We are releasing raw and adjusted CDC vaccination time series data for download [on GitHub](https://github.com/youyanggu/covid19-cdc-vaccination-data). It contains every CDC vaccination update since they started releasing data on Dec 20, 2020. They will be updated daily. In addition, we separated our Path to Herd Immunity plot into three categories: immunity from vaccination only, immunity from vaccination & past infection, and immunity from past infection only. Previously, we assigned immunity to the one that was acquired first (either prior infection or vaccination). [Older updates](#updates)
 {% include_relative vaccination-last-updated.md %}
 {% include iframe_vaccination.html %}
@@ -35,7 +36,7 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 - New infections may become minimal before herd immunity is reached. But due to imported cases and localized clusters, it is unlikely that new infections will drop to zero until at least 2022.
 - Deaths may drop to low levels even earlier (May-Jul 2021), in part due to a vaccine distribution strategy that initially prioritizes high-risk individuals. Once deaths fall to minimal levels, we may see a relaxation of restrictions.
 - Summarizing the above findings, our best estimate of a complete "return to normal" in the US is mid-summer 2021 (June/July 2021).
-- We estimate roughly 70-75% of the US population (230-250 million) will receive at least one dose of the vaccine by the end of 2021, with children being the last group to receive it (fall 2021).
+- We estimate roughly 70-75% of the US population (230-250 million) will receive at least one dose of the vaccine by the end of 2021, with children being the last group to receive it (fall 2021 or later).
 - We estimate around 30-40% of the US population (~115 million) will have been infected by the SARS-CoV-2 virus by the end of 2021. That is an additional 50 million infections since mid-December 2020.
 - This translates to a final US COVID-19 death toll of roughly 600,000 (±100,000) reported deaths, or ~300,000 additional deaths since mid-December 2020.
 
@@ -71,6 +72,8 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 ## Data
 
 We use vaccination data from the [Centers for Disease Control and Prevention (CDC)](https://covid.cdc.gov/covid-data-tracker/#vaccinations). We upload the raw and adjusted CDC vaccination time series data for download [on GitHub](https://github.com/youyanggu/covid19-cdc-vaccination-data). It contains every CDC vaccination update since they started releasing data on Dec 20, 2020. The data is updated daily.
+
+While we release daily [past infections estimates](https://github.com/youyanggu/covid19-infection-estimates-latest) for every state and county, we are currently not releasing our vaccination and infections forecasts. This is due to 1) the limitations and noisiness in the existing data 2) the high degree of uncertainty for the future and 3) the reliance on numerous assumptions (outlined below). As a result, we believe these projections are best suited to be viewed from a high-level perspective, and not be used for quantitative analyses.
 
 [Back to Top](#top)
 
