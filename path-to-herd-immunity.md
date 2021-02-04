@@ -6,10 +6,11 @@ permalink: /path-to-herd-immunity/
 
 # Path to Herd Immunity: 2021 Outlook of COVID-19 in the US
 By: [Youyang Gu](https://youyanggu.com)
-<br>Last Updated: February 3, 2021 (*First posted December 9, 2020; CDC plots updated daily)*
+<br>Last Updated: February 4, 2021 (*First posted December 9, 2020; CDC plots updated daily)*
 
 With the availability of the COVID-19 vaccine, we present our best estimate of the path to COVID-19 herd immunity in the United States. Herd immunity will be reached through immunity from two sources: vaccination and natural infection. On this page, we provide the latest COVID-19 vaccine projections and current vaccination progress.
 
+**February 4 Update:** See our weekly update [on Twitter](https://twitter.com/youyanggu/status/1357045475526991873).
 **January 28 Update:** We are releasing raw and adjusted CDC vaccination time series data for download [on GitHub](https://github.com/youyanggu/covid19-cdc-vaccination-data). It contains every CDC vaccination update since they started releasing data on Dec 20, 2020. They will be updated daily. In addition, we separated our Path to Herd Immunity plot into three categories: immunity from vaccination only, immunity from vaccination & past infection, and immunity from past infection only. Previously, we assigned immunity to the one that was acquired first (either prior infection or vaccination). [Older updates](#updates)
 {% include_relative vaccination-last-updated.md %}
 {% include iframe_vaccination.html %}
