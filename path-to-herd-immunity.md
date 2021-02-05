@@ -30,9 +30,9 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 [Back to Top](#top)
 
 ## Summary
-- The US will be near COVID-19 herd immunity (>70% of population immune) during summer 2021 (Jun-Aug 2021). At a high level, [herd immunity](https://jamanetwork.com/journals/jama/fullarticle/2772168) is a concept in which a population can be protected from a virus if enough people possess immunity.
-- At the time herd immunity is near, roughly half of the immunity will be achieved through natural infection, and the other half will be achieved through vaccination.
+- The US will be near COVID-19 herd immunity (>70% of population immune) by summer 2021 (Jun-Aug 2021). At a high level, [herd immunity](https://jamanetwork.com/journals/jama/fullarticle/2772168) is a concept in which a population can be protected from a virus if enough people possess immunity.
 - Due to vaccine hesitancy and the delayed arrival of a children's vaccine, it is possible that we do not reach the levels required for herd immunity in 2021. Nevertheless, herd immunity is not a hard threshold, and being close to herd immunity may be sufficient to prevent large outbreaks.
+- At the time herd immunity is near, roughly half of the immunity will be achieved through natural infection, and the other half will be achieved through vaccination.
 - New infections may become minimal before herd immunity is reached. But due to imported cases and localized clusters, it is unlikely that new infections will drop to zero until at least 2022.
 - Deaths may drop to low levels even earlier (May-Jul 2021), in part due to a vaccine distribution strategy that initially prioritizes high-risk individuals. Once deaths fall to minimal levels, we may see a relaxation of restrictions.
 - Summarizing the above findings, our best estimate of a complete "return to normal" in the US is mid-summer 2021 (June/July 2021).
