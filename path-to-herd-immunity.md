@@ -6,11 +6,11 @@ permalink: /path-to-herd-immunity/
 
 # Path to Herd Immunity: 2021 Outlook of COVID-19 in the US
 By: [Youyang Gu](https://youyanggu.com)
-<br>Last Updated: February 4, 2021 (*First posted December 9, 2020; CDC plots updated daily)*
+<br>Last Updated: February 5, 2021 (*First posted December 9, 2020; CDC plots updated daily)*
 
 With the availability of the COVID-19 vaccine, we present our best estimate of the path to COVID-19 herd immunity in the United States. Herd immunity will be reached through immunity from two sources: vaccination and natural infection. On this page, we provide the latest COVID-19 vaccine projections and current vaccination progress.
 
-**February 4 Update:** We lowered our vaccine efficacy estimate from 90% to 85% to account for [new variants](https://www.bmj.com/content/372/bmj.n296) and the [lower efficacy](https://www.jnj.com/johnson-johnson-announces-single-shot-janssen-covid-19-vaccine-candidate-met-primary-endpoints-in-interim-analysis-of-its-phase-3-ensemble-trial) of the Johnson & Johnson vaccine. We also increased our final US death toll estimate from 600,000 to 625,000 (±100,000). Due to vaccine hesitancy and the delayed arrival of a children's vaccine, it is possible that we do not reach the levels required for herd immunity in 2021. Nevertheless, herd immunity is not a hard threshold, and being close to herd immunity may be sufficient to prevent large outbreaks. We are actively working to incorporate the new variants into our modeling. [Older updates](#updates)
+**February 5 Update:** We lowered our vaccine efficacy estimate from 90% to 85% to account for [new variants](https://www.bmj.com/content/372/bmj.n296) and a [lower efficacy](https://www.jnj.com/johnson-johnson-announces-single-shot-janssen-covid-19-vaccine-candidate-met-primary-endpoints-in-interim-analysis-of-its-phase-3-ensemble-trial) of the Johnson & Johnson vaccine. We also increased our final US death toll estimate from 600,000 to 625,000 (±100,000). Due to vaccine hesitancy and the delayed arrival of a children vaccine, it is possible that we do not reach the levels required for herd immunity in 2021. Nevertheless, herd immunity does not have a hard threshold, and being close to herd immunity may be sufficient to prevent large outbreaks. We are actively working to incorporate the new variants into our modeling. [Older updates](#updates)
 {% include_relative vaccination-last-updated.md %}
 {% include iframe_vaccination.html %}
 *Note:* Our infections estimates include all new infected individuals of the SARS-CoV-2 virus, not just those that took a COVID-19 test and tested positive. As of January 2021, we estimate the true number of infected individuals in the US to be roughly 2-4x higher than the reported cases (25-50% detection rate). See our writeup, [Estimating True Infections](/estimating-true-infections-revisited), for a more detailed look into this subject.
@@ -144,8 +144,8 @@ Below you will find a list of helpful vaccination data sources and dashboards. W
 ### Vaccine Rollout Tracker
 
 - [Bloomberg](http://bloomberg.com/graphics/covid-vaccine-tracker-global-distribution)
-- [New York Times](https://www.nytimes.com/interactive/2020/us/covid-19-vaccine-doses.html)
 - [Our World in Data](https://ourworldindata.org/covid-vaccinations)
+- [New York Times](https://www.nytimes.com/interactive/2020/us/covid-19-vaccine-doses.html)
 
 ### Vaccine Development Tracker
 
@@ -154,7 +154,7 @@ Below you will find a list of helpful vaccination data sources and dashboards. W
 
 ## Questions? Comments? Feedback?
 
-You can reach out to Youyang Gu via the [Contact](/contact) page.
+You can reach Youyang Gu via the [Contact](/contact) page.
 
 [Back to Top](#top)
 
