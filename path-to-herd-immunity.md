@@ -26,6 +26,7 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 * [Data](#data)
 * [Assumptions](#assumptions)
 * [Corollaries](#corollaries)
+* [Helpful Data Sources](#helpful-data-sources)
 * [Questions? Comments? Feedback?](#questions-comments-feedback)
 
 [Back to Top](#top)
@@ -136,6 +137,21 @@ The underlying assumptions behind our estimates are presented below:
 - Due to the seasonality of the virus, the herd immunity threshold may be higher in the winter. Furthermore, herd immunity can be lost due to waning immunity. Therefore, it is important that we continue to vaccinate individuals even after herd immunity has been reached.
 
 [Back to Top](#top)
+
+## Helpful Data Sources
+
+Below you will find a list of helpful vaccination data sources and dashboards. While we do not directly use them in our modeling, we highly recommend giving them a look.
+
+### Vaccine Rollout Tracker
+
+- [Bloomberg](http://bloomberg.com/graphics/covid-vaccine-tracker-global-distribution)
+- [New York Times](https://www.nytimes.com/interactive/2020/us/covid-19-vaccine-doses.html)
+- [Our World in Data](https://ourworldindata.org/covid-vaccinations)
+
+### Vaccine Development Tracker
+
+- [New York Times](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html)
+- [Milken Institute](https://www.covid-19vaccinetracker.org/)
 
 ## Questions? Comments? Feedback?
 
