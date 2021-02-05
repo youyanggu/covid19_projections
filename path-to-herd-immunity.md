@@ -30,7 +30,7 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 [Back to Top](#top)
 
 ## Summary
-- The US will be near COVID-19 herd immunity (>70% of population immune) by summer 2021 (Jun-Aug 2021). At a high level, [herd immunity](https://jamanetwork.com/journals/jama/fullarticle/2772168) is a concept in which a population can be protected from a virus if enough people possess immunity.
+- The US will be near COVID-19 herd immunity by summer 2021 (Jun-Aug 2021). At a high level, [herd immunity](https://jamanetwork.com/journals/jama/fullarticle/2772168) is a concept in which a population can be protected from a virus if enough people possess immunity. Current accepted estimates for the herd immunity threshold range from 60-90% of the population.
 - Due to vaccine hesitancy and the delayed arrival of a children's vaccine, it is possible that we do not reach the levels required for herd immunity in 2021. Nevertheless, herd immunity is not a hard threshold, and being close to herd immunity may be sufficient to prevent large outbreaks.
 - At the time herd immunity is near, roughly half of the immunity will be achieved through natural infection, and the other half will be achieved through vaccination.
 - New infections may become minimal before herd immunity is reached. But due to imported cases and localized clusters, it is unlikely that new infections will drop to zero until at least 2022.
@@ -85,7 +85,7 @@ The underlying assumptions behind our estimates are presented below:
 
 - **Important:** The only SARS-CoV-2 variant we are currently modeling is the B.1.1.7 variant that was first detected in the UK (see Jan 11 update [below](#updates)). If other variants become more prevalent in the US, these estimates may no longer hold.
 - We assume immunity can be achieved through either natural infection or vaccination. We assume this immunity can be lost over time.
-- We assume herd immunity is achieved when at least 70% of the population possess immunity from the SARS-CoV-2 virus (HIT = 70%). This corresponds to 230 million individuals in the US. Due to population heterogeneity, variation in susceptibility and/or pre-existing immunity, it is possible that the herd immunity threshold (HIT) can be lower. But HIT can also be higher due to a higher transmissibility of virus variants and the targeted approach of vaccine distribution (e.g. individuals with the greatest impact on transmission are vaccinated last).
+- We assume herd immunity is near when at least 60-80% of the population possess immunity from the SARS-CoV-2 virus. This corresponds to roughly 230 million individuals in the US. Due to population heterogeneity, variation in susceptibility and/or pre-existing immunity, it is possible that the herd immunity threshold (HIT) can be lower. But HIT can also be higher due to a higher transmissibility of virus variants and the targeted approach of vaccine distribution (e.g. individuals with the greatest impact on transmission are vaccinated last).
 - We assume states will continue to impose varying degrees of restrictions and interventions until herd immunity is reached.
 - We define "normality" as the removal of all COVID-19-related restrictions and interventions.
 - Herd immunity is not permanent. It can be lost due to waning immunity, both from infection and vaccination.
