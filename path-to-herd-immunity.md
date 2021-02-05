@@ -37,7 +37,7 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 - Deaths may drop to low levels even earlier (May-Jul 2021), in part due to a vaccine distribution strategy that initially prioritizes high-risk individuals. Once deaths fall to minimal levels, we may see a relaxation of restrictions.
 - Summarizing the above findings, our best estimate of a complete "return to normal" in the US is mid-summer 2021 (June/July 2021).
 - We estimate roughly 70-75% of the US population (230-250 million) will receive at least one dose of the vaccine by the end of 2021, with children being the last group to receive it (fall 2021 or later).
-- We estimate around 30-40% of the US population (~115 million) will have been infected by the SARS-CoV-2 virus by the end of 2021. That is an additional 50 million infections since mid-December 2020.
+- We estimate around 30-40% of the US population (~120 million) will have been infected by the SARS-CoV-2 virus by the end of 2021. That is an additional 55 million infections since mid-December 2020.
 - This translates to a final US COVID-19 death toll of roughly 625,000 (±100,000) reported deaths, or ~325,000 additional deaths since mid-December 2020.
 
 [Back to Top](#top)
@@ -83,7 +83,7 @@ The underlying assumptions behind our estimates are presented below:
 
 ### Basic Assumptions
 
-- **Important:** The only SARS-CoV-2 variant we are currently modeling is the B.1.1.7 variant that was first detected in the UK (see Jan 11 update [below](#updates)). If other variants become more prevalent in the US, these estimates may no longer hold.
+- **Important:** The only SARS-CoV-2 variant we are currently modeling is the B.1.1.7 variant that was first detected in the UK (see Jan 11 update [below](#updates)). If other variants become more prevalent in the US, these estimates may no longer hold. We are monitoring for more data regarding the other variants.
 - We assume immunity can be achieved through either natural infection or vaccination. We assume this immunity can be lost over time.
 - We assume herd immunity is near when at least 60-80% of the population possess immunity from the SARS-CoV-2 virus. This corresponds to roughly 230 million individuals in the US. Due to population heterogeneity, variation in susceptibility and/or pre-existing immunity, it is possible that the herd immunity threshold (HIT) can be lower. But HIT can also be higher due to a higher transmissibility of virus variants and the targeted approach of vaccine distribution (e.g. individuals with the greatest impact on transmission are vaccinated last).
 - We assume states will continue to impose varying degrees of restrictions and interventions until herd immunity is reached.
@@ -115,7 +115,7 @@ The underlying assumptions behind our estimates are presented below:
 
 ### Infection Assumptions
 
-- **Important:** The only SARS-CoV-2 variant we are currently modeling is the B.1.1.7 variant that was first detected in the UK (see Jan 11 update [below](#updates)). There is a high amount of uncertainty with our estimates that is not reflected in the chart. While we are showing our best estimate, is possible that true infections curve can be dramatically different (e.g. a fourth wave in March).
+- **Important:** The only SARS-CoV-2 variant we are currently modeling is the B.1.1.7 variant that was first detected in the UK (see Jan 11 update [below](#updates)). There is a high amount of uncertainty with our estimates that is not reflected in the chart. While we are showing our best estimate, is possible that true infections curve can be dramatically different (e.g. a fourth wave in March).. We are monitoring for more data regarding the other variants.
 - We assume roughly 65 million people in the US (20% of the population) have already been infected by the time the first COVID-19 vaccine is authorized in mid-December 2020 (based on our latest [covid19-projections.com](/) model). We assume ~99.9% of these individuals possess immunity as of mid-December 2020.
 - We assume a small proportion (10-15%) of the infected population will lose their immunity by the end of 2021. The longer the time from infection, the higher the likelihood of immunity being lost. While it's still unclear if prior infection confers long-term immunity, recent research ([here](https://www.nejm.org/doi/full/10.1056/NEJMoa2034545?s=09) and [here](https://science.sciencemag.org/content/early/2021/01/06/science.abf4063)) indicates that short-term reinfections are rare.
 - We assume that the infection rate will fall as the number of individuals who are inoculated/vaccinated increases.
@@ -129,7 +129,7 @@ The underlying assumptions behind our estimates are presented below:
 
 ## Corollaries
 
-- Our estimates show that roughly 30-40% of the US population (~115 million) will have been infected by the SARS-CoV-2 virus by the end of 2021. That is an additional 50 million infections since mid-December 2020.
+- Our estimates show that roughly 30-40% of the US population (~120 million) will have been infected by the SARS-CoV-2 virus by the end of 2021. That is an additional 55 million infections since mid-December 2020.
 - A 30-40% prevalence estimate translates to a final US COVID-19 death toll of roughly 525,000 to 725,000 reported deaths, with 625,000 deaths being the best estimate. Given a mid-December 2020 death toll of 300,000, that is an additional 300,000 deaths. This estimate may change if the assumptions presented above are no longer true (e.g. deaths will be lower if vaccine rollout is faster than expected; deaths will be higher if the efficacy is lower than expected or if the virus is more transmissible).
 - Due to the high prevalence, a targeted approach for vaccination that prioritizes individuals who are more likely to be susceptible may improve the time to reach herd immunity.
 - Due to possible low vaccine acceptance/uptake and waning immunity from natural infection, it is possible that the US will not reach immunity levels above 70%. In most scenarios, even 50-70% immunity could be sufficient to prevent large outbreaks.
