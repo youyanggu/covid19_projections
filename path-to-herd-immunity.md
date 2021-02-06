@@ -6,7 +6,7 @@ permalink: /path-to-herd-immunity/
 
 # Path to Herd Immunity: 2021 Outlook of COVID-19 in the US
 By: [Youyang Gu](https://youyanggu.com)
-<br>Last Updated: February 5, 2021 (*First posted December 9, 2020; CDC plots updated daily)*
+<br>Last Updated: February 6, 2021 (*First posted December 9, 2020; CDC plots updated daily)*
 
 With the availability of the COVID-19 vaccine, we present our best estimate of the path to COVID-19 herd immunity in the United States. Herd immunity will be reached through immunity from two sources: vaccination and natural infection. On this page, we provide the latest COVID-19 vaccine projections and current vaccination progress.
 
@@ -30,7 +30,7 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 [Back to Top](#top)
 
 ## Summary
-- The US will be near COVID-19 herd immunity by summer 2021 (Jun-Aug 2021). At a high level, [herd immunity](https://jamanetwork.com/journals/jama/fullarticle/2772168) is a concept in which a population can be protected from a virus if enough people possess immunity. Current accepted estimates for the herd immunity threshold range from 60-90% of the population.
+- The US will be near COVID-19 herd immunity by summer 2021 (Jun-Aug 2021). At a high level, [herd immunity](https://jamanetwork.com/journals/jama/fullarticle/2772168) is a concept in which a population can be protected from a virus if enough people possess immunity. Current accepted estimates for the herd immunity threshold range from [60-90%](https://www.nytimes.com/2020/12/24/health/herd-immunity-covid-coronavirus.html) of the population.
 - Due to vaccine hesitancy and the delayed arrival of a children's vaccine, it is possible that we do not reach the levels required for herd immunity in 2021. Nevertheless, herd immunity is not a hard threshold, and being close to herd immunity may be sufficient to prevent large outbreaks.
 - At the time herd immunity is near, roughly half of the immunity will be achieved through natural infection, and the other half will be achieved through vaccination.
 - New infections may become minimal before herd immunity is reached. But due to imported cases and localized clusters, it is unlikely that new infections will drop to zero until at least 2022.
@@ -117,10 +117,10 @@ The underlying assumptions behind our estimates are presented below:
 
 - **Important:** The only SARS-CoV-2 variant we are currently modeling is the B.1.1.7 variant that was first detected in the UK (see Jan 11 update [below](#updates)). There is a high amount of uncertainty with our estimates that is not reflected in the chart. While we are showing our best estimate, is possible that true infections curve can be dramatically different (e.g. a fourth wave in March).. We are monitoring for more data regarding the other variants.
 - We assume roughly 65 million people in the US (20% of the population) have already been infected by the time the first COVID-19 vaccine is authorized in mid-December 2020 (based on our latest [covid19-projections.com](/) model). We assume ~99.9% of these individuals possess immunity as of mid-December 2020.
-- We assume a small proportion (10-15%) of the infected population will lose their immunity by the end of 2021. The longer the time from infection, the higher the likelihood of immunity being lost. While it's still unclear if prior infection confers long-term immunity, recent research ([here](https://www.nejm.org/doi/full/10.1056/NEJMoa2034545?s=09) and [here](https://science.sciencemag.org/content/early/2021/01/06/science.abf4063)) indicates that short-term reinfections are rare.
+- We assume a small proportion (10-20%) of the infected population will lose their immunity by the end of 2021. The longer the time from infection, the higher the likelihood of immunity being lost. While it's still unclear if prior infection confers long-term immunity, recent research ([here](https://www.nejm.org/doi/full/10.1056/NEJMoa2034545?s=09) and [here](https://science.sciencemag.org/content/early/2021/01/06/science.abf4063)) indicates that short-term reinfections are rare.
 - We assume that the infection rate will fall as the number of individuals who are inoculated/vaccinated increases.
-- We assume new infections will undergo a steady decrease from mid-December 2020 to March 2021. We account for the possibility of another wave of infections in late winter/early spring (March/April) as states relax restrictions from the fall wave. This final wave may not happen if vaccine rollout is quicker than expected.
-- To simplify the modeling, we count an individual as "immune via infection" when they are first infected with the virus. Though in reality, it takes roughly 2-3 weeks after infection to develop antibodies.
+- We assume new infections will undergo a steady decrease from mid-December 2020 to March 2021. We account for the possibility of another wave of infections in late winter/early spring (March/April) as virus variants become more predominant and states relax restrictions from the fall wave. This final wave may not happen if a quick vaccine rollout can dampen the effects.
+- To simplify the modeling, we count an individual as "immune via infection" the moment they are infected with the virus. In reality, it takes roughly 2-3 weeks after infection to develop antibodies.
 - We use a basic SEIR model to estimate infections over time. This incorporates a reduction in the susceptible pool of individuals (and hence a lower infection rate) as the number of immune individuals increases.
 - We factor in seasonality to a small extent.
 - We assume a small number of imported cases per day. Due to a combination of imported cases and community spread, we believe daily infections in the US will likely not reach zero in 2021, even if herd immunity is reached.
