@@ -8,36 +8,36 @@ See the [Counties Summary](/infections/summary-counties) page for a searchable a
 
 *Note: Due to the inherent lag between infections and reporting of cases, our estimates of infections are as of 14 days ago.*
 
-*Last updated: February 6, 2021*
+*Last updated: February 7, 2021*
 
 |   FIPS Code |                                                                    Borough |   Population |   Confirmed Cases |   % Currently Infected |   % Total Infected |
 |-------------|----------------------------------------------------------------------------|--------------|-------------------|------------------------|--------------------|
-|       02020 |                                                     [Anchorage](anchorage) |      288,000 |            25,724 |                    0.7 |               22.4 |
-|       02170 |                                     [Matanuska-Susitna](matanuska-susitna) |      108,317 |             7,688 |                    0.8 |               17.2 |
+|       02020 |                                                     [Anchorage](anchorage) |      288,000 |            25,724 |                    0.7 |               22.5 |
+|       02170 |                                     [Matanuska-Susitna](matanuska-susitna) |      108,317 |             7,688 |                    0.8 |               17.3 |
 |       02090 |                               [Fairbanks North Star](fairbanks-north-star) |       96,849 |             5,942 |                    0.6 |               15.6 |
 |       02122 |                                         [Kenai Peninsula](kenai-peninsula) |       58,708 |             3,933 |                    0.3 |               16.8 |
 |       02110 |                                                           [Juneau](juneau) |       31,974 |             1,194 |                    0.5 |                9.6 |
-|       02050 |                                                           [Bethel](bethel) |       18,386 |             3,413 |                    4.4 |               44.4 |
+|       02050 |                                                           [Bethel](bethel) |       18,386 |             3,413 |                    4.2 |               44.6 |
 |       02130 |                                     [Ketchikan Gateway](ketchikan-gateway) |       13,901 |               292 |                    0.3 |                5.8 |
-|       02150 |                                             [Kodiak Island](kodiak-island) |       12,998 |             1,043 |                    0.6 |               19.4 |
+|       02150 |                                             [Kodiak Island](kodiak-island) |       12,998 |             1,043 |                    0.5 |               19.4 |
 |       02180 |                                                               [Nome](nome) |       10,004 |               313 |                    0.3 |                7.9 |
-|       02185 |                                                 [North Slope](north-slope) |        9,832 |               986 |                    0.6 |               24.8 |
+|       02185 |                                                 [North Slope](north-slope) |        9,832 |               986 |                    0.5 |               24.8 |
 |       02261 |                                           [Valdez-Cordova](valdez-cordova) |        9,202 |               454 |                    1.2 |               12.2 |
 |       02220 |                                                             [Sitka](sitka) |        8,493 |               307 |                    0.3 |                8.9 |
-|       02158 |                                                       [Kusilvak](kusilvak) |        8,314 |             1,149 |                    3.3 |               33.6 |
-|       02188 |                                       [Northwest Arctic](northwest-arctic) |        7,621 |               573 |                    1.3 |               18.8 |
+|       02158 |                                                       [Kusilvak](kusilvak) |        8,314 |             1,149 |                    3.1 |               33.7 |
+|       02188 |                                       [Northwest Arctic](northwest-arctic) |        7,621 |               573 |                    1.1 |               18.9 |
 |       02240 |                                 [Southeast Fairbanks](southeast-fairbanks) |        6,893 |               444 |                    0.8 |               15.8 |
 |       02198 |                             [Prince of Wales-Hyder](prince-of-wales-hyder) |        6,203 |                75 |                    0.0 |                3.2 |
-|       02016 |                                           [Aleutians West](aleutians-west) |        5,634 |               360 |                    3.1 |               14.7 |
+|       02016 |                                           [Aleutians West](aleutians-west) |        5,634 |               360 |                    3.0 |               15.0 |
 |       02290 |                                             [Yukon-Koyukuk](yukon-koyukuk) |        5,230 |               271 |                    0.7 |               13.1 |
 |       02070 |                                                   [Dillingham](dillingham) |        4,916 |               178 |                    0.8 |                8.7 |
-|       02013 |                                           [Aleutians East](aleutians-east) |        3,337 |               260 |                    6.1 |                9.6 |
+|       02013 |                                           [Aleutians East](aleutians-east) |        3,337 |               260 |                    7.6 |               11.2 |
 |       02195 |                                                   [Petersburg](petersburg) |        3,266 |                49 |                    0.1 |                4.2 |
 |       02100 |                                                           [Haines](haines) |        2,530 |                26 |                    0.2 |                2.6 |
 |       02275 |                                                       [Wrangell](wrangell) |        2,502 |                27 |                    0.1 |                2.8 |
 |       02105 |                                             [Hoonah-Angoon](hoonah-angoon) |        2,148 |                 0 |                    0.0 |                0.0 |
 |       02068 |                                                           [Denali](denali) |        2,097 |                68 |                    0.5 |                8.3 |
-|       02164 | [Bristol Bay plus Lake and Peninsula](bristol-bay-plus-lake-and-peninsula) |        1,592 |               168 |                    0.5 |               27.7 |
+|       02164 | [Bristol Bay plus Lake and Peninsula](bristol-bay-plus-lake-and-peninsula) |        1,592 |               168 |                    0.4 |               27.7 |
 |       02230 |                                                         [Skagway](skagway) |        1,183 |                16 |                    0.0 |                4.0 |
 |       02060 |                                                 [Bristol Bay](bristol-bay) |          836 |                 0 |                    0.0 |                0.0 |
-|       02282 |                                                         [Yakutat](yakutat) |          579 |                66 |                    1.7 |               29.1 |
+|       02282 |                                                         [Yakutat](yakutat) |          579 |                66 |                    1.5 |               29.1 |
