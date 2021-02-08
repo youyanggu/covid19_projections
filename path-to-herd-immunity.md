@@ -6,7 +6,7 @@ permalink: /path-to-herd-immunity/
 
 # Path to Herd Immunity: 2021 Outlook of COVID-19 in the US
 By: [Youyang Gu](https://youyanggu.com)
-<br>Last Updated: February 6, 2021 (*First posted December 9, 2020; CDC plots updated daily)*
+<br>Last Updated: February 8, 2021 (*First posted December 9, 2020; CDC plots updated daily)*
 
 With the availability of the COVID-19 vaccine, we present our best estimate of the path to COVID-19 herd immunity in the United States. Herd immunity will be reached through immunity from two sources: vaccination and natural infection. On this page, we provide the latest COVID-19 vaccine projections and current vaccination progress.
 
@@ -85,8 +85,8 @@ The underlying assumptions behind our estimates are presented below:
 
 - **Important:** The only SARS-CoV-2 variant we are currently modeling is the B.1.1.7 variant that was first detected in the UK (see Jan 11 update [below](#updates)). If other variants become more prevalent in the US, these estimates may no longer hold. We are monitoring for more data regarding the other variants.
 - We assume immunity can be achieved through either natural infection or vaccination. We assume this immunity can be lost over time.
-- We assume herd immunity is near when at least 60-80% of the population possess immunity from the SARS-CoV-2 virus. This corresponds to roughly 230 million individuals in the US. Due to population heterogeneity, variation in susceptibility and/or pre-existing immunity, it is possible that the herd immunity threshold (HIT) can be lower. But HIT can also be higher due to a higher transmissibility of virus variants and the targeted approach of vaccine distribution (e.g. individuals with the greatest impact on transmission are vaccinated last).
-- We assume states will continue to impose varying degrees of restrictions and interventions until herd immunity is reached.
+- We assume herd immunity is near when at least 60-80% of the population possess immunity from the SARS-CoV-2 virus. This corresponds to roughly 200-260 million individuals in the US. Due to population heterogeneity, variation in susceptibility and/or pre-existing immunity, it is possible that the herd immunity threshold (HIT) can be lower. But HIT can also be higher due to a higher transmissibility of virus variants and the targeted approach of vaccine distribution (e.g. individuals with the greatest impact on transmission are vaccinated last).
+- We assume states will continue to impose varying degrees of restrictions and interventions until hospitalizations and deaths drop to low levels. The exact thresholds will depend on each state.
 - We define "normality" as the removal of all COVID-19-related restrictions and interventions.
 - Herd immunity is not permanent. It can be lost due to waning immunity, both from infection and vaccination.
 - For the purpose of estimating new infections, we do not differentiate between immunity acquired from infection and immunity acquired from vaccination.
