@@ -6,6 +6,10 @@ permalink: /past-updates
 
 Here you will find some of our past updates.
 
+* *January 14:* We broke down vaccine doses administered into 1st and 2nd doses. You can find this on our [Path to Herd Immunity](/path-to-herd-immunity) page, or on all of our plots.
+* *January 12:* We added vaccination plots to the infections page for every US state (and nationally) based on the latest [CDC data](https://covid.cdc.gov/covid-data-tracker/#vaccinations). For example, see the vaccination progress for the [US](/infections/us). Scroll down or [click here](#view-us-infections-estimates) to find your state. See a map of the vaccination progress for all 50 states [here](/maps-infections).
+* *January 7:* See our [new thread](https://twitter.com/youyanggu/status/1347266544946929665) for an analysis of existing COVID-19 population immunity and its correlation with the severity of this current wave. 
+* *January 5:* We made a major update to our [Path to Herd Immunity](/path-to-herd-immunity) page, incorporating the latest vaccination data from the CDC and preliminary information on the new COVID-19 strain.
 * *December 29:* See why our total infected estimates [differ from the CDC](https://twitter.com/youyanggu/status/1344002411556339712).
 * *December 14:* I've self-funded this project over the past 9 months. [Donate](/donate) to help me keep *covid19-projections.com* running.
 * *December 9:* See our latest writeup, [Path to Herd Immunity: 2021 Outlook of COVID-19 in the US](/path-to-herd-immunity), which models how the COVID-19 vaccine can help the US achieve herd immunity.
