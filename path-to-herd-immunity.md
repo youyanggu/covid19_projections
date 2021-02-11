@@ -6,9 +6,11 @@ permalink: /path-to-herd-immunity/
 
 # Path to Herd Immunity: 2021 Outlook of COVID-19 in the US
 By: [Youyang Gu](https://youyanggu.com)
-<br>Last Updated: February 9, 2021 (*First posted December 9, 2020; CDC plots updated daily)*
+<br>Last Updated: February 11, 2021 (*First posted December 9, 2020; CDC plots updated daily)*
 
 With the availability of the COVID-19 vaccine, we present our best estimate of the path to COVID-19 herd immunity in the United States. Herd immunity will be reached through immunity from two sources: vaccination and natural infection. On this page, we provide the latest COVID-19 vaccine projections and current vaccination progress.
+
+**February 11 Update:** See our [latest thoughts](https://twitter.com/youyanggu/status/1359941463757516802) on herd immunity and why we should shift our focus away from this topic.
 
 **February 5 Update:** We lowered our vaccine efficacy estimate from 90% to 85% to account for [new variants](https://www.bmj.com/content/372/bmj.n296) and a [lower efficacy](https://www.jnj.com/johnson-johnson-announces-single-shot-janssen-covid-19-vaccine-candidate-met-primary-endpoints-in-interim-analysis-of-its-phase-3-ensemble-trial) of the Johnson & Johnson vaccine. We also increased our US death toll estimate from 600,000 to 625,000 (±100,000) by the end of 2021. Due to vaccine hesitancy and the delayed arrival of a children vaccine, it is possible that we do not reach the levels required for herd immunity in 2021. Nevertheless, herd immunity does not have a hard threshold, and being close to herd immunity may be sufficient to prevent large outbreaks. We are actively working to incorporate the new variants into our modeling. See *The Atlantic* piece, [What If We Never Reach Herd Immunity](https://www.theatlantic.com/health/archive/2021/02/herd-immunity-might-be-impossible-even-vaccines/617973/). [Older updates](#updates)
 {% include_relative vaccination-last-updated.md %}
@@ -48,11 +50,17 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 - [Vaccine side effects](https://twitter.com/youyanggu/status/1338587017966284800) - Dec 14
 - [Vaccine misinformation](https://twitter.com/youyanggu/status/1338952594492813312) - Dec 15
 - [Vaccination rollout](https://twitter.com/youyanggu/status/1343675401436971008) - Dec 28
-- [Jan 11 Update](https://twitter.com/youyanggu/status/1348723790017007617) - Jan 11
 - [CDC Data Error](https://twitter.com/youyanggu/status/1349817775909269505) - Jan 14
+- [State-by-state vaccination progress](https://twitter.com/youyanggu/status/1352720306108919809) - Jan 22
+- [Over-emphasis on herd immunity](https://twitter.com/youyanggu/status/1359941463757516802) - Feb 11
+
+### Weekly Updates
+
+- [Jan 11 Update](https://twitter.com/youyanggu/status/1348723790017007617) - Jan 11
 - [Jan 20 Update](https://twitter.com/youyanggu/status/1352008093652066304) - Jan 20
 - [Jan 27 Update](https://twitter.com/youyanggu/status/1354488024726290439) - Jan 27
 - [Feb 3 Update](https://twitter.com/youyanggu/status/1357045475526991873) - Feb 3
+- [Feb 10 Update](https://twitter.com/youyanggu/status/1357045475526991873) - Feb 10
 
 [Back to Top](#top)
 
