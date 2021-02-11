@@ -65,6 +65,7 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 - For the majority of the assumptions, the exact numerical values have relatively minor impacts on the final results.
 - If any of the assumptions used to generate these estimates do not hold, then the results may be drastically different.
 - These are the best estimates given what is known at the time this was written, but are subject to change based on new data/evidence. For example, if vaccine rollout and uptake is quicker than estimated, then we may reach herd immunity sooner. If rollout and uptake is slower than estimated, we may reach herd immunity later.
+- While we have estimates for when we expect a "return to normal", the ultimate decision to relax restrictions lies in the hands of the local, state, and federal governments. Therefore, it is likely that restrictions may be relaxed sooner or later than the estimates.
 - From [*'Herd Immunity': A Rough Guide*](https://academic.oup.com/cid/article/52/7/911/299077): "[We must] be wary of target thresholds for vaccination, insofar as thresholds are based on assumptions that greatly simplify the complexity of actual populations. In most circumstances, the sensible public health practice is to aim for 100% coverage, with all the doses recommended, recognizing that 100% is never achievable, hoping to reach whatever is the 'real' herd immunity threshold in the population concerned."
 
 [Back to Top](#top)
