@@ -12,7 +12,7 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 
 **February 11 Update:** See our [latest thoughts](https://twitter.com/youyanggu/status/1359941463757516802) on herd immunity and why we should shift our focus away from this topic.
 
-**February 5 Update:** We lowered our vaccine efficacy estimate from 90% to 85% to account for [new variants](https://www.bmj.com/content/372/bmj.n296) and a [lower efficacy](https://www.jnj.com/johnson-johnson-announces-single-shot-janssen-covid-19-vaccine-candidate-met-primary-endpoints-in-interim-analysis-of-its-phase-3-ensemble-trial) of the Johnson & Johnson vaccine. We also increased our US death toll estimate from 600,000 to 625,000 (±100,000) by the end of 2021. Due to vaccine hesitancy and the delayed arrival of a children vaccine, it is possible that we do not reach the levels required for herd immunity in 2021. Nevertheless, herd immunity does not have a hard threshold, and being close to herd immunity may be sufficient to prevent large outbreaks. We are actively working to incorporate the new variants into our modeling. See *The Atlantic* piece, [What If We Never Reach Herd Immunity](https://www.theatlantic.com/health/archive/2021/02/herd-immunity-might-be-impossible-even-vaccines/617973/). [Older updates](#updates)
+**February 5 Update:** We lowered our vaccine efficacy estimate from 90% to 85% to account for [new variants](https://www.bmj.com/content/372/bmj.n296) and a [lower efficacy](https://www.jnj.com/johnson-johnson-announces-single-shot-janssen-covid-19-vaccine-candidate-met-primary-endpoints-in-interim-analysis-of-its-phase-3-ensemble-trial) of the Johnson & Johnson vaccine. We also increased our US death toll estimate from 600,000 to 625,000 (±100,000) by the end of 2021. Due to vaccine hesitancy and the delayed arrival of a children vaccine, it is possible that we do not reach the levels required for herd immunity in 2021. Nevertheless, herd immunity does not have a hard threshold, and being close to herd immunity may be sufficient to prevent large outbreaks. We are actively working to incorporate the new variants into our modeling.[Older updates](#updates)
 {% include_relative vaccination-last-updated.md %}
 {% include iframe_vaccination.html %}
 *Note:* Our infections estimates include all new infected individuals of the SARS-CoV-2 virus, not just those that took a COVID-19 test and tested positive. As of January 2021, we estimate the true number of infected individuals in the US to be roughly 2-4x higher than the reported cases (25-50% detection rate). See our writeup, [Estimating True Infections](/estimating-true-infections-revisited), for a more detailed look into this subject.
@@ -60,7 +60,7 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 - [Jan 20 Update](https://twitter.com/youyanggu/status/1352008093652066304) - Jan 20
 - [Jan 27 Update](https://twitter.com/youyanggu/status/1354488024726290439) - Jan 27
 - [Feb 3 Update](https://twitter.com/youyanggu/status/1357045475526991873) - Feb 3
-- [Feb 10 Update](https://twitter.com/youyanggu/status/1357045475526991873) - Feb 10
+- [Feb 10 Update](https://twitter.com/youyanggu/status/1359599383105466369) - Feb 10
 
 [Back to Top](#top)
 
