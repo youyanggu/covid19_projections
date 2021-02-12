@@ -4,7 +4,7 @@ title: Path to Herd Immunity - COVID-19 Vaccine Projections
 permalink: /path-to-herd-immunity/
 ---
 
-# Path to Herd Immunity: 2021 Outlook of COVID-19 in the US
+# Path to ~~Herd Immuinty~~Normality : 2021 Outlook of COVID-19 in the US
 By: [Youyang Gu](https://youyanggu.com)
 <br>Last Updated: February 11, 2021 (*First posted December 9, 2020; CDC plots updated daily)*
 
