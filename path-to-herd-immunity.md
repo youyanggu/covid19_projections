@@ -10,9 +10,7 @@ By: [Youyang Gu](https://youyanggu.com)
 
 With the availability of the COVID-19 vaccine, we present our best estimate of the path to COVID-19 herd immunity in the United States. Herd immunity will be reached through immunity from two sources: vaccination and natural infection. On this page, we provide the latest COVID-19 vaccine projections and current vaccination progress.
 
-**February 11 Update:** Our modeling suggests that it is increasingly unlikely that we will reach theoretical herd immunity in 2021. See [our latest thoughts](https://twitter.com/youyanggu/status/1359941463757516802) on why the recent attention to herd immunity may be overblown, and why we should shift our focus away from this topic.
-
-**February 5 Update:** We lowered our vaccine efficacy estimate from 90% to 85% to account for [new variants](https://www.bmj.com/content/372/bmj.n296) and a [lower efficacy](https://www.jnj.com/johnson-johnson-announces-single-shot-janssen-covid-19-vaccine-candidate-met-primary-endpoints-in-interim-analysis-of-its-phase-3-ensemble-trial) of the Johnson & Johnson vaccine. We also increased our US death toll estimate from 600,000 to 625,000 (±100,000) by the end of 2021. Due to vaccine hesitancy and the later arrival of a children vaccine, it is possible that we do not reach the levels required for herd immunity in 2021. Nevertheless, herd immunity does not have a hard threshold, and being close to herd immunity may be sufficient to prevent large outbreaks. We are actively working to incorporate the new variants into our modeling.[Older updates](#updates)
+**February 11 Update:** Our modeling suggests that it is increasingly unlikely that we will reach theoretical herd immunity in 2021. See [our latest thoughts](https://twitter.com/youyanggu/status/1359941463757516802) on why the recent attention to herd immunity may be overblown, and why we should shift our focus away from this topic. [Older updates](#updates)
 {% include_relative vaccination-last-updated.md %}
 {% include iframe_vaccination.html %}
 *Note:* Our infections estimates include all new infected individuals of the SARS-CoV-2 virus, not just those that took a COVID-19 test and tested positive. As of January 2021, we estimate the true number of infected individuals in the US to be roughly 2-4x higher than the reported cases (25-50% detection rate). See our writeup, [Estimating True Infections](/estimating-true-infections-revisited), for a more detailed look into this subject.
@@ -45,6 +43,8 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 [Back to Top](#top)
 
 ## Relevant Twitter Threads
+### News / Findings / Thoughts
+
 - [Initial release](https://twitter.com/youyanggu/status/1337147909955964929) - Dec 10
 - [Potential ways to speed up herd immunity](https://twitter.com/youyanggu/status/1337506967095369728) - Dec 11
 - [Vaccine side effects](https://twitter.com/youyanggu/status/1338587017966284800) - Dec 14
@@ -169,6 +169,7 @@ You can reach Youyang Gu via the [Contact](/contact) page.
 
 ## Updates
 
+*February 5 Update:* We lowered our vaccine efficacy estimate from 90% to 85% to account for [new variants](https://www.bmj.com/content/372/bmj.n296) and a [lower efficacy](https://www.jnj.com/johnson-johnson-announces-single-shot-janssen-covid-19-vaccine-candidate-met-primary-endpoints-in-interim-analysis-of-its-phase-3-ensemble-trial) of the Johnson & Johnson vaccine. We also increased our US death toll estimate from 600,000 to 625,000 (±100,000) by the end of 2021. Due to vaccine hesitancy and the later arrival of a children vaccine, it is possible that we do not reach the levels required for herd immunity in 2021. Nevertheless, herd immunity does not have a hard threshold, and being close to herd immunity may be sufficient to prevent large outbreaks. We are actively working to incorporate the new variants into our modeling.
 * *January 28:* We are releasing raw and adjusted CDC vaccination time series data for download [on GitHub](https://github.com/youyanggu/covid19-cdc-vaccination-data). It contains every CDC vaccination update since they started releasing data on Dec 20, 2020. They will be updated daily. In addition, we separated our Path to Herd Immunity plot into three categories: immunity from vaccination only, immunity from vaccination & past infection, and immunity from past infection only. Previously, we assigned immunity to the one that was acquired first (either prior infection or vaccination).
 * *January 26:* We are factoring in rollout of the single-dose Johnson & Johnson vaccine starting in late February/early March. In the past week, over 1 million doses were administered per day. Given no unforeseen supply issue from Pfizer/Moderna, we now estimate that the general public can receive the vaccine by April, and over 60% of the US adult population will be fully vaccinated by June. We also estimate that over 200 million doses will be administered in the first 100 days of the new presidential administration, more than double the administratoin's original "100 million shots in 100 days" goal. Our timeline for a "return to normal" remains unchanged (June/July 2021).
 * *January 14:* We separated CDC data for vaccine doses into 1st and 2nd doses. As complete data is not available, we applied interpolation and heuristics to fill in any missing data.
