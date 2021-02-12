@@ -8,12 +8,12 @@ See the [Counties Summary](/infections/summary-counties) page for a searchable a
 
 *Note: Due to the inherent lag between infections and reporting of cases, our estimates of infections are as of 14 days ago.*
 
-*Last updated: February 11, 2021*
+*Last updated: February 12, 2021*
 
 |   FIPS Code |               County |   Population |   Confirmed Cases |   % Currently Infected |   % Total Infected |
 |-------------|----------------------|--------------|-------------------|------------------------|--------------------|
-|       15003 | [Honolulu](honolulu) |      974,563 |            21,609 |                    0.2 |                6.2 |
-|       15001 |     [Hawaii](hawaii) |      201,513 |             2,231 |                    0.1 |                3.0 |
-|       15009 |         [Maui](maui) |      167,417 |             2,486 |                    0.5 |                3.9 |
+|       15003 | [Honolulu](honolulu) |      974,563 |            21,670 |                    0.2 |                6.2 |
+|       15001 |     [Hawaii](hawaii) |      201,513 |             2,234 |                    0.1 |                3.0 |
+|       15009 |         [Maui](maui) |      167,417 |             2,506 |                    0.5 |                3.9 |
 |       15007 |       [Kauai](kauai) |       72,293 |               181 |                    0.0 |                0.8 |
 |       15005 |   [Kalawao](kalawao) |           86 |                 0 |                    0.0 |                0.0 |
