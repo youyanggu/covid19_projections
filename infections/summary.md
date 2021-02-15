@@ -1,17 +1,17 @@
-### Last Updated: Sunday, February 14, 2021 (1am ET)
+### Last Updated: Monday, February 15, 2021 (1am ET)
 <p align="center">
-Newly Vaccinated (as of Feb 13): <b>973,000 / day</b>
-(499 / 100k)<br>
-Total Vaccinated (as of Feb 13): <b>11.3%</b>
-(1 in 9 | 37.4 million)<br>
+Newly Vaccinated (as of Feb 14): <b>959,000 / day</b>
+(502 / 100k)<br>
+Total Vaccinated (as of Feb 14): <b>11.7%</b>
+(1 in 9 | 38.7 million)<br>
 <br>
-Newly Infected (as of Jan 30): <b>262,000 / day</b> 
+Newly Infected (as of Jan 31): <b>252,000 / day</b> 
 (80 / 100k)<br>
-Currently Infected (as of Jan 30): <b>1 in 70</b>
-(1.5% | 5.0 million)<br>
-Total Infected (as of Jan 30): <b>27.4%</b>
-(1 in 4 | 91.0 million)<br>
+Currently Infected (as of Jan 31): <b>1 in 70</b>
+(1.4% | 4.8 million)<br>
+Total Infected (as of Jan 31): <b>27.5%</b>
+(1 in 4 | 91.3 million)<br>
 <br>
-Rt (as of Jan 30): <b>0.84</b><br>
-Adjusted Positivity Rate (as of Feb 13): <b>5.7%</b><br>
-Infection-to-Case Ratio (as of Feb 13): <b>2.8</b> (36% detection rate)</p>
+Rt (as of Jan 31): <b>0.84</b><br>
+Adjusted Positivity Rate (as of Feb 14): <b>5.5%</b><br>
+Infection-to-Case Ratio (as of Feb 14): <b>2.8</b> (36% detection rate)</p>
