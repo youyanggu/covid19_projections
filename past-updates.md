@@ -11,6 +11,7 @@ Here you will find some of our past updates.
 * *January 7:* See our [new thread](https://twitter.com/youyanggu/status/1347266544946929665) for an analysis of existing COVID-19 population immunity and its correlation with the severity of this current wave. 
 * *January 5:* We made a major update to our [Path to Herd Immunity](/path-to-herd-immunity) page, incorporating the latest vaccination data from the CDC and preliminary information on the new COVID-19 strain.
 * *December 29:* See why our total infected estimates [differ from the CDC](https://twitter.com/youyanggu/status/1344002411556339712).
+* *December 16:* See our analysis of the effectiveness of the [Kansas mask mandate](https://twitter.com/youyanggu/status/1339306972189843456).
 * *December 14:* I've self-funded this project over the past 9 months. [Donate](/donate) to help me keep *covid19-projections.com* running.
 * *December 9:* See our latest writeup, [Path to Herd Immunity: 2021 Outlook of COVID-19 in the US](/path-to-herd-immunity), which models how the COVID-19 vaccine can help the US achieve herd immunity.
 * *November 25:* We have released a writeup of our methodology: [Estimating True Infections Revisited: A Simple Nowcasting Model to Estimate Prevalent Cases in the US](/estimating-true-infections-revisited).
