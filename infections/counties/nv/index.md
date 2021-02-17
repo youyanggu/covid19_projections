@@ -8,24 +8,24 @@ See the [Counties Summary](/infections/summary-counties) page for a searchable a
 
 *Note: Due to the inherent lag between infections and reporting of cases, our estimates of infections are as of 14 days ago.*
 
-*Last updated: February 16, 2021*
+*Last updated: February 17, 2021*
 
 |   FIPS Code |                     County |   Population |   Confirmed Cases |   % Currently Infected |   % Total Infected |
 |-------------|----------------------------|--------------|-------------------|------------------------|--------------------|
-|       32003 |             [Clark](clark) |    2,266,715 |           222,670 |                    1.2 |               33.2 |
-|       32031 |           [Washoe](washoe) |      471,519 |            42,360 |                    0.8 |               30.0 |
+|       32003 |             [Clark](clark) |    2,266,715 |           222,916 |                    1.2 |               33.2 |
+|       32031 |           [Washoe](washoe) |      471,519 |            42,384 |                    0.8 |               30.0 |
 |       32019 |               [Lyon](lyon) |       57,510 |             2,689 |                    0.5 |               15.3 |
-|       32510 | [Carson City](carson-city) |       55,916 |             5,805 |                    0.6 |               34.0 |
-|       32007 |               [Elko](elko) |       52,778 |             4,433 |                    0.9 |               27.7 |
+|       32510 | [Carson City](carson-city) |       55,916 |             5,805 |                    0.5 |               34.0 |
+|       32007 |               [Elko](elko) |       52,778 |             4,444 |                    0.9 |               27.7 |
 |       32005 |         [Douglas](douglas) |       48,905 |             2,459 |                    0.5 |               16.5 |
-|       32023 |                 [Nye](nye) |       46,523 |             2,724 |                    1.0 |               19.3 |
-|       32001 |     [Churchill](churchill) |       24,909 |             1,867 |                    0.6 |               24.0 |
-|       32013 |       [Humboldt](humboldt) |       16,831 |             1,040 |                    0.8 |               20.8 |
+|       32023 |                 [Nye](nye) |       46,523 |             2,728 |                    0.9 |               19.3 |
+|       32001 |     [Churchill](churchill) |       24,909 |             1,872 |                    0.6 |               24.0 |
+|       32013 |       [Humboldt](humboldt) |       16,831 |             1,040 |                    0.7 |               20.8 |
 |       32033 |   [White Pine](white-pine) |        9,580 |               520 |                    1.9 |               18.4 |
-|       32027 |       [Pershing](pershing) |        6,725 |               932 |                    2.1 |               44.3 |
+|       32027 |       [Pershing](pershing) |        6,725 |               932 |                    1.9 |               44.4 |
 |       32015 |           [Lander](lander) |        5,532 |               441 |                    0.4 |               26.5 |
 |       32017 |         [Lincoln](lincoln) |        5,183 |               346 |                    0.2 |               21.5 |
-|       32021 |         [Mineral](mineral) |        4,505 |               291 |                    2.8 |               20.7 |
+|       32021 |         [Mineral](mineral) |        4,505 |               291 |                    2.6 |               20.7 |
 |       32029 |           [Storey](storey) |        4,123 |                75 |                    0.3 |                5.9 |
-|       32011 |           [Eureka](eureka) |        2,029 |                50 |                    0.6 |                7.8 |
+|       32011 |           [Eureka](eureka) |        2,029 |                50 |                    0.7 |                7.9 |
 |       32009 |     [Esmeralda](esmeralda) |          873 |                37 |                    0.3 |               14.1 |
