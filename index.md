@@ -14,6 +14,7 @@ Jump to section:
 
 For regular updates and insights, follow Youyang Gu on Twitter:&nbsp; <a href="https://twitter.com/youyanggu" class="twitter-follow-button" data-show-count="false">@youyanggu</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+* **February 18:** See our thoughts on the B.1.1.7 variant [here](https://twitter.com/youyanggu/status/1362476060907077636).
 * **February 17:** Is political leaning a better predictor of the severity of the fall 2020 wave than existing immunity and levels of intervention? See our latest findings [here](https://twitter.com/youyanggu/status/1362109356481933312).
 * *February 11:* See [our latest thoughts](https://twitter.com/youyanggu/status/1359941463757516802) on why the recent attention on herd immunity may be overblown, and why we should shift our focus away from this topic. [Our modeling](/path-to-herd-immunity) suggests that it is increasingly unlikely that we will reach theoretical herd immunity in 2021.
 * *January 28:* We are releasing raw and adjusted CDC vaccination time series data for download [on GitHub](https://github.com/youyanggu/covid19-cdc-vaccination-data). It contains every CDC vaccination update since they started releasing data on Dec 20, 2020.
