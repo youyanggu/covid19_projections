@@ -2,7 +2,7 @@
 layout: default
 permalink: /
 ---
-We present a new, simple nowcasting model that estimates true infections in the US. We have estimates for all US states and all 3,000+ US counties. For our projections over the next months, check our [Path to Normality](/path-to-herd-immunity) page.
+We present a new, simple nowcasting model that estimates true infections in the US. We have estimates for all US states and all 3,000+ US counties. For our projections for the upcoming months, see our [**Path to Normality**](/path-to-herd-immunity) page.
 {% include iframe_home_first_map.html %}For more maps, including county-level views, visit the [Maps](/maps-infections) page.
 
 Jump to section:
