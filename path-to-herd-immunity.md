@@ -6,7 +6,7 @@ permalink: /path-to-herd-immunity/
 
 # Path to ~~Herd Immunity~~ Normality : 2021 Outlook of COVID-19 in the US
 By: [Youyang Gu](https://youyanggu.com)
-<br>Last Updated: February 18, 2021 (*First posted December 9, 2020; CDC plots updated daily)*
+<br>Last Updated: February 21, 2021 (*First posted December 9, 2020; CDC plots updated daily)*
 
 With the availability of the COVID-19 vaccine, we present our best estimate of the path to COVID-19 herd immunity / normality in the United States. Immunity against the SARS-CoV-2 virus comes from two sources: vaccination and natural infection. On this page, we provide the latest COVID-19 vaccine projections and current vaccination progress.
 
@@ -39,7 +39,7 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 - Deaths may drop to low levels even earlier (May-Jul 2021), in part due to a vaccine distribution strategy that initially prioritizes high-risk individuals. Once deaths fall to minimal levels, we may see a relaxation of restrictions.
 - Summarizing the above findings, our best estimate of a "return to normal" in the US is mid-summer 2021 (June/July 2021).
 - We estimate roughly 60-75% of the US population (~225 million) will receive at least one dose of the vaccine by the end of 2021, with children being the last group to receive it (starting in summer 2021 or later).
-- We estimate around 30-40% of the US population (~115 million) will have been infected by the SARS-CoV-2 virus by the end of 2021. That is an additional ~50 million infections since mid-December 2020.
+- We estimate around 30-35% of the US population (100-120 million) will have been infected by the SARS-CoV-2 virus by the end of 2021. That is an additional ~50 million infections since mid-December 2020.
 - This translates to a final US COVID-19 death toll of roughly 625,000 (±100,000) reported deaths by end of 2021, or ~325,000 additional deaths since mid-December 2020.
 
 [Back to Top](#top)
@@ -55,6 +55,8 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 - [CDC Data Error](https://twitter.com/youyanggu/status/1349817775909269505) - Jan 14
 - [State-by-state vaccination progress](https://twitter.com/youyanggu/status/1352720306108919809) - Jan 22
 - [Over-emphasis on herd immunity](https://twitter.com/youyanggu/status/1359941463757516802) - Feb 11
+- [Misconceptions around variants](https://twitter.com/youyanggu/status/1362476060907077636) - Feb 18
+- [CDC Methodology Change](https://twitter.com/youyanggu/status/1363618681142575105) - Feb 21
 
 ### Weekly Updates
 
@@ -141,8 +143,8 @@ The underlying assumptions behind our estimates are presented below:
 
 ## Corollaries
 
-- Our estimates show that roughly 30-40% of the US population (~115 million) will have been infected by the SARS-CoV-2 virus by the end of 2021. That is an additional ~50 million infections since mid-December 2020.
-- A 30-40% prevalence estimate translates to a final US COVID-19 death toll of roughly 525,000 to 725,000 reported deaths by end of 2021, with 625,000 deaths being the best estimate. Given a mid-December 2020 death toll of 300,000, that is an additional ~325,000 deaths. While reported deaths are useful, [excess deaths](https://www.cdc.gov/nchs/nvss/vsrr/covid19/excess_deaths.htm) may be a better metric for the true death toll.
+- Our estimates show that roughly 30-35% of the US population (100-120 million) will have been infected by the SARS-CoV-2 virus by the end of 2021. That is an additional ~50 million infections since mid-December 2020.
+- A 30-35% prevalence estimate translates to a final US COVID-19 death toll of roughly 525,000 to 725,000 reported deaths by end of 2021, with 625,000 deaths being the best estimate. Given a mid-December 2020 death toll of 300,000, that is an additional ~325,000 deaths. While reported deaths are useful, [excess deaths](https://www.cdc.gov/nchs/nvss/vsrr/covid19/excess_deaths.htm) may be a better metric for the true death toll.
 - Due to the high prevalence, a targeted approach for vaccination that prioritizes individuals who are more likely to be susceptible may improve the time to reach herd immunity.
 - Due to possible low vaccine acceptance/uptake and waning immunity from natural infection, it is possible that the US will not reach immunity levels above 70%. In most scenarios, even 50-70% immunity could be sufficient to prevent large outbreaks.
 - Due to the seasonality of the virus, the herd immunity threshold may be higher in the winter. Furthermore, herd immunity can be lost due to waning immunity. Therefore, it is important that we continue to vaccinate individuals even after herd immunity has been reached.
