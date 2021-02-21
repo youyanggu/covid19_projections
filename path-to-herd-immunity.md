@@ -10,6 +10,8 @@ By: [Youyang Gu](https://youyanggu.com)
 
 With the availability of the COVID-19 vaccine, we present our best estimate of the path to COVID-19 herd immunity / normality in the United States. Immunity against the SARS-CoV-2 virus comes from two sources: vaccination and natural infection. On this page, we provide the latest COVID-19 vaccine projections and current vaccination progress.
 
+**February 21 Update:** There appears to be a methodology change for how the CDC reports vaccinations. It is still unclear what the exact changes are, but here is [Youyang's Tweet](https://twitter.com/youyanggu/status/1363618681142575105) with some clarifications.
+
 **February 11 Update:** We changed the page title from "Path to Herd Immunity" to "Path to Normality". Our modeling suggests that it is increasingly unlikely that we will reach theoretical herd immunity in 2021. See [our latest thoughts](https://twitter.com/youyanggu/status/1359941463757516802) on why the recent attention to herd immunity is overblown, and why we should shift our focus away towards normality instead. [Older updates](#updates)
 {% include_relative vaccination-last-updated.md %}
 {% include iframe_vaccination.html %}
