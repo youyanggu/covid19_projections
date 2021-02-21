@@ -8,24 +8,24 @@ See the [Counties Summary](/infections/summary-counties) page for a searchable a
 
 *Note: Due to the inherent lag between infections and reporting of cases, our estimates of infections are as of 14 days ago.*
 
-*Last updated: February 20, 2021*
+*Last updated: February 21, 2021*
 
 |   FIPS Code |                     County |   Population |   Confirmed Cases |   % Currently Infected |   % Total Infected |
 |-------------|----------------------------|--------------|-------------------|------------------------|--------------------|
-|       32003 |             [Clark](clark) |    2,266,715 |           223,960 |                    1.0 |               33.4 |
-|       32031 |           [Washoe](washoe) |      471,519 |            42,480 |                    0.6 |               30.1 |
-|       32019 |               [Lyon](lyon) |       57,510 |             2,702 |                    0.4 |               15.3 |
-|       32510 | [Carson City](carson-city) |       55,916 |             5,821 |                    0.5 |               34.1 |
-|       32007 |               [Elko](elko) |       52,778 |             4,479 |                    0.9 |               27.9 |
-|       32005 |         [Douglas](douglas) |       48,905 |             2,471 |                    0.4 |               16.6 |
-|       32023 |                 [Nye](nye) |       46,523 |             2,752 |                    0.7 |               19.4 |
-|       32001 |     [Churchill](churchill) |       24,909 |             1,878 |                    0.5 |               24.1 |
+|       32003 |             [Clark](clark) |    2,266,715 |           224,227 |                    1.0 |               33.4 |
+|       32031 |           [Washoe](washoe) |      471,519 |            42,537 |                    0.6 |               30.1 |
+|       32019 |               [Lyon](lyon) |       57,510 |             2,705 |                    0.4 |               15.4 |
+|       32510 | [Carson City](carson-city) |       55,916 |             5,829 |                    0.5 |               34.1 |
+|       32007 |               [Elko](elko) |       52,778 |             4,488 |                    0.8 |               27.9 |
+|       32005 |         [Douglas](douglas) |       48,905 |             2,475 |                    0.4 |               16.6 |
+|       32023 |                 [Nye](nye) |       46,523 |             2,761 |                    0.7 |               19.5 |
+|       32001 |     [Churchill](churchill) |       24,909 |             1,878 |                    0.4 |               24.2 |
 |       32013 |       [Humboldt](humboldt) |       16,831 |             1,046 |                    0.5 |               20.9 |
-|       32033 |   [White Pine](white-pine) |        9,580 |               535 |                    1.7 |               18.6 |
-|       32027 |       [Pershing](pershing) |        6,725 |               934 |                    1.4 |               44.5 |
+|       32033 |   [White Pine](white-pine) |        9,580 |               544 |                    1.6 |               18.7 |
+|       32027 |       [Pershing](pershing) |        6,725 |               934 |                    1.2 |               44.5 |
 |       32015 |           [Lander](lander) |        5,532 |               441 |                    0.3 |               26.5 |
 |       32017 |         [Lincoln](lincoln) |        5,183 |               346 |                    0.1 |               21.5 |
-|       32021 |         [Mineral](mineral) |        4,505 |               291 |                    1.8 |               20.8 |
+|       32021 |         [Mineral](mineral) |        4,505 |               296 |                    1.6 |               20.9 |
 |       32029 |           [Storey](storey) |        4,123 |                77 |                    0.3 |                6.0 |
-|       32011 |           [Eureka](eureka) |        2,029 |                50 |                    0.7 |                8.0 |
-|       32009 |     [Esmeralda](esmeralda) |          873 |                37 |                    0.3 |               14.1 |
+|       32011 |           [Eureka](eureka) |        2,029 |                50 |                    0.6 |                8.0 |
+|       32009 |     [Esmeralda](esmeralda) |          873 |                37 |                    0.2 |               14.1 |
