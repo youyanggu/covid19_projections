@@ -37,9 +37,7 @@ Our infections estimates include all infected individuals of the SARS-CoV-2 viru
 
 ## View US Infections Estimates
 
-*New January 12*: We also include actual CDC vaccination progress data alongside our infection estimates for each state.
-
-Below, we have infection estimates for the US, all 50 states, DC, and 4 US territories. For county-level estimates, see the next section.
+Below, we have infection and vaccination estimates for the US, all 50 states, DC, and 4 US territories. For county-level estimates, see the next section.
 
 | [United States](/infections/us) |  |  |
 | --- | --- | --- |
@@ -67,9 +65,7 @@ Below, we have infection estimates for the US, all 50 states, DC, and 4 US terri
 
 ## US Counties Infections Estimates
 
-*New January 20*: Our new [county-level summary](/infections/summary-counties) page is now searchable, allowing for fast lookup of specific counties.
-
-We have infections estimates for all 3,000+ US counties (and county equivalents). Click on a state to view the counties in that state. You can then select the county to view detailed infection estimates.
+We have infections estimates for all 3,000+ US counties (and county equivalents). Click on a state to view the counties in that state. You can then select the county to view detailed infection estimates. Or you can use our county-level [summary page](/infections/summary-counties) for fast lookup of specific counties.
 
 | US Counties ([Summary](/infections/summary-counties)) |  |  |
 | --- | --- | --- |
