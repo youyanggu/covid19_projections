@@ -8,8 +8,8 @@ See the [Counties Summary](/infections/summary-counties) page for a searchable a
 
 *Note: Due to the inherent lag between infections and reporting of cases, our estimates of infections are as of 14 days ago.*
 
-*Last updated: February 21, 2021*
+*Last updated: February 22, 2021*
 
 |   FIPS Code |                                       County |   Population |   Confirmed Cases |   % Currently Infected |   % Total Infected |
 |-------------|----------------------------------------------|--------------|-------------------|------------------------|--------------------|
-|       11001 | [District of Columbia](district-of-columbia) |      705,749 |            39,553 |                    0.7 |               19.8 |
+|       11001 | [District of Columbia](district-of-columbia) |      705,749 |            39,648 |                    0.7 |               19.8 |
