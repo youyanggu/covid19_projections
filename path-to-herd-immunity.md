@@ -6,11 +6,11 @@ permalink: /path-to-herd-immunity/
 
 # Path to ~~Herd Immunity~~ Normality : 2021 Outlook of COVID-19 in the US
 By: [Youyang Gu](https://youyanggu.com)
-<br>Last Updated: February 21, 2021 (*First posted December 9, 2020; CDC plots updated daily)*
+<br>Last Updated: February 23, 2021 (*First posted December 9, 2020; CDC plots updated daily)*
 
 With the availability of the COVID-19 vaccine, we present our best estimate of the path to COVID-19 herd immunity / normality in the United States. Immunity against the SARS-CoV-2 virus comes from two sources: vaccination and natural infection. On this page, we provide the latest COVID-19 vaccine projections and current vaccination progress.
 
-**February 21 Update:** There appears to be a methodology change for how the CDC reports vaccinations. It is still unclear what the exact changes are, but here is [Youyang's Tweet](https://twitter.com/youyanggu/status/1363618681142575105) with some clarifications.
+**February 21 Update:** There appears to be a methodology change for how the CDC reports vaccinations. Some clarifications [via Bloomberg](https://www.bloomberg.com/news/live-blog/2021-01-21/methodology-and-analysis-for-the-covid-19-vaccine-tracker#60319089B2240006).
 
 **February 11 Update:** We changed the page title from "Path to Herd Immunity" to "Path to Normality". Our modeling suggests that it is increasingly unlikely that we will reach theoretical herd immunity in 2021. See [our latest thoughts](https://twitter.com/youyanggu/status/1359941463757516802) on why the recent attention to herd immunity is overblown, and why we should shift our focus away towards normality instead. [Older updates](#updates)
 {% include_relative vaccination-last-updated.md %}
@@ -32,13 +32,14 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 [Back to Top](#top)
 
 ## Summary
+- Every adult who wants to get a vaccine will be able to get a vaccine by summer 2021 (May-June 2021).
 - The US will be near COVID-19 herd immunity by summer 2021 (Jun-Aug 2021). At a high level, [herd immunity](https://jamanetwork.com/journals/jama/fullarticle/2772168) is a concept in which a population can be protected from a virus if enough people possess immunity. Current accepted estimates for the herd immunity threshold range from [60-90%](https://www.nytimes.com/2020/12/24/health/herd-immunity-covid-coronavirus.html) of the population.
 - Due to vaccine hesitancy and the later arrival of a children's vaccine, it is possible that we do not reach the levels required for herd immunity in 2021. Nevertheless, herd immunity is not a hard threshold, and being close to herd immunity may be sufficient to prevent large outbreaks.
 - At the time herd immunity is near, roughly half of the immunity will be achieved through natural infection, and the other half will be achieved through vaccination.
 - New infections may become minimal before herd immunity is reached. But due to imported cases and localized clusters, it is unlikely that new infections will drop to zero until at least 2022.
 - Deaths may drop to low levels even earlier (May-Jul 2021), in part due to a vaccine distribution strategy that initially prioritizes high-risk individuals. Once deaths fall to minimal levels, we may see a relaxation of restrictions.
 - Summarizing the above findings, our best estimate of a "return to normal" in the US is mid-summer 2021 (June/July 2021).
-- We estimate roughly 60-75% of the US population (~225 million) will receive at least one dose of the vaccine by the end of 2021, with children being the last group to receive it (starting in summer 2021 or later).
+- We estimate roughly 60-70% of the US population (~220 million) will receive at least one dose of the vaccine by the end of 2021, with children being the last group to receive it (starting in summer 2021 or later).
 - We estimate around 30-35% of the US population (100-120 million) will have been infected by the SARS-CoV-2 virus by the end of 2021. That is an additional ~50 million infections since mid-December 2020.
 - This translates to a final US COVID-19 death toll of roughly 600,000 (±100,000) reported deaths by end of 2021, or ~300,000 additional deaths since mid-December 2020.
 
@@ -112,9 +113,9 @@ The underlying assumptions behind our estimates are presented below:
 - We count an individual as vaccinated after they receive the first dose. We assume it takes three weeks after the first dose for an individual to gain immunity.
 - We currently only model the rollout of two vaccines: Pfizer and Moderna. We are also factoring in the rollout of the single-dose Johnson & Johnson vaccine starting in late February/early March. More vaccines may be approved in 2021 (e.g. AstraZeneca), but the exact timelines are still unclear. We will incorporate additional vaccines as more data becomes available.
 - We assume a proportion of the vaccinated population already possesses immunity via infection. For simplicity, we assume individuals who already possess immunity from natural infection will get vaccinated at the same rate as susceptible individuals.
-- We assume roughly 60-75% of the US population (~225 million) will take at least one dose of the vaccine by the end of 2021. This is higher than the ~50% vaccine coverage for the common flu. While this is a higher proportion than [current surveys](https://delphi.cmu.edu/covidcast/survey-results/) imply, the overall trend of vaccine acceptance may trend upwards over time.
+- We assume roughly 60-70% of the US population (~220 million) will take at least one dose of the vaccine by the end of 2021. This is higher than the ~50% vaccine coverage for the common flu. While this is a higher proportion than [current surveys](https://delphi.cmu.edu/covidcast/survey-results/) imply, the overall trend of vaccine acceptance may trend upwards over time.
 - We assume the majority of individuals (but not all) will receive the second dose.
-- We assume the general population will begin receiving vaccinations in late spring/early summer (Apr-Jun 2021).
+- We assume the general population will begin receiving vaccinations in late spring (Apr-May 2021).
 - We assume children will begin receiving vaccinations in summer or fall 2021. It is possible that a vaccine for the youngest age group (ages 0-5) will not be available in 2021.
 - We assume a 85% vaccine efficacy (changed from 90% on Feb 4, 2021 and 85% on Jan 21, 2021). Hence, if 100 individuals are vaccinated, we assume 85 will develop immunity and 15 will not. While the trial data for Pfizer and Moderna demonstrate ~95% efficacy, we believe that the efficacy in the general population will be slightly lower, mainly due to the fact that a non-insignificant proportion of the population may miss the second vaccine dose. We are also workign to better incorporate the efficacy of the J&J vaccine, pending more data.
 - We assume the vaccine is effective on the new B.1.17 SARS-CoV-2 variant (preliminary research [here](https://www.biorxiv.org/content/10.1101/2021.01.18.426984v1) and [here](https://www.biorxiv.org/content/10.1101/2021.01.15.426911v1)).
