@@ -38,7 +38,7 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 - At the time herd immunity is near, roughly half of the immunity will be achieved through natural infection, and the other half will be achieved through vaccination.
 - New infections may become minimal before herd immunity is reached. But due to imported cases and localized clusters, it is unlikely that new infections will drop to zero until at least 2022.
 - Deaths may drop to low levels even earlier (May-Jul 2021), in part due to a vaccine distribution strategy that initially prioritizes high-risk individuals. Once deaths fall to minimal levels, we may see a relaxation of restrictions.
-- Summarizing the above findings, our best estimate of a "return to normal" in the US is mid-summer 2021 (June/July 2021).
+- Summarizing the above findings, our best estimate of a "return to normal" in the US is mid-summer 2021 (June/July 2021). We define this as the removal of all restrictions for the majority of US states.
 - We estimate roughly 60-70% of the US population (~220 million) will receive at least one dose of the vaccine by the end of 2021, with children being the last group to receive it (starting in summer 2021 or later).
 - We estimate around 30-35% of the US population (100-120 million) will have been infected by the SARS-CoV-2 virus by the end of 2021. That is an additional ~50 million infections since mid-December 2020.
 - This translates to a final US COVID-19 death toll of roughly 600,000 (±100,000) reported deaths by end of 2021, or ~300,000 additional deaths since mid-December 2020.
