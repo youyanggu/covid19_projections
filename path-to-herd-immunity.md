@@ -69,6 +69,7 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 - [Feb 3 Update](https://twitter.com/youyanggu/status/1357045475526991873) - Feb 3
 - [Feb 10 Update](https://twitter.com/youyanggu/status/1359599383105466369) - Feb 10
 - [Feb 16 Update](https://twitter.com/youyanggu/status/1361847534562467841) - Feb 16
+- [Feb 25 Update](https://twitter.com/youyanggu/status/1365005143813537797) - Feb 25
 
 [Back to Top](#top)
 
