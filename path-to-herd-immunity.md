@@ -6,13 +6,13 @@ permalink: /path-to-herd-immunity/
 
 # Path to ~~Herd Immunity~~ Normality : 2021 Outlook of COVID-19 in the US
 By: [Youyang Gu](https://youyanggu.com)
-<br>Last Updated: February 23, 2021 (*First posted December 9, 2020; CDC plots updated daily)*
+<br>Last Updated: February 24, 2021 (*First posted December 9, 2020; CDC plots updated daily)*
 
 With the availability of the COVID-19 vaccine, we present our best estimate of the path to COVID-19 herd immunity / normality in the United States. Immunity against the SARS-CoV-2 virus comes from two sources: vaccination and natural infection. On this page, we provide the latest COVID-19 vaccine projections and current vaccination progress.
 
-**February 21 Update:** There appears to be a methodology change for how the CDC reports vaccinations. Some clarifications [via Bloomberg](https://www.bloomberg.com/news/live-blog/2021-01-21/methodology-and-analysis-for-the-covid-19-vaccine-tracker#60319089B2240006).
+**February 24 Update:** See our [latest thoughts](https://twitter.com/youyanggu/status/1364274753851305984) on when to expect a return to normal.
 
-**February 11 Update:** We changed the page title from "Path to Herd Immunity" to "Path to Normality". Our modeling suggests that it is increasingly unlikely that we will reach theoretical herd immunity in 2021. See [our latest thoughts](https://twitter.com/youyanggu/status/1359941463757516802) on why the recent attention to herd immunity is overblown, and why we should shift our focus away towards normality instead. [Older updates](#updates)
+**February 21 Update:** There appears to be a methodology change for how the CDC reports vaccinations. Some clarifications [via Bloomberg](https://www.bloomberg.com/news/live-blog/2021-01-21/methodology-and-analysis-for-the-covid-19-vaccine-tracker#60319089B2240006). [Older updates](#updates)
 {% include_relative vaccination-last-updated.md %}
 {% include iframe_vaccination.html %}
 *Note:* Our infections estimates include all new infected individuals of the SARS-CoV-2 virus, not just those that took a COVID-19 test and tested positive. As of January 2021, we estimate the true number of infected individuals in the US to be roughly 2-4x higher than the reported cases (25-50% detection rate). See our writeup, [Estimating True Infections](/estimating-true-infections-revisited), for a more detailed look into this subject.
@@ -53,11 +53,13 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 - [Vaccine side effects](https://twitter.com/youyanggu/status/1338587017966284800) - Dec 14
 - [Vaccine misinformation](https://twitter.com/youyanggu/status/1338952594492813312) - Dec 15
 - [Vaccination rollout](https://twitter.com/youyanggu/status/1343675401436971008) - Dec 28
-- [CDC Data Error](https://twitter.com/youyanggu/status/1349817775909269505) - Jan 14
+- [CDC data error](https://twitter.com/youyanggu/status/1349817775909269505) - Jan 14
 - [State-by-state vaccination progress](https://twitter.com/youyanggu/status/1352720306108919809) - Jan 22
 - [Over-emphasis on herd immunity](https://twitter.com/youyanggu/status/1359941463757516802) - Feb 11
 - [Misconceptions around variants](https://twitter.com/youyanggu/status/1362476060907077636) - Feb 18
-- [CDC Methodology Change](https://twitter.com/youyanggu/status/1363618681142575105) - Feb 21
+- [CDC methodology change](https://twitter.com/youyanggu/status/1363618681142575105) - Feb 21
+- [NYT model unrealistic assumptions](https://twitter.com/youyanggu/status/1364274753851305984) - Feb 23
+- [Return to normal by summer?](https://twitter.com/youyanggu/status/1364627872233750543) - Feb 24
 
 ### Weekly Updates
 
@@ -175,7 +177,8 @@ You can reach Youyang Gu via the [Contact](/contact) page.
 
 ## Updates
 
-* *February 5 Update:* We lowered our vaccine efficacy estimate from 90% to 85% to account for [new variants](https://www.bmj.com/content/372/bmj.n296) and a [lower efficacy](https://www.jnj.com/johnson-johnson-announces-single-shot-janssen-covid-19-vaccine-candidate-met-primary-endpoints-in-interim-analysis-of-its-phase-3-ensemble-trial) of the Johnson & Johnson vaccine. Due to vaccine hesitancy and the later arrival of a children vaccine, it is possible that we do not reach the levels required for herd immunity in 2021. Nevertheless, herd immunity does not have a hard threshold, and being close to herd immunity may be sufficient to prevent large outbreaks. We are actively working to incorporate the new variants into our modeling.
+* *February 11:* We changed the page title from "Path to Herd Immunity" to "Path to Normality". Our modeling suggests that it is increasingly unlikely that we will reach theoretical herd immunity in 2021. See [our latest thoughts](https://twitter.com/youyanggu/status/1359941463757516802) on why the recent attention to herd immunity is overblown, and why we should shift our focus away towards normality instead.
+* *February 5:* We lowered our vaccine efficacy estimate from 90% to 85% to account for [new variants](https://www.bmj.com/content/372/bmj.n296) and a [lower efficacy](https://www.jnj.com/johnson-johnson-announces-single-shot-janssen-covid-19-vaccine-candidate-met-primary-endpoints-in-interim-analysis-of-its-phase-3-ensemble-trial) of the Johnson & Johnson vaccine. Due to vaccine hesitancy and the later arrival of a children vaccine, it is possible that we do not reach the levels required for herd immunity in 2021. Nevertheless, herd immunity does not have a hard threshold, and being close to herd immunity may be sufficient to prevent large outbreaks. We are actively working to incorporate the new variants into our modeling.
 * *January 28:* We are releasing raw and adjusted CDC vaccination time series data for download [on GitHub](https://github.com/youyanggu/covid19-cdc-vaccination-data). It contains every CDC vaccination update since they started releasing data on Dec 20, 2020. They will be updated daily. In addition, we separated our Path to Herd Immunity plot into three categories: immunity from vaccination only, immunity from vaccination & past infection, and immunity from past infection only. Previously, we assigned immunity to the one that was acquired first (either prior infection or vaccination).
 * *January 26:* We are factoring in rollout of the single-dose Johnson & Johnson vaccine starting in late February/early March. In the past week, over 1 million doses were administered per day. Given no unforeseen supply issue from Pfizer/Moderna, we now estimate that the general public can receive the vaccine by April, and over 60% of the US adult population will be fully vaccinated by June. We also estimate that over 200 million doses will be administered in the first 100 days of the new presidential administration, more than double the administratoin's original "100 million shots in 100 days" goal. Our timeline for a "return to normal" remains unchanged (June-August 2021).
 * *January 14:* We separated CDC data for vaccine doses into 1st and 2nd doses. As complete data is not available, we applied interpolation and heuristics to fill in any missing data.
