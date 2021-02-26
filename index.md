@@ -14,6 +14,7 @@ Jump to section:
 
 For regular updates and insights, follow Youyang Gu on Twitter:&nbsp; <a href="https://twitter.com/youyanggu" class="twitter-follow-button" data-show-count="false">@youyanggu</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+* **February 26:** **Major Announcement** - After almost a year since *covid19-projections.com* was launched, we will be making the last daily update on Sunday, March 7. See Youyang's blog post [here](https://youyanggu.com/blog/one-year-later).
 * **February 24:** See our [latest thoughts](https://twitter.com/youyanggu/status/1364274753851305984) on why we expect a return to normal by summer.
 * **February 22:** See our latest analysis on the [impact of in-person university instruction](https://twitter.com/youyanggu/status/1363920593192681476) on community transmission.
 * *February 18:* See our thoughts on the UK B.1.1.7 variant [here](https://twitter.com/youyanggu/status/1362476060907077636).
