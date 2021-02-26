@@ -6,13 +6,13 @@ permalink: /path-to-herd-immunity/
 
 # Path to ~~Herd Immunity~~ Normality : 2021 Outlook of COVID-19 in the US
 By: [Youyang Gu](https://youyanggu.com)
-<br>Last Updated: February 25, 2021 (*First posted December 9, 2020; CDC plots updated daily)*
+<br>Last Updated: February 26, 2021 (*First posted December 9, 2020; CDC plots updated daily)*
 
 With the availability of the COVID-19 vaccine, we present our best estimate of the path to COVID-19 herd immunity / normality in the United States. Immunity against the SARS-CoV-2 virus comes from two sources: vaccination and natural infection. On this page, we provide the latest COVID-19 vaccine projections and current vaccination progress.
 
-**February 24 Update:** See our [latest thoughts](https://twitter.com/youyanggu/status/1364274753851305984) on when to expect a return to normal.
+**February 26 Major Announcement:** After almost a year since *covid19-projections.com* was launched, we will be making the last daily update on Sunday, March 7. See Youyang’s blog post [here](https://youyanggu.com/blog/one-year-later).
 
-**February 21 Update:** There appears to be a methodology change for how the CDC reports vaccinations. Some clarifications [via Bloomberg](https://www.bloomberg.com/news/live-blog/2021-01-21/methodology-and-analysis-for-the-covid-19-vaccine-tracker#60319089B2240006). [Older updates](#updates)
+**February 24 Update:** See our [latest thoughts](https://twitter.com/youyanggu/status/1364274753851305984) on when to expect a return to normal. [Older updates](#updates)
 {% include_relative vaccination-last-updated.md %}
 {% include iframe_vaccination.html %}
 *Note:* Our infections estimates include all new infected individuals of the SARS-CoV-2 virus, not just those that took a COVID-19 test and tested positive. As of January 2021, we estimate the true number of infected individuals in the US to be roughly 2-4x higher than the reported cases (25-50% detection rate). See our writeup, [Estimating True Infections](/estimating-true-infections-revisited), for a more detailed look into this subject.
@@ -147,8 +147,8 @@ The underlying assumptions behind our estimates are presented below:
 
 ## Corollaries
 
-- Our estimates show that roughly 30-35% of the US population (100-120 million) will have been infected by the SARS-CoV-2 virus by the end of 2021. That is an additional ~50 million infections since mid-December 2020.
-- A 30-35% prevalence estimate translates to a final US COVID-19 death toll of roughly 525,000 to 725,000 reported deaths by end of 2021, with 600,000 deaths being the best estimate. Given a mid-December 2020 death toll of 300,000, that is an additional ~300,000 deaths. While reported deaths are useful, [excess deaths](https://www.cdc.gov/nchs/nvss/vsrr/covid19/excess_deaths.htm) may be a better metric for the true death toll.
+- Our estimates show that roughly one third of the US population (~110 million) will have been infected by the SARS-CoV-2 virus by the end of 2021. That is an additional ~50 million infections since mid-December 2020.
+- A one third prevalence estimate translates to a final US COVID-19 death toll of roughly 500,000 to 700,000 reported deaths by end of 2021, with 600,000 deaths being the best estimate. Given a mid-December 2020 death toll of 300,000, that is an additional ~300,000 deaths. While reported deaths are useful, [excess deaths](https://www.cdc.gov/nchs/nvss/vsrr/covid19/excess_deaths.htm) may be a better metric for the true death toll.
 - Due to the high prevalence, a targeted approach for vaccination that prioritizes individuals who are more likely to be susceptible may improve the time to reach herd immunity.
 - Due to possible low vaccine acceptance/uptake and waning immunity from natural infection, it is possible that the US will not reach immunity levels above 70%. In most scenarios, even 50-70% immunity could be sufficient to prevent large outbreaks.
 - Due to the seasonality of the virus, the herd immunity threshold may be higher in the winter. Furthermore, herd immunity can be lost due to waning immunity. Therefore, it is important that we continue to vaccinate individuals even after herd immunity has been reached.
@@ -178,6 +178,7 @@ You can reach Youyang Gu via the [Contact](/contact) page.
 
 ## Updates
 
+* *February 21:* There appears to be a methodology change for how the CDC reports vaccinations. Some clarifications [via Bloomberg](https://www.bloomberg.com/news/live-blog/2021-01-21/methodology-and-analysis-for-the-covid-19-vaccine-tracker#60319089B2240006). 
 * *February 11:* We changed the page title from "Path to Herd Immunity" to "Path to Normality". Our modeling suggests that it is increasingly unlikely that we will reach theoretical herd immunity in 2021. See [our latest thoughts](https://twitter.com/youyanggu/status/1359941463757516802) on why the recent attention to herd immunity is overblown, and why we should shift our focus away towards normality instead.
 * *February 5:* We lowered our vaccine efficacy estimate from 90% to 85% to account for [new variants](https://www.bmj.com/content/372/bmj.n296) and a [lower efficacy](https://www.jnj.com/johnson-johnson-announces-single-shot-janssen-covid-19-vaccine-candidate-met-primary-endpoints-in-interim-analysis-of-its-phase-3-ensemble-trial) of the Johnson & Johnson vaccine. Due to vaccine hesitancy and the later arrival of a children vaccine, it is possible that we do not reach the levels required for herd immunity in 2021. Nevertheless, herd immunity does not have a hard threshold, and being close to herd immunity may be sufficient to prevent large outbreaks. We are actively working to incorporate the new variants into our modeling.
 * *January 28:* We are releasing raw and adjusted CDC vaccination time series data for download [on GitHub](https://github.com/youyanggu/covid19-cdc-vaccination-data). It contains every CDC vaccination update since they started releasing data on Dec 20, 2020. They will be updated daily. In addition, we separated our Path to Herd Immunity plot into three categories: immunity from vaccination only, immunity from vaccination & past infection, and immunity from past infection only. Previously, we assigned immunity to the one that was acquired first (either prior infection or vaccination).
