@@ -8,21 +8,21 @@ See the [Counties Summary](/infections/summary-counties) page for a searchable a
 
 *Note: Due to the inherent lag between infections and reporting of cases, our estimates of infections are as of 14 days ago.*
 
-*Last updated: February 26, 2021*
+*Last updated: February 27, 2021*
 
 |   FIPS Code |                   County |   Population |   Confirmed Cases |   % Currently Infected |   % Total Infected |
 |-------------|--------------------------|--------------|-------------------|------------------------|--------------------|
-|       50007 | [Chittenden](chittenden) |      163,774 |             4,776 |                    0.6 |                7.6 |
-|       50023 | [Washington](washington) |       58,409 |             1,429 |                    0.4 |                5.7 |
-|       50021 |       [Rutland](rutland) |       58,191 |             1,272 |                    0.8 |                5.1 |
-|       50027 |       [Windsor](windsor) |       55,062 |             1,029 |                    0.4 |                4.5 |
-|       50011 |     [Franklin](franklin) |       49,402 |             1,202 |                    1.1 |                6.0 |
-|       50025 |       [Windham](windham) |       42,222 |               946 |                    0.5 |                5.6 |
-|       50001 |       [Addison](addison) |       36,777 |               731 |                    0.5 |                5.1 |
-|       50003 | [Bennington](bennington) |       35,470 |             1,409 |                    1.1 |                9.3 |
-|       50005 |   [Caledonia](caledonia) |       29,993 |               408 |                    0.3 |                3.2 |
-|       50017 |         [Orange](orange) |       28,892 |               503 |                    0.4 |                4.0 |
-|       50019 |       [Orleans](orleans) |       27,037 |               416 |                    0.2 |                3.6 |
-|       50015 |     [Lamoille](lamoille) |       25,362 |               445 |                    0.5 |                4.3 |
-|       50013 | [Grand Isle](grand-isle) |        7,235 |               105 |                    0.3 |                3.4 |
-|       50009 |           [Essex](essex) |        6,163 |               161 |                    0.9 |                6.0 |
+|       50007 | [Chittenden](chittenden) |      163,774 |             4,814 |                    0.6 |                7.6 |
+|       50023 | [Washington](washington) |       58,409 |             1,433 |                    0.4 |                5.7 |
+|       50021 |       [Rutland](rutland) |       58,191 |             1,280 |                    0.7 |                5.2 |
+|       50027 |       [Windsor](windsor) |       55,062 |             1,034 |                    0.4 |                4.5 |
+|       50011 |     [Franklin](franklin) |       49,402 |             1,215 |                    1.1 |                6.0 |
+|       50025 |       [Windham](windham) |       42,222 |               953 |                    0.5 |                5.6 |
+|       50001 |       [Addison](addison) |       36,777 |               735 |                    0.5 |                5.1 |
+|       50003 | [Bennington](bennington) |       35,470 |             1,433 |                    1.1 |                9.3 |
+|       50005 |   [Caledonia](caledonia) |       29,993 |               412 |                    0.3 |                3.2 |
+|       50017 |         [Orange](orange) |       28,892 |               504 |                    0.4 |                4.0 |
+|       50019 |       [Orleans](orleans) |       27,037 |               419 |                    0.2 |                3.6 |
+|       50015 |     [Lamoille](lamoille) |       25,362 |               456 |                    0.5 |                4.3 |
+|       50013 | [Grand Isle](grand-isle) |        7,235 |               105 |                    0.4 |                3.4 |
+|       50009 |           [Essex](essex) |        6,163 |               162 |                    0.8 |                6.0 |
