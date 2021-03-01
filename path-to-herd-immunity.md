@@ -112,7 +112,7 @@ The underlying assumptions behind our estimates are presented below:
 ### Vaccination Assumptions
 
 - We count an individual as vaccinated after they receive the first dose. We assume it takes three weeks after the first dose for an individual to gain immunity.
-- We currently only model the rollout of two vaccines: Pfizer and Moderna. We are also factoring in the rollout of the single-dose Johnson & Johnson vaccine starting in late February/early March. More vaccines may be approved in 2021 (e.g. AstraZeneca), but the exact timelines are still unclear. We will incorporate additional vaccines as more data becomes available.
+- Our initial model factors in the rollout of two vaccines: Pfizer and Moderna. In February, we began also factoring in the rollout of the single-dose Johnson & Johnson vaccine beginning in March. More vaccines may be approved in 2021 (e.g. AstraZeneca), but the exact timelines are still unclear. We will incorporate additional vaccines as more data becomes available.
 - We assume a proportion of the vaccinated population already possesses immunity via infection. For simplicity, we assume individuals who already possess immunity from natural infection will get vaccinated at the same rate as susceptible individuals.
 - We assume roughly 60-70% of the US population (~220 million) will take at least one dose of the vaccine by the end of 2021. This is based on [recent surveys](https://civiqs.com/results/coronavirus_vaccine). This is higher than the ~50% vaccine coverage for the common flu.
 - We assume the majority of individuals (but not all) will receive the second dose.
