@@ -7,7 +7,7 @@ permalink: /estimating-true-infections-revisited/
 # Estimating True Infections Revisited: A Simple Nowcasting Model to Estimate Prevalent Cases in the US
 
 By: [Youyang Gu](https://youyanggu.com)
-<br>November 25, 2020 *(Last Updated: December 10, 2020)*
+<br>November 25, 2020 *(Last Updated: March 3, 2021)*
 
 ## Table of Contents
 * [Summary](#summary)
@@ -24,7 +24,9 @@ By: [Youyang Gu](https://youyanggu.com)
 * [Discussion](#discussion)
 * [Conclusion](#conclusion)
 
-*December 10 Update:* We adjusted the constant in the prevalence ratio formula from `a = 1500 / (day_i + 50)` to `a = 1000 / (day_i + 10)`. This results in a slightly higher prevalence ratio in the beginning of the pandemic and a lower prevalence ratio currently.
+**March 2, 2021 Update:** We incorporated a variable lag from infection to reported case. It was previously fixed at 14 days. Starting from our March 2, 2021 estimates, we used a variable lag that starts at 21 days in February 2020 and goes to 14 days in June 2020 (and remains constant since). This is because we believe there is a longer delay from infection to case report during the early days of the pandemic when testing was more restricted. This has the side effect that we are estimating an earlier peak than previously reported.
+
+**December 10, 2020 Update:** We adjusted the constant in the prevalence ratio formula from `a = 1500 / (day_i + 50)` to `a = 1000 / (day_i + 10)`. This results in a slightly higher prevalence ratio in the beginning of the pandemic and a lower prevalence ratio currently.
 
 ## Summary
 
@@ -186,7 +188,7 @@ For all computation purposes, we use the 7-day moving average of confirmed cases
 
 As an example, let's say that the US reported 67,000 new cases with a 8.5% positivity rate on July 22 (day 160). This would result in a true prevalence ratio of `(1500 / (160 + 50) * sqrt(0.085) + 2 = 4.1`. We can then multiply this ratio by the confirmed cases to get the true new infections. In this example, we estimate there to be 4.1 * 67,000 = ~275,000 true new infections.
 
-Because reported cases lag infections by roughly two weeks, we must shift the result back to more realistically pinpoint when a new infection occurred. So the 275,000 true infections from the example above actually took place approximately 14 days before July 22, on July 8. While we use a constant lag for simplicity, we understand that the lag could be greater towards the beginning of the pandemic due to the slower average time to detection.
+Because reported cases lag infections by roughly two weeks, we must shift the result back to more realistically pinpoint when a new infection occurred. So the 275,000 true infections from the example above actually took place approximately 14 days before July 22, on July 8. Prior to March 2, 2021, we used a constant lag of 14 days in our estimates for simplicity. Starting from our March 2, 2021 estimates, we used a variable lag that starts at 21 days in February 2020 and goes to 14 days in June 2020 (and remains constant since). This is because we believe there is a longer delay from infection to case report during the early days of the pandemic when testing was more restricted. This is implemented as a one-dimensional linear interpolation.
 
 To further smooth the data, we take the 7-day moving average of the true new daily infections. Starting on January 21, 2021, we apply an additional smoothing step around holidays to minimize reporting dips.
 
