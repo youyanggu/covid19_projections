@@ -8,21 +8,21 @@ See the [Counties Summary](/infections/summary-counties) page for a searchable a
 
 *Note: Due to the inherent lag between infections and reporting of cases, our estimates of infections are as of 14 days ago.*
 
-*Last updated: March 2, 2021*
+*Last updated: March 3, 2021*
 
 |   FIPS Code |                     County |   Population |   Confirmed Cases |   % Currently Infected |   % Total Infected |
 |-------------|----------------------------|--------------|-------------------|------------------------|--------------------|
-|       32003 |             [Clark](clark) |    2,266,715 |           226,871 |                    0.6 |               33.7 |
-|       32031 |           [Washoe](washoe) |      471,519 |            42,908 |                    0.4 |               30.3 |
-|       32019 |               [Lyon](lyon) |       57,510 |             2,744 |                    0.3 |               15.5 |
-|       32510 | [Carson City](carson-city) |       55,916 |             5,893 |                    0.5 |               34.4 |
-|       32007 |               [Elko](elko) |       52,778 |             4,545 |                    0.6 |               28.2 |
-|       32005 |         [Douglas](douglas) |       48,905 |             2,520 |                    0.3 |               16.8 |
-|       32023 |                 [Nye](nye) |       46,523 |             2,791 |                    0.4 |               19.7 |
-|       32001 |     [Churchill](churchill) |       24,909 |             1,912 |                    0.5 |               24.4 |
-|       32013 |       [Humboldt](humboldt) |       16,831 |             1,060 |                    0.4 |               21.2 |
-|       32033 |   [White Pine](white-pine) |        9,580 |               549 |                    1.0 |               19.2 |
-|       32027 |       [Pershing](pershing) |        6,725 |               937 |                    0.5 |               44.7 |
+|       32003 |             [Clark](clark) |    2,266,715 |           227,107 |                    0.6 |               33.7 |
+|       32031 |           [Washoe](washoe) |      471,519 |            42,949 |                    0.4 |               30.3 |
+|       32019 |               [Lyon](lyon) |       57,510 |             2,748 |                    0.3 |               15.5 |
+|       32510 | [Carson City](carson-city) |       55,916 |             5,901 |                    0.5 |               34.4 |
+|       32007 |               [Elko](elko) |       52,778 |             4,549 |                    0.6 |               28.3 |
+|       32005 |         [Douglas](douglas) |       48,905 |             2,526 |                    0.3 |               16.8 |
+|       32023 |                 [Nye](nye) |       46,523 |             2,792 |                    0.4 |               19.7 |
+|       32001 |     [Churchill](churchill) |       24,909 |             1,914 |                    0.5 |               24.5 |
+|       32013 |       [Humboldt](humboldt) |       16,831 |             1,067 |                    0.4 |               21.2 |
+|       32033 |   [White Pine](white-pine) |        9,580 |               549 |                    0.9 |               19.2 |
+|       32027 |       [Pershing](pershing) |        6,725 |               937 |                    0.4 |               44.7 |
 |       32015 |           [Lander](lander) |        5,532 |               442 |                    0.1 |               26.6 |
 |       32017 |         [Lincoln](lincoln) |        5,183 |               347 |                    0.1 |               21.5 |
 |       32021 |         [Mineral](mineral) |        4,505 |               296 |                    0.5 |               21.1 |
