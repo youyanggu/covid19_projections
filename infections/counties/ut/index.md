@@ -8,7 +8,7 @@ See the [Counties Summary](/infections/summary-counties) page for a searchable a
 
 *Note: Due to the inherent lag between infections and reporting of cases, our estimates of infections are as of 14 days ago.*
 
-*Last updated: March 4, 2021*
+*Last updated: March 5, 2021*
 
 **Utah Note**: Some Utah counties do not report data because they report cases by [local health departments](https://ualhd.org/) rather than by county.
 
@@ -25,7 +25,7 @@ See the [Counties Summary](/infections/summary-counties) page for a searchable a
 |       49021 |                   Iron |       54,839 |                 0 |                    0.0 |                0.0 |
 |       49043 |       [Summit](summit) |       42,145 |             5,021 |                    0.9 |               33.7 |
 |       49047 |                 Uintah |       35,734 |                 0 |                    0.0 |                0.0 |
-|       49051 |     [Wasatch](wasatch) |       34,091 |             4,352 |                    0.8 |               35.1 |
+|       49051 |     [Wasatch](wasatch) |       34,091 |             4,352 |                    0.7 |               35.2 |
 |       49039 |                Sanpete |       30,939 |                 0 |                    0.0 |                0.0 |
 |       49041 |                 Sevier |       21,620 |                 0 |                    0.0 |                0.0 |
 |       49007 |                 Carbon |       20,463 |                 0 |                    0.0 |                0.0 |
