@@ -15,8 +15,8 @@ Jump to section:
 For regular updates and insights, follow Youyang Gu on Twitter:&nbsp; <a href="https://twitter.com/youyanggu" class="twitter-follow-button" data-show-count="false">@youyanggu</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 * **February 26:** **Major Announcement** - After almost a year since *covid19-projections.com* was launched, we will be making the last daily update on Sunday, March 7. See Youyang's blog post [here](https://youyanggu.com/blog/one-year-later).
-* **February 24:** See our [latest thoughts](https://twitter.com/youyanggu/status/1364274753851305984) on why we expect a return to normal by summer.
-* **February 22:** See our latest analysis on the [impact of in-person university instruction](https://twitter.com/youyanggu/status/1363920593192681476) on community transmission.
+* **February 24:** See our [latest thoughts](https://twitter.com/youyanggu/status/1364627872233750543) on why we expect a return to normal by summer.
+* *February 22:* See our latest analysis on the [impact of in-person university instruction](https://twitter.com/youyanggu/status/1363920593192681476) on community transmission.
 * *February 18:* See our thoughts on the UK B.1.1.7 variant [here](https://twitter.com/youyanggu/status/1362476060907077636).
 * *February 17:* Is political leaning a better predictor of the severity of the fall 2020 wave than existing immunity and levels of intervention? See our latest findings [here](https://twitter.com/youyanggu/status/1362109356481933312).
 * *February 11:* See [our latest thoughts](https://twitter.com/youyanggu/status/1359941463757516802) on why the recent attention on herd immunity may be overblown, and why we should shift our focus away from this topic. [Our modeling](/path-to-herd-immunity) suggests that it is increasingly unlikely that we will reach theoretical herd immunity in 2021.
