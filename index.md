@@ -1,5 +1,6 @@
 ---
 layout: default
+title: COVID-19 Projections Using Machine Learning
 permalink: /
 ---
 ### Announcement: We made our last daily update on March 7, 2021. Read more [here](https://youyanggu.com/blog/one-year-later).
