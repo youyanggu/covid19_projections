@@ -2,11 +2,13 @@
 layout: default
 permalink: /
 ---
+### We made our last daily update on March 7, 2021. Read more [here](https://youyanggu.com/blog/one-year-later).**
+
 We present a new, simple nowcasting model that estimates true infections in the US. We have estimates for all US states and all 3,000+ US counties. For our projections for the upcoming months, see our [**Path to Normality**](/path-to-herd-immunity) page.
 {% include iframe_home_first_map.html %}For more maps, including county-level views, visit the [Maps](/maps-infections) page.
 
 Jump to section:
-* [US summary](#us-infections-estimates-updated-daily)
+* [US summary](#us-infections-estimates)
 * [State-level infection estimates](#view-us-infections-estimates)
 * [County-level infection estimates](#us-counties-infections-estimates)
 
@@ -29,7 +31,7 @@ See more past updates [here](/past-updates).
 
 [Back to Top](#top)
 
-## US Infections Estimates (Updated Daily)
+## US Infections Estimates
 [More details](/infections/us)
 
 *Data from [The COVID Tracking Project](https://covidtracking.com/). Due to the inherent lag in the reporting of cases, we do not have estimates of infections for the last 14 days.*
