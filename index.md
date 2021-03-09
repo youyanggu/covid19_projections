@@ -3,7 +3,7 @@ layout: default
 title: COVID-19 Projections Using Machine Learning
 permalink: /
 ---
-### Announcement: We made our last daily update on March 7, 2021. Read more [here](https://youyanggu.com/blog/one-year-later).
+## Announcement: We made our last daily update on March 7, 2021. Read more [here](https://youyanggu.com/blog/one-year-later).
 
 We present a new, simple nowcasting model that estimates true infections in the US. We have estimates for all US states and all 3,000+ US counties. For our projections for the upcoming months, see our [**Path to Normality**](/path-to-herd-immunity) page.
 {% include iframe_home_first_map.html %}For more maps, including county-level views, visit the [Maps](/maps-infections) page.
@@ -26,7 +26,6 @@ For regular updates and insights, follow Youyang Gu on Twitter:&nbsp; <a href="h
 * *February 11:* See [our latest thoughts](https://twitter.com/youyanggu/status/1359941463757516802) on why the recent attention on herd immunity may be overblown, and why we should shift our focus away from this topic. [Our modeling](/path-to-herd-immunity) suggests that it is increasingly unlikely that we will reach theoretical herd immunity in 2021.
 * *January 28:* We are releasing raw and adjusted CDC vaccination time series data for download [on GitHub](https://github.com/youyanggu/covid19-cdc-vaccination-data). It contains every CDC vaccination update since they started releasing data on Dec 20, 2020.
 * *January 25:* In December, we reported on why the CDC [overestimates true infections](https://twitter.com/youyanggu/status/1344002411556339712) in the US. They have since [adjusted their estimates](https://twitter.com/youyanggu/status/1353803329814503425), which now closely matches *covid19-projections.com*.
-* *January 20:* Our new [county-level summary](/infections/summary-counties) page is now searchable, allowing for fast lookup of specific counties. Originally created on Jan 5, we present the best and worst-impacted counties in a sortable, downloadable table format.
 
 See more past updates [here](/past-updates).
 
