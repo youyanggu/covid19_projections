@@ -35,7 +35,7 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 [Back to Top](#top)
 
 ## Summary
-- Every adult who wants to get a vaccine will be able to get a vaccine by summer 2021 (May-June 2021).
+- Every adult who wants to get a vaccine will be able to get a vaccine by May/June 2021.
 - The US will be near COVID-19 herd immunity by summer 2021 (Jun-Aug 2021). At a high level, [herd immunity](https://jamanetwork.com/journals/jama/fullarticle/2772168) is a concept in which a population can be protected from a virus if enough people possess immunity. Current accepted estimates for the herd immunity threshold range from [60-90%](https://www.nytimes.com/2020/12/24/health/herd-immunity-covid-coronavirus.html) of the population.
 - Due to vaccine hesitancy and the later arrival of a children's vaccine, it is possible that we do not reach the levels required for herd immunity in 2021. Nevertheless, herd immunity is not a hard threshold, and being close to herd immunity may be sufficient to prevent large outbreaks.
 - At the time herd immunity is near, roughly half of the immunity will be achieved through natural infection, and the other half will be achieved through vaccination.
