@@ -6,6 +6,8 @@ permalink: /maps-infections/
 
 ## Maps
 
+### Announcement: We made our last daily update on March 7, 2021. Read more [here](https://youyanggu.com/blog/one-year-later).
+
 Here you will find maps of our infection estimates. If you're viewing from a mobile device, we recommend viewing these maps on the browser or in landscape mode.
 
 To see how the values change over time, drag the slider at the bottom of each map (if on mobile, touch a date).
