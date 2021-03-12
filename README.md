@@ -4,6 +4,8 @@
 
 *Warning: If you plan to clone this repository, please be aware that this repository takes approximately 4GB of space. This is because it contains all of our historical estimates and projections, not just the latest ones.*
 
+**2021-03-08 Update:** We made our last daily update on March 7. This repository will no longer be maintained. Read Youyang Gu's [One Year Later](https://youyanggu.com/blog/one-year-later) blog post for a detailed explanation and for a list of alternate resources.
+
 **2020-11-19 Update:** We have uploaded our raw US infection estimates in the [`infection_estimates`](/infection_estimates) directory. For a slimmed down version that only has the latest infection estimates, visit [this repository](https://github.com/youyanggu/covid19-infection-estimates-latest).
 
 **2020-10-06 Update:** Projections dated 2020-10-04 was our last model update. For more information, read [Youyang Gu's blog post](https://youyanggu.com/blog/six-months-later). Follow [@youyanggu](https://twitter.com/youyanggu) on Twitter for continued COVID-19 insights.
