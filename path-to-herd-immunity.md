@@ -17,8 +17,7 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 {% include iframe_vaccination.html %}
 *Note:* Our infections estimates include all new infected individuals of the SARS-CoV-2 virus, not just those that took a COVID-19 test and tested positive. As of January 2021, we estimate the true number of infected individuals in the US to be roughly 2-4x higher than the reported cases (25-50% detection rate). See our writeup, [Estimating True Infections](/estimating-true-infections-revisited), for a more detailed look into this subject.
 
-### We stopped updating CDC vaccination data on March 8. For the latest time series, visit the [CDC website](https://covid.cdc.gov/covid-data-tracker/#vaccination-trends)
-{% include iframe_vaccination_cdc.html %}
+### We stopped updating CDC vaccination data on March 8. For the latest time series, visit the [CDC website](https://covid.cdc.gov/covid-data-tracker/#vaccination-trends). See our old plots through March 8 [here](/vaccination_cdc).
 
 [Back to Top](#top)
 
