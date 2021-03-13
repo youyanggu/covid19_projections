@@ -62,6 +62,7 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 - [CDC methodology change](https://twitter.com/youyanggu/status/1363618681142575105) - Feb 21
 - [NYT model unrealistic assumptions](https://twitter.com/youyanggu/status/1364274753851305984) - Feb 23
 - [Return to normal by summer?](https://twitter.com/youyanggu/status/1364627872233750543) - Feb 24
+- [Equitable vaccine distribution](https://twitter.com/youyanggu/status/1370067926703767553) - Mar 11
 
 ### Weekly Updates
 
