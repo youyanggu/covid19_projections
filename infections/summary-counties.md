@@ -5,6 +5,8 @@ permalink: /infections/summary-counties/
 ---
 ## Summary - US Counties
 
+### Note: We made our last daily update on March 7, 2021, and this page is no longer actively maintained. Read more [here](https://youyanggu.com/blog/one-year-later).
+
 View and sort counties by newly infected, currently infected (default), and total infected. You can also copy, download, or print the data. For the full data, see our [GitHub repository](https://github.com/youyanggu/covid19-infection-estimates-latest/blob/main/counties/1_latest_percent_infected_counties.csv). Raw historical county estimates are also available on our Github: [here](https://github.com/youyanggu/covid19-infection-estimates-latest/tree/main/counties) or [here](https://github.com/youyanggu/covid19-datasets).
 
 To see detailed estimates for each county, click on the link for that county. Alternatively, you can [click here](/#us-counties-infections-estimates).
