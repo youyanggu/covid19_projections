@@ -4,14 +4,14 @@ title: About covid19-projections.com
 permalink: /about/
 ---
 
-## Note: This page is no longer being maintained. Please visit the [home page](/) for the latest infections updates for the US.
+## Note: This page is in reference to the *covid19-projections.com* death forecasting model that was active from March 2020 to November 2020. Please click [here](/about-infections) for more information on the infection/vaccination estimates model that was active from November 2020 to March 2021.
 
 ## Table of contents
 * [About the Model](#about-the-model)
 * [Who We Are](#who-we-are)
 * [How Our Model is Different](#how-our-model-is-different)
-* [Historical Performance *(Updated Nov 2)*](#historical-performance)
-* [Comparison of October US Projections *(New Nov 2)*](#comparison-of-october-us-projections)
+* [Historical Performance](#historical-performance)
+* [Comparison of October US Projections](#comparison-of-october-us-projections)
 * [Comparison of Late August US Projections](#comparison-of-late-august-us-projections)
 * [Historical US Projections](#historical-us-projections)
 * [CDC Projections Over Time](#cdc-projections-over-time)
