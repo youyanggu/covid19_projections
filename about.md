@@ -6,11 +6,11 @@ permalink: /about/
 
 *covid19-projections.com* was launched in early April 2020 by independent data scientist [Youyang Gu](https://youyanggu.com). Since the very beginning, the site's goal was to use a data-driven, AI-based model to make the most accurate COVID-19 projections and estimates. During the one-year period from April 2020 to March 2021, there have been three separate iterations of the *covid19-projections.com* model:
 
-| Model Type | Time Frame | Update Frequency | Countries | US States | US Counties |
-| ---------- | ---------- | --------- | --------- | ----------- |
+| Model Type | Time Frame | Updates | Countries | US States | US Counties |
+| ---------- | ---------- | ---------------- | --------- | --------- | ----------- |
 | *Death forecasts* | April 2020 - November 2020 | Daily | 71 countries | 50 + DC/territories | 34 counties |
 | *Infection estimates* | November 2020 - March 2021 | Daily | US | 50 + DC/territories | 3000+ counties |
-| *Vaccination projections* | December 2020 - March 2021 | Weekly | US nationwide only | --- | --- |
+| *Vaccination projections* | December 2020 - March 2021 | 3-4x per week | US nationwide only | --- | --- |
 
 For an overview of all the pages on this site, see our [Site Map](/sitemap).
 
