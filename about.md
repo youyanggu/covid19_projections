@@ -4,13 +4,13 @@ title: About covid19-projections.com
 permalink: /about/
 ---
 
-*covid19-projections.com* was launched in early April 2020 by independent data scientist [Youyang Gu](https://youyanggu.com). Since the very beginning, our goal was to use a data-driven, AI-based model to make the most accurate COVID-19 projections and estimates. During the one-year period from April 2020 to March 2021, there have been three separate iterations of the *covid19-projections.com* model:
+*covid19-projections.com* was launched in early April 2020 by independent data scientist [Youyang Gu](https://youyanggu.com). Since the very beginning, the site's goal was to use a data-driven, AI-based model to make the most accurate COVID-19 projections and estimates. During the one-year period from April 2020 to March 2021, there have been three separate iterations of the *covid19-projections.com* model:
 
-| Model Type | Time Frame | Countries | US States | US Counties |
+| Model Type | Time Frame | Update Frequency | Countries | US States | US Counties |
 | ---------- | ---------- | --------- | --------- | ----------- |
-| *Death forecasts* | April 2020 - November 2020 | 71 countries | 50 + DC/territories | 34 counties |
-| *Infection estimates* | November 2020 - March 2021 | US | 50 + DC/territories | 3000+ counties |
-| *Vaccination projections* | December 2020 - March 2021 | US only | --- | --- |
+| *Death forecasts* | April 2020 - November 2020 | Daily | 71 countries | 50 + DC/territories | 34 counties |
+| *Infection estimates* | November 2020 - March 2021 | Daily | US | 50 + DC/territories | 3000+ counties |
+| *Vaccination projections* | December 2020 - March 2021 | Weekly | US nationwide only | --- | --- |
 
 For an overview of all the pages on this site, see our [Site Map](/sitemap).
 
@@ -18,7 +18,7 @@ The majority of this page is dedicated to explaining our death forecasting model
 
 ## Vaccination projections model - Dec 2020 to Mar 2021
 
-With the availability of the COVID-19 vaccine starting in December 2020, we present our vaccination projections and the path to normality in the US. See our [Path to Normality](/path-to-herd-immunity) page for a detailed description of this model.
+With the availability of the COVID-19 vaccine starting in December 2020, we present our vaccination projections and the path to normality in the US. This model factors in protective immunity against COVID-19 from two sources: vaccination and natural infection. See our [Path to Normality](/path-to-herd-immunity) page for the output and a detailed description of this model.
 
 ## Infection estimates model - Nov 2020 to Mar 2021
 
