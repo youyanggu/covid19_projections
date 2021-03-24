@@ -18,16 +18,14 @@ Jump to section:
 For regular updates and insights, follow Youyang Gu on Twitter:&nbsp; <a href="https://twitter.com/youyanggu" class="twitter-follow-button" data-show-count="false">@youyanggu</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 * **March 8:** We made our last daily update on March 7 (containing infections estimates through February 21, 2021). Read Youyang Gu's [One Year Later](https://youyanggu.com/blog/one-year-later) blog post for a detailed explanation and for a list of alternate resources. Follow [@youyanggu](https://twitter.com/youyanggu) on Twitter for continued COVID-19 insights. Thank you for your support over the past year. See our downloadable data [on GitHub](https://github.com/youyanggu/covid19-infection-estimates-latest).
-* *February 26:* After almost a year since *covid19-projections.com* was launched, we will be making the last daily update on Sunday, March 7. See Youyang's blog post [here](https://youyanggu.com/blog/one-year-later).
 * *February 24:* See our [latest thoughts](https://twitter.com/youyanggu/status/1364627872233750543) on why we expect a return to normal by summer.
 * *February 22:* See our latest analysis on the [impact of in-person university instruction](https://twitter.com/youyanggu/status/1363920593192681476) on community transmission.
 * *February 18:* See our thoughts on the UK B.1.1.7 variant [here](https://twitter.com/youyanggu/status/1362476060907077636).
 * *February 17:* Is political leaning a better predictor of the severity of the fall 2020 wave than existing immunity and levels of intervention? See our latest findings [here](https://twitter.com/youyanggu/status/1362109356481933312).
 * *February 11:* See [our latest thoughts](https://twitter.com/youyanggu/status/1359941463757516802) on why the recent attention on herd immunity may be overblown, and why we should shift our focus away from this topic. [Our modeling](/path-to-herd-immunity) suggests that it is increasingly unlikely that we will reach theoretical herd immunity in 2021.
-* *January 28:* We are releasing raw and adjusted CDC vaccination time series data for download [on GitHub](https://github.com/youyanggu/covid19-cdc-vaccination-data). It contains every CDC vaccination update since they started releasing data on Dec 20, 2020.
 * *January 25:* In December, we reported on why the CDC [overestimates true infections](https://twitter.com/youyanggu/status/1344002411556339712) in the US. They have since [adjusted their estimates](https://twitter.com/youyanggu/status/1353803329814503425), which now closely matches *covid19-projections.com*.
 
-See more past updates [here](/past-updates).
+See all of our past updates [here](/past-updates).
 
 [Back to Top](#top)
 
@@ -37,7 +35,7 @@ See more past updates [here](/past-updates).
 *Data from [The COVID Tracking Project](https://covidtracking.com/). Due to the inherent lag in the reporting of cases, we do not have estimates of infections for the last 14 days.*
 {% include_relative infections/summary.md %}{% include iframe_infections.html %}
 
-Our infections estimates include all infected individuals of the SARS-CoV-2 virus, not just those that took a COVID-19 test and tested positive. As of January 2021, we estimate the true number of infected individuals in the US to be roughly 2-4x higher than the reported cases (25-50% detection rate). See our writeup, [Estimating True Infections](/estimating-true-infections-revisited), for a more detailed look into this subject. Because not all currently *infected* individuals are *infectious*, we recommend dividing the *"currently infected"* estimate by 2-4 to get a sense of the number of currently infectious individuals.
+Our infections estimates include all infected individuals of the SARS-CoV-2 virus, not just those that took a COVID-19 test and tested positive. As of early 2021, we estimate the true number of infected individuals in the US to be roughly 2-4x higher than the reported cases (25-50% detection rate). See our writeup, [Estimating True Infections](/estimating-true-infections-revisited), for a more detailed look into this subject. Because not all currently *infected* individuals are *infectious*, we recommend dividing the *"currently infected"* estimate by 2-4 to get a sense of the number of currently infectious individuals.
 
 [Back to Top](#top)
 
