@@ -14,6 +14,8 @@ This page contains a comprehensive list of Twitter threads by Youyang Gu ([@youy
 
 * [Original Research](#original-research)
 * [Miscellaneous](#miscellaneous)
+* [Vaccination Projections Model](#vaccination-projections-model)
+* [Infections Estimates Model](#infections-estimates-model)
 * [Death Forecasting Model](#death-forecasting-model)
   * [Projections Updates](#projection-updates)
   * [Model Evaluations](#model-evaluations)
@@ -22,12 +24,21 @@ This page contains a comprehensive list of Twitter threads by Youyang Gu ([@youy
 
 ### Original Research
 
+[December 16](https://twitter.com/youyanggu/status/1339306972189843456) - Effectiveness of mask mandate in Kansas<br>
+[December 3](https://twitter.com/youyanggu/status/1334562177991258116) - Estimating true infections revisited<br>
 [August 10](https://twitter.com/youyanggu/status/1292898685173534722) - Role of immunity vs behavior vs interventions (Louisiana case study)<br>
 [August 5](https://twitter.com/youyanggu/status/1291092311045283841) - Estimating true infections<br>
 [July 24](https://twitter.com/youyanggu/status/1286795355561107457) - Implied infection fatality rate<br>
 
 ### Miscellaneous
 
+[December 31](https://twitter.com/youyanggu/status/1344778339819507712) - Delaying a second dose<br>
+[December 30](https://twitter.com/youyanggu/status/1344455478349234177) - Peak may be yet to come<br>
+[December 29](https://twitter.com/youyanggu/status/1344002411556339712) - Major flaws in CDC infections estimates<br>
+[December 18](https://twitter.com/youyanggu/status/1340021296512393216) - A dose of optimism (blog post)<br>
+[December 17](https://twitter.com/youyanggu/status/1339676769683558400) - Call for donations<br>
+[December 9](https://twitter.com/youyanggu/status/1336790982340214789) - COVIDhub Ensemble model performance<br>
+[November 24](https://twitter.com/youyanggu/status/1331341646928207873) - Illinois vs Florida media bias<br>
 [October 1](https://twitter.com/youyanggu/status/1311772987625033738) - Community vs individual risk<br>
 [September 28](https://twitter.com/youyanggu/status/1310652383396065280) - Six months later<br>
 [September 4](https://twitter.com/youyanggu/status/1301915424456609793) - Forecasting uncertainty<br>
@@ -54,17 +65,40 @@ This page contains a comprehensive list of Twitter threads by Youyang Gu ([@youy
 [May 16](https://twitter.com/youyanggu/status/1261755888781545479) - New feature: Rt over time<br>
 [May 15](https://twitter.com/youyanggu/status/1261422993256792066) - Shopping simulation<br>
 [May 14](https://twitter.com/youyanggu/status/1261075742021963777) - Social distancing 1 week earlier scenario<br>
-[May 13](https://twitter.com/youyanggu/status/1260678487221796864) - New feature: no reopenings<br>
+[May 13](https://twitter.com/youyanggu/status/1260678487221796864) - New feature: No reopenings<br>
 [May 2](https://twitter.com/youyanggu/status/1256739926839668736) - NY serology survey<br>
 [April 30](https://twitter.com/youyanggu/status/1256051255253757953) - Infections fatality rate<br>
 [April 29](https://twitter.com/youyanggu/status/1255663596387725314) - Model added to CDC website<br>
 [April 28](https://twitter.com/youyanggu/status/1255034262006333440) - NYC subway ridership analysis<br>
 [April 26](https://twitter.com/youyanggu/status/1254505012396343296) - Rt estimates<br>
 [April 25](https://twitter.com/youyanggu/status/1253964427801444353) - Death milestone probabilities<br>
+[Early April](https://twitter.com/search?q=(from%3Ayouyanggu)%20until%3A2020-04-25%20since%3A2020-04-01%20%20-filter%3Areplies&src=typed_query&f=live) - Tweets from early April<br>
+
+### Infections Estimates Model
+
+#### Model/Projection Updates
+
+[December 28](https://twitter.com/youyanggu/status/1343675401436971008) - Vaccination progress update<br>
+[December 3](https://twitter.com/youyanggu/status/1334562177991258116) - Model methodology<br>
+[December 1](https://twitter.com/youyanggu/status/1333846490935156736) - New feature updates<br>
+[November 23](https://twitter.com/youyanggu/status/1330882046017888257) - New feature: County-level infections estimates<br>
+[November 18](https://twitter.com/youyanggu/status/1329222193293778945) - Model announcement<br>
+
+#### Maps
+
+[November 21](https://twitter.com/youyanggu/status/1330206584715300865)<br>
+[November 20](https://twitter.com/youyanggu/status/1329819290124562433)<br>
+
+### Vaccination Projections Model
+
+[December 15](https://twitter.com/youyanggu/status/1338952594492813312) - Vaccination misinformation<br>
+[December 14](https://twitter.com/youyanggu/status/1338587017966284800) - Vaccination side effects<br>
+[December 11](https://twitter.com/youyanggu/status/1337506967095369728) - Vaccination priority<br>
+[December 10](https://twitter.com/youyanggu/status/1337147909955964929) - Model announcement<br>
 
 ### Death Forecasting Model
 
-#### Projections Updates
+#### Model/Projection Updates
 
 [October 6](https://twitter.com/youyanggu/status/1313564063679614982)<br>
 [September 30](https://twitter.com/youyanggu/status/1311384211983675397)<br>
