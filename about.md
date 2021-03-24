@@ -14,7 +14,18 @@ permalink: /about/
 
 For an overview of all the pages on this site, see our [Site Map](/sitemap).
 
-The majority of this page is dedicated to explaining our death forecasting model that was active from April to November 2020. We briefly go over our other two model iterations in the next two sections:
+The majority of this page is dedicated to explaining our death forecasting model that was active from April to November 2020. We briefly go over our other model iterations in the next three sections.
+
+## Data and Code
+
+Below is a list of all of our GitHub repositories that contain data and code related to COVID-19:
+
+- [Main COVID-19 data repository](https://github.com/youyanggu/covid19_projections)
+- [Infections estimates](https://github.com/youyanggu/covid19-infection-estimates-latest)
+- [Historical CDC vaccination data](https://github.com/youyanggu/covid19-cdc-vaccination-data)
+- [COVID-19 datasets](https://github.com/youyanggu/covid19-datasets)
+- [SEIR simulator](https://github.com/youyanggu/yyg-seir-simulator)
+- [Model evaluations](https://github.com/youyanggu/covid19-forecast-hub-evaluation)
 
 ## Vaccination projections model - Dec 2020 to Mar 2021
 
