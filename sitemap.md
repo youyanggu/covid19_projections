@@ -46,3 +46,12 @@ This model was active from November 2020 to March 2021.
 This model was active from December 2020 to March 2021.
 
 * [Path to Normality](/path-to-herd-immunity)
+
+### *youyanggu.com*
+
+This contains a list of COVID-19-related blog posts on Youyang Gu's personal website, [*youyanggu.com*](https://youyanggu.com).
+
+* [COVID-19 Resources](https://youyanggu.com/covid19-resources) - February 26, 2021
+* [One Year Later](https://youyanggu.com/blog/one-year-later) - February 26, 2021
+* [Six Months Later](https://youyanggu.com/blog/six-months-later) - September 28, 2020
+* [A Dose of Optimism](https://youyanggu.com/blog/a-dose-of-optimism) - December 17, 2020
