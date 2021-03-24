@@ -8,9 +8,9 @@ permalink: /about/
 
 | Model Type | Time Frame | Updates | Countries | US States | US Counties |
 | ---------- | ---------- | ---------------- | --------- | --------- | ----------- |
-| *Death forecasts* | April 2020 - November 2020 | Daily | 71 countries | 50 + DC/territories | 34 counties |
-| *Infection estimates* | November 2020 - March 2021 | Daily | US | 50 + DC/territories | 3000+ counties |
-| *Vaccination projections* | December 2020 - March 2021 | 3-4x per week | US nationwide only | --- | --- |
+| *Death Forecasts* | April 2020 - November 2020 | Daily | 71 countries | 50 + DC/territories | 34 counties |
+| *Infection Estimates* | November 2020 - March 2021 | Daily | US | 50 + DC/territories | 3000+ counties |
+| *Vaccination Projections* | December 2020 - March 2021 | 3-4x per week | US nationwide | --- | --- |
 
 For an overview of all the pages on this site, see our [Site Map](/sitemap).
 
