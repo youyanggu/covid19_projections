@@ -9,7 +9,7 @@ permalink: /about/
 | Model Type | Time Frame | Updates | Countries | US States | US Counties |
 | ---------- | ---------- | ---------------- | --------- | --------- | ----------- |
 | *Death Forecasts* | April 2020 - November 2020 | Daily | 71 countries | 50 + DC/territories | 34 counties |
-| *Infection Estimates* | November 2020 - March 2021 | Daily | US | 50 + DC/territories | 3000+ counties |
+| *Infections Estimates* | November 2020 - March 2021 | Daily | US | 50 + DC/territories | 3000+ counties |
 | *Vaccination Projections* | December 2020 - March 2021 | 3-4x per week | US nationwide | --- | --- |
 
 For an overview of all the pages on this site, see our [Site Map](/sitemap).
@@ -35,13 +35,13 @@ Below is a list of all of our GitHub repositories that contain data and code rel
 
 With the availability of the COVID-19 vaccine starting in December 2020, we present our vaccination projections and the path to normality in the US. This model factors in protective immunity against COVID-19 from two sources: vaccination and natural infection. See our [Path to Normality](/path-to-herd-immunity) page for the output and a detailed description of this model.
 
-## Infection estimates model
+## Infections estimates model
 
 *Active: Nov 2020 to Mar 2021*
 
 During the fall and winter wave in 2020/2021, *covid19-projections.com* featured daily nowcasting of infections estimates in the US, for all US states and 3,000+ US counties. See our estimates [here](/#view-us-infections-estimates). At the time of the 2020 fall wave, there were tens of models that were forecasting deaths (hence our decision to [wind down](https://youyanggu.com/blog/six-months-later) our own model). However, there were very few models that estimated true infections in each county, state and US nationally. The number of confirmed cases is an undercount of the true prevalence of the disease since not everyone who is infected choose to get tested. As of early 2021, we estimate that the true number of infections in the US is likely 2-4x higher than reported cases. In March and April, when testing was not as prevalent, we estimate that ratio to be closer to 10-20x.
 
-For this iteration of the model, we are nowcasting (what has happened/is happening) rather than forecasting (what will happen). Estimates are generated using only confirmed cases and testing data from [The COVID Tracking Project](https://covidtracking.com/). We compute a multiplier based on the date and test positivity rate. For example, in April 2020, a 10% positivity rate corresponds to roughly a 7x multiplier, meaning that for every confirmed case there are 6 undetected infections. By early 2021, since testing has been greatly expanded over the past year, a 10% test positivity rate corresponds to roughly a 2-3x multiplier (for every confirmed case there are 1-2 undetected infections). After we computed the multiplier, we apply it to the number of daily cases to get an estimate of the true number of daily infections (with a 2 week lag). For county-level infection estimates, we use county case data from [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19).
+For this iteration of the model, we are nowcasting (what has happened/is happening) rather than forecasting (what will happen). Estimates are generated using only confirmed cases and testing data from [The COVID Tracking Project](https://covidtracking.com/). We compute a multiplier based on the date and test positivity rate. For example, in April 2020, a 10% positivity rate corresponds to roughly a 7x multiplier, meaning that for every confirmed case there are 6 undetected infections. By early 2021, since testing has been greatly expanded over the past year, a 10% test positivity rate corresponds to roughly a 2-3x multiplier (for every confirmed case there are 1-2 undetected infections). After we computed the multiplier, we apply it to the number of daily cases to get an estimate of the true number of daily infections (with a 2 week lag). For county-level infections estimates, we use county case data from [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19).
 
 For more details, see our methodology writeup: [*Estimating True Infections Revisited*](/estimating-true-infections-revisited/).
 
