@@ -14,6 +14,7 @@ This page contains links to every page on *covid19-projections.com* (excluding d
 * [About](/about)
 * [Contact](/contact)
 * [Donate](/donate)
+* [Twitter Threads](/twitter-threads)
 * [Past Updates](/past-updates)
 * [Site Map](/sitemap)
 
@@ -29,7 +30,7 @@ This model was active from April 2020 to November 2020.
 * [Maps - Europe](/maps-europe)
 * [Infections Tracker](/infections-tracker)
 * [Historical Performance](/historical-performance)
-* [Comparison with IHME](/model-comparison-ihme.md)
+* [Comparison with IHME](/model-comparison-ihme)
 
 ### Infections Estimates Model
 
