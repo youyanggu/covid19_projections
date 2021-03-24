@@ -20,12 +20,12 @@ The majority of this page is dedicated to explaining our death forecasting model
 
 Below is a list of all of our GitHub repositories that contain data and code related to COVID-19:
 
-- [Main COVID-19 data repository](https://github.com/youyanggu/covid19_projections)
-- [Infections estimates](https://github.com/youyanggu/covid19-infection-estimates-latest)
-- [Historical CDC vaccination data](https://github.com/youyanggu/covid19-cdc-vaccination-data)
-- [COVID-19 datasets](https://github.com/youyanggu/covid19-datasets)
-- [SEIR simulator](https://github.com/youyanggu/yyg-seir-simulator)
-- [Model evaluations](https://github.com/youyanggu/covid19-forecast-hub-evaluation)
+- [Main COVID-19 Repository](https://github.com/youyanggu/covid19_projections)
+- [Infections Estimates](https://github.com/youyanggu/covid19-infection-estimates-latest)
+- [Historical CDC Vaccination Data](https://github.com/youyanggu/covid19-cdc-vaccination-data)
+- [COVID-19 Datasets](https://github.com/youyanggu/covid19-datasets)
+- [SEIR Simulator](https://github.com/youyanggu/yyg-seir-simulator)
+- [Model Evaluations](https://github.com/youyanggu/covid19-forecast-hub-evaluation)
 
 ## Vaccination projections model
 
