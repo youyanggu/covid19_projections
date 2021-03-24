@@ -4,7 +4,31 @@ title: About covid19-projections.com
 permalink: /about/
 ---
 
-## Note: This page is in reference to the *covid19-projections.com* death forecasting model that was active from March 2020 to November 2020. Please click [here](/about-infections) for more information on the infection/vaccination estimates model that was active from November 2020 to March 2021.
+During the one-year period from March 2020 to March 2021, there have been three separate iterations of the *covid19-projections.com* model:
+
+| Model Type | Time Frame | Countries | US States | US Counties |
+| ---------- | ---------- | --------- | --------- | ----------- |
+| *Death forecasts* | March 2020 to November 2020 | 71 countries | 50 + DC/territories | 34 counties |
+| *Infection estimates* | November 2020 to March 2021 | US | 50 + DC/territories | 3000+ counties |
+| *Vaccination projections* | December 2020 to March 2021 | US only | --- | --- |
+
+## Vaccination projections model - Dec 2020 to Mar 2021
+
+See our [Path to Normality](/path-to-herd-immunity) page for a detailed description of this model.
+
+## Infection estimates model - Nov 2020 to Mar 2021
+
+From November 2020 to March 2021, *covid19-projections.com* featured daily nowcasting of infections estimates in the US, for all US states and 3,000+ US counties. See our estimates [here](/#view-us-infections-estimates). At the time of the 2020 fall wave, there were tens of models that were forecasting deaths (hence our decision to [wind down](https://youyanggu.com/blog/six-months-later) our own model). However, there were very few models that estimated true infections in each county, state and US nationally. The number of confirmed cases is an undercount of the true prevalence of the disease since not everyone who is infected choose to get tested. As of early 2021, we estimate that the true number of infections in the US is likely 2-4x higher than reported cases. In March and April, when testing was not as prevalent, we estimate that ratio to be closer to 10-20x.
+
+For this iteration of the model, we are nowcasting (what has happened/is happening) rather than forecasting (what will happen). Estimates are generated using only confirmed cases and testing data from [The COVID Tracking Project](https://covidtracking.com/). We compute a multiplier based on the date and test positivity rate. For example, in April 2020, a 10% positivity rate corresponds to roughly a 7x multiplier, meaning that for every confirmed case there are 6 undetected infections. By early 2021, since testing has been greatly expanded over the past year, a 10% test positivity rate corresponds to roughly a 2-3x multiplier (for every confirmed case there are 1-2 undetected infections). After we computed the multiplier, we apply it to the number of daily cases to get an estimate of the true number of daily infections (with a 2 week lag). For county-level infection estimates, we use county case data from [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19).
+
+For more details, see our methodology writeup: [Estimating True Infections Revisited](/estimating-true-infections-revisited/).
+
+You can download all of our estimates [here](https://github.com/youyanggu/covid19-infection-estimates-latest).
+
+## Death forecasting model - Mar 2020 to Nov 2021
+
+This is our original model that we started at the beginning of the pandemic and continued until the fall. You can find a detailed description below.
 
 ## Table of contents
 * [About the Model](#about-the-model)
