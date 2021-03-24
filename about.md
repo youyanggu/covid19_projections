@@ -8,9 +8,9 @@ permalink: /about/
 
 | Model Type | Time Frame | Countries | US States | US Counties |
 | ---------- | ---------- | --------- | --------- | ----------- |
-| *Death forecasts* | April 2020 to November 2020 | 71 countries | 50 + DC/territories | 34 counties |
-| *Infection estimates* | November 2020 to March 2021 | US | 50 + DC/territories | 3000+ counties |
-| *Vaccination projections* | December 2020 to March 2021 | US only | --- | --- |
+| *Death forecasts* | April 2020 - November 2020 | 71 countries | 50 + DC/territories | 34 counties |
+| *Infection estimates* | November 2020 - March 2021 | US | 50 + DC/territories | 3000+ counties |
+| *Vaccination projections* | December 2020 - March 2021 | US only | --- | --- |
 
 ## Vaccination projections model - Dec 2020 to Mar 2021
 
@@ -22,15 +22,16 @@ From November 2020 to March 2021, *covid19-projections.com* featured daily nowca
 
 For this iteration of the model, we are nowcasting (what has happened/is happening) rather than forecasting (what will happen). Estimates are generated using only confirmed cases and testing data from [The COVID Tracking Project](https://covidtracking.com/). We compute a multiplier based on the date and test positivity rate. For example, in April 2020, a 10% positivity rate corresponds to roughly a 7x multiplier, meaning that for every confirmed case there are 6 undetected infections. By early 2021, since testing has been greatly expanded over the past year, a 10% test positivity rate corresponds to roughly a 2-3x multiplier (for every confirmed case there are 1-2 undetected infections). After we computed the multiplier, we apply it to the number of daily cases to get an estimate of the true number of daily infections (with a 2 week lag). For county-level infection estimates, we use county case data from [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19).
 
-For more details, see our methodology writeup: [Estimating True Infections Revisited](/estimating-true-infections-revisited/).
+For more details, see our methodology writeup: [*Estimating True Infections Revisited*](/estimating-true-infections-revisited/).
 
 You can download all of our estimates [here](https://github.com/youyanggu/covid19-infection-estimates-latest).
 
 ## Death forecasting model - Apr 2020 to Nov 2021
 
-This is our original model that we started at the beginning of the pandemic and continued until the fall. You can find a detailed description below:
+This is our original model that we started at the beginning of the pandemic in 2020 and continued until the fall. The majority of this page is dedicated to explaining this model. You can find a detailed description below:
 
-## Table of contents
+## Table of contents (Death forecasting model)
+
 * [About the Model](#about-the-model)
 * [Who We Are](#who-we-are)
 * [How Our Model is Different](#how-our-model-is-different)
