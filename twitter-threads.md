@@ -10,7 +10,17 @@ permalink: /twitter-threads/
 
 This page contains a comprehensive list of Twitter threads by Youyang Gu ([@youyanggu](https://twitter.com/youyanggu)) that are related to COVID-19. Due to the fast-paced environment of COVID-19 developments and our limited team (of one), Twitter is Youyang's preferred method of posting announcements, sharing results and fasciliating discussion. Below is a comprehensive list of our Tweets since late April:
 
-### Research
+### Table of Contents
+
+* [Original Research](#original-research)
+* [Miscellaneous](#miscellaneous)
+* [Death Forecasting Model](#death-forecasting-model)
+  * [Projections Updates](#projection-updates)
+  * [Model Evaluations](#model-evaluations)
+  * [Maps](#maps)
+  * [Testing Targets](#testing-targets)
+
+### Original Research
 
 [August 10](https://twitter.com/youyanggu/status/1292898685173534722) - Role of immunity vs behavior vs interventions (Louisiana case study)<br>
 [August 5](https://twitter.com/youyanggu/status/1291092311045283841) - Estimating true infections<br>
@@ -52,7 +62,9 @@ This page contains a comprehensive list of Twitter threads by Youyang Gu ([@youy
 [April 26](https://twitter.com/youyanggu/status/1254505012396343296) - Rt estimates<br>
 [April 25](https://twitter.com/youyanggu/status/1253964427801444353) - Death milestone probabilities<br>
 
-### Projections updates
+### Death Forecasting Model
+
+#### Projections Updates
 
 [October 6](https://twitter.com/youyanggu/status/1313564063679614982)<br>
 [September 30](https://twitter.com/youyanggu/status/1311384211983675397)<br>
@@ -75,7 +87,7 @@ This page contains a comprehensive list of Twitter threads by Youyang Gu ([@youy
 [May 27](https://twitter.com/youyanggu/status/1265752914011684865)<br>
 [May 20](https://twitter.com/youyanggu/status/1263208199756234753)<br>
 
-### Model evaluations
+#### Model Evaluations
 
 [July 14](https://twitter.com/youyanggu/status/1283102532236181504)<br>
 [June 29](https://twitter.com/youyanggu/status/1277679302797033475) - Baseline comparison with IHME<br>
@@ -88,7 +100,7 @@ This page contains a comprehensive list of Twitter threads by Youyang Gu ([@youy
 [April 27](https://twitter.com/youyanggu/status/1254866622646386689)<br>
 [April 24](https://twitter.com/youyanggu/status/1253611229689475075)<br>
 
-### Maps
+#### Maps
 
 [June 27](https://twitter.com/youyanggu/status/1276765403281268736)<br>
 [June 24](https://twitter.com/youyanggu/status/1275683113109250048)<br>
@@ -98,7 +110,7 @@ This page contains a comprehensive list of Twitter threads by Youyang Gu ([@youy
 [June 6](https://twitter.com/youyanggu/status/1269379382352605184)<br>
 [June 5](https://twitter.com/youyanggu/status/1269017578682253312)<br>
 
-### Testing targets
+#### Testing Targets
 
 [June 7](https://twitter.com/youyanggu/status/1269536626591412232)<br>
 [May 30](https://twitter.com/youyanggu/status/1266843764649152512)<br>
