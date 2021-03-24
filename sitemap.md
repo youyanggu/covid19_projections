@@ -6,6 +6,8 @@ permalink: /sitemap/
 
 ## Site Map
 
+This page contains links to every page on *covid19-projections.com* (excluding death forecast/infection estimate pages for every location). Use this to help navigate to your desired page.
+
 *Last Updated: March 24, 2021*
 
 * [Home](/)
@@ -36,8 +38,8 @@ This model was active from November 2020 to March 2021.
 * [View Infections Estimates](/#view-us-infections-estimates)
 * [Maps](/maps-infections)
 * [Counties Summary](/infections/summary-counties)
-* [Estimating True Infections Revisited](/estimating-true-infections-revisited) - Methodology (Updated)
-* [Estimating True Infections](/estimating-true-infections) - Methodology (Original)
+* [Estimating True Infections Revisited](/estimating-true-infections-revisited)
+* [Estimating True Infections](/estimating-true-infections)
 
 ### Vaccination Estimates Model
 
