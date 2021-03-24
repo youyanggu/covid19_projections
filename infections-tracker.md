@@ -4,7 +4,7 @@ title: COVID-19 Infections Tracker
 permalink: /infections-tracker/
 ---
 
-## Note: This page is no longer being maintained. Please visit the [home page](/) for the latest infections updates for the US.
+### Note: Since October 2020, this page is no longer being maintained. Please visit the [home page](/) for the infections updates for the US through March 2021.
 
 Our model tries to do what no other model currently does (to the best of our knowledge): provide an estimate for the R values and the true number of infected individuals in every region.
 
