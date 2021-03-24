@@ -1,3 +1,9 @@
+---
+layout: default
+title: Twitter Threads
+permalink: /twitter-threads/
+---
+
 ## Twitter Threads
 
 *Last Updated: October 6, 2020*
