@@ -12,9 +12,13 @@ permalink: /about/
 | *Infection estimates* | November 2020 - March 2021 | US | 50 + DC/territories | 3000+ counties |
 | *Vaccination projections* | December 2020 - March 2021 | US only | --- | --- |
 
+For an overview of all the pages on this site, see our [Site Map](/sitemap).
+
+The majority of this page is dedicated to explaining our death forecasting model that was active from April to November 2020. We briefly go over our other two model iterations in the next two sections:
+
 ## Vaccination projections model - Dec 2020 to Mar 2021
 
-See our [Path to Normality](/path-to-herd-immunity) page for a detailed description of this model.
+With the availability of the COVID-19 vaccine starting in December 2020, we present our vaccination projections and the path to normality in the US. See our [Path to Normality](/path-to-herd-immunity) page for a detailed description of this model.
 
 ## Infection estimates model - Nov 2020 to Mar 2021
 
@@ -28,7 +32,7 @@ You can download all of our estimates [here](https://github.com/youyanggu/covid1
 
 ## Death forecasting model - Apr 2020 to Nov 2021
 
-This is our original model that we started at the beginning of the pandemic in 2020 and continued until the fall. The majority of this page is dedicated to explaining this model. You can find a detailed description below:
+This is our original model that we started at the beginning of the pandemic in 2020 and continued until the fall. You can find a detailed description below:
 
 ## Table of contents (Death forecasting model)
 
