@@ -14,6 +14,8 @@ permalink: /about/
 
 For an overview of all the pages on this site, see our [Site Map](/sitemap).
 
+Social media, especially Twitter, has been instrumental in shaping the models on this site. A lot of our original research was first posted by Youyang on Twitter. See our [Twitter Threads](/twitter-threads) page to see a comprehensive list of Tweets related to COVID-19.
+
 The majority of this page is dedicated to explaining our death forecasting model that was active from April to November 2020. We briefly go over our other model iterations in the next three sections.
 
 ## Data and Code
@@ -612,6 +614,7 @@ To conclude, we believe that a successful model must be able to quickly determin
 
 National
 * [Wall Street Journal](https://www.wsj.com/articles/how-covid-19-death-rate-predictions-have-changed-since-march-11603445400) - Oct 23
+* [Bloomberg](https://www.bloomberg.com/opinion/articles/2020-10-21/covid-herd-immunity-threshold-is-difficult-to-determine) - Oct 21
 * [Business Insider](https://www.businessinsider.com/coronavirus-global-death-toll-may-be-higher-1-million-2020-9) - Sep 29
 * [CNBC](https://www.nbcnews.com/science/science-news/vindicated-covid-19-models-warn-pandemic-far-over-n1240934) - Sep 24
 * [The Hill](https://thehill.com/policy/healthcare/517918-rising-coronavirus-cases-spark-fears-of-harsh-winter) - Sep 24
@@ -688,7 +691,6 @@ Local
 * [The Center Square](https://www.thecentersquare.com/florida/dueling-models-one-says-florida-s-covid-19-peak-has-passed-another-says-worst-to/article_2037bd12-a12d-11ea-b293-6fe15cef2ecb.html) - May 28
 
 International
-* [The Jakarta Post (Indonesia)](https://www.thejakartapost.com/paper/2020/11/05/daily-covid-19-cases-decline-in-line-with-virus-testing.html) - Nov 5
 * [Financial Review (Australia)](https://www.afr.com/world/north-america/trump-torpedoes-covid-relief-talks-until-after-election-20201007-p562nh) - Oct 7
 * [Huffington Post (France)](https://www.huffingtonpost.fr/entry/la-recrudescence-actuelle-du-covid-19-est-inquietante-mais-peut-etre-jugulee_fr_5f771e38c5b66377b280e82d) - Oct 2
 * [El Pais (Spain)](https://elpais.com/politica/2020/10/01/actualidad/1601543892_815336.html) - Oct 2
