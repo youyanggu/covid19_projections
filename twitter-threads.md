@@ -8,9 +8,9 @@ permalink: /twitter-threads/
 
 *Last Updated: March 24, 2021*
 
-This page contains a comprehensive list of Twitter threads by Youyang Gu ([@youyanggu](https://twitter.com/youyanggu)) that are related to COVID-19. Due to the fast-paced environment of COVID-19 developments and our limited team (of one), Twitter is Youyang's preferred method of posting announcements, sharing results and fasciliating discussion. Below is a comprehensive list of our Tweets since late April.
+This page contains a comprehensive list of Twitter threads by Youyang Gu ([@youyanggu](https://twitter.com/youyanggu)) that are related to COVID-19. Due to the fast-paced environment of COVID-19 developments and the site's limited team (of one), Twitter is Youyang's preferred method of posting announcements, sharing results and fasciliating discussion. Below is a comprehensive list of our Tweets since late April.
 
-Dates **in bold** indicates threads that I personally recommend.
+Dates **in bold** indicates threads that Youyang personally recommends reading.
 
 ### Table of Contents
 
@@ -113,7 +113,7 @@ Dates **in bold** indicates threads that I personally recommend.
 [April 28, 2020](https://twitter.com/youyanggu/status/1255034262006333440) - NYC subway ridership analysis<br>
 [April 26, 2020](https://twitter.com/youyanggu/status/1254505012396343296) - Rt estimates<br>
 [April 25, 2020](https://twitter.com/youyanggu/status/1253964427801444353) - Death milestone probabilities<br>
-[Early April 2020](https://twitter.com/search?q=(from%3Ayouyanggu)%20until%3A2020-04-25%20since%3A2020-04-01%20%20-filter%3Areplies&src=typed_query&f=live) - Tweets from early April<br>
+[Early April 2020](https://twitter.com/search?q=(from%3Ayouyanggu)%20until%3A2020-04-24%20since%3A2020-04-01%20%20-filter%3Areplies&src=typed_query&f=live) - Tweets from early April<br>
 
 [Back to Top](#top)
 
@@ -201,7 +201,7 @@ Dates **in bold** indicates threads that I personally recommend.
 
 [Back to Top](#top)
 
-#### Testing Targets
+#### States Testing Targets
 
 [June 7, 2020](https://twitter.com/youyanggu/status/1269536626591412232)<br>
 [May 30, 2020](https://twitter.com/youyanggu/status/1266843764649152512)<br>
