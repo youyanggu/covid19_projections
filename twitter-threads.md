@@ -63,7 +63,7 @@ Dates **in bold** indicates threads that I personally recommend.
 [March 3, 2021](https://twitter.com/youyanggu/status/1367275557742931971) - Predictable storyline<br>
 [March 3, 2021](https://twitter.com/youyanggu/status/1367202710471249920) - Vaccination milestone<br>
 [**March 2, 2021**](https://twitter.com/youyanggu/status/1366810815437950979) - Dangers of data / school reopenings<br>
-[February 26, 2021](https://twitter.com/youyanggu/status/1365355683823116288) - One year later - winding down model<br>
+[February 26, 2021](https://twitter.com/youyanggu/status/1365355683823116288) - One year later: winding down model<br>
 [February 23, 2021](https://twitter.com/youyanggu/status/1364274753851305984) - NYT unreasonable model assumptions<br>
 [February 21, 2021](https://twitter.com/youyanggu/status/1363618681142575105) - CDC vaccination methodology change<br>
 [February 19, 2021](https://twitter.com/youyanggu/status/1362799609161129986) - Bloomberg Businessweek profile<br>
@@ -86,7 +86,7 @@ Dates **in bold** indicates threads that I personally recommend.
 [December 9, 2020](https://twitter.com/youyanggu/status/1336790982340214789) - COVIDhub Ensemble model performance<br>
 [**November 24, 2020**](https://twitter.com/youyanggu/status/1331341646928207873) - Illinois vs Florida media bias<br>
 [October 1, 2020](https://twitter.com/youyanggu/status/1311772987625033738) - Community vs individual risk<br>
-[September 28, 2020](https://twitter.com/youyanggu/status/1310652383396065280) - Six months later - winding down model<br>
+[September 28, 2020](https://twitter.com/youyanggu/status/1310652383396065280) - Six months later: winding down model<br>
 [September 4, 2020](https://twitter.com/youyanggu/status/1301915424456609793) - Forecasting uncertainty<br>
 [August 27, 2020](https://twitter.com/youyanggu/status/1299016969631531008) - Following the science<br>
 [August 13, 2020](https://twitter.com/youyanggu/status/1293944308110852099) - Talk announcement<br>
@@ -96,13 +96,12 @@ Dates **in bold** indicates threads that I personally recommend.
 [July 9, 2020](https://twitter.com/youyanggu/status/1281246408083939332) - Bottlenecks and delays in testing<br>
 [July 3, 2020](https://twitter.com/youyanggu/status/1279096904807256064) - Sample comparison with IHME<br>
 [July 2, 2020](https://twitter.com/youyanggu/status/1278725117808443394) - Summer wave<br>
-[June 25, 2020](https://twitter.com/youyanggu/status/1276075048521121793) - Trivia<br>
+[June 25, 2020](https://twitter.com/youyanggu/status/1276075048521121793) - Exponential growth trivia<br>
 [June 24, 2020](https://twitter.com/youyanggu/status/1275855071708958722) - Open sourcing SEIR simulator<br>
 [June 21, 2020](https://twitter.com/youyanggu/status/1274792488285462539) - IHME's lack of representation<br>
 [June 12, 2020](https://twitter.com/youyanggu/status/1271329063634743306) - IHME September projections<br>
 [June 9, 2020](https://twitter.com/youyanggu/status/1270461343892566016) - Probable deaths reporting<br>
 [May 29, 2020](https://twitter.com/youyanggu/status/1266455964191846400) - Self-quarantine scenario<br>
-[May 28, 2020](https://twitter.com/youyanggu/status/1266103565870747648) - CNN projection accuracy<br>
 [May 16, 2020](https://twitter.com/youyanggu/status/1261815392856489984) - Seroprevalence in Stockholm<br>
 [May 16, 2020](https://twitter.com/youyanggu/status/1261755888781545479) - New feature: Rt over time<br>
 [May 15, 2020](https://twitter.com/youyanggu/status/1261422993256792066) - Shopping simulation<br>
@@ -192,6 +191,7 @@ Dates **in bold** indicates threads that I personally recommend.
 [June 29, 2020](https://twitter.com/youyanggu/status/1277679302797033475) - Baseline comparison with IHME<br>
 [June 23, 2020](https://twitter.com/youyanggu/status/1275490419271512067)<br>
 [June 17, 2020](https://twitter.com/youyanggu/status/1273304784796176384) - Open source model evaluation<br>
+[May 28, 2020](https://twitter.com/youyanggu/status/1266103565870747648) - Accuracy of CNN projections<br>
 [May 18, 2020](https://twitter.com/youyanggu/status/1262477877435437056)<br>
 [May 17, 2020](https://twitter.com/youyanggu/status/1262149966249652224)<br>
 [May 9, 2020](https://twitter.com/youyanggu/status/1259242623228719104)<br>
