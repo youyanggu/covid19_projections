@@ -4,7 +4,9 @@ title: About covid19-projections.com
 permalink: /about/
 ---
 
-*covid19-projections.com* was launched in early April 2020 by independent data scientist [Youyang Gu](https://youyanggu.com). Since the very beginning, the site's goal was to use a data-driven, AI-based model to make the most accurate COVID-19 projections and estimates. During the one-year period when the site was actively updated (April 2020 to March 2021), there have been three separate iterations of the *covid19-projections.com* model:
+*covid19-projections.com* was launched in early April 2020 by independent data scientist [Youyang Gu](https://youyanggu.com). Since the very beginning, the site's goal was to use a data-driven, AI-based model to make the most accurate COVID-19 projections and estimates. By the end of April 2020, it was cited by the [Centers for Disease Control & Prevention (CDC)](https://cdc.gov) as one of the first models to "help inform public health decision making". In the months after, *covid19-projections.com* became one of the widely-cited models in academia, media, government, and industry. It was lauded by many as the most accurate COVID-19 model.
+
+During the one-year period when the site was actively updated (April 2020 to March 2021), there have been three separate iterations of the *covid19-projections.com* model:
 
 | Model Type | Time Frame | Updates | Countries | US States | US Counties |
 | ---------- | ---------- | ---------------- | --------- | --------- | ----------- |
