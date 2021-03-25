@@ -6,7 +6,7 @@ permalink: /twitter-threads/
 
 ## Twitter Threads
 
-*Last Updated: October 6, 2020*
+*Last Updated: March 24, 2021*
 
 This page contains a comprehensive list of Twitter threads by Youyang Gu ([@youyanggu](https://twitter.com/youyanggu)) that are related to COVID-19. Due to the fast-paced environment of COVID-19 developments and our limited team (of one), Twitter is Youyang's preferred method of posting announcements, sharing results and fasciliating discussion. Below is a comprehensive list of our Tweets since late April.
 
@@ -15,8 +15,8 @@ Dates **in bold** indicates threads that I personally recommend.
 ### Table of Contents
 
 * [Original Research](#original-research)
-* [Miscellaneous](#miscellaneous)
 * [Personal](#personal)
+* [Miscellaneous](#miscellaneous)
 * [Maps](#maps)
 * [Vaccination Projections Model](#vaccination-projections-model)
 * [Infections Estimates Model](#infections-estimates-model)
@@ -36,6 +36,15 @@ Dates **in bold** indicates threads that I personally recommend.
 [**August 10, 2020**](https://twitter.com/youyanggu/status/1292898685173534722) - Role of immunity vs behavior vs interventions (Louisiana case study)<br>
 [August 5, 2020](https://twitter.com/youyanggu/status/1291092311045283841) - Estimating true infections<br>
 [July 24, 2020](https://twitter.com/youyanggu/status/1286795355561107457) / [July 31, 2020](https://twitter.com/youyanggu/status/1289284529052700678) - Implied infection fatality rate<br>
+[June 13, 2020](https://twitter.com/youyanggu/status/1271945547176226816) - Subway ridership analysis<br>
+[May 20, 2020](https://twitter.com/youyanggu/status/1263283908914761729) - OpenTable restaurant occupancy analysis<br>
+
+### Personal
+
+[**March 12, 2021**](https://twitter.com/youyanggu/status/1370416096285655043) - Last update and final thoughts<br>
+[March 1, 2021](https://twitter.com/youyanggu/status/1366473793393332234) - Hopeful<br>
+[February 20, 2021](https://twitter.com/youyanggu/status/1363211503738970112) - Grateful<br>
+[December 18, 2020](https://twitter.com/youyanggu/status/1340021296512393216) - A dose of optimism<br>
 
 ### Miscellaneous
 
@@ -63,7 +72,7 @@ Dates **in bold** indicates threads that I personally recommend.
 [January 14, 2021](https://twitter.com/youyanggu/status/1349817775909269505) - CDC website error<br>
 [December 31, 2020](https://twitter.com/youyanggu/status/1344778339819507712) - Delaying a second dose<br>
 [December 30, 2020](https://twitter.com/youyanggu/status/1344455478349234177) - Peak may be yet to come<br>
-[December 29, 2020](https://twitter.com/youyanggu/status/1344002411556339712) - Major flaws in CDC infections estimates<br>
+[**December 29, 2020**](https://twitter.com/youyanggu/status/1344002411556339712) - Major flaws in CDC infections estimates (CDC paper review)<br>
 [December 17, 2020](https://twitter.com/youyanggu/status/1339676769683558400) - Call for donations<br>
 [**December 15, 2020**](https://twitter.com/youyanggu/status/1338952594492813312) - Vaccination misinformation<br>
 [December 14, 2020](https://twitter.com/youyanggu/status/1338587017966284800) - Vaccination side effects<br>
@@ -80,35 +89,26 @@ Dates **in bold** indicates threads that I personally recommend.
 [July 11, 2020](https://twitter.com/youyanggu/status/1282028087870459904) - Rise in infections/deaths<br>
 [July 9, 2020](https://twitter.com/youyanggu/status/1281246408083939332) - Bottlenecks and delays in testing<br>
 [July 3, 2020](https://twitter.com/youyanggu/status/1279096904807256064) - Sample comparison with IHME<br>
-[July 2, 2020](https://twitter.com/youyanggu/status/1278725117808443394) - Second wave<br>
+[July 2, 2020](https://twitter.com/youyanggu/status/1278725117808443394) - Summer wave<br>
 [June 25, 2020](https://twitter.com/youyanggu/status/1276075048521121793) - Trivia<br>
 [June 24, 2020](https://twitter.com/youyanggu/status/1275855071708958722) - Open sourcing SEIR simulator<br>
 [June 21, 2020](https://twitter.com/youyanggu/status/1274792488285462539) - IHME's lack of representation<br>
-[June 13, 2020](https://twitter.com/youyanggu/status/1271945547176226816) - Subway ridership analysis<br>
 [June 12, 2020](https://twitter.com/youyanggu/status/1271329063634743306) - IHME September projections<br>
 [June 9, 2020](https://twitter.com/youyanggu/status/1270461343892566016) - Probable deaths reporting<br>
 [May 29, 2020](https://twitter.com/youyanggu/status/1266455964191846400) - Self-quarantine scenario<br>
 [May 28, 2020](https://twitter.com/youyanggu/status/1266103565870747648) - CNN projection accuracy<br>
-[May 20, 2020](https://twitter.com/youyanggu/status/1263283908914761729) - OpenTable analysis<br>
 [May 16, 2020](https://twitter.com/youyanggu/status/1261815392856489984) - Seroprevalence in Stockholm<br>
 [May 16, 2020](https://twitter.com/youyanggu/status/1261755888781545479) - New feature: Rt over time<br>
 [May 15, 2020](https://twitter.com/youyanggu/status/1261422993256792066) - Shopping simulation<br>
 [May 14, 2020](https://twitter.com/youyanggu/status/1261075742021963777) - Social distancing 1 week earlier scenario<br>
 [May 13, 2020](https://twitter.com/youyanggu/status/1260678487221796864) - New feature: No reopenings<br>
 [May 2, 2020](https://twitter.com/youyanggu/status/1256739926839668736) - NY serology survey<br>
-[April 30, 2020](https://twitter.com/youyanggu/status/1256051255253757953) - Infections fatality rate<br>
+[April 30, 2020](https://twitter.com/youyanggu/status/1256051255253757953) - Infection fatality rate (IFR)<br>
 [April 29, 2020](https://twitter.com/youyanggu/status/1255663596387725314) - Model added to CDC website<br>
 [April 28, 2020](https://twitter.com/youyanggu/status/1255034262006333440) - NYC subway ridership analysis<br>
 [April 26, 2020](https://twitter.com/youyanggu/status/1254505012396343296) - Rt estimates<br>
 [April 25, 2020](https://twitter.com/youyanggu/status/1253964427801444353) - Death milestone probabilities<br>
 [Early April 2020](https://twitter.com/search?q=(from%3Ayouyanggu)%20until%3A2020-04-25%20since%3A2020-04-01%20%20-filter%3Areplies&src=typed_query&f=live) - Tweets from early April<br>
-
-### Personal
-
-[**March 12, 2021**](https://twitter.com/youyanggu/status/1370416096285655043) - Last update and final thoughts<br>
-[March 1, 2021](https://twitter.com/youyanggu/status/1366473793393332234) - Hopeful<br>
-[February 20, 2021](https://twitter.com/youyanggu/status/1363211503738970112) - Grateful<br>
-[December 18, 2020](https://twitter.com/youyanggu/status/1340021296512393216) - A dose of optimism<br>
 
 ### Maps
 
