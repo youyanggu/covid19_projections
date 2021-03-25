@@ -25,6 +25,8 @@ Dates **in bold** indicates threads that I personally recommend.
   * [Model Evaluations](#model-evaluations)
   * [Testing Targets](#testing-targets)
 
+[Back to Top](#top)
+
 ### Original Research
 
 [**February 24, 2021**](https://twitter.com/youyanggu/status/1364627872233750543) - Return to normal<br>
@@ -39,12 +41,16 @@ Dates **in bold** indicates threads that I personally recommend.
 [June 13, 2020](https://twitter.com/youyanggu/status/1271945547176226816) - Subway ridership analysis<br>
 [May 20, 2020](https://twitter.com/youyanggu/status/1263283908914761729) - OpenTable restaurant occupancy analysis<br>
 
+[Back to Top](#top)
+
 ### Personal
 
 [**March 12, 2021**](https://twitter.com/youyanggu/status/1370416096285655043) - Last update and final thoughts<br>
 [March 1, 2021](https://twitter.com/youyanggu/status/1366473793393332234) - Hopeful<br>
 [February 20, 2021](https://twitter.com/youyanggu/status/1363211503738970112) - Grateful<br>
 [December 18, 2020](https://twitter.com/youyanggu/status/1340021296512393216) - A dose of optimism<br>
+
+[Back to Top](#top)
 
 ### Miscellaneous
 
@@ -110,6 +116,8 @@ Dates **in bold** indicates threads that I personally recommend.
 [April 25, 2020](https://twitter.com/youyanggu/status/1253964427801444353) - Death milestone probabilities<br>
 [Early April 2020](https://twitter.com/search?q=(from%3Ayouyanggu)%20until%3A2020-04-25%20since%3A2020-04-01%20%20-filter%3Areplies&src=typed_query&f=live) - Tweets from early April<br>
 
+[Back to Top](#top)
+
 ### Maps
 
 [February 16, 2021](https://twitter.com/youyanggu/status/1361732906444611586)<br>
@@ -124,6 +132,8 @@ Dates **in bold** indicates threads that I personally recommend.
 [June 6, 2020](https://twitter.com/youyanggu/status/1269379382352605184)<br>
 [June 5, 2020](https://twitter.com/youyanggu/status/1269017578682253312)<br>
 
+[Back to Top](#top)
+
 ### Vaccination Projections Model
 
 [February 25, 2021](https://twitter.com/youyanggu/status/1365005143813537797) - Feb 25 Weekly Update<br>
@@ -137,6 +147,8 @@ Dates **in bold** indicates threads that I personally recommend.
 [December 28, 2020](https://twitter.com/youyanggu/status/1343675401436971008) - Vaccination progress update<br>
 [December 10, 2020](https://twitter.com/youyanggu/status/1337147909955964929) - Model announcement<br>
 
+[Back to Top](#top)
+
 ### Infections Estimates Model
 
 [January 4, 2021](https://twitter.com/youyanggu/status/1346562128346378240) - New feature: US county summary<br>
@@ -144,6 +156,8 @@ Dates **in bold** indicates threads that I personally recommend.
 [December 1, 2020](https://twitter.com/youyanggu/status/1333846490935156736) - New feature updates<br>
 [November 23, 2020](https://twitter.com/youyanggu/status/1330882046017888257) - New feature: County-level infections estimates<br>
 [November 18, 2020](https://twitter.com/youyanggu/status/1329222193293778945) - Model announcement<br>
+
+[Back to Top](#top)
 
 ### Death Forecasting Model
 
@@ -170,6 +184,8 @@ Dates **in bold** indicates threads that I personally recommend.
 [May 13, 2020](https://twitter.com/youyanggu/status/1260646026542641152)<br>
 [May 1, 2020](https://twitter.com/youyanggu/status/1256149242260807680)<br>
 
+[Back to Top](#top)
+
 #### Model Evaluations
 
 [July 14, 2020](https://twitter.com/youyanggu/status/1283102532236181504)<br>
@@ -182,6 +198,8 @@ Dates **in bold** indicates threads that I personally recommend.
 [May 4, 2020](https://twitter.com/youyanggu/status/1257434380856889346)<br>
 [April 27, 2020](https://twitter.com/youyanggu/status/1254866622646386689)<br>
 [April 24, 2020](https://twitter.com/youyanggu/status/1253611229689475075)<br>
+
+[Back to Top](#top)
 
 #### Testing Targets
 
