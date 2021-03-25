@@ -35,7 +35,7 @@ We present a simple nowcasting model that 1) computes a standardized test positi
 To estimate the prevalence ratio on day `i` (defined as the ratio of true infections to reported cases), we use the following heuristic:
 ![Equation](/assets/images/etir_equation.png)
 
-Using this methodology, we built a visualization at [covid19-projections.com](https://covid19-projections.com) that contains our estimates for every US state (50 states + DC + 4 territories) and roughly all US counties (3,140).
+Using this methodology, we built a visualization at [covid19-projections.com](/#view-us-infections-estimates) that contains our estimates for every US state (50 states + DC + 4 territories) and roughly all US counties (3,000+).
 
 We found that the peak prevalence of COVID-19 in the US was roughly equal in the summer (June-July 2020) as in the spring (March-April 2020). During both waves, new incident cases (true infections) reached around 300,000 new infections per day. However, because deaths were about 50% lower in the summer, the *implied infection fatality rate (IIFR)* is lower in June-July (~0.5%) than in March-April (~1%). During the the fall wave in October-December 2020, we estimate that new infections exceeded 500,000 per day in the US, about twice as high as the first two waves. In total, by mid-November 2020, we estimate around 50 million (1 in 7) Americans have been infected at some point by the SARS-CoV-2 virus.
 
