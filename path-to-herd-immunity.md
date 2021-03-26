@@ -32,6 +32,7 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 * [Corollaries](#corollaries)
 * [Helpful Data Sources](#helpful-data-sources)
 * [Questions? Comments? Feedback?](#questions-comments-feedback)
+* [Past Updates](#past-updates)
 
 [Back to Top](#top)
 
