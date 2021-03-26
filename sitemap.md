@@ -6,9 +6,9 @@ permalink: /sitemap/
 
 ## Site Map
 
-This page contains links to every page on *covid19-projections.com* (excluding death forecast/infection estimate pages for every location). Use this to help navigate to your desired page.
+This page contains links to every page on *covid19-projections.com* (excluding individual location pages). Use this to help navigate to your desired page.
 
-*Last Updated: March 24, 2021*
+*Last Updated: March 26, 2021*
 
 * [Home](/)
 * [About](/about)
@@ -42,7 +42,7 @@ This model was active from November 2020 to March 2021.
 * [Estimating True Infections Revisited](/estimating-true-infections-revisited)
 * [Estimating True Infections](/estimating-true-infections)
 
-### Vaccination Estimates Model
+### Vaccination Projections Model
 
 This model was active from December 2020 to March 2021.
 
