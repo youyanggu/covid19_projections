@@ -6,18 +6,20 @@ permalink: /path-to-herd-immunity/
 
 # Path to ~~Herd Immunity~~ Normality : 2021 Outlook of COVID-19 in the US
 By: [Youyang Gu](https://youyanggu.com)
-<br>Last Updated: March 8, 2021 (*First posted December 9, 2020; CDC plots updated daily)*
+<br>Last Updated: March 8, 2021 (*First posted December 9, 2020)*
 
 With the availability of the COVID-19 vaccine, we present our best estimate of the path to COVID-19 herd immunity / normality in the United States. Immunity against the SARS-CoV-2 virus comes from two sources: vaccination and natural infection. On this page, we provide the latest COVID-19 vaccine projections and current vaccination progress.
 
 **March 8 Update:** We have ended our daily updates for *covid19-projections.com* and hence are no longer be updating this page. Read Youyang's [One Year Later](https://youyanggu.com/blog/one-year-later) blog post for a detailed explanation and for a list of alternate resources. You can view the latest vaccination trends on the [CDC website](https://covid.cdc.gov/covid-data-tracker/#vaccination-trends). Thank you for your support over the past year.
 
-**February 24 Update:** See our [latest thoughts](https://twitter.com/youyanggu/status/1364627872233750543) on when to expect a return to normal. [Older updates](#updates)
+**February 24 Update:** See our [latest thoughts](https://twitter.com/youyanggu/status/1364627872233750543) on when to expect a return to normal.
+
+[Older updates](#past-updates)
 {% include_relative vaccination-last-updated.md %}
 {% include iframe_vaccination.html %}
 *Note:* Our infections estimates include all new infected individuals of the SARS-CoV-2 virus, not just those that took a COVID-19 test and tested positive. As of January 2021, we estimate the true number of infected individuals in the US to be roughly 2-4x higher than the reported cases (25-50% detection rate). See our writeup, [Estimating True Infections](/estimating-true-infections-revisited), for a more detailed look into this subject.
 
-### We stopped updating CDC vaccination data on March 8. For the latest time series, visit the [CDC website](https://covid.cdc.gov/covid-data-tracker/#vaccination-trends). See our old plots through March 8 [here](/vaccination_cdc).
+### We stopped updating CDC vaccination data on March 8, 2021. For the latest time series, visit the [CDC website](https://covid.cdc.gov/covid-data-tracker/#vaccination-trends). See our old plots through March 8 [here](/vaccination_cdc).
 
 [Back to Top](#top)
 
@@ -105,7 +107,7 @@ The underlying assumptions behind our estimates are presented below:
 
 ### Basic Assumptions
 
-- **Important:** The only SARS-CoV-2 variant we are currently modeling is the B.1.1.7 variant that was first detected in the UK (see Jan 11 update [below](#updates)). If other variants become more prevalent in the US, these estimates may no longer hold. We are monitoring for more data regarding the other variants.
+- **Important:** The only SARS-CoV-2 variant we are currently modeling is the B.1.1.7 variant that was first detected in the UK (see Jan 11 update [below](#past-updates)). If other variants become more prevalent in the US, these estimates may no longer hold. We are monitoring for more data regarding the other variants.
 - We assume immunity can be achieved through either natural infection or vaccination. We assume this immunity can be lost over time.
 - We assume herd immunity is near when at least 60-80% of the population possess immunity from the SARS-CoV-2 virus. This corresponds to roughly 200-260 million individuals in the US. Due to population heterogeneity, variation in susceptibility and/or pre-existing immunity, it is possible that the herd immunity threshold (HIT) can be lower. But HIT can also be higher due to a higher transmissibility of virus variants and the targeted approach of vaccine distribution (e.g. individuals with the greatest impact on transmission are vaccinated last).
 - We assume states will continue to impose varying degrees of restrictions and interventions until hospitalizations and deaths drop to low levels. The exact thresholds will depend on each state.
@@ -137,7 +139,7 @@ The underlying assumptions behind our estimates are presented below:
 
 ### Infection Assumptions
 
-- **Important:** The only SARS-CoV-2 variant we are currently modeling is the B.1.1.7 variant that was first detected in the UK (see Jan 11 update [below](#updates)). There is a high amount of uncertainty with our estimates that is not reflected in the chart. While we are showing our best estimate, is possible that true infections curve can be dramatically different (e.g. a fourth wave in March).. We are monitoring for more data regarding the other variants.
+- **Important:** The only SARS-CoV-2 variant we are currently modeling is the B.1.1.7 variant that was first detected in the UK (see Jan 11 update [below](#past-updates)). There is a high amount of uncertainty with our estimates that is not reflected in the chart. While we are showing our best estimate, is possible that true infections curve can be dramatically different (e.g. a fourth wave in March).. We are monitoring for more data regarding the other variants.
 - We assume roughly 65 million people in the US (20% of the population) have already been infected by the time the first COVID-19 vaccine is authorized in mid-December 2020 (based on our latest [covid19-projections.com](/) model).
 - At the start of the vaccine rollout in mid-December 2020, we assume ~99% of individuals who were previously infected still possess immunity. Over time, we assume a proportion of the infected population (~30%, increased from 10-20% on Feb 18) will lose their immunity by the end of 2021. The longer the time from infection, the higher the likelihood of immunity being lost. While it's still unclear if prior infection confers long-term immunity, recent research ([here](https://www.nejm.org/doi/full/10.1056/NEJMoa2034545?s=09) and [here](https://science.sciencemag.org/content/early/2021/01/06/science.abf4063)) indicates that short-term reinfections are rare.
 - We assume that the infection rate will fall as the number of individuals who are inoculated/vaccinated increases.
@@ -180,7 +182,7 @@ You can reach Youyang Gu via the [Contact](/contact) page.
 
 [Back to Top](#top)
 
-## Updates
+## Past Updates
 
 * *February 21:* There appears to be a methodology change for how the CDC reports vaccinations. Some clarifications [via Bloomberg](https://www.bloomberg.com/news/live-blog/2021-01-21/methodology-and-analysis-for-the-covid-19-vaccine-tracker#60319089B2240006). 
 * *February 11:* We changed the page title from "Path to Herd Immunity" to "Path to Normality". Our modeling suggests that it is increasingly unlikely that we will reach theoretical herd immunity in 2021. See [our latest thoughts](https://twitter.com/youyanggu/status/1359941463757516802) on why the recent attention to herd immunity is overblown, and why we should shift our focus away towards normality instead.
