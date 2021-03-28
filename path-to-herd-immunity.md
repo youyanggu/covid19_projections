@@ -18,7 +18,7 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 
 ## Public health messaging should be clear and consistent
 
-Has this been the case? See for yourself below.
+Unfortunately, as the below example shows, this has not always been the case:
 
 ![When can we return to normal](/assets/images/return_to_normal.png)
 
