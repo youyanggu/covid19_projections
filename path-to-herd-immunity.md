@@ -15,6 +15,13 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 **February 24 Update:** See our [latest thoughts](https://twitter.com/youyanggu/status/1364627872233750543) on when to expect a return to normal.
 
 [Older updates](#past-updates)
+
+## Public health messaging should be clear and consistent
+
+Has this been the case? See for yourself below.
+
+![When can we return to normal](/assets/images/return_to_normal.png)
+
 {% include_relative vaccination-last-updated.md %}
 {% include iframe_vaccination.html %}
 *Note:* Our infections estimates include all new infected individuals of the SARS-CoV-2 virus, not just those that took a COVID-19 test and tested positive. As of January 2021, we estimate the true number of infected individuals in the US to be roughly 2-4x higher than the reported cases (25-50% detection rate). See our writeup, [Estimating True Infections](/estimating-true-infections-revisited), for a more detailed look into this subject.
