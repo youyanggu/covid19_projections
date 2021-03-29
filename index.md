@@ -17,7 +17,6 @@ Jump to section:
 
 For regular updates and insights, follow Youyang Gu on Twitter:&nbsp; <a href="https://twitter.com/youyanggu" class="twitter-follow-button" data-show-count="false">@youyanggu</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-* **March 28:** Public health messaging should be clear and consistent. Unfortunately this has [not always been the case](/path-to-herd-immunity/#public-health-messaging-should-be-clear-and-consistent).
 * **March 24:** We've been working on indexing our work from the past year. [Click here](/sitemap) to see a sitemap of all of the pages on this site. We also compiled a list of all of our COVID-19-related Tweets [here](/twitter-threads/). Over the past year, we have posted quite a bit of original research on Twitter, so feel feel to take a look and give them a read.
 * **March 8:** We made our last daily update on March 7 (containing infections estimates through February 21, 2021). Read Youyang Gu's [One Year Later](https://youyanggu.com/blog/one-year-later) blog post for a detailed explanation and for a list of alternate resources. Follow [@youyanggu](https://twitter.com/youyanggu) on Twitter for continued COVID-19 insights. Thank you for your support over the past year. See our downloadable data [on GitHub](https://github.com/youyanggu/covid19-infection-estimates-latest).
 
