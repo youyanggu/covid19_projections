@@ -30,6 +30,7 @@ Below is a list of all of our GitHub repositories that contain data and code rel
 - [COVID-19 Datasets](https://github.com/youyanggu/covid19-datasets)
 - [SEIR Simulator](https://github.com/youyanggu/yyg-seir-simulator)
 - [Model Evaluations](https://github.com/youyanggu/covid19-forecast-hub-evaluation)
+- [Download All Versions of File](https://github.com/youyanggu/download-all-versions-file)
 
 ## Vaccination projections model
 
