@@ -6,7 +6,8 @@ permalink: /
 ## Announcement: We made our last daily update on March 7, 2021. Read more [here](https://youyanggu.com/blog/one-year-later).
 
 We present a new, simple nowcasting model that estimates true infections in the US. We have estimates for all US states and all 3,000+ US counties. For our projections for the upcoming months, see our [**Path to Normality**](/path-to-herd-immunity) page.
-{% include iframe_home_first_map.html %}For more maps, including county-level views, visit the [Maps](/maps-infections) page.
+
+### For our historical maps, including county-level views, visit the [Maps](/maps-infections) page.
 
 Jump to section:
 * [US summary](#us-infections-estimates)
