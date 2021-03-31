@@ -41,24 +41,24 @@ Below, we have infection and vaccination estimates for the US, all 50 states, DC
 
 | [United States](/infections/us) |  |  |
 | --- | --- | --- |
-| [Alaska](/infections/us-ak) | [Louisiana](/infections/us-la) | [Oklahoma](/infections/us-ok) |
-| [Alabama](/infections/us-al) | [Massachusetts](/infections/us-ma) | [Oregon](/infections/us-or) |
-| [Arkansas](/infections/us-ar) | [Maryland](/infections/us-md) | [Pennsylvania](/infections/us-pa) |
-| [Arizona](/infections/us-az) | [Maine](/infections/us-me) | [Puerto Rico](/infections/us-pr) |
+| [Alabama](/infections/us-al) | [Louisiana](/infections/us-la) | [Oklahoma](/infections/us-ok) |
+| [Alaska](/infections/us-ak) | [Maine](/infections/us-me) | [Oregon](/infections/us-or) |
+| [Arizona](/infections/us-az) | [Maryland](/infections/us-md) | [Pennsylvania](/infections/us-pa) |
+| [Arkansas](/infections/us-ar) | [Massachusetts](/infections/us-ma) | [Puerto Rico](/infections/us-pr) |
 | [California](/infections/us-ca) | [Michigan](/infections/us-mi) | [Rhode Island](/infections/us-ri) |
 | [Colorado](/infections/us-co) | [Minnesota](/infections/us-mn) | [South Carolina](/infections/us-sc) |
-| [Connecticut](/infections/us-ct) | [Missouri](/infections/us-mo) | [South Dakota](/infections/us-sd) |
-| [District of Columbia](/infections/us-dc) | [Northern Mariana Islands](/infections/us-mp) | [Tennessee](/infections/us-tn) |
-| [Delaware](/infections/us-de) | [Mississippi](/infections/us-ms) | [Texas](/infections/us-tx) |
-| [Florida](/infections/us-fl) | [Montana](/infections/us-mt) | [Utah](/infections/us-ut) |
-| [Georgia](/infections/us-ga) | [North Carolina](/infections/us-nc) | [Virginia](/infections/us-va) |
-| [Guam](/infections/us-gu) | [North Dakota](/infections/us-nd) | [Virgin Islands](/infections/us-vi) |
-| [Hawaii](/infections/us-hi) | [Nebraska](/infections/us-ne) | [Vermont](/infections/us-vt) |
-| [Iowa](/infections/us-ia) | [New Hampshire](/infections/us-nh) | [Washington](/infections/us-wa) |
-| [Idaho](/infections/us-id) | [New Jersey](/infections/us-nj) | [Wisconsin](/infections/us-wi) |
-| [Illinois](/infections/us-il) | [New Mexico](/infections/us-nm) | [West Virginia](/infections/us-wv) |
-| [Indiana](/infections/us-in) | [Nevada](/infections/us-nv) | [Wyoming](/infections/us-wy) |
-| [Kansas](/infections/us-ks) | [New York](/infections/us-ny) |
+| [Connecticut](/infections/us-ct) | [Mississippi](/infections/us-ms) | [South Dakota](/infections/us-sd) |
+| [Delaware](/infections/us-de) | [Missouri](/infections/us-mo) | [Tennessee](/infections/us-tn) |
+| [District of Columbia](/infections/us-dc) | [Montana](/infections/us-mt) | [Texas](/infections/us-tx) |
+| [Florida](/infections/us-fl) | [Nebraska](/infections/us-ne) | [Utah](/infections/us-ut) |
+| [Georgia](/infections/us-ga) | [Nevada](/infections/us-nv) | [Vermont](/infections/us-vt) |
+| [Guam](/infections/us-gu) | [New Hampshire](/infections/us-nh) | [Virgin Islands](/infections/us-vi) |
+| [Hawaii](/infections/us-hi) | [New Jersey](/infections/us-nj) | [Virginia](/infections/us-va) |
+| [Idaho](/infections/us-id) | [New Mexico](/infections/us-nm) | [Washington](/infections/us-wa) |
+| [Illinois](/infections/us-il) | [New York](/infections/us-ny) | [West Virginia](/infections/us-wv) |
+| [Indiana](/infections/us-in) | [North Carolina](/infections/us-nc) | [Wisconsin](/infections/us-wi) |
+| [Iowa](/infections/us-ia) | [North Dakota](/infections/us-nd) | [Wyoming](/infections/us-wy) |
+| [Kansas](/infections/us-ks) | [Northern Mariana Islands](/infections/us-mp) |
 | [Kentucky](/infections/us-ky) | [Ohio](/infections/us-oh) |
 
 [Back to Top](#top)
@@ -69,23 +69,23 @@ We have infections estimates for all 3,000+ US counties (and county equivalents)
 
 | US Counties ([Summary](/infections/summary-counties)) |  |  |
 | --- | --- | --- |
-| [Alaska](/infections/counties/ak/) | [Kentucky](/infections/counties/ky/) | [New York](/infections/counties/ny/) |
-| [Alabama](/infections/counties/al/) | [Louisiana](/infections/counties/la/) | [Ohio](/infections/counties/oh/) |
-| [Arkansas](/infections/counties/ar/) | [Massachusetts](/infections/counties/ma/) | [Oklahoma](/infections/counties/ok/) |
-| [Arizona](/infections/counties/az/) | [Maryland](/infections/counties/md/) | [Oregon](/infections/counties/or/) |
-| [California](/infections/counties/ca/) | [Maine](/infections/counties/me/) | [Pennsylvania](/infections/counties/pa/) |
+| [Alabama](/infections/counties/al/) | [Kentucky](/infections/counties/ky/) | [North Dakota](/infections/counties/nd/) |
+| [Alaska](/infections/counties/ak/) | [Louisiana](/infections/counties/la/) | [Ohio](/infections/counties/oh/) |
+| [Arizona](/infections/counties/az/) | [Maine](/infections/counties/me/) | [Oklahoma](/infections/counties/ok/) |
+| [Arkansas](/infections/counties/ar/) | [Maryland](/infections/counties/md/) | [Oregon](/infections/counties/or/) |
+| [California](/infections/counties/ca/) | [Massachusetts](/infections/counties/ma/) | [Pennsylvania](/infections/counties/pa/) |
 | [Colorado](/infections/counties/co/) | [Michigan](/infections/counties/mi/) | [Rhode Island](/infections/counties/ri/) |
 | [Connecticut](/infections/counties/ct/) | [Minnesota](/infections/counties/mn/) | [South Carolina](/infections/counties/sc/) |
-| [District of Columbia](/infections/counties/dc/) | [Missouri](/infections/counties/mo/) | [South Dakota](/infections/counties/sd/) |
-| [Delaware](/infections/counties/de/) | [Mississippi](/infections/counties/ms/) | [Tennessee](/infections/counties/tn/) |
+| [Delaware](/infections/counties/de/) | [Mississippi](/infections/counties/ms/) | [South Dakota](/infections/counties/sd/) |
+| [District of Columbia](/infections/counties/dc/) | [Missouri](/infections/counties/mo/) | [Tennessee](/infections/counties/tn/) |
 | [Florida](/infections/counties/fl/) | [Montana](/infections/counties/mt/) | [Texas](/infections/counties/tx/) |
-| [Georgia](/infections/counties/ga/) | [North Carolina](/infections/counties/nc/) | [Utah](/infections/counties/ut/) |
-| [Hawaii](/infections/counties/hi/) | [North Dakota](/infections/counties/nd/) | [Virginia](/infections/counties/va/) |
-| [Iowa](/infections/counties/ia/) | [Nebraska](/infections/counties/ne/) | [Vermont](/infections/counties/vt/) |
-| [Idaho](/infections/counties/id/) | [New Hampshire](/infections/counties/nh/) | [Washington](/infections/counties/wa/) |
-| [Illinois](/infections/counties/il/) | [New Jersey](/infections/counties/nj/) | [Wisconsin](/infections/counties/wi/) |
+| [Georgia](/infections/counties/ga/) | [Nebraska](/infections/counties/ne/) | [Utah](/infections/counties/ut/) |
+| [Hawaii](/infections/counties/hi/) | [Nevada](/infections/counties/nv/) | [Vermont](/infections/counties/vt/) |
+| [Idaho](/infections/counties/id/) | [New Hampshire](/infections/counties/nh/) | [Virginia](/infections/counties/va/) |
+| [Illinois](/infections/counties/il/) | [New Jersey](/infections/counties/nj/) | [Washington](/infections/counties/wa/) |
 | [Indiana](/infections/counties/in/) | [New Mexico](/infections/counties/nm/) | [West Virginia](/infections/counties/wv/) |
-| [Kansas](/infections/counties/ks/) | [Nevada](/infections/counties/nv/) | [Wyoming](/infections/counties/wy/) |
+| [Iowa](/infections/counties/ia/) | [New York](/infections/counties/ny/) | [Wisconsin](/infections/counties/wi/) |
+| [Kansas](/infections/counties/ks/) | [North Carolina](/infections/counties/nc/) | [Wyoming](/infections/counties/wy/) |
 
 [Back to Top](#top)
 
@@ -114,24 +114,24 @@ Below you can find our projections for every US state and 70 countries (includin
 
 | [United States](/us) |  |  |
 | --- | --- | --- |
-| [Alaska](/us-ak) | [Louisiana](/us-la) | [Oklahoma](/us-ok) |
-| [Alabama](/us-al) | [Massachusetts](/us-ma) | [Oregon](/us-or) |
-| [Arkansas](/us-ar) | [Maryland](/us-md) | [Pennsylvania](/us-pa) |
-| [Arizona](/us-az) | [Maine](/us-me) | [Puerto Rico](/us-pr) |
+| [Alabama](/us-al) | [Louisiana](/us-la) | [Oklahoma](/us-ok) |
+| [Alaska](/us-ak) | [Maine](/us-me) | [Oregon](/us-or) |
+| [Arizona](/us-az) | [Maryland](/us-md) | [Pennsylvania](/us-pa) |
+| [Arkansas](/us-ar) | [Massachusetts](/us-ma) | [Puerto Rico](/us-pr) |
 | [California](/us-ca) | [Michigan](/us-mi) | [Rhode Island](/us-ri) |
 | [Colorado](/us-co) | [Minnesota](/us-mn) | [South Carolina](/us-sc) |
-| [Connecticut](/us-ct) | [Missouri](/us-mo) | [South Dakota](/us-sd) |
-| [District of Columbia](/us-dc) | [Northern Mariana Islands](/us-mp) | [Tennessee](/us-tn) |
-| [Delaware](/us-de) | [Mississippi](/us-ms) | [Texas](/us-tx) |
-| [Florida](/us-fl) | [Montana](/us-mt) | [Utah](/us-ut) |
-| [Georgia](/us-ga) | [North Carolina](/us-nc) | [Virginia](/us-va) |
-| [Guam](/us-gu) | [North Dakota](/us-nd) | [Virgin Islands](/us-vi) |
-| [Hawaii](/us-hi) | [Nebraska](/us-ne) | [Vermont](/us-vt) |
-| [Iowa](/us-ia) | [New Hampshire](/us-nh) | [Washington](/us-wa) |
-| [Idaho](/us-id) | [New Jersey](/us-nj) | [Wisconsin](/us-wi) |
-| [Illinois](/us-il) | [New Mexico](/us-nm) | [West Virginia](/us-wv) |
-| [Indiana](/us-in) | [Nevada](/us-nv) | [Wyoming](/us-wy) |
-| [Kansas](/us-ks) | [New York](/us-ny) |
+| [Connecticut](/us-ct) | [Mississippi](/us-ms) | [South Dakota](/us-sd) |
+| [Delaware](/us-de) | [Missouri](/us-mo) | [Tennessee](/us-tn) |
+| [District of Columbia](/us-dc) | [Montana](/us-mt) | [Texas](/us-tx) |
+| [Florida](/us-fl) | [Nebraska](/us-ne) | [Utah](/us-ut) |
+| [Georgia](/us-ga) | [Nevada](/us-nv) | [Vermont](/us-vt) |
+| [Guam](/us-gu) | [New Hampshire](/us-nh) | [Virgin Islands](/us-vi) |
+| [Hawaii](/us-hi) | [New Jersey](/us-nj) | [Virginia](/us-va) |
+| [Idaho](/us-id) | [New Mexico](/us-nm) | [Washington](/us-wa) |
+| [Illinois](/us-il) | [New York](/us-ny) | [West Virginia](/us-wv) |
+| [Indiana](/us-in) | [North Carolina](/us-nc) | [Wisconsin](/us-wi) |
+| [Iowa](/us-ia) | [North Dakota](/us-nd) | [Wyoming](/us-wy) |
+| [Kansas](/us-ks) | [Northern Mariana Islands](/us-mp) |
 | [Kentucky](/us-ky) | [Ohio](/us-oh) |
 
 [Back to Top](#top)
