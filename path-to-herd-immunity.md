@@ -10,6 +10,8 @@ By: [Youyang Gu](https://youyanggu.com)
 
 With the availability of the COVID-19 vaccine, we present our best estimate of the path to COVID-19 herd immunity / normality in the United States. Immunity against the SARS-CoV-2 virus comes from two sources: vaccination and natural infection. On this page, we provide the latest COVID-19 vaccine projections and current vaccination progress.
 
+**March 31 Update:** Recent delays such as the [ruining of 15 million](https://www.nytimes.com/2021/03/31/world/johnson-and-johnson-vaccine-mixup.html) Johnson & Johnson vaccine doses mean that vaccinations may not peak until mid-to-late April, as opposed to early April from our final update. On the positive end, the general adult population in all 50 states will be able to receive the vaccine by the end of April, matching our projections [from January](https://twitter.com/youyanggu/status/1354488024726290439).
+
 **March 8 Update:** We have ended our daily updates for *covid19-projections.com* and hence are no longer be updating this page. Read Youyang's [One Year Later](https://youyanggu.com/blog/one-year-later) blog post for a detailed explanation and for a list of alternate resources. You can view the latest vaccination trends on the [CDC website](https://covid.cdc.gov/covid-data-tracker/#vaccination-trends). Thank you for your support over the past year.
 
 **February 24 Update:** See our [latest thoughts](https://twitter.com/youyanggu/status/1364627872233750543) on when to expect a return to normal.
@@ -26,7 +28,7 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 
 ## Public health messaging should be clear and consistent
 
-Unfortunately, as the below example shows, this has not always been the case:
+As the below example shows, this has not always been the case:
 
 ![When can we return to normal](/assets/images/return_to_normal.png)
 
