@@ -10,6 +10,8 @@ By: [Youyang Gu](https://youyanggu.com)
 
 With the availability of the COVID-19 vaccine, we present our best estimate of the path to COVID-19 herd immunity / normality in the United States. Immunity against the SARS-CoV-2 virus comes from two sources: vaccination and natural infection. On this page, we provide the latest COVID-19 vaccine projections and current vaccination progress.
 
+**April 21 Note:** We uploaded historical daily CDC vaccination data [here](https://github.com/youyanggu/covid19-cdc-vaccination-data). It contains the raw data released by the CDC on each date. This has no look-ahead bias, so it is especially useful for training models.
+
 **April 13 Note:** Recent delays such as the [halting](https://www.nytimes.com/2021/04/13/us/politics/johnson-johnson-vaccine-blood-clots-fda-cdc.html) of the Johnson & Johnson vaccine and the [ruining of 15 million](https://www.nytimes.com/2021/03/31/world/johnson-and-johnson-vaccine-mixup.html) J&J doses in March mean that actual vaccinations may slightly lag our final projections. On the positive end, the general adult population in all 50 states will be able to receive the vaccine by the end of April, matching our projections [from January](https://twitter.com/youyanggu/status/1354488024726290439).
 
 **March 8 Update:** We have ended our daily updates for *covid19-projections.com* and hence are no longer be updating this page. Read Youyang's [One Year Later](https://youyanggu.com/blog/one-year-later) blog post for a detailed explanation and for a list of alternate resources. You can view the latest vaccination trends on the [CDC website](https://covid.cdc.gov/covid-data-tracker/#vaccination-trends). Thank you for your support over the past year.
