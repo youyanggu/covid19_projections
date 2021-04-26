@@ -6,7 +6,7 @@ permalink: /path-to-herd-immunity/
 
 # Path to ~~Herd Immunity~~ Normality : 2021 Outlook of COVID-19 in the US
 By: [Youyang Gu](https://youyanggu.com)
-<br>Last Updated: April 26, 2021 (Model last updated: March 5, 2021; First posted December 9, 2020)
+<br>*Last Updated:* April 26, 2021 (Model last updated: March 5, 2021; First posted December 9, 2020)
 
 With the availability of the COVID-19 vaccine, we present our best estimate of the path to COVID-19 herd immunity / normality in the United States. Immunity against the SARS-CoV-2 virus comes from two sources: vaccination and natural infection. On this page, we provide the latest COVID-19 vaccine projections and current vaccination progress.
 
@@ -26,13 +26,13 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 {% include iframe_vaccination.html %}
 *Note:* Our infections estimates include all new infected individuals of the SARS-CoV-2 virus, not just those that took a COVID-19 test and tested positive. As of January 2021, we estimate the true number of infected individuals in the US to be roughly 2-4x higher than the reported cases (25-50% detection rate). See our writeup, [Estimating True Infections](/estimating-true-infections-revisited), for a more detailed look into this subject.
 
-Note #2: We stopped updating CDC vaccination data on March 8, 2021. For the latest time series, visit the [CDC website](https://covid.cdc.gov/covid-data-tracker/#vaccination-trends) or [our GitHub](https://github.com/youyanggu/covid19-cdc-vaccination-data). See our old plots through March 8 [here](/vaccination_cdc).
+*Note #2*: We stopped updating CDC vaccination data on March 8, 2021. For the latest time series, visit the [CDC website](https://covid.cdc.gov/covid-data-tracker/#vaccination-trends) or [our GitHub](https://github.com/youyanggu/covid19-cdc-vaccination-data). See our old plots through March 8 [here](/vaccination_cdc).
 
 [Back to Top](#top)
 
 ## Comparison: Projected vs Actual
 
-**New April 26** Below is a comparison of our last model update on March 5, 2021 with what happened since. Our vaccination numbers come from the [CDC](https://covid.cdc.gov/covid-data-tracker/#vaccination-trends), while infection estimates comes from applying a [multiplier](/estimating-true-infections-revisited/#prevalence-ratio) to [JHU CSSE](https://coronavirus.jhu.edu/) cases data.
+**\*New April 26\*** Below is a comparison of our last model update on March 5, 2021 with what happened since. Our vaccination numbers come from the [CDC](https://covid.cdc.gov/covid-data-tracker/#vaccination-trends), while infection estimates comes from applying a [multiplier](/estimating-true-infections-revisited/#prevalence-ratio) to [JHU CSSE](https://coronavirus.jhu.edu/) cases data.
 {% include_relative comparison-last-updated.md %}
 {% include iframe_path_to_normality_comparison.html %}
 
