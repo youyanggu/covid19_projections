@@ -6,9 +6,11 @@ permalink: /path-to-herd-immunity/
 
 # Path to ~~Herd Immunity~~ Normality : 2021 Outlook of COVID-19 in the US
 By: [Youyang Gu](https://youyanggu.com)
-<br>Last Updated: March 8, 2021 (*First posted December 9, 2020)*
+<br>Last Updated: April 26, 2021 (Model last updated: March 5, 2021; First posted December 9, 2020)
 
 With the availability of the COVID-19 vaccine, we present our best estimate of the path to COVID-19 herd immunity / normality in the United States. Immunity against the SARS-CoV-2 virus comes from two sources: vaccination and natural infection. On this page, we provide the latest COVID-19 vaccine projections and current vaccination progress.
+
+**April 26 Note:** Scroll down below to see a comparison of our last projections from March 5 to what actually happened.
 
 **April 21 Note:** We uploaded historical daily CDC vaccination data [here](https://github.com/youyanggu/covid19-cdc-vaccination-data). It contains the raw data released by the CDC on each date. This has no look-ahead bias, so it is especially useful for training models.
 
@@ -24,7 +26,15 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 {% include iframe_vaccination.html %}
 *Note:* Our infections estimates include all new infected individuals of the SARS-CoV-2 virus, not just those that took a COVID-19 test and tested positive. As of January 2021, we estimate the true number of infected individuals in the US to be roughly 2-4x higher than the reported cases (25-50% detection rate). See our writeup, [Estimating True Infections](/estimating-true-infections-revisited), for a more detailed look into this subject.
 
-### We stopped updating CDC vaccination data on March 8, 2021. For the latest time series, visit the [CDC website](https://covid.cdc.gov/covid-data-tracker/#vaccination-trends). See our old plots through March 8 [here](/vaccination_cdc).
+Note #2: We stopped updating CDC vaccination data on March 8, 2021. For the latest time series, visit the [CDC website](https://covid.cdc.gov/covid-data-tracker/#vaccination-trends) or [our GitHub](https://github.com/youyanggu/covid19-cdc-vaccination-data). See our old plots through March 8 [here](/vaccination_cdc).
+
+[Back to Top](#top)
+
+## Comparison: Projected vs Actual
+
+See below for a comparison of our last model update on March 5, 2021 to what happened since.
+
+{% include iframe_path_to_normality_comparison.html %}
 
 [Back to Top](#top)
 
@@ -39,6 +49,9 @@ We define "normality" as the removal of *all* restrictions for the *majority* of
 [Back to Top](#top)
 
 ## Table of Contents
+
+Note: All of the results and assumptions below have not been changed since March 8, 2021.
+
 * [Summary](#summary)
 * [Relevant Twitter Threads](#relevant-twitter-threads)
 * [Disclaimers](#disclaimers)
@@ -111,7 +124,7 @@ We define "normality" as the removal of *all* restrictions for the *majority* of
 
 ## Data
 
-We use vaccination data from the [Centers for Disease Control and Prevention (CDC)](https://covid.cdc.gov/covid-data-tracker/#vaccinations). We upload the raw and adjusted CDC vaccination time series datafor download [on GitHub](https://github.com/youyanggu/covid19-cdc-vaccination-data). It contains every CDC vaccination update since they started releasing data on Dec 20, 2020 through March 7, 2021.
+We use vaccination data from the [Centers for Disease Control and Prevention (CDC)](https://covid.cdc.gov/covid-data-tracker/#vaccinations). We upload the raw and adjusted CDC vaccination time series datafor download [on GitHub](https://github.com/youyanggu/covid19-cdc-vaccination-data). It contains daily CDC vaccination updates since they started releasing data on Dec 20, 2020.
 
 While we release daily [past infections estimates](https://github.com/youyanggu/covid19-infection-estimates-latest) for every state and county, we are currently not releasing our vaccination and infections forecasts. This is due to 1) the limitations and noisiness in the existing data 2) the high degree of uncertainty for the future and 3) the reliance on numerous assumptions (outlined below). As a result, we believe these projections are best suited to be viewed in the context of everything outlined on this page, and should best not be used independently. Without all the necessary context/assumptions, the results can easily be misinterpreted.
 
