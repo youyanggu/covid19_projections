@@ -10,7 +10,7 @@ By: [Youyang Gu](https://youyanggu.com)
 
 With the availability of the COVID-19 vaccine, we present our best estimate of the path to COVID-19 herd immunity / normality in the United States. Immunity against the SARS-CoV-2 virus comes from two sources: vaccination and natural infection. On this page, we provide the latest COVID-19 vaccine projections and current vaccination progress.
 
-**April 26 Update:** Scroll down or [click here])(#comparison-projected-vs-actual) to see a comparison of our last projections from March 5 to what actually happened.
+**April 26 Update:** Scroll down or [click here](#comparison-projected-vs-actual) to see a comparison of our last projections from March 5 to what actually happened.
 
 **April 21 Note:** We uploaded historical daily CDC vaccination data [here](https://github.com/youyanggu/covid19-cdc-vaccination-data). It contains the raw data released by the CDC on each date. This has no look-ahead bias, so it is especially useful for training models.
 
@@ -50,7 +50,7 @@ We define "normality" as the removal of *all* restrictions for the *majority* of
 
 ## Table of Contents
 
-**Note: All of the results and assumptions below have not been changed since March 8, 2021.**
+**Note: All of the projections, results and assumptions below have not been changed since March 8, 2021.**
 
 * [Summary](#summary)
 * [Relevant Twitter Threads](#relevant-twitter-threads)
