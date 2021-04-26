@@ -32,7 +32,7 @@ Note #2: We stopped updating CDC vaccination data on March 8, 2021. For the late
 
 ## Comparison: Projected vs Actual
 
-See below for a comparison of our last model update on March 5, 2021 to what happened since.
+**New April 26** Below is a comparison of our last model update on March 5, 2021 with what happened since. Our vaccination numbers come from the [CDC](https://covid.cdc.gov/covid-data-tracker/#vaccination-trends), while infection estimates comes from applying a [multiplier](/estimating-true-infections-revisited/#prevalence-ratio) to [JHU CSSE](https://coronavirus.jhu.edu/) cases data.
 {% include_relative comparison-last-updated.md %}
 {% include iframe_path_to_normality_comparison.html %}
 
