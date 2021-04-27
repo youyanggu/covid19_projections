@@ -10,9 +10,9 @@ During the one-year period when the site was actively updated (April 2020 to Mar
 
 | Model Type | Time Frame | Updates | Countries | US States | US Counties |
 | ---------- | ---------- | ---------------- | --------- | --------- | ----------- |
-| *Death Forecasts* | April 2020 - November 2020 | Daily | 71 countries | 50 + DC/territories | 34 counties |
-| *Infections Estimates* | November 2020 - March 2021 | Daily | US | 50 + DC/territories | 3000+ counties |
-| *Vaccination Projections* | December 2020 - March 2021 | 3-4x per week | US nationwide | --- | --- |
+| [*Death Forecasts*](/#view-projections) | April 2020 - November 2020 | Daily | 71 countries | 50 + DC/territories | 34 counties |
+| [*Infections Estimates*](/#view-us-infections-estimates) | November 2020 - March 2021 | Daily | US | 50 + DC/territories | 3000+ counties |
+| [*Vaccination Projections*](/path-to-herd-immunity) | December 2020 - March 2021 | 3-4x per week | US nationwide | --- | --- |
 
 For an overview of all the pages on this site, see our [Site Map](/sitemap).
 
@@ -36,11 +36,15 @@ Below is a list of all of our GitHub repositories that contain data and code rel
 
 *Active: Dec 2020 to Mar 2021*
 
+[View projections](/path-to-herd-immunity)
+
 With the availability of the COVID-19 vaccine starting in December 2020, we present our vaccination projections and the path to normality in the US. This model factors in protective immunity against COVID-19 from two sources: vaccination and natural infection. See our [Path to Normality](/path-to-herd-immunity) page for the output and a detailed description of this model.
 
 ## Infections estimates model
 
 *Active: Nov 2020 to Mar 2021*
+
+[View estimates](/#view-us-infections-estimates)
 
 During the fall and winter wave in 2020/2021, *covid19-projections.com* featured daily nowcasting of infections estimates in the US, for all US states and 3,000+ US counties. See our estimates [here](/#view-us-infections-estimates). At the time of the 2020 fall wave, there were tens of models that were forecasting deaths (hence our decision to [wind down](https://youyanggu.com/blog/six-months-later) our own model). However, there were very few models that estimated true infections in each county, state and US nationally. The number of confirmed cases is an undercount of the true prevalence of the disease since not everyone who is infected choose to get tested. As of early 2021, we estimate that the true number of infections in the US is likely 2-4x higher than reported cases. In March and April, when testing was not as prevalent, we estimate that ratio to be closer to 10-20x.
 
@@ -53,6 +57,8 @@ You can download all of our estimates [here](https://github.com/youyanggu/covid1
 ## Death forecasting model
 
 *Active: Mar 2020 to Nov 2020*
+
+[View projections](/#view-projections)
 
 This is our original model that we started at the beginning of the pandemic in 2020 and continued until the fall. You can find a detailed description below:
 
@@ -91,7 +97,7 @@ This is our original model that we started at the beginning of the pandemic in 2
 
 ## About the Model
 
-Our COVID-19 prediction model adds the power of artificial intelligence on top of a classic infectious disease model. We developed a simulator based on the [SEIR model](http://leonidzhukov.net/hse/2014/socialnetworks/papers/2000SiamRev.pdf) ([Wikipedia](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology#The_SEIR_model)) to simulate the COVID-19 epidemic in each region. The parameters/inputs of this simulator are then learned using machine learning techniques that attempts to minimize the error between the projected outputs and the actual results. We utilize daily deaths data reported by each region to forecast future reported deaths. After some additional validation techniques (to minimize a phenomenon called overfitting), we use the learned parameters to simulate the future and make projections.
+Our COVID-19 death forecast model adds the power of artificial intelligence on top of a classic infectious disease model. We developed a simulator based on the [SEIR model](http://leonidzhukov.net/hse/2014/socialnetworks/papers/2000SiamRev.pdf) ([Wikipedia](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology#The_SEIR_model)) to simulate the COVID-19 epidemic in each region. The parameters/inputs of this simulator are then learned using machine learning techniques that attempts to minimize the error between the projected outputs and the actual results. We utilize daily deaths data reported by each region to forecast future reported deaths. After some additional validation techniques (to minimize a phenomenon called overfitting), we use the learned parameters to simulate the future and make projections.
 
 Our SEIR model is [open source](https://github.com/youyanggu/yyg-seir-simulator). Our projections are uploaded daily [onto GitHub](https://github.com/youyanggu/covid19_projections/tree/master/projections). Everything is written in Python 3, and [plotly](https://plotly.com/) is used for plotting. This website is hosted using [GitHub Pages](https://pages.github.com/).
 
