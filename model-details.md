@@ -4,13 +4,17 @@ title: Model Details
 permalink: /model-details/
 ---
 
-# Model details
+# COVID-19 Death Forecasting - Model Details
+
+*Note: This write-up is specifically for our death forecasting model that made daily predictions from April to October 2020. For other model variations, see our [About](/about) page.*
+
+For those who prefer a visual medium, you can view Youyang's August 2020 talk about the model [here](https://www.youtube.com/watch?v=f88bYflJYEo).
 
 ## SEIR Model
 
-*2020-06-24 Update:* We have made the SEIR component of our model [open source](https://github.com/youyanggu/yyg-seir-simulator).
-
 Our COVID-19 prediction model has an underlying simulator based on an elaboration of the classic SIR model used in epidemiology: the SEIR (susceptible-exposed-infectious-recovered) model. We added an exposed (E) period due to the reported incubation period of COVID-19 during which individuals are not yet infectious.
+
+The SEIR component of our model is [open source](https://github.com/youyanggu/yyg-seir-simulator).
 
 To quickly summarize how an SEIR model works, at each time period, an individual in a population is in one of four states: susceptible (S), exposed (E), infectious (I), and recovered (R). If an individual is in the susceptible state, we can assume they are healthy but have no immunity. If they are in the exposed state, they have been infected with the virus but are not infectious. If they are infectious, they can actively transmit the disease. An individual who is infected ultimately either recovers or dies. We assume that a recovered individual's chances of re-infection is low, but not zero. We can model the movement of individuals through these various states at each time period. The model's exact specifications depend on its parameters, which we describe in the next section.
 
