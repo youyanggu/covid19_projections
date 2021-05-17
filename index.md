@@ -18,7 +18,7 @@ Jump to section:
 
 For regular updates and insights, follow Youyang Gu on Twitter:&nbsp; <a href="https://twitter.com/youyanggu" class="twitter-follow-button" data-show-count="false">@youyanggu</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-* *Please learn more about [rising Asian hate in America](https://www.nytimes.com/2021/03/18/nyregion/asian-hate-crimes.html) and how you can [help combat it](https://stopaapihate.org/).*
+* *Please learn more about [rising Asian hate in America](https://www.nytimes.com/2021/03/18/nyregion/asian-hate-crimes.html) and how you can [help combat it](https://stopaapihate.org/). Also read about how [systemic racism](https://www.usatoday.com/in-depth/news/nation/2020/10/18/coronavirus-asian-americans-racism-death-rates-san-francisco/5799617002/) is driving high COVID-19 death rates in the Asian American community.*
 * **May 13:** See our [analysis](https://twitter.com/youyanggu/status/1392901207811887104) on estimating current excess deaths in the US.
 * **May 11:** See our [analysis](https://twitter.com/youyanggu/status/1392179091839848448) comparing states that kept vs dropped mask mandates.
 * **April 26:** [Click here](/path-to-herd-immunity#comparison-projected-vs-actual) to see a comparison of our final vaccination/infection projections from March 5 to what actually happened.
