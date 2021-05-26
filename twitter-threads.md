@@ -6,9 +6,9 @@ permalink: /twitter-threads/
 
 ## Twitter Threads
 
-*Last Updated: March 24, 2021*
+*Last Updated: May 25, 2021*
 
-This page contains a comprehensive list of Twitter threads by Youyang Gu ([@youyanggu](https://twitter.com/youyanggu)) that are related to COVID-19. Due to the fast-paced environment of COVID-19 developments and the site's limited team (of one), Twitter is Youyang's preferred method of posting announcements, sharing results and fasciliating discussion. Below is a comprehensive list of our Tweets since late April.
+This page contains a comprehensive list of Twitter threads by Youyang Gu ([@youyanggu](https://twitter.com/youyanggu)) that are related to COVID-19. Due to the fast-paced environment of COVID-19 developments and the site's limited team (of one), Twitter is Youyang's preferred method of posting announcements, sharing results and fasciliating discussion. Below is a comprehensive list of our Tweets since the beginning of the pandemic.
 
 Dates **in bold** indicates threads that Youyang personally recommends reading.
 
@@ -29,6 +29,10 @@ Dates **in bold** indicates threads that Youyang personally recommends reading.
 
 ### Original Research
 
+[**May 25, 2021**](https://twitter.com/youyanggu/status/1397230156301930497) - COVID-19 vs economy and the role of interventions<br>
+[May 19, 2021](https://twitter.com/youyanggu/status/1395061024987009028) / [June 13, 2020](https://twitter.com/youyanggu/status/1271945547176226816) - Subway ridership analysis<br>
+[May 13, 2021](https://twitter.com/youyanggu/status/1392901207811887104) - Excess deaths analysis<br>
+[**May 11, 2021**](https://twitter.com/youyanggu/status/1392179091839848448) - Effectiveness of mask mandates (Spring 2021)<br>
 [**February 24, 2021**](https://twitter.com/youyanggu/status/1364627872233750543) - Return to normal<br>
 [**February 22, 2021**](https://twitter.com/youyanggu/status/1363920593192681476) - Association of university in-person instruction with cases and deaths (CDC paper review)<br>
 [**February 17, 2021**](https://twitter.com/youyanggu/status/1362109356481933312) - Predictive power of political lean on the fall surge<br>
@@ -38,13 +42,15 @@ Dates **in bold** indicates threads that Youyang personally recommends reading.
 [**August 10, 2020**](https://twitter.com/youyanggu/status/1292898685173534722) - Role of immunity vs behavior vs interventions (Louisiana case study)<br>
 [August 5, 2020](https://twitter.com/youyanggu/status/1291092311045283841) - Estimating true infections<br>
 [July 24, 2020](https://twitter.com/youyanggu/status/1286795355561107457) / [July 31, 2020](https://twitter.com/youyanggu/status/1289284529052700678) - Implied infection fatality rate<br>
-[June 13, 2020](https://twitter.com/youyanggu/status/1271945547176226816) - Subway ridership analysis<br>
 [May 20, 2020](https://twitter.com/youyanggu/status/1263283908914761729) - OpenTable restaurant occupancy analysis<br>
 
 [Back to Top](#top)
 
 ### Personal
 
+[**May 18, 2021**](https://twitter.com/youyanggu/status/1394698562991181826) - Impact of COVID-19 on Asian Americans<br>
+[May 12, 2021](https://twitter.com/youyanggu/status/1392538606468833285) - Answering questions on vaccines<br>
+[April 8, 2021](https://twitter.com/youyanggu/status/1380208127543545866) - First shot<br>
 [**March 12, 2021**](https://twitter.com/youyanggu/status/1370416096285655043) - Last update and final thoughts<br>
 [March 1, 2021](https://twitter.com/youyanggu/status/1366473793393332234) - Hopeful<br>
 [February 20, 2021](https://twitter.com/youyanggu/status/1363211503738970112) - Grateful<br>
@@ -54,10 +60,15 @@ Dates **in bold** indicates threads that Youyang personally recommends reading.
 
 ### Miscellaneous
 
+[**May 20, 2021**](https://twitter.com/youyanggu/status/1395444571757219840) - Vaccine hesitancy driven by socioeconomic inequity<br>
+[May 13, 2021](https://twitter.com/youyanggu/status/1392931979616788480) - CDC's return to normal guidance<br>
+[**April 28, 2021**](https://twitter.com/youyanggu/status/1387429826496237571) - Model performance 6 weeks later<br>
+[April 27, 2021](https://twitter.com/youyanggu/status/1387076342454362112) - 6 lessons learned with MIT Technology Review<br>
 [**March 11, 2021**](https://twitter.com/youyanggu/status/1370067926703767553) - Equity in vaccination distribution<br>
 [March 10, 2021](https://twitter.com/youyanggu/status/1369850453060558849) - Clarifications of CDC mask mandate study<br>
 [**March 10, 2021**](https://twitter.com/youyanggu/status/1369716779119906817) - Censorship of WSJ op-ed<br>
 [March 9, 2021](https://twitter.com/youyanggu/status/1369340519680249858) - How to be like Connecticut<br>
+[March 5, 2021](https://twitter.com/youyanggu/status/1367884808714657798) - No guidance on safe reopenings<br>
 [March 4, 2021](https://twitter.com/youyanggu/status/1367607919777300480) - Connecticut dropping restrictions: lack of coverage<br>
 [March 4, 2021](https://twitter.com/youyanggu/status/1367548727779590145) - Criticism is easy, solutions are hard<br>
 [March 3, 2021](https://twitter.com/youyanggu/status/1367275557742931971) - Predictable storyline<br>
