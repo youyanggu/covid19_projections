@@ -60,6 +60,7 @@ Dates **in bold** indicates threads that Youyang personally recommends reading.
 
 ### Miscellaneous
 
+[May 27, 2021](https://twitter.com/youyanggu/status/1398040830892466176) - Europe vs US: jumping to conclusions<br>
 [May 27, 2021](https://twitter.com/youyanggu/status/1397994219114008582) - Assymmetry in reporting on restrictions<br>
 [**May 20, 2021**](https://twitter.com/youyanggu/status/1395444571757219840) - Vaccine hesitancy driven by socioeconomic inequity<br>
 [May 13, 2021](https://twitter.com/youyanggu/status/1392931979616788480) - CDC's return to normal guidance<br>
