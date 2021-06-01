@@ -1,3 +1,3 @@
 <p align="center">
-    <b>Comparison last updated</b>: Thu, May 27 2021 5pm ET
+    <b>Comparison last updated</b>: Tue, Jun 1 2021 6pm ET
     </p>
