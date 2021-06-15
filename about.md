@@ -10,7 +10,7 @@ During the one-year period when the site was actively updated (April 2020 to Mar
 
 | Model Type | Time Frame | Updates | Countries | US States | US Counties |
 | ---------- | ---------- | ---------------- | --------- | --------- | ----------- |
-| [*Death Forecasts*](/#view-projections) | April 2020 - November 2020 | Daily | 71 countries | 50 + DC/territories | 34 counties |
+| [*Death Forecasts*](/#view-projections) | April 2020 - October 2020 | Daily | 71 countries | 50 + DC/territories | 34 counties |
 | [*Infections Estimates*](/#view-us-infections-estimates) | November 2020 - March 2021 | Daily | US | 50 + DC/territories | 3000+ counties |
 | [*Vaccination Projections*](/path-to-herd-immunity) | December 2020 - March 2021 | 3-4x per week | US nationwide | --- | --- |
 
@@ -18,7 +18,7 @@ For an overview of all the pages on this site, see our [Site Map](/sitemap).
 
 Social media, especially Twitter, has been instrumental in shaping the models on this site. A lot of our original research was first posted by Youyang on Twitter. See our [Twitter Threads](/twitter-threads) page to see a comprehensive list of Tweets related to COVID-19.
 
-The majority of this page is dedicated to explaining our death forecasting model that was active from April to November 2020. We briefly go over our other model iterations in the next three sections.
+The majority of this page is dedicated to explaining our death forecasting model that was active from April to October 2020. We also briefly go over our other model iterations in the next three sections.
 
 ## Data and Code
 
@@ -46,7 +46,7 @@ With the availability of the COVID-19 vaccine starting in December 2020, we pres
 
 [View estimates](/#view-us-infections-estimates)
 
-During the fall and winter wave in 2020/2021, *covid19-projections.com* featured daily nowcasting of infections estimates in the US, for all US states and 3,000+ US counties. See our estimates [here](/#view-us-infections-estimates). At the time of the 2020 fall wave, there were tens of models that were forecasting deaths (hence our decision to [wind down](https://youyanggu.com/blog/six-months-later) our own model). However, there were very few models that estimated true infections in each county, state and US nationally. The number of confirmed cases is an undercount of the true prevalence of the disease since not everyone who is infected choose to get tested. As of early 2021, we estimate that the true number of infections in the US is likely 2-4x higher than reported cases. In March and April, when testing was not as prevalent, we estimate that ratio to be closer to 10-20x.
+During the fall and winter wave in 2020/2021, *covid19-projections.com* featured daily nowcasting of infections estimates in the US, for all US states and 3,000+ US counties. See our estimates [here](/#view-us-infections-estimates). At the time of the 2020 fall wave, there were tens of models that were forecasting deaths (hence our decision to [wind down](https://youyanggu.com/blog/six-months-later) our own model). However, there were very few models that estimated true infections in each county, state and US nationally. The number of confirmed cases is an undercount of the true prevalence of the disease since not everyone who is infected choose to get tested. As of early 2021, we estimate that the true number of infections in the US is likely 2-4x higher than reported cases. In March and April 2020, when testing was not as prevalent, we estimate that ratio to be closer to 10-20x.
 
 For this iteration of the model, we are nowcasting (what has happened/is happening) rather than forecasting (what will happen). Estimates are generated using only confirmed cases and testing data from [The COVID Tracking Project](https://covidtracking.com/). We compute a multiplier based on the date and test positivity rate. For example, in April 2020, a 10% positivity rate corresponds to roughly a 7x multiplier, meaning that for every confirmed case there are 6 undetected infections. By early 2021, since testing has been greatly expanded over the past year, a 10% test positivity rate corresponds to roughly a 2-3x multiplier (for every confirmed case there are 1-2 undetected infections). After we computed the multiplier, we apply it to the number of daily cases to get an estimate of the true number of daily infections (with a 2 week lag). For county-level infections estimates, we use county case data from [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19).
 
@@ -56,11 +56,11 @@ You can download all of our estimates [here](https://github.com/youyanggu/covid1
 
 ## Death forecasting model
 
-*Active: Mar 2020 to Nov 2020*
+*Active: Mar 2020 to Oct 2020*
 
 [View projections](/#view-projections)
 
-This is our original model that we started at the beginning of the pandemic in 2020 and continued until the fall. You can find a detailed description below:
+This is our original model that we started at the beginning of the pandemic in 2020 and continued until October 2020. You can find a detailed description below:
 
 ## Table of contents (Death forecasting model)
 
@@ -111,7 +111,7 @@ You can also directly access our [US](/#view-projections) and [global](/#global-
 
 * [Model Details](/model-details/) - More in-depth description of how our model works.
 * [Estimating True Infections](/estimating-true-infections) - Our findings regarding the relationship between true infections, reported cases, test positivity rate, and infection fatality rate for COVID-19.
-* [Youyang Gu August 13 Talk](https://www.youtube.com/watch?v=f88bYflJYEo) - Presentation from Youyang Gu about the model
+* [Youyang Gu August 13, 2020 Talk](https://www.youtube.com/watch?v=f88bYflJYEo) - Presentation from Youyang Gu about the model
 
 ## Who We Are
 
@@ -129,7 +129,7 @@ You can also directly access our [US](/#view-projections) and [global](/#global-
 
 ## How Our Model is Different
 
-* *Daily updates*: Because our model is purely data-driven, it is quick to run and easy to regenerate. Unlike other models that are only updated only once every few days, our model is updated on a daily basis, leading to more accurate projections. We have generated daily projections since we began the project on April 1. No other model offers this level of update frequency.
+* *Daily updates*: Because our model is purely data-driven, it is quick to run and easy to regenerate. Unlike other models that are only updated only once every few days, our model is updated on a daily basis, leading to more accurate projections. We have generated daily projections since we began the project on April 1, 2020. No other model offers this level of update frequency.
 
 * *No public funding*: We are one of the only models [used by the CDC](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html) that receives no public funding, making us a completely independent entity.
 
@@ -165,7 +165,7 @@ You can also directly access our [US](/#view-projections) and [global](/#global-
 
 * *Learning the infection fatality rate (IFR)*: Rather than rely on various non-consensus studies on the infection fatality rate (IFR), our model can also learn the best value for the IFR in each region. Learn more about our IFR estimates [below](#infection-fatality-rate-ifr).
 
-* *Learning when people started social distancing*: It turns out that many people began social distancing before a region's formal lockdown order is issued. Our model is able to learn the exact dates when people in a region started social distancing, which are often independent of the stay-at-home orders. For example, in New York, this inflection point is determined to be around March 14, which closely matches the [NYC subway ridership data](https://twitter.com/youyanggu/status/1248844841733128192). For the US as a whole, we estimate that date to be around March 18. You can see what happens if everyone in the US reacted [one week earlier](/us-1weekearlier) (March 11) or [one week later](/us-1weeklater) (March 25).
+* *Learning when people started social distancing*: It turns out that many people began social distancing before a region's formal lockdown order is issued. Our model is able to learn the exact dates when people in a region started social distancing, which are often independent of the stay-at-home orders. For example, in New York, this inflection point is determined to be around March 14, 2020, which closely matches the [NYC subway ridership data](https://twitter.com/youyanggu/status/1248844841733128192). For the US as a whole, we estimate that date to be around March 18, 2020. You can see what happens if everyone in the US reacted [one week earlier](/us-1weekearlier) (March 11, 2020) or [one week later](/us-1weeklater) (March 25, 2020).
 
 * *Strong validation system*: Many of the other models tend to overfit to the data. We have a strong validation system to make sure that all of our updates pass out-of-sample validation before they can be included in the model. This allows us to better differentiate the signal from the noise and be more resistant to outliers. Because all of our assumptions and projections are tested/verified on all 50 states as well as over 70 countries, we are able to create more robust projections.
 
@@ -203,7 +203,7 @@ Because US country-wide projections only contains a single forecast per week, th
 
 ## Comparison of October US Projections
 
-We compare our last October 4 projections to that of the Institute for Health Metrics and Evaluation (IHME). To view additional comparison plots with IHME, click [here](/model-comparison-ihme).
+We compare our last October 4, 2020 projections to that of the Institute for Health Metrics and Evaluation (IHME). To view additional comparison plots with IHME, click [here](/model-comparison-ihme).
 
 {% include iframe_ihme_comparison_oct.html %}
 
@@ -211,7 +211,7 @@ We compare our last October 4 projections to that of the Institute for Health Me
 
 ## Comparison of Late August US Projections
 
-Below, we show our late August forecasts compared with IHME's late August forecasts. To view additional comparison plots with IHME, click [here](/model-comparison-ihme).
+Below, we show our late August 2020 forecasts compared with IHME's late August forecasts. To view additional comparison plots with IHME, click [here](/model-comparison-ihme).
 
 {% include iframe_ihme_comparison_aug27.html %}
 
@@ -219,7 +219,7 @@ Below, we show our late August forecasts compared with IHME's late August foreca
 
 ## Historical US Projections
 
-Below, we show how our (C19Pro) August 4 and November 1 projections for the US has changed over time, compared to IHME. Note that the true value on August 4 fell within our model's confidence intervals over 90% of the time. To see our current US projections, click [here](/us).
+Below, we show how our (C19Pro) US projections for August 4 and November 1, 2020 has changed over time, compared to IHME. Note that the true value on August 4, 2020 fell within our model's confidence intervals over 90% of the time. To see our current US projections, click [here](/us).
 
 To view additional comparison plots with IHME, click [here](/model-comparison-ihme).
 
@@ -237,7 +237,7 @@ Below, we present our weekly CDC projections over time.
 
 ## Data and Output
 
-To make our projections, we use the daily death total provided by [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series), what is considered by experts to be the "gold standard" reference data. We do not use case-related data in our modeling due to reasoning alluded to [here](https://fivethirtyeight.com/features/coronavirus-case-counts-are-meaningless/). With that said, we do look at case and hospitalization data to help determine the bounds for our search grid, as changes in cases lead changes in deaths.
+To make our projections, we use the daily death total provided by [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series), what is considered by experts to be the "gold standard" reference data. We do not use case-related data in our modeling due to reasoning alluded to [here](https://fivethirtyeight.com/features/coronavirus-case-counts-are-meaningless/). The only other data we use in the model is the population in each region. We periodically manually scan case and hospitalization data to help determine the bounds for our search grid.
 
 While we do not use testing data in our model, we sometimes use US testing data from [The COVID Tracking Project](https://covidtracking.com/) in our research and graphs.
 
@@ -279,11 +279,11 @@ We want to caution against focusing on one particular number as the outcome of t
 
 ### Social Distancing
 
-* US states: We assume heavy social distancing until the reopening date and moderate social distancing afterwards. We use the reopening date as outlined by [the New York Times](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html). For states with a staggered reopening, we use the date for which restaurants are allowed to reopen. For states where there is no concrete reopening date (states highlighted in yellow on the NYT map), we assume a reopening date of June 1. Reopening will likely cause a second wave of infections in states where the outbreak has not yet been fully contained.
+* US states: We assume heavy social distancing until the reopening date and moderate social distancing afterwards. We use the reopening date as outlined by [the New York Times](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html). For states with a staggered reopening, we use the date for which restaurants are allowed to reopen. For states where there is no concrete reopening date (states highlighted in yellow on the NYT map), we assume a reopening date of June 1, 2020. Reopening will likely cause a second wave of infections in states where the outbreak has not yet been fully contained.
 
-* European countries: We assume heavy social distancing until mid-May and moderate social distancing afterwards.
+* European countries: We assume heavy social distancing until mid-May 2020 and moderate social distancing afterwards.
 
-* Non-US and Non-European countries: We try our best to keep track of when each country plans to reopen. If there is no news, we assume social distancing through August.
+* Non-US and Non-European countries: We try our best to keep track of when each country plans to reopen. If there is no news, we assume social distancing through August 2020.
 
 [Back to Top](#top)
 
@@ -293,7 +293,7 @@ Heavy social distancing is what many states and countries enacted in the initial
 
 Moderate social distancing is what we assume will happen once states and countries gradually begin relaxing their social distancing guidelines. Some establishments will reopen, but people will still be somewhat cognizant about maintaining social distancing. Most states and countries will have guidelines that aim to maximize social distancing and minimize close contact, such as enforcing capacity limits and recommending mask-wearing. We assume that infection rates will increase by approximately 0-30%, resulting in an R of around 0.8-1.2. This is based on analysis of R values in regions where there were no lockdowns, such as Sweden and South Dakota. Note that this is still a lower infection rate than what it was prior to the outbreak for most regions.
 
-If regions impose stricter social distancing guidelines than our assumptions listed above, then we will likely see a lower infections and death rate than the current projections. Conversely, if regions impose looser guidelines, then we will likely see a higher infections and death rate. For example, if California reopens before June 1, there will be an increased chance of an earlier resurgence. Or if a state required all residents to wear masks, the likelihood of a steep increase in infections will decrease, according to some recent studies ([[1]](https://www.nature.com/articles/s41591-020-0843-2), [[2]](https://www.preprints.org/manuscript/202004.0203/v1), [[3]](https://www.sciencetimes.com/articles/25410/20200421/austria-90-drop-coronavirus-cases-requiring-people-wear-face-masks.htm)).
+If regions impose stricter social distancing guidelines than our assumptions listed above, then we will likely see a lower infections and death rate than the current projections. Conversely, if regions impose looser guidelines, then we will likely see a higher infections and death rate. For example, if California reopens before June 1, 2020, there will be an increased chance of an earlier resurgence. Or if a state required all residents to wear masks, the likelihood of a steep increase in infections will decrease, according to some recent studies ([[1]](https://www.nature.com/articles/s41591-020-0843-2), [[2]](https://www.preprints.org/manuscript/202004.0203/v1), [[3]](https://www.sciencetimes.com/articles/25410/20200421/austria-90-drop-coronavirus-cases-requiring-people-wear-face-masks.htm)).
 
 [Back to Top](#top)
 
@@ -303,7 +303,7 @@ In regions where the outbreak has not yet been fully contained, it is possible t
 
 In states where a second wave is prevalent, infections appear to reach a peak before undergoing a decline, despite a lack of concrete mitigation measures. One theory is that there is a certain subset of the population that are more susceptible to contracting the virus (old age, co-morbidities, unwillingness to take precautions, etc). Once that group is exhausted, it becomes harder for the virus to spread, leading to a decline in transmission despite no government intervention. Note that this is merely a theory to explain the observed data.
 
-As of June 1, our model no longer assumes a second lockdown.
+As of June 1, 2020, our model no longer assumes a second lockdown.
 
 [Back to Top](#top)
 
@@ -313,9 +313,9 @@ After the initial ramp-up period of a reopening (1-2 months), we assume that the
 
 Looking at the data, we noticed that as various states reach 10-35% prevalence, infections begin to slow down, despite no significant interventions. This seem to suggest that the effective herd immunity threshold under the current conditions of social distancing and intervention measures may be lower than the 60-80% values previous reported in March/April. Nevertheless, it's important to note that transmission does not stop once HIT is reached - it simply slows down. See our write-up, [Estimating True Infections](https://covid19-projections.com/estimating-true-infections), for a more in-depth analysis on this topic.
 
-Starting on July 22, we use two logistic (sigmoid) functions to approximate the R_t curve from the reopening. We use two parameters, the maximum reopen R_t and the inflection rate to determine the shape. These two parameters are then learned by our machine learning layer based on the data. You can learn more by looking at our [open-source code](https://github.com/youyanggu/yyg-seir-simulator/blob/master/README.md#REOPEN_INFLECTION).
+Starting on July 22, 2020, we use two logistic (sigmoid) functions to approximate the R_t curve from the reopening. We use two parameters, the maximum reopen R_t and the inflection rate to determine the shape. These two parameters are then learned by our machine learning layer based on the data. You can learn more by looking at our [open-source code](https://github.com/youyanggu/yyg-seir-simulator/blob/master/README.md#REOPEN_INFLECTION).
 
-Prior to July 22, we assume a very small daily decay in the transmission rate (R) starting from roughly 30 days after reopening (~0-0.5%). The decay is compoundly applied until the R drops below 1, at which point we stop applying further decays. As the exact value of the decay is unknown ahead of time, we initially sample this decay from a random distribution. As time goes on and we obtain more data regarding the post-reopening effects, our model will learn this decay.
+Prior to July 22, 2020, we assume a very small daily decay in the transmission rate (R) starting from roughly 30 days after reopening (~0-0.5%). The decay is compoundly applied until the R drops below 1, at which point we stop applying further decays. As the exact value of the decay is unknown ahead of time, we initially sample this decay from a random distribution. As time goes on and we obtain more data regarding the post-reopening effects, our model will learn this decay.
 
 [Back to Top](#top)
 
@@ -353,11 +353,11 @@ Our R estimates are merely estimates rather than precise values, and *is only ba
 
 **Note that our IFR estimates is subject to change based on new data. The exact IFR value does not significantly affect our death estimates.**
 
-**August 5 Update:** See our writeup, [Estimating True infections](/estimating-true-infections), for our in-depth analysis on the infection fatality rate and its relationship with cases, deaths, and test positivity rates.
+See our writeup, [Estimating True infections Revisited](/estimating-true-infections-revisited), for our in-depth analysis on the infection fatality rate and its relationship with cases, deaths, and test positivity rates.
 
-We estimate that infection fatality rate (IFR) for COVID-19 in the US through April is between [0.9-1.2%](https://twitter.com/youyanggu/status/1256051255253757953). This matches a [May 7 study](https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2020.00455) that estimates the IFR to be slightly less than 1.3% after accounting for asymptomatic cases. We also found that most countries in Europe (with the the exceptions of United Kingdom, Spain, and Eastern Europe) have an IFR closer to 0.75%, which matches [this May 6 study](https://www.medrxiv.org/content/10.1101/2020.05.03.20089854v1).
+We estimate that infection fatality rate (IFR) for COVID-19 in the US through April is between [0.9-1.2%](https://twitter.com/youyanggu/status/1256051255253757953). This matches a [May 7, 2020 study](https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2020.00455) that estimates the IFR to be slightly less than 1.3% after accounting for asymptomatic cases. We also found that most countries in Europe (with the the exceptions of United Kingdom, Spain, and Eastern Europe) have an IFR closer to 0.75%, which matches [this May 6 study](https://www.medrxiv.org/content/10.1101/2020.05.03.20089854v1).
 
-Prior to June, we use the following initial IFR in our projections:
+Prior to June 2020, we use the following initial IFR in our projections:
 - 0.75% IFR: Japan, South Korea, Iceland, Norway, Switzerland, all EU countries except Spain
 - 1% IFR: US and all other countries
 
@@ -373,7 +373,7 @@ We include asymptomatic individuals in our estimates, as they can also be infect
 
 ### Undetected Deaths
 
-In our June 15 model update, we incorporated the concept of undetected deaths to better estimate the number of true infections in the early stages of the pandemic. In the first weeks of the pandemic for each region, we assume a significant percentage of deaths will be undetected/unreported due to a lack of testing. We assume that this percentage will decrease over time until it reaches a negligible amount. So if there are 100 true deaths and 20% are undetected, then only 80 deaths will be reported/projected. While it is possible that the undetected deaths ratio may be higher, the exact value does not signficantly affect our projections.
+In our June 15, 2020 model update, we incorporated the concept of undetected deaths to better estimate the number of true infections in the early stages of the pandemic. In the first weeks of the pandemic for each region, we assume a significant percentage of deaths will be undetected/unreported due to a lack of testing. We assume that this percentage will decrease over time until it reaches a negligible amount. So if there are 100 true deaths and 20% are undetected, then only 80 deaths will be reported/projected. While it is possible that the undetected deaths ratio may be higher, the exact value does not signficantly affect our projections.
 
 As a result of this update, the number of true infected individuals in our projections have increased. However, we believe that even after this update, that we are still undercounting the true deaths in a region.
 
@@ -393,7 +393,7 @@ A model is only as good as the data we feed it. If the data is not accurate, the
 
 ### School Reopening
 
-While we factor in a [fall wave](#fall-wave) in our projections that may result in an increase in transmission, we do not explicitly model school reopenings. As of August, it is still unclear what the effect of school reopenings will be, and how it will differ from district to district and from state to state. We want to wait until we have more data before incorporating this phenomenon into our model.
+While we factor in a [fall wave](#fall-wave) in our projections that may result in an increase in transmission, we do not explicitly model school reopenings. As of August 2020, it is still unclear what the effect of school reopenings will be, and how it will differ from district to district and from state to state. We want to wait until we have more data before incorporating this phenomenon into our model.
 
 [Back to Top](#top)
 
@@ -401,9 +401,9 @@ While we factor in a [fall wave](#fall-wave) in our projections that may result 
 
 Some countries report probable deaths while others only report laboratory-confirmed deaths. This difference explains why countries with comprehensive reporting like Belgium have the [highest death rates](https://www.npr.org/sections/coronavirus-live-updates/2020/04/22/841005901/why-belgiums-death-rate-is-so-high-it-counts-lots-of-suspected-covid-19-cases).
 
-On June 8, the Washington Post published [an investigation](https://www.washingtonpost.com/investigations/cdc-wants-states-to-count-probable-coronavirus-cases-and-deaths-but-most-arent-doing-it/2020/06/07/4aac9a58-9d0a-11ea-b60c-3be060a4f8e1_story.html) showing that "at least 24 [US] states are not heeding the national guidelines on reporting probable cases and deaths, despite previously identifying probable cases in other national outbreaks." We made a series of Tweets about it [here](https://twitter.com/youyanggu/status/1270461343892566016).
+On June 8, 2020, the Washington Post published [an investigation](https://www.washingtonpost.com/investigations/cdc-wants-states-to-count-probable-coronavirus-cases-and-deaths-but-most-arent-doing-it/2020/06/07/4aac9a58-9d0a-11ea-b60c-3be060a4f8e1_story.html) showing that "at least 24 [US] states are not heeding the national guidelines on reporting probable cases and deaths, despite previously identifying probable cases in other national outbreaks." We made a series of Tweets about it [here](https://twitter.com/youyanggu/status/1270461343892566016).
 
-Differences in how countries/states report deaths can lead to unfair comparisons and also skew projections. For example, New York City reported close to 5,000 probable deaths between April 14-23, but have not reported any probable deaths since. This was an increase of 30% over the existing death total at the time. As a result, early April projections under-projected the number of deaths for New York, while our late April and early May projections over-projected the number of deaths for New York.
+Differences in how countries/states report deaths can lead to unfair comparisons and also skew projections. For example, New York City reported close to 5,000 probable deaths between April 14-23, 2020, but have not reported any probable deaths since. This was an increase of 30% over the existing death total at the time. As a result, early April 2020 projections under-projected the number of deaths for New York, while our late April and early May 2020 projections over-projected the number of deaths for New York.
 
 Because the accuracy of our projections rely on consistent reporting of deaths, any inconsistencies may skew our projections.
 
@@ -419,15 +419,15 @@ While we attempt to predict the official death total, the true death total will 
 
 * *Data frequency*: Because our model uses only the daily death totals from each region to make projections, it will be more effective for regions where there are more available deaths data (such as New York) than regions where there are only a few reported deaths (such as Wyoming).
 
-* *Summer seasonality*: In the spring, we did not explicitly factor in seasonality changes. A [May 8 study](https://www.cmaj.ca/content/cmaj/early/2020/05/08/cmaj.200920.full.pdf) of 144 geopolitical areas finds no significant correlation between temperature and transmission. However, if seasonality effects are reflected in the data, we will implicitly factor it in. It is possible that the effects of warmer temperatures may be partially offset by lockdown fatigue.
+* *Summer seasonality*: In the spring, we did not explicitly factor in seasonality changes. A [May 8, 2020 study](https://www.cmaj.ca/content/cmaj/early/2020/05/08/cmaj.200920.full.pdf) of 144 geopolitical areas finds no significant correlation between temperature and transmission. However, if seasonality effects are reflected in the data, we will implicitly factor it in. It is possible that the effects of warmer temperatures may be partially offset by lockdown fatigue.
 
 * *Lockdown fatigue / holidays*: As shown in various mobility data and [our analysis](https://twitter.com/youyanggu/status/1255034262006333440) of the NYC subway data, an increasing number of people have been moving around in the weeks following a lockdown. This may contribute to an increase in infections in the weeks following the lockdown/mitigation. Similarly, holidays may be a source of "superspreader" events, which we currently do not explicitly incorporate.
 
-* *Testing data*: In May, there were various reports regarding the accuracy and integrity of data that some US states have been reporting (e.g. see [The Atlantic](https://www.theatlantic.com/health/archive/2020/05/cdc-and-states-are-misreporting-covid-19-test-data-pennsylvania-georgia-texas/611935/) and [Associated Press](https://apnews.com/6dbd9ad370add2ba299c7da46c25004f)). We express similar concerns, and hope that states will do their best to report accurate data.
+* *Testing data*: In May 2020, there were various reports regarding the accuracy and integrity of data that some US states have been reporting (e.g. see [The Atlantic](https://www.theatlantic.com/health/archive/2020/05/cdc-and-states-are-misreporting-covid-19-test-data-pennsylvania-georgia-texas/611935/) and [Associated Press](https://apnews.com/6dbd9ad370add2ba299c7da46c25004f)). We express similar concerns, and hope that states will do their best to report accurate data.
 
-* *Reporting differences*: Different countries follow different guidelines on how they are reporting COVID-19 deaths. For example, Belgium is one of the most comprehensive countries when it comes to death reporting: they report all probable deaths as well as nursing home deaths. In contrast, United Kingdom only began including care home deaths starting on April 29, having only reported hospital deaths previously. Because we are projecting future reported deaths, our model assumes that the reporting guidelines remains constant for each country.
+* *Reporting differences*: Different countries follow different guidelines on how they are reporting COVID-19 deaths. For example, Belgium is one of the most comprehensive countries when it comes to death reporting: they report all probable deaths as well as nursing home deaths. In contrast, United Kingdom only began including care home deaths starting on April 29, 2020, having only reported hospital deaths previously. Because we are projecting future reported deaths, our model assumes that the reporting guidelines remains constant for each country.
 
-* *Reporting delay*: There is a delay between when a death occurs and when it is reported to the local/state health department. This delay can range anywhere from 1 day to over 30 days, although the vast majority of deaths are reported within 10 days. Prior to July 22, we do not explicitly incorporate this reporting delay. But starting July 22, we began to include this delay in our modeling. We assume that ~50% of deaths are reported within 5 days and ~80% of deaths are reported within 10 days.
+* *Reporting delay*: There is a delay between when a death occurs and when it is reported to the local/state health department. This delay can range anywhere from 1 day to over 30 days, although the vast majority of deaths are reported within 10 days. Prior to July 22, 2020, we do not explicitly incorporate this reporting delay. But starting July 22, 2020, we began to include this delay in our modeling. We assume that ~50% of deaths are reported within 5 days and ~80% of deaths are reported within 10 days.
 
 * *End date*: We are only making projections for a few weeks to a few months ahead, but this does not mean that the epidemic will stop afterwards. Deaths will continue to rise even after we stop making projections.
 
@@ -435,7 +435,7 @@ While we attempt to predict the official death total, the true death total will 
 
 * *International projections*: Our model was created and optimized for the United States. We include our projections for over 70 countries, but we want to caution that the model was not optimized for international countries. So if you plan on citing our model's international projections, please be sure to also consult each country's health experts.
 
-* *Affecting the future*: Our projections are not set in stone and do not exist in a vacuum. If everyone saw our projections and heeded the advice of experts to continuously practice social distancing, the infections and deaths will decrease over time, leading to a final tally that is lower than our projection. That does not mean that our projection were "wrong". In fact, our greatest hope is the scenario described above where we can help prevent future infections and deaths, causing our projections to be an overestimate. For example, a early March [Imperial College study](https://www.nytimes.com/2020/03/17/world/europe/coronavirus-imperial-college-johnson.html) estimated that 2.2 million people would die in the US if mitigations were not implemented. This helped lead to a wave of lockdowns and stay-at-home orders, thereby significantly reducing deaths. That does not mean that the Imperial College study was "wrong" - their study helped shape the outcome of the future.
+* *Affecting the future*: Our projections are not set in stone and do not exist in a vacuum. If everyone saw our projections and heeded the advice of experts to continuously practice social distancing, the infections and deaths will decrease over time, leading to a final tally that is lower than our projection. That does not mean that our projection were "wrong". In fact, our greatest hope is the scenario described above where we can help prevent future infections and deaths, causing our projections to be an overestimate. For example, a early March 2020 [Imperial College study](https://www.nytimes.com/2020/03/17/world/europe/coronavirus-imperial-college-johnson.html) estimated that 2.2 million people would die in the US if mitigations were not implemented. This helped lead to a wave of lockdowns and stay-at-home orders, thereby significantly reducing deaths. That does not mean that the Imperial College study was "wrong" - their study helped shape the outcome of the future.
 
 While we attempt our best to ensure accuracy and precision, no model is perfect, so we urge everyone to use caution when interpreting these projections. This is just one particular model, so we encourage everyone to evaluate and be open to multiple sources. At the end of the day, the decision-making rests in the hands of people, not machines.
 
@@ -443,7 +443,7 @@ While we attempt our best to ensure accuracy and precision, no model is perfect,
 
 ## Concerns with the IHME model
 
-In this section we will compare our projections with a popular model developed by the [Institute for Health Metrics and Evaluation (IHME)](https://covid19.healthdata.org/) and commonly referred to by the White House and media.
+In this section we will compare our projections with a popular model developed by the [Institute for Health Metrics and Evaluation (IHME)](https://covid19.healthdata.org/) and commonly referred to by the White House and media. We also share some of our original concerns with the model that partially inspired us to create our own.
 
 We present a series of Tweets highlighting the issues with the IHME model:
 
@@ -471,7 +471,7 @@ In the words of Ruth Etzioni, an epidemiologist at Seattle’s Fred Hutchinson C
 
 ### Baseline Comparison: C19Pro vs IHME
 
-If on June 1, you simply assume each state/country's average daily deaths from the week before will be unchanged for the next 4 weeks, you can make a better forecasts than IHME. This is equivalent to extending a straight line on the daily deaths plots.
+If on June 1, 2020, you simply assume each state/country's average daily deaths from the week before will be unchanged for the next 4 weeks, you can make a better forecasts than IHME. This is equivalent to extending a straight line on the daily deaths plots.
 
 ![Baseline comparison US](/assets/images/baseline_comparison_june27.png)
 
@@ -483,7 +483,7 @@ The pattern is similar for other dates as well. See our [open source evaluation]
 
 ### Late May Projections
 
-Below you can find some of our late May projections for 4 of the most heavily impacted states since reopening: Florida, California, Arizona, Texas.
+Below you can find some of our late May 2020 projections for 4 of the most heavily impacted states since reopening: Florida, California, Arizona, Texas.
 
 [Click here](/model-comparison-ihme) to view more plots of historical projections.
 
@@ -493,7 +493,7 @@ Below you can find some of our late May projections for 4 of the most heavily im
 
 ### Comparison of Data Sources
 
-Here is a comparison of the data sources we use in our model versus what IHME uses (from their [June 11 press release](http://www.healthdata.org/news-release/ihme-models-show-second-wave-covid-19-beginning-september-15-us)). More is not always better.
+Here is a comparison of the data sources we use in our model versus what IHME uses (from their [June 11, 2020 press release](http://www.healthdata.org/news-release/ihme-models-show-second-wave-covid-19-beginning-september-15-us)). More is not always better.
 
 | covid19-projections.com | IHME
 | --- | --- |
@@ -512,9 +512,9 @@ Here is a comparison of the data sources we use in our model versus what IHME us
 
 ### May 4 Revision
 
-On May 4, IHME completely overhauled their previous model and increased their projections from 72k to 132k US deaths by August. Whereas they were previously underprojecting, they are now overprojecting the month of May. At the time of their new update on May 4, there were 68,919 deaths in the US. They projected that there will be 17,201 deaths in the week ending on May 11. In fact, there were only 11,757 deaths. IHME overshot their 1-week projections by 43%. Meanwhile, we projected 10,676 deaths from May 4 through May 11, an error of less than 10%.
+On May 4, 2020, IHME completely overhauled their previous model and increased their projections from 72k to 132k US deaths by August 2020. Whereas they were previously underprojecting, they are now overprojecting the month of May. At the time of their new update on May 4, there were 68,919 deaths in the US. They projected that there will be 17,201 deaths in the week ending on May 11. In fact, there were only 11,757 deaths. IHME overshot their 1-week projections by 43%. Meanwhile, we projected 10,676 deaths from May 4 through May 11, an error of less than 10%.
 
-IHME went from severely underprojecting their estimates to now overprojecting their estimates, as you can see in the below comparison of May 4 projections. Furthermore, as recently as May 12, they were still projecting 0 deaths by August 4. Their model should not be relied on for accurate projections.
+IHME went from severely underprojecting their estimates to now overprojecting their estimates, as you can see in the below comparison of May 4, 2020 projections. Furthermore, as recently as May 12, they were still projecting 0 deaths by August 4. Their model should not be relied on for accurate projections.
 
 {% include iframe_ihme_may10.html %}
 
@@ -522,7 +522,7 @@ IHME went from severely underprojecting their estimates to now overprojecting th
 
 ### June 8 Revision
 
-On June 8, IHME again revised their model to show a more realistic August projection. Their August 4 projections has now increased from 0 (0-0) deaths in their May 10 projections to 550 (264-1203) deaths in their revised June 8 projections. As the saying goes, better late than never.
+On June 8, 2020, IHME again revised their model to show a more realistic August 2020 projection. Their projections for August 4 increased from 0 (0-0) deaths in their May 10 projections to 550 (264-1203) deaths in their revised June 8 projections.
 
 ![IHME May 10 projections](/assets/images/ihme_may10.png)
 ![IHME June 8 projections](/assets/images/ihme_jun8.png)
@@ -531,15 +531,15 @@ On June 8, IHME again revised their model to show a more realistic August projec
 
 ### June 10 Revision
 
-In their June 10 update, IHME is projecting deaths to decrease from June through August, and then increase from 400 deaths per day on September 1 to 1,000 deaths per day on October 1. Their [press release](http://www.healthdata.org/news-release/ihme-models-show-second-wave-covid-19-beginning-september-15-us) headline is titled: "IHME models show second wave of COVID-19 beginning September 15 in US". The cite back-to-school and "pneumonia seasonality" as reasons for this fall spike.
+In their June 10, 2020 update, IHME is projecting deaths to decrease from June through August 2020, and then increase from 400 deaths per day on September 1 to 1,000 deaths per day on October 1. Their [press release](http://www.healthdata.org/news-release/ihme-models-show-second-wave-covid-19-beginning-september-15-us) headline is titled: "IHME models show second wave of COVID-19 beginning September 15 in US". They cite back-to-school and "pneumonia seasonality" as reasons for this fall spike.
 
-Unfortunately, is no scientific data that supports this claim. In reality, pneumonia/influenza deaths are actually the lowest in August and September, [according to the CDC](https://www.cdc.gov/flu/weekly/index.htm). The same pattern [holds true](https://wwwnc.cdc.gov/eid/article/9/5/02-0556_article) for bacterial pneumonia. Regarding back-to-school, schools in Europe have managed to successfully reopen with [no rise in cases](https://www.politico.com/news/2020/06/10/european-school-reopeningsreduce-virus-concerns-for-most-312595). Furthermore, children (age <18) account for [less than 2%](https://www.cdc.gov/mmwr/volumes/69/wr/mm6914e4.htm) of all reported COVID-19 cases. Hence, it makes little sense for deaths to decrease when all of America goes back to work, but for deaths to increase when children go back to school.
+Pneumonia/influenza deaths are actually the lowest in August and September, [according to the CDC](https://www.cdc.gov/flu/weekly/index.htm). The same pattern [holds true](https://wwwnc.cdc.gov/eid/article/9/5/02-0556_article) for bacterial pneumonia. Regarding back-to-school, schools in Europe have managed to successfully reopen with [no rise in cases](https://www.politico.com/news/2020/06/10/european-school-reopeningsreduce-virus-concerns-for-most-312595). Furthermore, children (age <18) account for [less than 2%](https://www.cdc.gov/mmwr/volumes/69/wr/mm6914e4.htm) of all reported COVID-19 cases. Hence, it makes little sense for deaths to decrease when all of America goes back to work, but for deaths to increase when children go back to school.
 
 [Back to Top](#top)
 
 ### Sample Summary of IHME Inaccurate Predictions
 
-In their April 15 projections, the death total that IHME projected will take *four months* to reach was in fact exceeded in *six days*:
+In their April 15, 2020 projections, the death total that IHME projected will take *four months* to reach was in fact exceeded in *six days*:
 
 |  | April 21 Total Deaths | IHME Aug proj. deaths from Apr 15 | Our Aug proj. deaths from Apr 15
 | --- | --- | --- | --- |
@@ -551,7 +551,7 @@ In their April 15 projections, the death total that IHME projected will take *fo
 | Spain | 21,282 | 18,713 | 31,854
 | France | 20,829 | 17,448 | 41,643
 
-As you can see above, their models made misguided projections for almost all of the worst impacted regions in the world. The most alarming thing is that they continue to make low projections. Below is their projections from April 21. All of the below projections were exceeded by May 2, just a mere 11 days later:
+As you can see above, their models made misguided projections for almost all of the worst impacted regions in the world. The most alarming thing is that they continue to make low projections. Below is their projections from April 21, 2020. All of the below projections were exceeded by May 2, just a mere 11 days later:
 
 |  | May 2 Total Deaths | IHME Aug proj. deaths from Apr 21 | Our Aug proj. deaths from Apr 21
 | --- | --- | --- | --- |
@@ -565,15 +565,15 @@ As you can see above, their models made misguided projections for almost all of 
 
 As scientists, we update our models as new data becomes available. Models are going to make wrong predictions, but it's important that we correct them as soon as new data shows otherwise. The problem with IHME is that they refused to recognize and update their wrong assumptions for many weeks. Throughout April, millions of Americans were falsely led to believe that the epidemic would be over by June because of IHME's projections.
 
-On April 30, the director of the IHME, Dr. Chris Murray, [appeared on CNN](https://www.cnn.com/videos/health/2020/05/01/entire-april-30-coronavirus-town-hall-part-3-sot-vpx.cnn) and continued to advocate their model's 72,000 deaths projection by August. On that day, the US reported 63,000 deaths, with 13,000 deaths coming from the previous week alone. Four days later, IHME nearly doubled their projections to 135,000 deaths by August. One week after Dr. Murray's CNN appearance, the US surpassed his 72,000 deaths by August estimate. It seems like an ill-advised decision to go on national television and proclaim 72,000 deaths by August only to double the projections a mere four days later.
+On April 30, 2020, the director of the IHME, Dr. Chris Murray, [appeared on CNN](https://www.cnn.com/videos/health/2020/05/01/entire-april-30-coronavirus-town-hall-part-3-sot-vpx.cnn) and continued to advocate their model's 72,000 deaths projection by August. On that day, the US reported 63,000 deaths, with 13,000 deaths coming from the previous week alone. Four days later, IHME nearly doubled their projections to 135,000 deaths by August. One week after Dr. Murray's CNN appearance, the US surpassed his 72,000 deaths by August estimate. It seems like an ill-advised decision to go on national television and proclaim 72,000 deaths by August only to double the projections a mere four days later.
 
-Unfortunately, by the time IHME revised their projections in May, millions of Americans have heard their 60,000-70,000 estimate. It may take a while to undo that misconception and undo the policies that were put in place as a result of this misleading estimate.
+Unfortunately, by the time IHME revised their projections in May 2020, millions of Americans have heard their 60,000-70,000 estimate. It may take a while to undo that misconception and undo the policies that were put in place as a result of this misleading estimate.
 
 [Back to Top](#top)
 
 ### US June-August
 
-As recently as May 3, IHME projected 304 (0-1644) **total** deaths in the US from June 1 to August 4, a span of two months. The US reported 768 deaths on June 1. So a single day's death total exceeded IHME's estimate for two months.
+As late as May 3, 2020, IHME projected 304 (0-1644) **total** deaths in the US from June 1 to August 4, a span of two months. The US reported 768 deaths on June 1. So a single day's death total exceeded IHME's estimate for two months.
 
 ### Update time
 
@@ -585,7 +585,7 @@ New data is extremely important when making projections such as these. That's wh
 
 ### Mobility Data
 
-On [April 17](http://www.healthdata.org/news-release/ihme-hold-media-briefing-4-pm-eastern-today-details-below), IHME stated that they are incorporating new cell phone mobility data which indicate that people have been properly practicing social distancing: *"These data suggest that mobility and presumably social contact have declined in certain states earlier than the organization’s modeling predicted, especially in the South."* As a result, IHME lowered their projections from 68k deaths to 60k deaths by August. Their critical flaw is that they assume a linear relationship between lower mobility and lower infection - this is not the case.
+On [April 17, 2020](http://www.healthdata.org/news-release/ihme-hold-media-briefing-4-pm-eastern-today-details-below), IHME stated that they are incorporating new cell phone mobility data which indicate that people have been properly practicing social distancing: *"These data suggest that mobility and presumably social contact have declined in certain states earlier than the organization’s modeling predicted, especially in the South."* As a result, IHME lowered their projections from 68k deaths to 60k deaths by August. Their critical flaw is that they assume a linear relationship between lower mobility and lower infection - this is not the case.
 
 Most transmissions do not happen with strangers, but rather close contacts. Even if you reduce your mobility by 90%, you do not reduce your transmission by 90%. The data from Italy shows that it only reduces by around 60%. That's the difference between 20k and 40k+ deaths. IHME was likely making the wrong assumption that a 90% reduction in mobility will decrease transmission by 90%. [Here](https://twitter.com/mugecevik/status/1257392347010215947) is a compilation from infectious disease expert Dr. Muge Cevik showing that household contacts were the most likely to be infected.
 
@@ -597,9 +597,9 @@ Interestingly, after IHME suddenly revised their projections from 72k to 130k on
 
 ### State Reopening Timeline
 
-In their [April 17](http://www.healthdata.org/sites/default/files/files/Projects/COVID/Estimation_update_041720.pdf) press release, IHME released estimates of when they believe each state will have a prevalence of fewer than 1 case per 1 million. They noted that 35 states will reach under 1 prevalent infection per 1 million before June 8, and that *"states such as Louisiana, Michigan, and Washington, may fall below the 1 prevalent infection per 1,000,000 threshold around mid-May."*
+In their [April 17, 2020](http://www.healthdata.org/sites/default/files/files/Projects/COVID/Estimation_update_041720.pdf) press release, IHME released estimates of when they believe each state will have a prevalence of fewer than 1 case per 1 million. They noted that 35 states will reach under 1 prevalent infection per 1 million before June 8, and that *"states such as Louisiana, Michigan, and Washington, may fall below the 1 prevalent infection per 1,000,000 threshold around mid-May."*
 
-As of May 15, Louisiana, Michigan, and Washington are reporting 30-90 confirmed cases per million *each day*. Furthermore, prevalent infections are 5-15x higher than reported cases since most cases are mild and thus not tested/reported. As a result, we estimate [Louisiana](/us-la) and [Michigan](/us-mi) to have around 7,000 prevalent infections per million, which is **7,000 times higher** than IHME's April 17 estimates. An analysis for many of the remaining states show a similar high degree of error. Hence, IHME's estimates have been off by a factor of more than *3 orders of magnitude*.
+As of May 15, 2020, Louisiana, Michigan, and Washington are reporting 30-90 confirmed cases per million *each day*. Furthermore, prevalent infections are 5-15x higher than reported cases since most cases are mild and thus not tested/reported. As a result, we estimate [Louisiana](/us-la) and [Michigan](/us-mi) to have around 7,000 prevalent infections per million, which is **7,000 times higher** than IHME's April 17 estimates. An analysis for many of the remaining states show a similar high degree of error. Hence, IHME's estimates have been off by a factor of more than *3 orders of magnitude*.
 
 Unfortunately, it is likely that many individuals and policy-makers used IHME's misguided reopening timelines to shape decisions with regards to reopening. Their reopening timelines were picked up and widely disseminated by [many media outlets](http://www.google.com/search?q=ihme+reopening+timeline), both local and national. Any policies guided by these estimates can have repercussions weeks and months down the road.
 
@@ -607,9 +607,7 @@ Unfortunately, it is likely that many individuals and policy-makers used IHME's 
 
 ### Technical Flaw
 
-*May 4 Update: IHME completely overhauled their previous model to now use an SEIR model. Our model is based in SEIR and that has not changed since we first began making projections on April 1.*
-
-On top of everything we mentioned above, their model is also inherently flawed from a mathematical perspective. They try to model COVID-19 infections using a [Gaussian error function](https://en.wikipedia.org/wiki/Error_function). The problem is that the Gaussian error function is by design *symmetric*, meaning that the curve comes down from the peak at the same rate as it goes up. Unfortunately, this has not been the case for COVID-19: we come down from the peak at a much slower pace. This leads to a significant under-projection in IHME's model, which we have thoroughly highlighted. University of Washington biology professor Dr. Carl T. Bergostrom discussed this in more detail in this highly informative [series of Tweets](https://twitter.com/CT_Bergstrom/status/1250304069119275009).
+Prior to their May 4, 2020 complete overhaul of their model, the IHME model was also inherently flawed from a mathematical perspective. They try to model COVID-19 infections using a [Gaussian error function](https://en.wikipedia.org/wiki/Error_function). The problem is that the Gaussian error function is by design *symmetric*, meaning that the curve comes down from the peak at the same rate as it goes up. Unfortunately, this has not been the case for COVID-19: we come down from the peak at a much slower pace. This leads to a significant under-projection in IHME's model, which we have thoroughly highlighted. University of Washington Professor Carl T. Bergstrom discussed this in more detail in this highly informative [series of Tweets](https://twitter.com/CT_Bergstrom/status/1250304069119275009).
 
 [Click here](#historical-us-projections) to see how our projections have changed over time, compared with the IHME model. For a comparison of April projections for several heavily-impacted states and countries, [click here](/model-comparison-ihme).
 
