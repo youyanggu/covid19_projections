@@ -20,7 +20,7 @@ This page contains links to every page on *covid19-projections.com* (excluding i
 
 ### Death Forecasts Model
 
-This model was active from April 2020 to November 2020.
+This model was active from April 2020 to October 2020.
 
 * [View Projections](/#view-projections)
 * [About the Model](/about/#table-of-contents-death-forecasting-model)
