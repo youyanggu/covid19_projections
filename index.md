@@ -18,6 +18,7 @@ Jump to section:
 
 For regular updates and insights, follow Youyang Gu on Twitter:&nbsp; <a href="https://twitter.com/youyanggu" class="twitter-follow-button" data-show-count="false">@youyanggu</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+* **June 22:** See [our thread](https://twitter.com/youyanggu/status/1407418434955005955) on the single best predictor of total COVID-19 deaths by state: income inequality.
 * **May 25:** Is containing COVID-19 a requirement for preserving the economy? Our latest analysis suggests: [probably not](https://twitter.com/youyanggu/status/1397230156301930497).
 * **May 13:** See our [analysis](https://twitter.com/youyanggu/status/1392901207811887104) on estimating current excess deaths in the US.
 * **May 11:** See our [analysis](https://twitter.com/youyanggu/status/1392179091839848448) comparing states that kept vs dropped mask mandates.
