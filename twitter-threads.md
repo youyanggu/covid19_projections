@@ -6,7 +6,7 @@ permalink: /twitter-threads/
 
 ## Twitter Threads
 
-*Last Updated: May 27, 2021*
+*Last Updated: June 22, 2021*
 
 This page contains a comprehensive list of Twitter threads by Youyang Gu ([@youyanggu](https://twitter.com/youyanggu)) that are related to COVID-19. Due to the fast-paced environment of COVID-19 developments and the site's limited team (of one), Twitter is Youyang's preferred method of posting announcements, sharing results and fasciliating discussion. Below is a comprehensive list of our Tweets since the beginning of the pandemic.
 
@@ -29,6 +29,7 @@ Dates **in bold** indicates threads that Youyang personally recommends reading.
 
 ### Original Research
 
+[**June 22, 2021**](https://twitter.com/youyanggu/status/1407418434955005955) - Income inequality: the single best predictor of total COVID-19 deaths<br>
 [**May 25, 2021**](https://twitter.com/youyanggu/status/1397230156301930497) - COVID-19 vs economy and the role of interventions<br>
 [May 19, 2021](https://twitter.com/youyanggu/status/1395061024987009028) / [June 13, 2020](https://twitter.com/youyanggu/status/1271945547176226816) - Subway ridership analysis<br>
 [May 13, 2021](https://twitter.com/youyanggu/status/1392901207811887104) - Excess deaths analysis<br>
