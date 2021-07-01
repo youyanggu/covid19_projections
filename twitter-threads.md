@@ -6,7 +6,7 @@ permalink: /twitter-threads/
 
 ## Twitter Threads
 
-*Last Updated: June 22, 2021*
+*Last Updated: July 1, 2021*
 
 This page contains a comprehensive list of Twitter threads by Youyang Gu ([@youyanggu](https://twitter.com/youyanggu)) that are related to COVID-19. Due to the fast-paced environment of COVID-19 developments and the site's limited team (of one), Twitter is Youyang's preferred method of posting announcements, sharing results and fasciliating discussion. Below is a comprehensive list of our Tweets since the beginning of the pandemic.
 
@@ -29,6 +29,7 @@ Dates **in bold** indicates threads that Youyang personally recommends reading.
 
 ### Original Research
 
+[**June 30, 2021**](https://twitter.com/youyanggu/status/1410264061900726283) - Population Immunity Calculator
 [**June 22, 2021**](https://twitter.com/youyanggu/status/1407418434955005955) - Income inequality: the single best predictor of total COVID-19 deaths<br>
 [**May 25, 2021**](https://twitter.com/youyanggu/status/1397230156301930497) - COVID-19 vs economy and the role of interventions<br>
 [May 19, 2021](https://twitter.com/youyanggu/status/1395061024987009028) / [June 13, 2020](https://twitter.com/youyanggu/status/1271945547176226816) - Subway ridership analysis<br>
@@ -61,11 +62,12 @@ Dates **in bold** indicates threads that Youyang personally recommends reading.
 
 ### Miscellaneous
 
+[**July 1, 2021**](https://twitter.com/youyanggu/status/1410662881591451648) - Model performance - 4 months later<br>
 [May 27, 2021](https://twitter.com/youyanggu/status/1398040830892466176) - Europe vs US: jumping to conclusions<br>
 [May 27, 2021](https://twitter.com/youyanggu/status/1397994219114008582) - Assymmetry in reporting on restrictions<br>
 [**May 20, 2021**](https://twitter.com/youyanggu/status/1395444571757219840) - Vaccine hesitancy driven by socioeconomic inequity<br>
 [May 13, 2021](https://twitter.com/youyanggu/status/1392931979616788480) - CDC's return to normal guidance<br>
-[**April 28, 2021**](https://twitter.com/youyanggu/status/1387429826496237571) - Model performance 6 weeks later<br>
+[April 28, 2021](https://twitter.com/youyanggu/status/1387429826496237571) - Model performance 6 weeks later<br>
 [April 27, 2021](https://twitter.com/youyanggu/status/1387076342454362112) - 6 lessons learned with MIT Technology Review<br>
 [**March 11, 2021**](https://twitter.com/youyanggu/status/1370067926703767553) - Equity in vaccination distribution<br>
 [March 10, 2021](https://twitter.com/youyanggu/status/1369850453060558849) - Clarifications of CDC mask mandate study<br>
