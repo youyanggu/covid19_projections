@@ -10,7 +10,7 @@ By: [Youyang Gu](https://youyanggu.com)
 
 With the availability of the COVID-19 vaccine, we present our best estimate of the path to COVID-19 herd immunity / normality in the United States. Immunity against the SARS-CoV-2 virus comes from two sources: vaccination and natural infection. On this page, we provide the latest COVID-19 vaccine projections and current vaccination progress.
 
-**June 24 Update:** See our new [COVID-19 Population Immunity Calculator](https://docs.google.com/spreadsheets/d/1w_yOnW7bz7LI3YYANJ0okB6XvI7niwSv-_BKSSyfq-k/edit). This calculator estimates the true proportion of a population that have immunity against COVID-19, factoring both immunity from vaccination and natural infection. This is the basis for the computation of total immunity in this model.
+**June 24 Note:** See our new [COVID-19 Population Immunity Calculator](https://docs.google.com/spreadsheets/d/1w_yOnW7bz7LI3YYANJ0okB6XvI7niwSv-_BKSSyfq-k/edit). This calculator estimates the true proportion of a population that have immunity against COVID-19, factoring both immunity from vaccination and natural infection. This is the basis for the computation of total immunity in this model.
 
 **April 26 Update:** Scroll down or [click here](#comparison-projected-vs-actual) to see a comparison of our last projections from March 5 to what actually happened.
 
@@ -36,7 +36,7 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 
 ## Comparison: Projected vs Actual
 
-**\*New April 26\*** Below is a comparison of our last model update on March 5, 2021 with what happened since. Our vaccination numbers come from the [CDC](https://covid.cdc.gov/covid-data-tracker/#vaccination-trends), while infection estimates comes from applying a [multiplier](/estimating-true-infections-revisited/#prevalence-ratio) to [JHU CSSE](https://coronavirus.jhu.edu/) cases data.
+Below is a comparison of our last model update on March 5, 2021 with what happened since. Our vaccination numbers come from the [CDC](https://covid.cdc.gov/covid-data-tracker/#vaccination-trends), while infection estimates comes from applying a [multiplier](/estimating-true-infections-revisited/#prevalence-ratio) to [JHU CSSE](https://coronavirus.jhu.edu/) cases data.
 {% include_relative comparison-last-updated.md %}
 {% include iframe_path_to_normality_comparison.html %}
 
@@ -83,32 +83,8 @@ We define "normality" as the removal of *all* restrictions for the *majority* of
 [Back to Top](#top)
 
 ## Relevant Twitter Threads
-### News / Findings / Thoughts
 
-- [Initial release](https://twitter.com/youyanggu/status/1337147909955964929) - Dec 10
-- [Potential ways to speed up herd immunity](https://twitter.com/youyanggu/status/1337506967095369728) - Dec 11
-- [Vaccine side effects](https://twitter.com/youyanggu/status/1338587017966284800) - Dec 14
-- [Vaccine misinformation](https://twitter.com/youyanggu/status/1338952594492813312) - Dec 15
-- [Vaccination rollout](https://twitter.com/youyanggu/status/1343675401436971008) - Dec 28
-- [CDC data error](https://twitter.com/youyanggu/status/1349817775909269505) - Jan 14
-- [State-by-state vaccination progress](https://twitter.com/youyanggu/status/1352720306108919809) - Jan 22
-- [Over-emphasis on herd immunity](https://twitter.com/youyanggu/status/1359941463757516802) - Feb 11
-- [Misconceptions around variants](https://twitter.com/youyanggu/status/1362476060907077636) - Feb 18
-- [CDC methodology change](https://twitter.com/youyanggu/status/1363618681142575105) - Feb 21
-- [NYT model unrealistic assumptions](https://twitter.com/youyanggu/status/1364274753851305984) - Feb 23
-- [Return to normal by summer?](https://twitter.com/youyanggu/status/1364627872233750543) - Feb 24
-- [Equitable vaccine distribution](https://twitter.com/youyanggu/status/1370067926703767553) - Mar 11
-
-### Weekly Updates
-
-- [Jan 11 Update](https://twitter.com/youyanggu/status/1348723790017007617) - Jan 11
-- [Jan 20 Update](https://twitter.com/youyanggu/status/1352008093652066304) - Jan 20
-- [Jan 27 Update](https://twitter.com/youyanggu/status/1354488024726290439) - Jan 27
-- [Feb 3 Update](https://twitter.com/youyanggu/status/1357045475526991873) - Feb 3
-- [Feb 10 Update](https://twitter.com/youyanggu/status/1359599383105466369) - Feb 10
-- [Feb 16 Update](https://twitter.com/youyanggu/status/1361847534562467841) - Feb 16
-- [Feb 25 Update](https://twitter.com/youyanggu/status/1365005143813537797) - Feb 25
-- [Mar 3 Update](https://twitter.com/youyanggu/status/1367202710471249920) - Mar 3
+See our [Twitter Threads](/twitter-threads) page.
 
 [Back to Top](#top)
 
