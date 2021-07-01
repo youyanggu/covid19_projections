@@ -29,7 +29,7 @@ Dates **in bold** indicates threads that Youyang personally recommends reading.
 
 ### Original Research
 
-[**June 30, 2021**](https://twitter.com/youyanggu/status/1410264061900726283) - Population Immunity Calculator
+[**June 30, 2021**](https://twitter.com/youyanggu/status/1410264061900726283) - Population Immunity Calculator<br>
 [**June 22, 2021**](https://twitter.com/youyanggu/status/1407418434955005955) - Income inequality: the single best predictor of total COVID-19 deaths<br>
 [**May 25, 2021**](https://twitter.com/youyanggu/status/1397230156301930497) - COVID-19 vs economy and the role of interventions<br>
 [May 19, 2021](https://twitter.com/youyanggu/status/1395061024987009028) / [June 13, 2020](https://twitter.com/youyanggu/status/1271945547176226816) - Subway ridership analysis<br>
