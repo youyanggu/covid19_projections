@@ -19,7 +19,7 @@ Jump to section:
 For regular updates and insights, follow Youyang Gu on Twitter:&nbsp; <a href="https://twitter.com/youyanggu" class="twitter-follow-button" data-show-count="false">@youyanggu</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 * **July 1:** See the accuracy of our model - [4 months later](https://twitter.com/youyanggu/status/1410662881591451648).
-* **June 24:** See our new [COVID-19 Population Immunity Calculator](https://docs.google.com/spreadsheets/d/1w_yOnW7bz7LI3YYANJ0okB6XvI7niwSv-_BKSSyfq-k/edit). This calculator estimates the true proportion of a population that have immunity against COVID-19, factoring both immunity from vaccination and natural infection.
+* **June 24:** See our new [COVID-19 Population Immunity Calculator](https://coda.io/@youyanggu/covid-19-population-immunity-calculator). This calculator estimates the true proportion of a population that have immunity against COVID-19, factoring both immunity from vaccination and natural infection.
 * **June 22:** See [our thread](https://twitter.com/youyanggu/status/1407418434955005955) on the single best predictor of total COVID-19 deaths by state: income inequality.
 * **May 25:** Is containing COVID-19 a requirement for preserving the economy? Our latest analysis suggests: [probably not](https://twitter.com/youyanggu/status/1397230156301930497).
 * **May 13:** See our [analysis](https://twitter.com/youyanggu/status/1392901207811887104) on estimating current excess deaths in the US.
