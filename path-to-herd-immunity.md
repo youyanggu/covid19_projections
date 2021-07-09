@@ -10,7 +10,7 @@ By: [Youyang Gu](https://youyanggu.com)
 
 With the availability of the COVID-19 vaccine, we present our best estimate of the path to COVID-19 herd immunity / normality in the United States. Immunity against the SARS-CoV-2 virus comes from two sources: vaccination and natural infection. On this page, we provide the latest COVID-19 vaccine projections and current vaccination progress.
 
-**June 24 Note:** See our new [COVID-19 Population Immunity Calculator](https://docs.google.com/spreadsheets/d/1w_yOnW7bz7LI3YYANJ0okB6XvI7niwSv-_BKSSyfq-k/edit). This calculator estimates the true proportion of a population that have immunity against COVID-19, factoring both immunity from vaccination and natural infection. This is the basis for the computation of total immunity in this model.
+**June 24 Note:** See our new [COVID-19 Population Immunity Calculator](https://coda.io/@youyanggu/covid-19-population-immunity-calculator). This calculator estimates the true proportion of a population that have immunity against COVID-19, factoring both immunity from vaccination and natural infection. This is the basis for the computation of total immunity in this model.
 
 **April 26 Update:** Scroll down or [click here](#comparison-projected-vs-actual) to see a comparison of our last projections from March 5 to what actually happened.
 
