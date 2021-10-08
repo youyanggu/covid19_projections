@@ -18,7 +18,7 @@ Jump to section:
 
 For regular updates and insights, follow Youyang Gu on Twitter:&nbsp; <a href="https://twitter.com/youyanggu" class="twitter-follow-button" data-show-count="false">@youyanggu</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-* **October 1:** See Youyang's latest [blog post] on the role of inequality in Covid outcomes.
+* **October 1:** See Youyang's latest [blog post](https://youyanggu.com/blog/highlighting-inequality) on the role of inequality in Covid outcomes.
 * **July 1:** See the accuracy of our vaccinations projections [4 months later](https://twitter.com/youyanggu/status/1410662881591451648).
 * **June 24:** See our new [COVID-19 Population Immunity Calculator](https://coda.io/@youyanggu/covid-19-population-immunity-calculator). This calculator estimates the true proportion of a population that have immunity against COVID-19, factoring both immunity from vaccination and natural infection.
 * **June 22:** See [our thread](https://twitter.com/youyanggu/status/1407418434955005955) on the single best predictor of total COVID-19 deaths by state: income inequality.
