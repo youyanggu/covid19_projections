@@ -36,7 +36,7 @@ With the availability of the COVID-19 vaccine, we present our best estimate of t
 
 ## Comparison: Projected vs Actual
 
-Below is a comparison of our last model update on March 5, 2021 with what happened since. Our vaccination numbers come from the [CDC](https://covid.cdc.gov/covid-data-tracker/#vaccination-trends), while infection estimates comes from applying a [multiplier](/estimating-true-infections-revisited/#prevalence-ratio) to [JHU CSSE](https://coronavirus.jhu.edu/) cases data.
+Below is a comparison of our last vaccination projection on March 5, 2021 with what happened since. Our vaccination numbers come from the [CDC](https://covid.cdc.gov/covid-data-tracker/#vaccination-trends). You can download our final vaccinations projections [here](https://github.com/youyanggu/covid19-datasets/blob/main/final_vaccination_projections_2021-03-05.csv). We initially also included a comparison of true infections, but due to the rise of the Delta variant, our original methodology for estimating true infections by applying a [prevalence ratio](/estimating-true-infections-revisited/#prevalence-ratio) is no longer applicable.
 {% include_relative comparison-last-updated.md %}
 {% include iframe_path_to_normality_comparison.html %}
 
@@ -107,6 +107,8 @@ See our [Twitter Threads](/twitter-threads) page.
 We use vaccination data from the [Centers for Disease Control and Prevention (CDC)](https://covid.cdc.gov/covid-data-tracker/#vaccinations). We upload the raw and adjusted CDC vaccination time series datafor download [on GitHub](https://github.com/youyanggu/covid19-cdc-vaccination-data). It contains daily CDC vaccination updates since they started releasing data on Dec 20, 2020.
 
 While we release daily [past infections estimates](https://github.com/youyanggu/covid19-infection-estimates-latest) for every state and county, we are currently not releasing our vaccination and infections forecasts. This is due to 1) the limitations and noisiness in the existing data 2) the high degree of uncertainty for the future and 3) the reliance on numerous assumptions (outlined below). As a result, we believe these projections are best suited to be viewed in the context of everything outlined on this page, and should best not be used independently. Without all the necessary context/assumptions, the results can easily be misinterpreted.
+
+You can download our final vaccinations projections from March 5, 2021 [here](https://github.com/youyanggu/covid19-datasets/blob/main/final_vaccination_projections_2021-03-05.csv).
 
 [Back to Top](#top)
 
