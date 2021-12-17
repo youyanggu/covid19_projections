@@ -3,9 +3,9 @@ layout: default
 title: COVID-19 Projections Using Machine Learning
 permalink: /
 ---
-## Announcement: We made our last daily update on March 7, 2021. Read more [here](https://youyanggu.com/blog/one-year-later).
+## Announcement: We made our last daily update on March 7, 2021 ([blog post](https://youyanggu.com/blog/one-year-later)). To learn more about Youyang's current work on Covid inequality, [click here](https://youyanggu.com/blog/highlighting-inequality).
 
-We present a new, simple nowcasting model that estimates true infections in the US. We have estimates for all US states and all 3,000+ US counties. For our projections for the upcoming months, see our [**Path to Normality**](/path-to-herd-immunity) page.
+We present a new, simple nowcasting model that estimates true infections in the US. We have estimates for all US states and all 3,000+ US counties. For vaccination projections in early 2021, see our [Path to Normality](/path-to-herd-immunity) page. Visit our [About](/about) page to learn more about the different models.
 
 ### For our historical maps, including county-level views, visit the [Maps](/maps-infections) page.
 
