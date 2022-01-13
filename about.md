@@ -10,9 +10,9 @@ During the one-year period when the site was actively updated (April 2020 to Mar
 
 | Model Type | Time Frame | Updates | Countries | US States | US Counties |
 | ---------- | ---------- | ---------------- | --------- | --------- | ----------- |
-| [*Death Forecasts*](/#view-projections) | April 2020 - October 2020 | Daily | 71 countries | 50 + DC/territories | 34 counties |
-| [*Infections Estimates*](/#view-us-infections-estimates) | November 2020 - March 2021 | Daily | US | 50 + DC/territories | 3000+ counties |
-| [*Vaccination Projections*](/path-to-herd-immunity) | December 2020 - March 2021 | 3-4x per week | US nationwide | --- | --- |
+| [Death Forecasts](/#view-projections) *([Details](/model-details))* | Apr 2020 - Oct 2020 | Daily | 71 countries | 50 + DC/territories | 34 counties |
+| [Infections Estimates](/#view-us-infections-estimates) *([Methodology](/estimating-true-infections-revisited))* | Nov 2020 - Mar 2021 | Daily | US | 50 + DC/territories | 3000+ counties |
+| [Vaccination Projections](/path-to-herd-immunity) | Dec 2020 - Mar 2021 | 3-4x per week | US nationwide | --- | --- |
 
 For an overview of all the pages on this site, see our [Site Map](/sitemap).
 
@@ -50,7 +50,7 @@ During the fall and winter wave in 2020/2021, *covid19-projections.com* featured
 
 For this iteration of the model, we are nowcasting (what has happened/is happening) rather than forecasting (what will happen). Estimates are generated using only confirmed cases and testing data from [The COVID Tracking Project](https://covidtracking.com/). We compute a multiplier based on the date and test positivity rate. For example, in April 2020, a 10% positivity rate corresponds to roughly a 7x multiplier, meaning that for every confirmed case there are 6 undetected infections. By early 2021, since testing has been greatly expanded over the past year, a 10% test positivity rate corresponds to roughly a 2-3x multiplier (for every confirmed case there are 1-2 undetected infections). After we computed the multiplier, we apply it to the number of daily cases to get an estimate of the true number of daily infections (with a 2 week lag). For county-level infections estimates, we use county case data from [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19).
 
-For more details, see our methodology writeup: [*Estimating True Infections Revisited*](/estimating-true-infections-revisited/).
+For more details, see our methodology writeup: [*Estimating True Infections*](/estimating-true-infections-revisited/).
 
 You can download all of our estimates [here](https://github.com/youyanggu/covid19-infection-estimates-latest).
 
@@ -97,6 +97,8 @@ This is our original model that we started at the beginning of the pandemic in 2
 
 ## About the Model
 
+For an in-depth description of our death forecasting model, visit [Model Details](/model-details/).
+
 Our COVID-19 death forecast model adds the power of artificial intelligence on top of a classic infectious disease model. We developed a simulator based on the [SEIR model](http://leonidzhukov.net/hse/2014/socialnetworks/papers/2000SiamRev.pdf) ([Wikipedia](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology#The_SEIR_model)) to simulate the COVID-19 epidemic in each region. The parameters/inputs of this simulator are then learned using machine learning techniques that attempts to minimize the error between the projected outputs and the actual results. We utilize daily deaths data reported by each region to forecast future reported deaths. After some additional validation techniques (to minimize a phenomenon called overfitting), we use the learned parameters to simulate the future and make projections.
 
 Our SEIR model is [open source](https://github.com/youyanggu/yyg-seir-simulator). Our projections are uploaded daily [onto GitHub](https://github.com/youyanggu/covid19_projections/tree/master/projections). Everything is written in Python 3, and [plotly](https://plotly.com/) is used for plotting. This website is hosted using [GitHub Pages](https://pages.github.com/).
@@ -110,7 +112,7 @@ You can also directly access our [US](/#view-projections) and [global](/#global-
 ### Additional Links
 
 * [Model Details](/model-details/) - More in-depth description of how our model works.
-* [Estimating True Infections](/estimating-true-infections) - Our findings regarding the relationship between true infections, reported cases, test positivity rate, and infection fatality rate for COVID-19.
+* [Estimating True Infections](/estimating-true-infections-revisited) - Our findings regarding the relationship between true infections, reported cases, test positivity rate, and infection fatality rate for COVID-19.
 * [Youyang Gu August 13, 2020 Talk](https://www.youtube.com/watch?v=f88bYflJYEo) - Presentation from Youyang Gu about the model
 
 ## Who We Are
@@ -311,7 +313,7 @@ As of June 1, 2020, our model no longer assumes a second lockdown.
 
 After the initial ramp-up period of a reopening (1-2 months), we assume that the spread will decrease over time due to improvements in contact tracing, increased mask wearing, greater awareness within the population, and increased population immunity. In the initial stages of the reopening, this phenomenon will likely be dwarfed by the act of the reopening itself, hence leading to a plateau or increase in cases. But after the rate of reopening for a region has plateaued 1-2 months later, we expect to see a gradual decline in transmission and hence a decline in infections and deaths. Of course, this assumption is highly subject to change based on the data.
 
-Looking at the data, we noticed that as various states reach 10-35% prevalence, infections begin to slow down, despite no significant interventions. This seem to suggest that the effective herd immunity threshold under the current conditions of social distancing and intervention measures may be lower than the 60-80% values previous reported in March/April. Nevertheless, it's important to note that transmission does not stop once HIT is reached - it simply slows down. See our write-up, [Estimating True Infections](https://covid19-projections.com/estimating-true-infections), for a more in-depth analysis on this topic.
+Looking at the data, we noticed that as various states reach 10-35% prevalence, infections begin to slow down, despite no significant interventions. This seem to suggest that the effective herd immunity threshold under the current conditions of social distancing and intervention measures may be lower than the 60-80% values previous reported in March/April. Nevertheless, it's important to note that transmission does not stop once HIT is reached - it simply slows down. See our write-up, [Estimating True Infections](/estimating-true-infections-revisited), for a more in-depth analysis on this topic.
 
 Starting on July 22, 2020, we use two logistic (sigmoid) functions to approximate the R_t curve from the reopening. We use two parameters, the maximum reopen R_t and the inflection rate to determine the shape. These two parameters are then learned by our machine learning layer based on the data. You can learn more by looking at our [open-source code](https://github.com/youyanggu/yyg-seir-simulator/blob/master/README.md#REOPEN_INFLECTION).
 
