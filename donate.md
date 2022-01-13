@@ -5,7 +5,7 @@ permalink: /donate/
 ---
 ## Help support an unbiased, rigorous, data-driven approach to COVID-19
 
-### **February 2021 Update:** Thank you for your interest in donating to my project. I am very grateful to have reached my fundraising goal - we had over 600 donors! If you are still interested in donating, I kindly request that you consider a donation to your [local food bank](https://www.feedingamerica.org/find-your-local-foodbank), [GiveDirectly](https://www.givedirectly.org/), or [Stop Asian Hate](https://donate.givedirect.org/?cid=14711).
+### **February 2021 Update:** Thank you for your interest in donating to my project. I am very grateful to have reached my fundraising goal - we raised $50k from over 600 donors! If you are still interested in donating, I kindly request that you consider a donation to your [local food bank](https://www.feedingamerica.org/find-your-local-foodbank), [GiveDirectly](https://www.givedirectly.org/), or [Stop Asian Hate](https://donate.givedirect.org/?cid=14711).
 
 *covid19-projections.com* is entirely built and run by myself, [Youyang Gu](https://youyanggu.com). Since April, I have volunteered thousands of hours of my time to making sure that people have the best data and model possible to make informed decisions.
 
