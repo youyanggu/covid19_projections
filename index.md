@@ -18,18 +18,18 @@ Jump to section:
 
 For regular updates and insights, follow Youyang Gu on Twitter:&nbsp; <a href="https://twitter.com/youyanggu" class="twitter-follow-button" data-show-count="false">@youyanggu</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-* **October 1:** See Youyang's latest [blog post](https://youyanggu.com/blog/highlighting-inequality) on the role of inequality in Covid outcomes.
-* **October:** We believe the current vaccine efficacy is currently around 50-60% against symptomatic infection. See [our calculations](https://docs.google.com/spreadsheets/d/1cdcRQ0xqZ51Zuc8l1tDNm1IBiJo21oIuucJObM0a-PE/edit?usp=sharing) based on LA County data.
-* **July 1:** See the accuracy of our vaccinations projections [4 months later](https://twitter.com/youyanggu/status/1410662881591451648).
-* **June 24:** See our new [COVID-19 Population Immunity Calculator](https://coda.io/@youyanggu/covid-19-population-immunity-calculator). This calculator estimates the true proportion of a population that have immunity against COVID-19, factoring both immunity from vaccination and natural infection.
-* **June 22:** See [our thread](https://twitter.com/youyanggu/status/1407418434955005955) on the single best predictor of total COVID-19 deaths by state: income inequality.
-* **May 25:** Is containing COVID-19 a requirement for preserving the economy? Our latest analysis suggests: [probably not](https://twitter.com/youyanggu/status/1397230156301930497).
-* **May 13:** See our [analysis](https://twitter.com/youyanggu/status/1392901207811887104) on estimating current excess deaths in the US.
-* **May 11:** See our [analysis](https://twitter.com/youyanggu/status/1392179091839848448) comparing states that kept vs dropped mask mandates.
+* **October 1, 2021:** See Youyang's latest [blog post](https://youyanggu.com/blog/highlighting-inequality) on the role of inequality in Covid outcomes.
+* **October, 2021:** We believe the current vaccine efficacy is currently around 50-60% against symptomatic infection. See [our calculations](https://docs.google.com/spreadsheets/d/1cdcRQ0xqZ51Zuc8l1tDNm1IBiJo21oIuucJObM0a-PE/edit?usp=sharing) based on LA County data.
+* **July 1, 2021:** See the accuracy of our vaccinations projections [4 months later](https://twitter.com/youyanggu/status/1410662881591451648).
+* **June 24, 2021:** See our new [COVID-19 Population Immunity Calculator](https://coda.io/@youyanggu/covid-19-population-immunity-calculator). This calculator estimates the true proportion of a population that have immunity against COVID-19, factoring both immunity from vaccination and natural infection.
+* **June 22, 2021:** See [our thread](https://twitter.com/youyanggu/status/1407418434955005955) on the single best predictor of total COVID-19 deaths by state: income inequality.
+* **May 25, 2021:** Is containing COVID-19 a requirement for preserving the economy? Our latest analysis suggests: [probably not](https://twitter.com/youyanggu/status/1397230156301930497).
+* **May 13, 2021:** See our [analysis](https://twitter.com/youyanggu/status/1392901207811887104) on estimating current excess deaths in the US.
+* **May 11, 2021:** See our [analysis](https://twitter.com/youyanggu/status/1392179091839848448) comparing states that kept vs dropped mask mandates.
 * *May is Asian American and Pacific Islander (AAPI) Heritage Month*. *Read [Youyang's Tweet](https://twitter.com/youyanggu/status/1394698562991181826) about COVID-19 and the model minority myth. See how [systemic racism](https://www.usatoday.com/in-depth/news/nation/2020/10/18/coronavirus-asian-americans-racism-death-rates-san-francisco/5799617002/) is driving high COVID-19 death rates in the Asian American community. Also learn about [rising Asian hate in America](https://www.nytimes.com/2021/03/18/nyregion/asian-hate-crimes.html) and how you can [help combat it](https://stopaapihate.org/).*
-* **April 26:** [Click here](/path-to-herd-immunity#comparison-projected-vs-actual) to see a comparison of our final vaccination/infection projections from March 5 to what actually happened.
-* **March 24:** We've been working on indexing our work from the past year. [Click here](/sitemap) to see a sitemap of all of the pages on this site. We also compiled a list of all of our COVID-19-related Tweets [here](/twitter-threads/). Over the past year, we have posted quite a bit of original research on Twitter, so feel feel to take a look and give them a read.
-* **March 8:** We made our last daily update on March 7 (containing infections estimates through February 21, 2021). Read Youyang Gu's [One Year Later](https://youyanggu.com/blog/one-year-later) blog post for a detailed explanation and for a list of alternate resources. Follow [@youyanggu](https://twitter.com/youyanggu) on Twitter for continued COVID-19 insights. Thank you for your support over the past year. See our downloadable data [on GitHub](https://github.com/youyanggu/covid19-infection-estimates-latest).
+* **April 26, 2021:** [Click here](/path-to-herd-immunity#comparison-projected-vs-actual) to see a comparison of our final vaccination/infection projections from March 5 to what actually happened.
+* **March 24, 2021:** We've been working on indexing our work from the past year. [Click here](/sitemap) to see a sitemap of all of the pages on this site. We also compiled a list of all of our COVID-19-related Tweets [here](/twitter-threads/). Over the past year, we have posted quite a bit of original research on Twitter, so feel feel to take a look and give them a read.
+* **March 8, 2021:** We made our last daily update on March 7 (containing infections estimates through February 21, 2021). Read Youyang Gu's [One Year Later](https://youyanggu.com/blog/one-year-later) blog post for a detailed explanation and for a list of alternate resources. Follow [@youyanggu](https://twitter.com/youyanggu) on Twitter for continued COVID-19 insights. Thank you for your support over the past year. See our downloadable data [on GitHub](https://github.com/youyanggu/covid19-infection-estimates-latest).
 
 See all of our past updates [here](/past-updates).
 
@@ -45,6 +45,8 @@ Our infections estimates include all infected individuals of the SARS-CoV-2 viru
 [Back to Top](#top)
 
 ## View US Infections Estimates
+
+**Note: We ended our infections estimates project on March 7, 2021. See our blog post [here](https://youyanggu.com/blog/one-year-later).**
 
 Below, we have infection and vaccination estimates for the US, all 50 states, DC, and 4 US territories. For county-level estimates, see the next section.
 
